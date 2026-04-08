@@ -1,7 +1,8 @@
-import type { Facility, NewsItem } from "../types";
+import type { Facility, NewsItem, ElectricityData } from "../types";
 import { SUB_REGION_SCORES } from "../data/scorecard-static";
 import CostCalculator from "./CostCalculator";
 import NewsSection from "./NewsSection";
+import ElectricitySection from "./ElectricitySection";
 
 const STATUS_LABEL: Record<string, string> = {
   operational: "Operational",
@@ -18,9 +19,10 @@ const STATUS_BG: Record<string, string> = {
 interface Props {
   facility: Facility | null;
   news: NewsItem[];
+  electricity: ElectricityData | null;
 }
 
-export default function FacilityCard({ facility, news }: Props) {
+export default function FacilityCard({ facility, news, electricity }: Props) {
   if (!facility) {
     return (
       <div className="p-6 text-slate-500 overflow-y-auto h-full space-y-4">
@@ -33,6 +35,7 @@ export default function FacilityCard({ facility, news }: Props) {
             <div className="flex items-center gap-2"><span className="w-3 h-3 rounded-full bg-blue-600"></span> Planned</div>
           </div>
         </div>
+        <ElectricitySection data={electricity} />
         <NewsSection items={news} />
       </div>
     );
@@ -86,6 +89,8 @@ export default function FacilityCard({ facility, news }: Props) {
       </div>
 
       <CostCalculator defaultMw={facility.capacity_mw} />
+
+      <ElectricitySection data={electricity} />
 
       <NewsSection items={news} operatorSlug={facility.operator_slug} subRegion={facility.sub_region} />
 

@@ -20,17 +20,24 @@ jobs:
           python-version: '3.11'
       - run: pip install -r requirements.txt
       - run: python scripts/fetch_electricity.py
-      - name: Commit changes
+        env:
+          OE_API_KEY: ${{ secrets.OE_API_KEY }}
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/data/electricity.json public/data/metadata.json
           if git diff --staged --quiet; then
             echo "No changes."
-          else
-            git commit -m "chore: update electricity data [$(date -u +%Y-%m-%d)]"
-            # Rebase on top of remote main in case of concurrent updates,
-            # then push to main explicitly.
-            git pull --rebase origin main
-            git push origin HEAD:main
+            exit 0
           fi
+          git commit -m "chore: update electricity data [$(date -u +%Y-%m-%d)]"
+          # Retry push with rebase to handle concurrent updates from news workflow
+          for i in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push failed, attempt $i — pulling with rebase..."
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+          done
+          git push
