@@ -20,11 +20,25 @@ concurrency:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    # Only deploy when:
+    # - push to main / manual dispatch, OR
+    # - workflow_run that succeeded AND was on main branch
+    # This prevents env protection rejections when an update workflow is
+    # manually dispatched from a non-main branch.
+    if: >-
+      github.event_name != 'workflow_run' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.head_branch == 'main')
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Always build from main so workflow_run-triggered deploys use the
+          # latest main commit (including the data update commit) instead of
+          # the workflow_run's branch context.
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
