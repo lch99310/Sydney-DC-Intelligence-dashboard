@@ -1,0 +1,17 @@
+{
+  "last_updated": "2026-04-08T00:00:00Z",
+  "nsw_spot_price": {
+    "current_rrp": 158.4,
+    "daily_avg": [],
+    "monthly_avg": []
+  },
+  "generation_mix": [],
+  "renewable_trend": [],
+  "cost_model": {
+    "wholesale_avg_12m": 150,
+    "network_charge_estimate": 50,
+    "lgc_price_estimate": 35,
+    "total_all_in_estimate": 235,
+    "notes": "Seed estimates. NSW 12-month wholesale avg ~$150/MWh (AEMO), network ~$50/MWh (Ausgrid/Endeavour zone), LGC ~$35/MWh. Updated daily by GitHub Actions."
+  }
+}

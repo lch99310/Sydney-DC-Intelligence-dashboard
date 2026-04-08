@@ -17,6 +17,22 @@ export interface Facility {
   url: string;
 }
 
+export interface NewsItem {
+  id: string;
+  title: string;
+  summary: string;
+  url: string;
+  source: string;
+  published_at: string;
+  tags: string[];
+  relevance_score: number;
+}
+
+export interface NewsData {
+  last_updated: string;
+  items: NewsItem[];
+}
+
 export interface SubRegionScore {
   id: SubRegion;
   display_name: string;

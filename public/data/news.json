@@ -1,0 +1,85 @@
+{
+  "last_updated": "2026-04-08T00:00:00Z",
+  "items": [
+    {
+      "id": "seed-1",
+      "title": "AirTrunk secures additional 200MW capacity at Huntingwood campus",
+      "summary": "AirTrunk has confirmed plans to expand its Huntingwood SYD3 campus, cementing Western Sydney as Australia's hyperscale hub.",
+      "url": "https://www.datacenterdynamics.com/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-04-05T10:00:00Z",
+      "tags": ["airtrunk", "western_sydney"],
+      "relevance_score": 0.95
+    },
+    {
+      "id": "seed-2",
+      "title": "NEXTDC breaks ground on S7 Eastern Creek 650MW facility",
+      "summary": "NEXTDC has commenced construction on S7, its largest Sydney campus to date, targeting AI and hyperscale workloads.",
+      "url": "https://www.nextdc.com/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-04-02T09:00:00Z",
+      "tags": ["nextdc", "western_sydney"],
+      "relevance_score": 0.98
+    },
+    {
+      "id": "seed-3",
+      "title": "NSW spot prices climb as coal retirement accelerates",
+      "summary": "NSW wholesale electricity prices averaged $165/MWh in March as Eraring coal plant ramps down ahead of 2027 retirement.",
+      "url": "https://aemo.com.au/",
+      "source": "AEMO News",
+      "published_at": "2026-04-01T02:00:00Z",
+      "tags": ["energy_policy", "nsw"],
+      "relevance_score": 0.85
+    },
+    {
+      "id": "seed-4",
+      "title": "CDC Data Centres to power Eastern Creek with 100% renewables",
+      "summary": "CDC announced a new PPA with Snowy Hydro to supply its 200MW Eastern Creek campus with firmed renewable energy.",
+      "url": "https://www.cdcdatacentres.com.au/",
+      "source": "The Urban Developer",
+      "published_at": "2026-03-28T06:00:00Z",
+      "tags": ["cdc", "western_sydney", "energy_policy"],
+      "relevance_score": 0.90
+    },
+    {
+      "id": "seed-5",
+      "title": "Equinix expands SY3 with submarine cable landing upgrade",
+      "summary": "Equinix has completed a capacity upgrade at its Alexandria SY3 facility, adding connectivity to the new Hawaiki Nui submarine cable.",
+      "url": "https://www.equinix.com/",
+      "source": "Google News",
+      "published_at": "2026-03-25T12:00:00Z",
+      "tags": ["equinix", "south_sydney"],
+      "relevance_score": 0.80
+    },
+    {
+      "id": "seed-6",
+      "title": "Stack Infrastructure Erskine Park nears commissioning",
+      "summary": "Stack's 360MW Erskine Park campus is on track for staged commissioning in late 2026.",
+      "url": "https://www.stackinfra.com/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-03-20T08:00:00Z",
+      "tags": ["stack", "western_sydney"],
+      "relevance_score": 0.88
+    },
+    {
+      "id": "seed-7",
+      "title": "NSW Planning Portal: data center state significant developments hit record",
+      "summary": "The NSW Department of Planning reports record DC-related State Significant Development applications for FY2026.",
+      "url": "https://www.planning.nsw.gov.au/",
+      "source": "NSW Planning",
+      "published_at": "2026-03-15T01:00:00Z",
+      "tags": ["energy_policy", "nsw", "western_sydney"],
+      "relevance_score": 0.75
+    },
+    {
+      "id": "seed-8",
+      "title": "Telstra revives Minchinbury DC plans with AI-focused design",
+      "summary": "Telstra has updated its Minchinbury data center proposal with liquid cooling and a 50MW AI training zone.",
+      "url": "https://www.telstra.com.au/",
+      "source": "The Urban Developer",
+      "published_at": "2026-03-10T05:00:00Z",
+      "tags": ["telstra", "outer_west"],
+      "relevance_score": 0.70
+    }
+  ]
+}
