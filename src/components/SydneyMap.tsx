@@ -1,5 +1,7 @@
 import { MapContainer, TileLayer, CircleMarker, Tooltip } from "react-leaflet";
-import type { Facility } from "../types";
+import type { Facility, SubRegion } from "../types";
+import SubRegionLayer from "./SubRegionLayer";
+import type { Weights } from "../utils/scoreCalculator";
 
 const STATUS_COLOR: Record<string, string> = {
   operational: "#16a34a",
@@ -9,11 +11,17 @@ const STATUS_COLOR: Record<string, string> = {
 
 interface Props {
   facilities: Facility[];
-  selectedId: string | null;
-  onSelect: (f: Facility) => void;
+  selectedFacilityId: string | null;
+  selectedSubRegion: SubRegion | null;
+  weights: Weights;
+  onFacilitySelect: (f: Facility) => void;
+  onSubRegionSelect: (id: SubRegion) => void;
 }
 
-export default function SydneyMap({ facilities, selectedId, onSelect }: Props) {
+export default function SydneyMap({
+  facilities, selectedFacilityId, selectedSubRegion, weights,
+  onFacilitySelect, onSubRegionSelect,
+}: Props) {
   return (
     <MapContainer
       center={[-33.83, 150.95]}
@@ -24,8 +32,13 @@ export default function SydneyMap({ facilities, selectedId, onSelect }: Props) {
         attribution='&copy; OpenStreetMap contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
+      <SubRegionLayer
+        weights={weights}
+        selectedId={selectedSubRegion}
+        onSelect={onSubRegionSelect}
+      />
       {facilities.map((f) => {
-        const isSelected = f.id === selectedId;
+        const isSelected = f.id === selectedFacilityId;
         const radius = Math.max(6, Math.min(22, Math.sqrt(f.capacity_mw) * 1.4));
         return (
           <CircleMarker
@@ -35,10 +48,10 @@ export default function SydneyMap({ facilities, selectedId, onSelect }: Props) {
             pathOptions={{
               color: isSelected ? "#000" : STATUS_COLOR[f.status],
               fillColor: STATUS_COLOR[f.status],
-              fillOpacity: 0.7,
+              fillOpacity: 0.85,
               weight: isSelected ? 3 : 1,
             }}
-            eventHandlers={{ click: () => onSelect(f) }}
+            eventHandlers={{ click: () => onFacilitySelect(f) }}
           >
             <Tooltip>{f.operator} — {f.name} ({f.capacity_mw}MW)</Tooltip>
           </CircleMarker>
