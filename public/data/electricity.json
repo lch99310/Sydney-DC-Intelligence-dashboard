@@ -1,17 +1,639 @@
 {
   "last_updated": "2026-04-08T00:00:00Z",
   "nsw_spot_price": {
-    "current_rrp": 158.4,
-    "daily_avg": [],
-    "monthly_avg": []
+    "current_rrp": 187.34,
+    "daily_avg": [
+      {
+        "date": "2026-03-09",
+        "price": 139.96
+      },
+      {
+        "date": "2026-03-10",
+        "price": 139.78
+      },
+      {
+        "date": "2026-03-11",
+        "price": 169.65
+      },
+      {
+        "date": "2026-03-12",
+        "price": 151.37
+      },
+      {
+        "date": "2026-03-13",
+        "price": 178.9
+      },
+      {
+        "date": "2026-03-14",
+        "price": 140.74
+      },
+      {
+        "date": "2026-03-15",
+        "price": 173.25
+      },
+      {
+        "date": "2026-03-16",
+        "price": 108.17
+      },
+      {
+        "date": "2026-03-17",
+        "price": 129.72
+      },
+      {
+        "date": "2026-03-18",
+        "price": 127.39
+      },
+      {
+        "date": "2026-03-19",
+        "price": 203.26
+      },
+      {
+        "date": "2026-03-20",
+        "price": 150.88
+      },
+      {
+        "date": "2026-03-21",
+        "price": 176.7
+      },
+      {
+        "date": "2026-03-22",
+        "price": 134.5
+      },
+      {
+        "date": "2026-03-23",
+        "price": 136.8
+      },
+      {
+        "date": "2026-03-24",
+        "price": 172.05
+      },
+      {
+        "date": "2026-03-25",
+        "price": 201.28
+      },
+      {
+        "date": "2026-03-26",
+        "price": 158.12
+      },
+      {
+        "date": "2026-03-27",
+        "price": 76.84
+      },
+      {
+        "date": "2026-03-28",
+        "price": 185.72
+      },
+      {
+        "date": "2026-03-29",
+        "price": 165.09
+      },
+      {
+        "date": "2026-03-30",
+        "price": 119.05
+      },
+      {
+        "date": "2026-03-31",
+        "price": 224.43
+      },
+      {
+        "date": "2026-04-01",
+        "price": 105.33
+      },
+      {
+        "date": "2026-04-02",
+        "price": 143.61
+      },
+      {
+        "date": "2026-04-03",
+        "price": 177.05
+      },
+      {
+        "date": "2026-04-04",
+        "price": 142.16
+      },
+      {
+        "date": "2026-04-05",
+        "price": 207.17
+      },
+      {
+        "date": "2026-04-06",
+        "price": 172.49
+      },
+      {
+        "date": "2026-04-07",
+        "price": 187.34
+      }
+    ],
+    "monthly_avg": [
+      {
+        "month": "2025-05",
+        "price": 135.1
+      },
+      {
+        "month": "2025-06",
+        "price": 102.92
+      },
+      {
+        "month": "2025-07",
+        "price": 151.32
+      },
+      {
+        "month": "2025-08",
+        "price": 138.87
+      },
+      {
+        "month": "2025-09",
+        "price": 121.37
+      },
+      {
+        "month": "2025-10",
+        "price": 153.07
+      },
+      {
+        "month": "2025-11",
+        "price": 152.2
+      },
+      {
+        "month": "2025-12",
+        "price": 125.56
+      },
+      {
+        "month": "2026-01",
+        "price": 150.01
+      },
+      {
+        "month": "2026-02",
+        "price": 165.38
+      },
+      {
+        "month": "2026-03",
+        "price": 122.18
+      },
+      {
+        "month": "2026-04",
+        "price": 149.52
+      }
+    ]
   },
-  "generation_mix": [],
-  "renewable_trend": [],
+  "generation_mix": [
+    {
+      "date": "2026-03-09",
+      "coal_pct": 51.9,
+      "gas_pct": 5.8,
+      "hydro_pct": 7.7,
+      "wind_pct": 14.8,
+      "solar_pct": 20.7,
+      "other_pct": 0,
+      "renewable_total_pct": 43.2
+    },
+    {
+      "date": "2026-03-10",
+      "coal_pct": 49.2,
+      "gas_pct": 7.4,
+      "hydro_pct": 4.1,
+      "wind_pct": 10.2,
+      "solar_pct": 16.1,
+      "other_pct": 13.0,
+      "renewable_total_pct": 30.4
+    },
+    {
+      "date": "2026-03-11",
+      "coal_pct": 57.1,
+      "gas_pct": 8.4,
+      "hydro_pct": 5.1,
+      "wind_pct": 13.9,
+      "solar_pct": 19.7,
+      "other_pct": 0,
+      "renewable_total_pct": 38.7
+    },
+    {
+      "date": "2026-03-12",
+      "coal_pct": 48.1,
+      "gas_pct": 10.4,
+      "hydro_pct": 7.5,
+      "wind_pct": 11.4,
+      "solar_pct": 11.9,
+      "other_pct": 10.7,
+      "renewable_total_pct": 30.8
+    },
+    {
+      "date": "2026-03-13",
+      "coal_pct": 49.3,
+      "gas_pct": 4.8,
+      "hydro_pct": 8.2,
+      "wind_pct": 14.0,
+      "solar_pct": 19.7,
+      "other_pct": 4.0,
+      "renewable_total_pct": 41.9
+    },
+    {
+      "date": "2026-03-14",
+      "coal_pct": 58.2,
+      "gas_pct": 8.3,
+      "hydro_pct": 8.9,
+      "wind_pct": 11.8,
+      "solar_pct": 16.6,
+      "other_pct": 0,
+      "renewable_total_pct": 37.3
+    },
+    {
+      "date": "2026-03-15",
+      "coal_pct": 60.1,
+      "gas_pct": 8.6,
+      "hydro_pct": 7.5,
+      "wind_pct": 8.5,
+      "solar_pct": 12.7,
+      "other_pct": 2.6,
+      "renewable_total_pct": 28.7
+    },
+    {
+      "date": "2026-03-16",
+      "coal_pct": 52.1,
+      "gas_pct": 4.6,
+      "hydro_pct": 5.2,
+      "wind_pct": 9.0,
+      "solar_pct": 13.3,
+      "other_pct": 15.8,
+      "renewable_total_pct": 27.5
+    },
+    {
+      "date": "2026-03-17",
+      "coal_pct": 53.2,
+      "gas_pct": 5.7,
+      "hydro_pct": 5.3,
+      "wind_pct": 17.4,
+      "solar_pct": 17.8,
+      "other_pct": 0.6,
+      "renewable_total_pct": 40.5
+    },
+    {
+      "date": "2026-03-18",
+      "coal_pct": 56.5,
+      "gas_pct": 5.4,
+      "hydro_pct": 7.6,
+      "wind_pct": 9.6,
+      "solar_pct": 14.6,
+      "other_pct": 6.3,
+      "renewable_total_pct": 31.8
+    },
+    {
+      "date": "2026-03-19",
+      "coal_pct": 55.8,
+      "gas_pct": 9.5,
+      "hydro_pct": 8.2,
+      "wind_pct": 15.8,
+      "solar_pct": 12.7,
+      "other_pct": 0,
+      "renewable_total_pct": 36.7
+    },
+    {
+      "date": "2026-03-20",
+      "coal_pct": 48.4,
+      "gas_pct": 6.5,
+      "hydro_pct": 5.3,
+      "wind_pct": 10.1,
+      "solar_pct": 21.3,
+      "other_pct": 8.4,
+      "renewable_total_pct": 36.7
+    },
+    {
+      "date": "2026-03-21",
+      "coal_pct": 57.2,
+      "gas_pct": 7.2,
+      "hydro_pct": 8.6,
+      "wind_pct": 12.6,
+      "solar_pct": 13.2,
+      "other_pct": 1.2,
+      "renewable_total_pct": 34.4
+    },
+    {
+      "date": "2026-03-22",
+      "coal_pct": 51.5,
+      "gas_pct": 8.5,
+      "hydro_pct": 5.3,
+      "wind_pct": 13.8,
+      "solar_pct": 20.8,
+      "other_pct": 0.1,
+      "renewable_total_pct": 39.9
+    },
+    {
+      "date": "2026-03-23",
+      "coal_pct": 62.0,
+      "gas_pct": 8.1,
+      "hydro_pct": 4.5,
+      "wind_pct": 8.5,
+      "solar_pct": 11.3,
+      "other_pct": 5.6,
+      "renewable_total_pct": 24.3
+    },
+    {
+      "date": "2026-03-24",
+      "coal_pct": 56.8,
+      "gas_pct": 10.3,
+      "hydro_pct": 6.1,
+      "wind_pct": 8.6,
+      "solar_pct": 14.6,
+      "other_pct": 3.6,
+      "renewable_total_pct": 29.3
+    },
+    {
+      "date": "2026-03-25",
+      "coal_pct": 61.6,
+      "gas_pct": 10.9,
+      "hydro_pct": 4.1,
+      "wind_pct": 15.2,
+      "solar_pct": 18.2,
+      "other_pct": 0,
+      "renewable_total_pct": 37.5
+    },
+    {
+      "date": "2026-03-26",
+      "coal_pct": 55.5,
+      "gas_pct": 6.1,
+      "hydro_pct": 7.2,
+      "wind_pct": 9.1,
+      "solar_pct": 15.2,
+      "other_pct": 6.9,
+      "renewable_total_pct": 31.5
+    },
+    {
+      "date": "2026-03-27",
+      "coal_pct": 60.3,
+      "gas_pct": 6.1,
+      "hydro_pct": 6.5,
+      "wind_pct": 9.8,
+      "solar_pct": 21.0,
+      "other_pct": 0,
+      "renewable_total_pct": 37.3
+    },
+    {
+      "date": "2026-03-28",
+      "coal_pct": 60.2,
+      "gas_pct": 6.4,
+      "hydro_pct": 7.2,
+      "wind_pct": 14.1,
+      "solar_pct": 11.8,
+      "other_pct": 0.3,
+      "renewable_total_pct": 33.1
+    },
+    {
+      "date": "2026-03-29",
+      "coal_pct": 58.9,
+      "gas_pct": 8.2,
+      "hydro_pct": 4.0,
+      "wind_pct": 11.2,
+      "solar_pct": 10.2,
+      "other_pct": 7.5,
+      "renewable_total_pct": 25.4
+    },
+    {
+      "date": "2026-03-30",
+      "coal_pct": 61.0,
+      "gas_pct": 11.0,
+      "hydro_pct": 8.2,
+      "wind_pct": 11.1,
+      "solar_pct": 10.7,
+      "other_pct": 0,
+      "renewable_total_pct": 30.0
+    },
+    {
+      "date": "2026-03-31",
+      "coal_pct": 49.2,
+      "gas_pct": 7.9,
+      "hydro_pct": 4.3,
+      "wind_pct": 15.6,
+      "solar_pct": 19.2,
+      "other_pct": 3.8,
+      "renewable_total_pct": 39.1
+    },
+    {
+      "date": "2026-04-01",
+      "coal_pct": 49.8,
+      "gas_pct": 7.8,
+      "hydro_pct": 6.7,
+      "wind_pct": 10.7,
+      "solar_pct": 20.5,
+      "other_pct": 4.5,
+      "renewable_total_pct": 37.9
+    },
+    {
+      "date": "2026-04-02",
+      "coal_pct": 55.6,
+      "gas_pct": 9.8,
+      "hydro_pct": 5.0,
+      "wind_pct": 11.1,
+      "solar_pct": 21.9,
+      "other_pct": 0,
+      "renewable_total_pct": 38.0
+    },
+    {
+      "date": "2026-04-03",
+      "coal_pct": 57.1,
+      "gas_pct": 7.5,
+      "hydro_pct": 6.6,
+      "wind_pct": 9.2,
+      "solar_pct": 12.7,
+      "other_pct": 6.9,
+      "renewable_total_pct": 28.5
+    },
+    {
+      "date": "2026-04-04",
+      "coal_pct": 51.2,
+      "gas_pct": 5.8,
+      "hydro_pct": 4.4,
+      "wind_pct": 14.3,
+      "solar_pct": 12.7,
+      "other_pct": 11.6,
+      "renewable_total_pct": 31.4
+    },
+    {
+      "date": "2026-04-05",
+      "coal_pct": 60.7,
+      "gas_pct": 10.9,
+      "hydro_pct": 4.4,
+      "wind_pct": 10.4,
+      "solar_pct": 18.0,
+      "other_pct": 0,
+      "renewable_total_pct": 32.8
+    },
+    {
+      "date": "2026-04-06",
+      "coal_pct": 61.1,
+      "gas_pct": 8.6,
+      "hydro_pct": 6.4,
+      "wind_pct": 15.8,
+      "solar_pct": 19.7,
+      "other_pct": 0,
+      "renewable_total_pct": 41.9
+    },
+    {
+      "date": "2026-04-07",
+      "coal_pct": 50.7,
+      "gas_pct": 4.8,
+      "hydro_pct": 6.2,
+      "wind_pct": 12.2,
+      "solar_pct": 15.6,
+      "other_pct": 10.5,
+      "renewable_total_pct": 34.0
+    }
+  ],
+  "renewable_trend": [
+    {
+      "date": "2026-03-09",
+      "renewable_pct": 43.2,
+      "spot_price": 139.96
+    },
+    {
+      "date": "2026-03-10",
+      "renewable_pct": 30.4,
+      "spot_price": 139.78
+    },
+    {
+      "date": "2026-03-11",
+      "renewable_pct": 38.7,
+      "spot_price": 169.65
+    },
+    {
+      "date": "2026-03-12",
+      "renewable_pct": 30.8,
+      "spot_price": 151.37
+    },
+    {
+      "date": "2026-03-13",
+      "renewable_pct": 41.9,
+      "spot_price": 178.9
+    },
+    {
+      "date": "2026-03-14",
+      "renewable_pct": 37.3,
+      "spot_price": 140.74
+    },
+    {
+      "date": "2026-03-15",
+      "renewable_pct": 28.7,
+      "spot_price": 173.25
+    },
+    {
+      "date": "2026-03-16",
+      "renewable_pct": 27.5,
+      "spot_price": 108.17
+    },
+    {
+      "date": "2026-03-17",
+      "renewable_pct": 40.5,
+      "spot_price": 129.72
+    },
+    {
+      "date": "2026-03-18",
+      "renewable_pct": 31.8,
+      "spot_price": 127.39
+    },
+    {
+      "date": "2026-03-19",
+      "renewable_pct": 36.7,
+      "spot_price": 203.26
+    },
+    {
+      "date": "2026-03-20",
+      "renewable_pct": 36.7,
+      "spot_price": 150.88
+    },
+    {
+      "date": "2026-03-21",
+      "renewable_pct": 34.4,
+      "spot_price": 176.7
+    },
+    {
+      "date": "2026-03-22",
+      "renewable_pct": 39.9,
+      "spot_price": 134.5
+    },
+    {
+      "date": "2026-03-23",
+      "renewable_pct": 24.3,
+      "spot_price": 136.8
+    },
+    {
+      "date": "2026-03-24",
+      "renewable_pct": 29.3,
+      "spot_price": 172.05
+    },
+    {
+      "date": "2026-03-25",
+      "renewable_pct": 37.5,
+      "spot_price": 201.28
+    },
+    {
+      "date": "2026-03-26",
+      "renewable_pct": 31.5,
+      "spot_price": 158.12
+    },
+    {
+      "date": "2026-03-27",
+      "renewable_pct": 37.3,
+      "spot_price": 76.84
+    },
+    {
+      "date": "2026-03-28",
+      "renewable_pct": 33.1,
+      "spot_price": 185.72
+    },
+    {
+      "date": "2026-03-29",
+      "renewable_pct": 25.4,
+      "spot_price": 165.09
+    },
+    {
+      "date": "2026-03-30",
+      "renewable_pct": 30.0,
+      "spot_price": 119.05
+    },
+    {
+      "date": "2026-03-31",
+      "renewable_pct": 39.1,
+      "spot_price": 224.43
+    },
+    {
+      "date": "2026-04-01",
+      "renewable_pct": 37.9,
+      "spot_price": 105.33
+    },
+    {
+      "date": "2026-04-02",
+      "renewable_pct": 38.0,
+      "spot_price": 143.61
+    },
+    {
+      "date": "2026-04-03",
+      "renewable_pct": 28.5,
+      "spot_price": 177.05
+    },
+    {
+      "date": "2026-04-04",
+      "renewable_pct": 31.4,
+      "spot_price": 142.16
+    },
+    {
+      "date": "2026-04-05",
+      "renewable_pct": 32.8,
+      "spot_price": 207.17
+    },
+    {
+      "date": "2026-04-06",
+      "renewable_pct": 41.9,
+      "spot_price": 172.49
+    },
+    {
+      "date": "2026-04-07",
+      "renewable_pct": 34.0,
+      "spot_price": 187.34
+    }
+  ],
   "cost_model": {
-    "wholesale_avg_12m": 150,
+    "wholesale_avg_12m": 138.96,
     "network_charge_estimate": 50,
     "lgc_price_estimate": 35,
-    "total_all_in_estimate": 235,
-    "notes": "Seed estimates. NSW 12-month wholesale avg ~$150/MWh (AEMO), network ~$50/MWh (Ausgrid/Endeavour zone), LGC ~$35/MWh. Updated daily by GitHub Actions."
+    "total_all_in_estimate": 223.96,
+    "notes": "Seed estimates. NSW 12-month wholesale avg from AEMO; network ~$50/MWh; LGC ~$35/MWh. Updated daily by GitHub Actions."
   }
 }

@@ -18,14 +18,21 @@ jobs:
           python-version: '3.11'
       - run: pip install -r requirements.txt
       - run: python scripts/fetch_news.py
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/data/news.json public/data/metadata.json
           if git diff --staged --quiet; then
             echo "No changes."
-          else
-            git commit -m "chore: update news feed [$(date -u +%Y-%m-%d)]"
-            git push
+            exit 0
           fi
+          git commit -m "chore: update news feed [$(date -u +%Y-%m-%d)]"
+          for i in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push failed, attempt $i — pulling with rebase..."
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+          done
+          git push

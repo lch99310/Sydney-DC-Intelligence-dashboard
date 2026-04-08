@@ -1,11 +1,12 @@
 import { useEffect, useState } from "react";
 import SydneyMap from "./components/SydneyMap";
 import FacilityCard from "./components/FacilityCard";
-import type { Facility, NewsData, NewsItem } from "./types";
+import type { Facility, NewsData, NewsItem, ElectricityData } from "./types";
 
 export default function App() {
   const [facilities, setFacilities] = useState<Facility[]>([]);
   const [news, setNews] = useState<NewsItem[]>([]);
+  const [electricity, setElectricity] = useState<ElectricityData | null>(null);
   const [selected, setSelected] = useState<Facility | null>(null);
 
   useEffect(() => {
@@ -17,6 +18,10 @@ export default function App() {
       .then((r) => r.json())
       .then((d: NewsData) => setNews(d.items))
       .catch((e) => console.error("Failed to load news", e));
+    fetch(`${import.meta.env.BASE_URL}data/electricity.json`)
+      .then((r) => r.json())
+      .then((d: ElectricityData) => setElectricity(d))
+      .catch((e) => console.error("Failed to load electricity", e));
   }, []);
 
   return (
@@ -37,7 +42,7 @@ export default function App() {
           />
         </div>
         <aside className="w-[400px] border-l border-slate-200 bg-white overflow-hidden">
-          <FacilityCard facility={selected} news={news} />
+          <FacilityCard facility={selected} news={news} electricity={electricity} />
         </aside>
       </div>
     </div>
