@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T12:27:55.953917+00:00",
+  "last_updated": "2026-04-08T12:38:23.332695+00:00",
   "items": [
     {
       "id": "3caf5e1e3e2d",
@@ -27,9 +27,9 @@
       "relevance_score": 0.4
     },
     {
-      "id": "5f97839c842f",
-      "title": "Stockland files to build 168MW data center in Sydney, Australia - datacenterdynamics.com",
-      "summary": "Stockland files to build 168MW data center in Sydney, Australia&nbsp;&nbsp;datacenterdynamics.com",
+      "id": "2476038491da",
+      "title": "Stockland files to build 168MW data center in Sydney, Australia - Data Center Dynamics",
+      "summary": "Stockland files to build 168MW data center in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOWd4YUc2VWViM1czS252S00xUm1xY2tnRFVOTEVLeFpWNWVCWmMybU53VC1Va1V5OGVwNGpGN2VRNnNzTjJjTnQ3Y0ZMNm5YNjFOSlhaWEhYVHZ2VDFZemFPOGwyTmY4VFNGYlU1d0o4VDdUQkpYb0JhalBzb0xjc29TVkNyUUF5S1dBMkxzMzJkejJwTXdQNG53dGd3ZVN2TUVZSkkyR2NKQQ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-04-06T11:24:35+00:00",
@@ -63,9 +63,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "413ed2667582",
-      "title": "Former Exodus data center in Sydney, Australia, to be replaced with 70MW facility - datacenterdynamics.com",
-      "summary": "Former Exodus data center in Sydney, Australia, to be replaced with 70MW facility&nbsp;&nbsp;datacenterdynamics.com",
+      "id": "508a71d1111c",
+      "title": "Former Exodus data center in Sydney, Australia, to be replaced with 70MW facility - Data Center Dynamics",
+      "summary": "Former Exodus data center in Sydney, Australia, to be replaced with 70MW facility&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRmxnTVVHbmF4MmRtZm9icV9QY1FaTlFnZThkeC1XTVluNkRlbXhKbm5TOXZZNWp1WHN5WHN1QVdLazBiVFBBNVZTajh6UXhBZnVGaVNFUzByam5kYzBkcElLSnYwU1Npdkc4Vi1wRzVPTk5yS3dGd0hhMGpCZ3NWQmltQUhqNWpjQnhycVBQMXJ4czdaaTBudGFzWWtZNEJpZ2x6a2h5ZGxWSnVzTkZPRXJ2c1pBcVNOQ25oNHJ1blU?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-04-02T16:04:43+00:00",
@@ -73,6 +73,18 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "ad6ae77fc056",
+      "title": "Blackstone-AirTrunk's Singapore REIT IPO could raise US$1.5 bil, banks picked \u2014 Bloomberg - The Edge Singapore",
+      "summary": "Blackstone-AirTrunk's Singapore REIT IPO could raise US$1.5 bil, banks picked \u2014 Bloomberg&nbsp;&nbsp;The Edge Singapore",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2lxcTZDLTNoZWZNT3hwaUgxVGs2VFhTV0JveEdiT3hQSURHdWU5R2R4STJsaE52YzRDeHU5SldSVEhkNkEyU092cXVZUnFWNDRzVjJLT2kxeHBwQnZvQWM5QU5CTG9mUWVZbEI0MUhVTXZVdHBYUTRLUG5nOVlFbVFHTEdkN0lPdlVKUm5DaHg4VVRBR0U1dnBXWTEwX0R6Y0VQSkQwdVhPYUxWZklpU1NHWHlBWXUzNnBuT3h4RW1GdlJS0gHKAUFVX3lxTE5zWGpKdVJJNEpLN0VPT0w1UVRKWVJSc093TXBUNG5YckcteTFPYmtWcUdCUzgyeUotdnhWbFE2em9CWThYUXdkeWJNX2swc0NpdXczMnl2N0NDTGNWVlRVUlFDSng0MWlyRk82UGE2dUhYWEt0NEowclFQb0hOckN3TF9CNW1RTzdSeDJ6QVJiOUozc2FsUVBaNndjcnlGbE52MjFVbnlhZXJfRDNiT3ZnU3QwSnlwUmFyWlpYMk5YbVFpazN1djkwYnc?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-04-02T14:06:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "b8c94e9cbb5b",
@@ -87,9 +99,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "6294879a7372",
-      "title": "Work Commences on 350MW Western Sydney Data Centre - Build Australia",
-      "summary": "Work Commences on 350MW Western Sydney Data Centre&nbsp;&nbsp;Build Australia",
+      "id": "1fe93f57e38b",
+      "title": "Work Commences on 350MW Western Sydney Data Centre - buildaustralia.com.au",
+      "summary": "Work Commences on 350MW Western Sydney Data Centre&nbsp;&nbsp;buildaustralia.com.au",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2RhdFQ2N1FvMUl5TlVyLTZ3eFYxcExtczAyZzVZYzgxUmU0RmgxQ0t1MXlpSmNGWVNlTm4xd0F2a1ZUUHg4M0N6YjF6YUd2eE1UWXVYaGJUZ3Q1R2s2QmZBTjlndGFUYXNTV0pEbUhPb3NVR3ZlTC1jY0pETm5MM1kyclJ1T3FMWWNOWUpxVzJFZDM3TC1VTy1n?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-04-02T04:46:32+00:00",
@@ -113,9 +125,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "f011a5306a02",
-      "title": "Australia's NextDC breaks ground on Sydney data center - datacenterdynamics.com",
-      "summary": "Australia's NextDC breaks ground on Sydney data center&nbsp;&nbsp;datacenterdynamics.com",
+      "id": "e42889ca6752",
+      "title": "Australia's NextDC breaks ground on Sydney data center - Data Center Dynamics",
+      "summary": "Australia's NextDC breaks ground on Sydney data center&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXFyYXpmUGlJRUQ3d0syY1V4VmhfSzVlVnJfNER0TmlVem9wZUhiMUFkRjZYZzFjZnRNWC1CYmduTTUwX3FoVllvZ01qclZydTNqZ2JmalFxQU1jZl9VNXBTNW9lX2hJd2xhcHRsNUZxR09kVFBrbUVqSEJNWmc0RjIwNHd5eFc4Y2xnMk1jWFRUc0hNOTFMVkMwTThiUQ?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-03-30T15:28:52+00:00",
@@ -126,9 +138,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "a45959d99887",
-      "title": "Australia's NextDC breaks ground on Sydney data center - datacenterdynamics.com",
-      "summary": "Australia's NextDC breaks ground on Sydney data center&nbsp;&nbsp;datacenterdynamics.com",
+      "id": "fdf6f385f2fc",
+      "title": "Australia's NextDC breaks ground on Sydney data center - Data Center Dynamics",
+      "summary": "Australia's NextDC breaks ground on Sydney data center&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXFyYXpmUGlJRUQ3d0syY1V4VmhfSzVlVnJfNER0TmlVem9wZUhiMUFkRjZYZzFjZnRNWC1CYmduTTUwX3FoVllvZ01qclZydTNqZ2JmalFxQU1jZl9VNXBTNW9lX2hJd2xhcHRsNUZxR09kVFBrbUVqSEJNWmc0RjIwNHd5eFc4Y2xnMk1jWFRUc0hNOTFMVkMwTThiUQ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-03-30T15:28:52+00:00",
@@ -153,9 +165,9 @@
       "relevance_score": 0.7
     },
     {
-      "id": "35c63aaee54d",
-      "title": "NextDC starts work on S4 Sydney data centre - arnnet.com.au",
-      "summary": "NextDC starts work on S4 Sydney data centre&nbsp;&nbsp;arnnet.com.au",
+      "id": "6440f624da2d",
+      "title": "NextDC starts work on S4 Sydney data centre - ARNnet",
+      "summary": "NextDC starts work on S4 Sydney data centre&nbsp;&nbsp;ARNnet",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTYtWVE1NVhqeVBHTTN2SFpmWmpJd19TU09wWVBMSGtPUEhJM19Wc1Q3aGgzLTZ4M2pIckpSc0xnX2ItTDJaYjh4NGZ6OFV3bXVrRWFUeU1vZ0htQ1duM3ZiTmExVHpzUWFyRVBGX2hwN2lLMHgxOXhrYWRNLThKMlNmZll6MWJYb2I2bGhVeEdKLXd6?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-03-30T04:13:00+00:00",
@@ -166,9 +178,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "02a67817c5d6",
-      "title": "Work commences on NEXTDC\u2019s S4 Sydney data centre - Inside Construction",
-      "summary": "Work commences on NEXTDC\u2019s S4 Sydney data centre&nbsp;&nbsp;Inside Construction",
+      "id": "437a32874ee6",
+      "title": "Work commences on NEXTDC\u2019s S4 Sydney data centre - insideconstruction.com.au",
+      "summary": "Work commences on NEXTDC\u2019s S4 Sydney data centre&nbsp;&nbsp;insideconstruction.com.au",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdTdrN2NEaXJ2RDZrTGJnRDF2blNwNmZfWVEtV0xUeUtKM0RrN2hRaEF6bFA1ZHVIX0thWnRMUnZ2S0RvSzc5YjZaNDJtem44TTE4c2EtazZxNTYxYy1mZUhUanVHajVocFgzM1J6aG9CMWVnb3YycnNUTW9IYVNueWZQTWRGOFFYa3ZTa3dLZzR1RU40cGVCZUNwVjJVLTc3ZUFtLXNn?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-03-30T00:42:32+00:00",
@@ -217,18 +229,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "a5cdf61225f8",
-      "title": "Data centre giant AirTrunk bets big on Singapore, mulls Reit IPO among other capital-raising options - The Business Times",
-      "summary": "Data centre giant AirTrunk bets big on Singapore, mulls Reit IPO among other capital-raising options&nbsp;&nbsp;The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0JmVnk0TG9DQ3J0T0Z3X2syVVlIQzRtWHM2NHYwbFpEV0NyTzRGTnV5blp2QW5XSHhIR3NyUHdWbnNGMm1UdXBIOUEzSW9xdW5yOVRtZTZvNHJxYTA3OHBBTlBwSllaRVlSVDBjZFZNcGN5eEdISDhVTlM3Mk5xNnowU3ZwcG9sVFBSYm1uS3VWTFREZFYyX2xjX1ZQN2J0QXc2Z2VoRVp3R29FWFcyOVhmYnRoWVlaWFFRRjY4dFpzZDZkZEtXbnBYazB2YjRXcjdRa29IUDh4cmFCZlJpQWtmdGU?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-03-13T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "7c3573e8de86",
       "title": "Sydney-Based Iren Orders 50,000 Nvidia GPUs to Supercharge AI Data Center Expansion - Crypto News Australia",
       "summary": "Sydney-Based Iren Orders 50,000 Nvidia GPUs to Supercharge AI Data Center Expansion&nbsp;&nbsp;Crypto News Australia",
@@ -241,9 +241,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "9e0b84049e06",
-      "title": "Australia's Goodman breaks ground on Sydney data center - datacenterdynamics.com",
-      "summary": "Australia's Goodman breaks ground on Sydney data center&nbsp;&nbsp;datacenterdynamics.com",
+      "id": "4ce4307c9f9f",
+      "title": "Australia's Goodman breaks ground on Sydney data center - Data Center Dynamics",
+      "summary": "Australia's Goodman breaks ground on Sydney data center&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHBSQlN5aG5BSV9WQzJNallPLTVpbVY2Nl8yVHo3dlJGZnJZeHlZeVJGS29qN2JKT3VSQlNZLU84dDc1Zkt6bnMwcnVhX0ZRcmk5OS1tVC1RU3loS2Q0V0hFcUxiYVN4bjZLb2FZTDBjcGtONmxOaG93NTluODRTQzZvS1A5bHdhY0UxVlNYYnA2eGw5cFBqcnhGM0dQZXM?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-03-04T08:00:00+00:00",
@@ -265,9 +265,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "410fab1eef3b",
-      "title": "Australia's CDC opens data center campus in Melbourne - datacenterdynamics.com",
-      "summary": "Australia's CDC opens data center campus in Melbourne&nbsp;&nbsp;datacenterdynamics.com",
+      "id": "ef5c57d11e82",
+      "title": "Australia's CDC opens data center campus in Melbourne - Data Center Dynamics",
+      "summary": "Australia's CDC opens data center campus in Melbourne&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVFwYW1jallQd18wbEZCMVg3cFVYTm01YnFaQnh1WVBVb3h4UWlDVFBYYWE3ODVybFkxYjRvcWdXQUlYZ0xXUzF4b3lKRkxWRjE0OFlRSTYzdEUwWE1vTEJWOUU0c2hrbEtSTGVLMDJqSHZ0QzUzYm9TV0JiTldZNjBuaGRJNDM2ci1TRVdTbFlHVmY3RXQ4ZW02d1I?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-03-03T08:00:00+00:00",
@@ -325,9 +325,21 @@
       "relevance_score": 0.3
     },
     {
-      "id": "3967837b15b5",
-      "title": "SCX.ai debuts sovereign, eco-efficient AI node in Sydney - IT Brief Australia",
-      "summary": "SCX.ai debuts sovereign, eco-efficient AI node in Sydney&nbsp;&nbsp;IT Brief Australia",
+      "id": "1b3463cc6c30",
+      "title": "AirTrunk CEO Robin Khuda snaps up trophy Mosman corner - realcommercial.com.au",
+      "summary": "AirTrunk CEO Robin Khuda snaps up trophy Mosman corner&nbsp;&nbsp;realcommercial.com.au",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTnhLUXJDYUc0dmNJbVpwWUtqLWh2R2RKZzdVUlY5VnhEdDJFdVI2S05xbU5CNWJZYjRGLVZUTTRLUktUMXhVOS1oS1RKeVVzdzNWQ2pxNC11Zm1qdXJoX0Rtb2xTS0RPcXlQdy1ub1ZHUlJrYUI3dlVFU3dxSnRhU19zV1R4SnZCRk14eEFXMzVtakdmNU1Qaw?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-01-30T08:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "67e6fd28b4d0",
+      "title": "SCX.ai debuts sovereign, eco-efficient AI node in Sydney - itbrief.com.au",
+      "summary": "SCX.ai debuts sovereign, eco-efficient AI node in Sydney&nbsp;&nbsp;itbrief.com.au",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmpHVllhcUdHUmpBc1VUQUQxdXR1aXRnNEh5R0Nxa0RzNnhpZGt2NWtFX1BOUXBSUzZnNERGY3BJcXM2ZWV5eUR3NEM5NlF6aXhkUGIxeTc4WHc5blF4UHluYzFITkVzaTgzeHlvYUNEWVg1YmtqVE42WVRIOEwwNlBSdWhXUXdqRHZBNQ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-01-29T08:00:00+00:00",
@@ -349,9 +361,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "34a4f3c12b88",
-      "title": "Goodman files to develop 90MW data center campus in Sydney, Australia - datacenterdynamics.com",
-      "summary": "Goodman files to develop 90MW data center campus in Sydney, Australia&nbsp;&nbsp;datacenterdynamics.com",
+      "id": "930af6e370b4",
+      "title": "Goodman files to develop 90MW data center campus in Sydney, Australia - Data Center Dynamics",
+      "summary": "Goodman files to develop 90MW data center campus in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWUMwa1V0aGdJNElWcl9Sam9DRF9mNU1UVTdnM0lxVFM1dFFVWTJVcmkwNkd5OUpDcFVyUkZMTnlRTFZwblh2NDBHUjhUMHgxOXpNMERyMENBNmJOODNJU2tVU2RuT0VpU1VaVHE0YW43WHpSM3JhNjBjUEV0ZHZ3X2lqS0F0OXVOS0gzdE8yMC1KRHVPa0Z5QXpsUTFBTnlOMGZfbDdnM0h5S2NsMHJicTR0c0E?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-01-21T08:00:00+00:00",
@@ -373,9 +385,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "8bedbbe1de13",
-      "title": "Australia\u2019s GreenSquareDC expanding data center in Greater Western Sydney - datacenterdynamics.com",
-      "summary": "Australia\u2019s GreenSquareDC expanding data center in Greater Western Sydney&nbsp;&nbsp;datacenterdynamics.com",
+      "id": "697eace795fb",
+      "title": "Australia\u2019s GreenSquareDC expanding data center in Greater Western Sydney - Data Center Dynamics",
+      "summary": "Australia\u2019s GreenSquareDC expanding data center in Greater Western Sydney&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORy0tTXY0em1NbldhRVd6WmZtNzh1eHVwUkwyYlJJNzFPMl9NME1vUElxU2RoWFh0Wm1FbTBob3dreGJHTlNER2VpdHdaRHVRRUowdjBqYzJNWndjRjhtZjk3Z1phVTFCSXhBOEFqUm9CQlNFRHFUNHYxaVRRWUhVSmxSUVVhZ3M1aUxwNlJNZXRLNzY3UzUzbzVYb1I4WEx0YWVLOXY4Z09JRVRnYTI3YUE2VjdKVlk?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-01-15T08:00:00+00:00",
