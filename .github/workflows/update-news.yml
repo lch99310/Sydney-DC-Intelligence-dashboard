@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -27,5 +29,8 @@ jobs:
             echo "No changes."
           else
             git commit -m "chore: update news feed [$(date -u +%Y-%m-%d)]"
-            git push
+            # Rebase on top of remote main in case of concurrent updates,
+            # then push to main explicitly.
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
