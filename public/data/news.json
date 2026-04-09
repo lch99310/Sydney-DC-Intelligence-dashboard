@@ -1,31 +1,6 @@
 {
-  "last_updated": "2026-04-08T12:38:23.332695+00:00",
+  "last_updated": "2026-04-09T07:49:31.649916+00:00",
   "items": [
-    {
-      "id": "3caf5e1e3e2d",
-      "title": "EdgeMode inks deal with unamed fuel cell developer for onsite power across Spain",
-      "summary": "Will develop SOFC-anchored microgrids",
-      "url": "https://www.datacenterdynamics.com/en/news/edgemode-inks-deal-with-unamed-fuel-cell-developer-for-onsite-power-across-spain/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-04-08T10:07:38+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "f78179b1401d",
-      "title": "Western Sydney councils warn data centre boom is outpacing planning - W.Media",
-      "summary": "Western Sydney councils warn data centre boom is outpacing planning&nbsp;&nbsp;W.Media",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMV9pQndfc2R6a25DdHpONTN1Q201eS1rZ1JtYzRsc2gyTVh5YWh2WUFrbnpGcmJUeVNCTXZZWG4tOFk2MGd0a0ZxcEhQVWN0NWNLUldjTFB3cURfV2o5RjBPdk11UGE3TzdNVG16SkJxTTk0VjV1clJvVjFmNXJfU1lOVGxxUzBMLXp3dw?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-04-08T01:31:00+00:00",
-      "tags": [
-        "nsw",
-        "western_sydney"
-      ],
-      "relevance_score": 0.4
-    },
     {
       "id": "2476038491da",
       "title": "Stockland files to build 168MW data center in Sydney, Australia - Data Center Dynamics",
@@ -75,18 +50,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "ad6ae77fc056",
-      "title": "Blackstone-AirTrunk's Singapore REIT IPO could raise US$1.5 bil, banks picked \u2014 Bloomberg - The Edge Singapore",
-      "summary": "Blackstone-AirTrunk's Singapore REIT IPO could raise US$1.5 bil, banks picked \u2014 Bloomberg&nbsp;&nbsp;The Edge Singapore",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2lxcTZDLTNoZWZNT3hwaUgxVGs2VFhTV0JveEdiT3hQSURHdWU5R2R4STJsaE52YzRDeHU5SldSVEhkNkEyU092cXVZUnFWNDRzVjJLT2kxeHBwQnZvQWM5QU5CTG9mUWVZbEI0MUhVTXZVdHBYUTRLUG5nOVlFbVFHTEdkN0lPdlVKUm5DaHg4VVRBR0U1dnBXWTEwX0R6Y0VQSkQwdVhPYUxWZklpU1NHWHlBWXUzNnBuT3h4RW1GdlJS0gHKAUFVX3lxTE5zWGpKdVJJNEpLN0VPT0w1UVRKWVJSc093TXBUNG5YckcteTFPYmtWcUdCUzgyeUotdnhWbFE2em9CWThYUXdkeWJNX2swc0NpdXczMnl2N0NDTGNWVlRVUlFDSng0MWlyRk82UGE2dUhYWEt0NEowclFQb0hOckN3TF9CNW1RTzdSeDJ6QVJiOUozc2FsUVBaNndjcnlGbE52MjFVbnlhZXJfRDNiT3ZnU3QwSnlwUmFyWlpYMk5YbVFpazN1djkwYnc?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-04-02T14:06:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "b8c94e9cbb5b",
       "title": "DBS, Citigroup to help Blackstone\u2019s AirTrunk list Singapore Reit: sources - The Business Times",
       "summary": "DBS, Citigroup to help Blackstone\u2019s AirTrunk list Singapore Reit: sources&nbsp;&nbsp;The Business Times",
@@ -99,9 +62,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "1fe93f57e38b",
-      "title": "Work Commences on 350MW Western Sydney Data Centre - buildaustralia.com.au",
-      "summary": "Work Commences on 350MW Western Sydney Data Centre&nbsp;&nbsp;buildaustralia.com.au",
+      "id": "6294879a7372",
+      "title": "Work Commences on 350MW Western Sydney Data Centre - Build Australia",
+      "summary": "Work Commences on 350MW Western Sydney Data Centre&nbsp;&nbsp;Build Australia",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2RhdFQ2N1FvMUl5TlVyLTZ3eFYxcExtczAyZzVZYzgxUmU0RmgxQ0t1MXlpSmNGWVNlTm4xd0F2a1ZUUHg4M0N6YjF6YUd2eE1UWXVYaGJUZ3Q1R2s2QmZBTjlndGFUYXNTV0pEbUhPb3NVR3ZlTC1jY0pETm5MM1kyclJ1T3FMWWNOWUpxVzJFZDM3TC1VTy1n?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-04-02T04:46:32+00:00",
@@ -118,32 +81,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ1FrLUkwOFgtaDVpa2xhQl8tQ09najl0cWV4VG9ubUN5NUtYWUdiTndFLS1kSUJuSkdiTm9IelpPcTY3Qy01SEJQTjB5bHhrQktoV3hCWjhwU0U5cjBwZl83NlgyREhxUndiNmtmVmtFdnRVTVktRlhSRnNYb3RDeExEcXJ0NEtIRTlqVUJFU0JWWFVXTmt6MlZNWWZ4Uk9f?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-04-02T02:05:44+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
-      "id": "e42889ca6752",
-      "title": "Australia's NextDC breaks ground on Sydney data center - Data Center Dynamics",
-      "summary": "Australia's NextDC breaks ground on Sydney data center&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXFyYXpmUGlJRUQ3d0syY1V4VmhfSzVlVnJfNER0TmlVem9wZUhiMUFkRjZYZzFjZnRNWC1CYmduTTUwX3FoVllvZ01qclZydTNqZ2JmalFxQU1jZl9VNXBTNW9lX2hJd2xhcHRsNUZxR09kVFBrbUVqSEJNWmc0RjIwNHd5eFc4Y2xnMk1jWFRUc0hNOTFMVkMwTThiUQ?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-03-30T15:28:52+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
-      "id": "fdf6f385f2fc",
-      "title": "Australia's NextDC breaks ground on Sydney data center - Data Center Dynamics",
-      "summary": "Australia's NextDC breaks ground on Sydney data center&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXFyYXpmUGlJRUQ3d0syY1V4VmhfSzVlVnJfNER0TmlVem9wZUhiMUFkRjZYZzFjZnRNWC1CYmduTTUwX3FoVllvZ01qclZydTNqZ2JmalFxQU1jZl9VNXBTNW9lX2hJd2xhcHRsNUZxR09kVFBrbUVqSEJNWmc0RjIwNHd5eFc4Y2xnMk1jWFRUc0hNOTFMVkMwTThiUQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-03-30T15:28:52+00:00",
       "tags": [
         "nextdc",
         "nsw"
@@ -178,9 +115,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "437a32874ee6",
-      "title": "Work commences on NEXTDC\u2019s S4 Sydney data centre - insideconstruction.com.au",
-      "summary": "Work commences on NEXTDC\u2019s S4 Sydney data centre&nbsp;&nbsp;insideconstruction.com.au",
+      "id": "02a67817c5d6",
+      "title": "Work commences on NEXTDC\u2019s S4 Sydney data centre - Inside Construction",
+      "summary": "Work commences on NEXTDC\u2019s S4 Sydney data centre&nbsp;&nbsp;Inside Construction",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdTdrN2NEaXJ2RDZrTGJnRDF2blNwNmZfWVEtV0xUeUtKM0RrN2hRaEF6bFA1ZHVIX0thWnRMUnZ2S0RvSzc5YjZaNDJtem44TTE4c2EtazZxNTYxYy1mZUhUanVHajVocFgzM1J6aG9CMWVnb3YycnNUTW9IYVNueWZQTWRGOFFYa3ZTa3dLZzR1RU40cGVCZUNwVjJVLTc3ZUFtLXNn?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-03-30T00:42:32+00:00",
@@ -325,24 +262,36 @@
       "relevance_score": 0.3
     },
     {
-      "id": "1b3463cc6c30",
-      "title": "AirTrunk CEO Robin Khuda snaps up trophy Mosman corner - realcommercial.com.au",
-      "summary": "AirTrunk CEO Robin Khuda snaps up trophy Mosman corner&nbsp;&nbsp;realcommercial.com.au",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTnhLUXJDYUc0dmNJbVpwWUtqLWh2R2RKZzdVUlY5VnhEdDJFdVI2S05xbU5CNWJZYjRGLVZUTTRLUktUMXhVOS1oS1RKeVVzdzNWQ2pxNC11Zm1qdXJoX0Rtb2xTS0RPcXlQdy1ub1ZHUlJrYUI3dlVFU3dxSnRhU19zV1R4SnZCRk14eEFXMzVtakdmNU1Qaw?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-01-30T08:00:00+00:00",
+      "id": "edf0685de873",
+      "title": "Google\u2019s Tabua cable makes landfall in Sydney, Australia - Data Center Dynamics",
+      "summary": "Google\u2019s Tabua cable makes landfall in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZWo0ZE1keWpmU0tzelRBODBVNDlQOHFnVndnR3MzOF9iNXI2c0JkYXBRVWE0SWg3RTVVVDJreGVBR2F2QUJwMVl4ZVlBOHhEU0pKQmNqWDQzc0YzcjA1TDM4ZmRrVGJLR3ZxSjZaQkE1MVNxbWVYdUVveW41bGhvMHVOUzlFYU9yUGRwZ0NsN0FqVWxyNXIzWVU0bkZkNEE?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-02-02T08:00:00+00:00",
       "tags": [
-        "airtrunk"
+        "nsw"
       ],
-      "relevance_score": 0.3
+      "relevance_score": 0.2
     },
     {
-      "id": "67e6fd28b4d0",
-      "title": "SCX.ai debuts sovereign, eco-efficient AI node in Sydney - itbrief.com.au",
-      "summary": "SCX.ai debuts sovereign, eco-efficient AI node in Sydney&nbsp;&nbsp;itbrief.com.au",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmpHVllhcUdHUmpBc1VUQUQxdXR1aXRnNEh5R0Nxa0RzNnhpZGt2NWtFX1BOUXBSUzZnNERGY3BJcXM2ZWV5eUR3NEM5NlF6aXhkUGIxeTc4WHc5blF4UHluYzFITkVzaTgzeHlvYUNEWVg1YmtqVE42WVRIOEwwNlBSdWhXUXdqRHZBNQ?oc=5",
+      "id": "b4cd5232e12c",
+      "title": "SubCo\u2019s SMAP cable lands in Sydney, Australia - Data Center Dynamics",
+      "summary": "SubCo\u2019s SMAP cable lands in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOelVVaXN5RmxmaW9WSFc0M1lWUkl1VjlTcFd1QlB6c1ZYcVM1VHFWZXV4ZWxNUzVEWGFxM2ZxaVFvZU1Va05MNTdWaldwRHFZT3RJY004T25HZEpHQkJtT1A1WW81SGNLRHNkSlVPVXFfTE1RU3paSnBoU3pTWm5WVjNVb1VBWGdoRmlKOElGME4?oc=5",
       "source": "Google News: Sydney DC",
-      "published_at": "2026-01-29T08:00:00+00:00",
+      "published_at": "2026-01-30T08:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "69dd3e8e2d3c",
+      "title": "Goodman files plans for 500 MW Sydney campus as expansion continues - W.Media",
+      "summary": "Goodman files plans for 500 MW Sydney campus as expansion continues&nbsp;&nbsp;W.Media",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS29sYnY5X3BWX3NCRXl6RTNQdXMyMDdEMldhLXNUcm9KelFITGUwRE5UcDFlYnViLURfWklkTnB2RDg0OVNtY1NHZEtETnAweXlzQy1lMzI0NG9YcU9tZ3BSUHc4T0l0cTJZYmpCUUZ0UlFVT21NWTdXd1pFaVRWTFhsU1Y1RU9hVWdhQg?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-01-28T08:00:00+00:00",
       "tags": [
         "nsw"
       ],
