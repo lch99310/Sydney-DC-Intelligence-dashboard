@@ -15,6 +15,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
+import requests
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "public" / "data"
@@ -29,6 +30,15 @@ FEEDS: list[tuple[str, str]] = [
     ("Google News: Sydney DC", "https://news.google.com/rss/search?q=%22data+center%22+Sydney&hl=en-AU&gl=AU&ceid=AU:en"),
     ("AEMO Newsroom", "https://aemo.com.au/rss/news"),
 ]
+
+# NSW Planning Portal major-projects search. Returns HTML; we scrape listing
+# tiles with a forgiving regex. Best-effort — if the page format changes we
+# silently fall back to zero items rather than breaking the whole run.
+NSW_PLANNING_URL = (
+    "https://www.planningportal.nsw.gov.au/major-projects/find-a-major-project"
+    "?searchTerm=data+centre"
+)
+NSW_PLANNING_SOURCE = "NSW Planning Portal"
 
 OPERATOR_TAGS = {
     "airtrunk": ["airtrunk"],
@@ -105,6 +115,73 @@ def tag_item(text: str) -> tuple[list[str], float]:
     return tags, min(score, 1.0)
 
 
+def fetch_nsw_planning() -> list[dict]:
+    """Scrape NSW Planning Portal for data-centre major project applications.
+
+    The portal doesn't expose a stable public JSON feed, so we hit the HTML
+    search page and pull project titles + links with regex. Anything goes
+    wrong → log, return empty list, main run continues.
+    """
+    try:
+        resp = requests.get(
+            NSW_PLANNING_URL,
+            headers={"User-Agent": "Mozilla/5.0 (sydney-dc-dashboard)"},
+            timeout=20,
+        )
+        resp.raise_for_status()
+    except Exception as exc:
+        print(f"[warn] NSW Planning fetch failed: {exc}", file=sys.stderr)
+        return []
+
+    html = resp.text
+    # Look for links of the form /major-projects/projects/<slug> with a title.
+    pattern = re.compile(
+        r'href="(/major-projects/projects/[^"#?]+)"[^>]*>\s*([^<]{5,200})',
+        re.IGNORECASE,
+    )
+    now = datetime.now(timezone.utc).isoformat()
+    items: list[dict] = []
+    seen_local: set[str] = set()
+
+    for match in pattern.finditer(html):
+        path = match.group(1).strip()
+        title = re.sub(r"\s+", " ", match.group(2)).strip()
+        if not title or len(title) < 10:
+            continue
+        if path in seen_local:
+            continue
+        seen_local.add(path)
+
+        lowered = title.lower()
+        if "data" not in lowered and "centre" not in lowered and "center" not in lowered:
+            continue
+
+        url = f"https://www.planningportal.nsw.gov.au{path}"
+        tags, score = tag_item(title)
+        # NSW Planning items are inherently NSW-relevant
+        if "nsw" not in tags:
+            tags.append("nsw")
+            score += 0.2
+        tags.append("planning")
+        score = min(score + 0.2, 1.0)
+
+        items.append({
+            "id": make_id(title, NSW_PLANNING_SOURCE),
+            "title": title,
+            "summary": "NSW State Significant Development — data centre application.",
+            "url": url,
+            "source": NSW_PLANNING_SOURCE,
+            "published_at": now,
+            "tags": sorted(set(tags)),
+            "relevance_score": round(score, 2),
+        })
+        if len(items) >= 20:
+            break
+
+    print(f"[ok] NSW Planning: {len(items)} items", file=sys.stderr)
+    return items
+
+
 def fetch_all() -> list[dict]:
     cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
     seen: set[str] = set()
@@ -148,6 +225,13 @@ def fetch_all() -> list[dict]:
                 "relevance_score": round(score, 2),
             })
 
+    # Extra pass: NSW Planning Portal scrape (HTML, not RSS).
+    for p_item in fetch_nsw_planning():
+        if p_item["id"] in seen:
+            continue
+        seen.add(p_item["id"])
+        items.append(p_item)
+
     items.sort(key=lambda x: x["published_at"], reverse=True)
     return items[:MAX_ITEMS]
 
@@ -161,7 +245,9 @@ def update_metadata(timestamp: str) -> None:
             meta = {}
     meta["news_last_updated"] = timestamp
     meta.setdefault("data_sources", {})
-    meta["data_sources"]["news"] = "RSS: DCD, Urban Developer, Google News, AEMO"
+    meta["data_sources"]["news"] = (
+        "RSS: DCD, Urban Developer, Google News, AEMO; HTML: NSW Planning Portal"
+    )
     META_PATH.write_text(json.dumps(meta, indent=2) + "\n")
 
 

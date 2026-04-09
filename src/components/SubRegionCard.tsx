@@ -1,9 +1,11 @@
+import { lazy, Suspense } from "react";
 import type { SubRegion, Facility, NewsItem, ElectricityData } from "../types";
 import { SUB_REGION_SCORES } from "../data/scorecard-static";
 import { weightedScore, type Weights } from "../utils/scoreCalculator";
 import WeightSliders from "./WeightSliders";
-import ElectricitySection from "./ElectricitySection";
 import NewsSection from "./NewsSection";
+
+const ElectricitySection = lazy(() => import("./ElectricitySection"));
 
 interface Props {
   subRegion: SubRegion;
@@ -83,7 +85,9 @@ export default function SubRegionCard({
         </div>
       </div>
 
-      <ElectricitySection data={electricity} />
+      <Suspense fallback={<div className="text-xs text-slate-500 italic py-4">Loading charts…</div>}>
+        <ElectricitySection data={electricity} />
+      </Suspense>
 
       <NewsSection items={news} subRegion={subRegion} />
     </div>
