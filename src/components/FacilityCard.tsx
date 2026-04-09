@@ -1,8 +1,13 @@
+import { lazy, Suspense } from "react";
 import type { Facility, NewsItem, ElectricityData } from "../types";
 import { SUB_REGION_SCORES } from "../data/scorecard-static";
 import CostCalculator from "./CostCalculator";
 import NewsSection from "./NewsSection";
-import ElectricitySection from "./ElectricitySection";
+
+const ElectricitySection = lazy(() => import("./ElectricitySection"));
+const ChartsFallback = (
+  <div className="text-xs text-slate-500 italic py-4">Loading charts…</div>
+);
 
 const STATUS_LABEL: Record<string, string> = {
   operational: "Operational",
@@ -35,7 +40,9 @@ export default function FacilityCard({ facility, news, electricity }: Props) {
             <div className="flex items-center gap-2"><span className="w-3 h-3 rounded-full bg-blue-600"></span> Planned</div>
           </div>
         </div>
-        <ElectricitySection data={electricity} />
+        <Suspense fallback={ChartsFallback}>
+          <ElectricitySection data={electricity} />
+        </Suspense>
         <NewsSection items={news} />
       </div>
     );
@@ -90,7 +97,9 @@ export default function FacilityCard({ facility, news, electricity }: Props) {
 
       <CostCalculator defaultMw={facility.capacity_mw} />
 
-      <ElectricitySection data={electricity} />
+      <Suspense fallback={ChartsFallback}>
+        <ElectricitySection data={electricity} />
+      </Suspense>
 
       <NewsSection items={news} operatorSlug={facility.operator_slug} subRegion={facility.sub_region} />
 
