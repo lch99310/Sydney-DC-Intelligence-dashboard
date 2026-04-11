@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T07:53:21.896380+00:00",
+  "last_updated": "2026-04-11T07:11:23.670752+00:00",
   "items": [
     {
       "id": "2476038491da",
@@ -133,7 +133,7 @@
       "summary": "AirTrunk, CDC and Equinix back govt data centre rules, NextDC urges execution focus&nbsp;&nbsp;W.Media",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSml1VktfVVlUMnhITmk2NFdmd0pmd1V2R0dLUkE5cHBqYXRJU01yNE4wYVNkSllWN3dQdWswZndjblJGdEFHNXBhSDIzZmVVTGJsZW04SWdPV2hsTXV2b21ORk03c1pxaGtSbHlwNEJYZjZXRTBZTUpjcW1YNW9ubHhQaUtDWVVMdzFzbUNBeUtzbHlnc0kzVVlxN0F1OTA?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-03-24T01:36:00+00:00",
+      "published_at": "2026-03-24T07:00:00+00:00",
       "tags": [
         "airtrunk",
         "cdc",
@@ -217,6 +217,18 @@
       "relevance_score": 0.2
     },
     {
+      "id": "ef5c57d11e82",
+      "title": "Australia's CDC opens data center campus in Melbourne - Data Center Dynamics",
+      "summary": "Australia's CDC opens data center campus in Melbourne&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVFwYW1jallQd18wbEZCMVg3cFVYTm01YnFaQnh1WVBVb3h4UWlDVFBYYWE3ODVybFkxYjRvcWdXQUlYZ0xXUzF4b3lKRkxWRjE0OFlRSTYzdEUwWE1vTEJWOUU0c2hrbEtSTGVLMDJqSHZ0QzUzYm9TV0JiTldZNjBuaGRJNDM2ci1TRVdTbFlHVmY3RXQ4ZW02d1I?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-03-03T08:00:00+00:00",
+      "tags": [
+        "cdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "1d3e0b755300",
       "title": "AirTrunk\u2019s Robin Khuda enters his third act \u2013 finding more cash - AFR",
       "summary": "AirTrunk\u2019s Robin Khuda enters his third act \u2013 finding more cash&nbsp;&nbsp;AFR",
@@ -241,10 +253,10 @@
       "relevance_score": 0.3
     },
     {
-      "id": "bbcbb16872a7",
-      "title": "NextDC lifts contracted capacity 137% in 1H26 - Telecompaper",
-      "summary": "NextDC lifts contracted capacity 137% in 1H26&nbsp;&nbsp;Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmtIMTkxSEZWbGYzY1lpeVh0TDV5VEtRcE5TNENDbDJ6NURiRUJ0VXFydjBSUERiN1lFUjhMR2JFLWJWVWR4SnNQSm02V0FIYURWYVA3dE9yQi0xMmhWQ2dCemdUY2NBZk91Wl9oYWNkalR3Y3RLX1lVejJvTmg4TDJkY29uZkpPb1R3LVdORG8?oc=5",
+      "id": "cad733f9d781",
+      "title": "NextDC plans $2.7b investments to meet data centre demand - AFR",
+      "summary": "NextDC plans $2.7b investments to meet data centre demand&nbsp;&nbsp;AFR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTHRBempkbWhnS2dfeFRXREMwZm5BRWFIU0Zjd1lzajBKdmtCSmtaWDVsTVhZT0tNUHpBNWZtQnlzYU9fVnpIWnVVX1RxNVJVZUhITWZGR25ESlFhQjBSX29INXdMdWtLQmpqRERyXzdwUG5BSzhQUHljQ0pUYVZweTJmeC1HYUU4TW9ZOUJTcU40QVQ0b21MdndUNE84VUN3eGc0a2dR?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-02-25T08:00:00+00:00",
       "tags": [
@@ -289,6 +301,18 @@
       "relevance_score": 0.3
     },
     {
+      "id": "edf0685de873",
+      "title": "Google\u2019s Tabua cable makes landfall in Sydney, Australia - Data Center Dynamics",
+      "summary": "Google\u2019s Tabua cable makes landfall in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZWo0ZE1keWpmU0tzelRBODBVNDlQOHFnVndnR3MzOF9iNXI2c0JkYXBRVWE0SWg3RTVVVDJreGVBR2F2QUJwMVl4ZVlBOHhEU0pKQmNqWDQzc0YzcjA1TDM4ZmRrVGJLR3ZxSjZaQkE1MVNxbWVYdUVveW41bGhvMHVOUzlFYU9yUGRwZ0NsN0FqVWxyNXIzWVU0bkZkNEE?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-02-02T08:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
       "id": "1b3463cc6c30",
       "title": "AirTrunk CEO Robin Khuda snaps up trophy Mosman corner - realcommercial.com.au",
       "summary": "AirTrunk CEO Robin Khuda snaps up trophy Mosman corner&nbsp;&nbsp;realcommercial.com.au",
@@ -325,16 +349,16 @@
       "relevance_score": 0.2
     },
     {
-      "id": "ddf9da2b108d",
-      "title": "AirTrunk inks $1.8b debt package for Malaysian data centre - AFR",
-      "summary": "AirTrunk inks $1.8b debt package for Malaysian data centre&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVB2Y1MxOTJ2eGROdHUxNXNxTUp3dVM2SDJlX2IybmkwcUwzUXctUGZrX1YzMk1TZC1QZzFuakNDQkc5YWF4cFd4RVgzMUczSXN6R3Nnbm1WQXFTbjZtaHBUODhJYktobnNGQkJscUxyckVESjN0YjRYYktiOF82anlsc1F6M2hEYldibzQyZk9rTkVLSFNvUzZzaEpjaDhUaTR6czJLeFA?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-01-27T08:00:00+00:00",
+      "id": "69dd3e8e2d3c",
+      "title": "Goodman files plans for 500 MW Sydney campus as expansion continues - W.Media",
+      "summary": "Goodman files plans for 500 MW Sydney campus as expansion continues&nbsp;&nbsp;W.Media",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS29sYnY5X3BWX3NCRXl6RTNQdXMyMDdEMldhLXNUcm9KelFITGUwRE5UcDFlYnViLURfWklkTnB2RDg0OVNtY1NHZEtETnAweXlzQy1lMzI0NG9YcU9tZ3BSUHc4T0l0cTJZYmpCUUZ0UlFVT21NWTdXd1pFaVRWTFhsU1Y1RU9hVWdhQg?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-01-28T08:00:00+00:00",
       "tags": [
-        "airtrunk"
+        "nsw"
       ],
-      "relevance_score": 0.3
+      "relevance_score": 0.2
     },
     {
       "id": "6082115c6405",
