@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T07:11:23.670752+00:00",
+  "last_updated": "2026-04-12T07:25:14.446867+00:00",
   "items": [
     {
       "id": "2476038491da",
@@ -76,6 +76,19 @@
       "relevance_score": 0.5
     },
     {
+      "id": "9565039cbf07",
+      "title": "NextDC breaks ground on Sydney data centre - Green Street News",
+      "summary": "NextDC breaks ground on Sydney data centre&nbsp;&nbsp;Green Street News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDhsa05HZTdWMUp4NkRCTU90NTB5dGVrcllVd2cxNXlnY29ZWWVZSThhOEtQZDAtSkVlMkl3MDBYVHhUVDFtTjhuTFRpMmc5d0JJM1RyMDVDUnNaN1FLaDZaYkJnUW5WSGprWXYzblhNak9hRjIxTm5KWVNFUGR0bU5BRE82Zw?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-03-31T07:00:00+00:00",
+      "tags": [
+        "nextdc",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
+    {
       "id": "ff7215382886",
       "title": "NEXTDC\u2019s 350MW Western Sydney Data Centre - Australian Property Markets News",
       "summary": "NEXTDC\u2019s 350MW Western Sydney Data Centre&nbsp;&nbsp;Australian Property Markets News",
@@ -128,21 +141,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "b7816918880b",
-      "title": "AirTrunk, CDC and Equinix back govt data centre rules, NextDC urges execution focus - W.Media",
-      "summary": "AirTrunk, CDC and Equinix back govt data centre rules, NextDC urges execution focus&nbsp;&nbsp;W.Media",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSml1VktfVVlUMnhITmk2NFdmd0pmd1V2R0dLUkE5cHBqYXRJU01yNE4wYVNkSllWN3dQdWswZndjblJGdEFHNXBhSDIzZmVVTGJsZW04SWdPV2hsTXV2b21ORk03c1pxaGtSbHlwNEJYZjZXRTBZTUpjcW1YNW9ubHhQaUtDWVVMdzFzbUNBeUtzbHlnc0kzVVlxN0F1OTA?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-03-24T07:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "cdc",
-        "equinix",
-        "nextdc"
-      ],
-      "relevance_score": 1.0
-    },
-    {
       "id": "af046cee0322",
       "title": "AirTrunk tackles grid fears with giant Sydney battery - The Australian",
       "summary": "AirTrunk tackles grid fears with giant Sydney battery&nbsp;&nbsp;The Australian",
@@ -161,6 +159,18 @@
       "title": "Australia's AirTrunk doubles down on Japan with $8bn data center bet - Nikkei Asia",
       "summary": "Australia's AirTrunk doubles down on Japan with $8bn data center bet&nbsp;&nbsp;Nikkei Asia",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYXBGVmlzeDMwRHJaYUxjX1J5SDRNcGM1dUk3Sk1wcVNIR1pfZ3I1SS1ERlF0Q3doUC14RUY1OHBrMTNDV3hXQzV6UVRMRWtMSnpFSTVOam5kbGtnUnBtQ0xheFJSd0dRVW43S2tRMl9pajY5VWtGUjBlbTFkQlBUS0g4am1NR0ZrSERUeENnbzdGcFY4S0piLU1OOHNacnJpSmxlYV9RYjZZY3RlY3I5X2NpeTBfVERKY0Jza1BoSktDYjA3dkRMQW0zUmRtV21s?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-03-13T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "04aa156ee12e",
+      "title": "Australia's data center operator AirTrunk opens new regional headquarters in Singapore - TNGlobal",
+      "summary": "Australia's data center operator AirTrunk opens new regional headquarters in Singapore&nbsp;&nbsp;TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYTk3ZTJWcE1rOGdxZWtRd3lONWJXMmZMRU93eDNKcFAyYWlVN0xZRnByZkNLUFJoa2x0ZG8yNU9tLS1qSU0yV1Z0aV8wREhLRU1ER2k5Wnk2ZGx2d0pvdm5RZzR5NVp4VnM1ZmVZRFJvWUg2ZVMtWTB5emt0VXRMSldkRGZTV3lYUmtxNEtTWGh1TVJjOW91M1ZSalNFVFpVVmt3VWNlbmxtNGpMc0tYcGR3Y2FWel9xZnNRWnZB?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-03-13T07:00:00+00:00",
       "tags": [
@@ -245,18 +255,6 @@
       "title": "NextDC appoints Barrenjoey to lead debt raise to fund data centre ambitions - Capital Brief",
       "summary": "NextDC appoints Barrenjoey to lead debt raise to fund data centre ambitions&nbsp;&nbsp;Capital Brief",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVThNdVpXRGhXS1ZCTnNsc3hzTmJjd3Ixel9BV2gzV183aVljWmlpSzA3b1BOYWdxMkhVd3podG11VDdiWEVXbVgzb0J4SzZvandDVnNTNDhRODBVRllFcF9oVWxPbFJ1Sk9xOWRlRmpJRFBDWGNjTGNadG4wdWdUSGNlN05ZSElpbzVUOFp4RGFOT0pJcTdvNHpEY0MyNGlpbURlQVpjXzkyNmlDUF9Hc1N5S0tzajRueE5NV2VpRjV2WFN2NV9BTEJSQ3JwNHVDQUk1RFVidE56bDg2Y28tOC1wcS1wQQ?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-02-25T08:00:00+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "cad733f9d781",
-      "title": "NextDC plans $2.7b investments to meet data centre demand - AFR",
-      "summary": "NextDC plans $2.7b investments to meet data centre demand&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTHRBempkbWhnS2dfeFRXREMwZm5BRWFIU0Zjd1lzajBKdmtCSmtaWDVsTVhZT0tNUHpBNWZtQnlzYU9fVnpIWnVVX1RxNVJVZUhITWZGR25ESlFhQjBSX29INXdMdWtLQmpqRERyXzdwUG5BSzhQUHljQ0pUYVZweTJmeC1HYUU4TW9ZOUJTcU40QVQ0b21MdndUNE84VUN3eGc0a2dR?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-02-25T08:00:00+00:00",
       "tags": [
@@ -373,6 +371,18 @@
       "relevance_score": 0.2
     },
     {
+      "id": "95b84367fc7f",
+      "title": "Goodman files plans for 500 MW data centre campus in Sydney - Telecompaper",
+      "summary": "Goodman files plans for 500 MW data centre campus in Sydney&nbsp;&nbsp;Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUi1uYkpCNkl5NEZ4bjlVNjJKbUtGVFFyWmMxM0JCVmxNclRjUmwwQ3lmT2lhNGYtbGpBUlY1RU04aTM1SWVmU1IxYmMybG9RSFRCSXVOSkk4V2NjVlRBaUFsWWhlUGk0ZWdNa2JORTZOWDBUZkl3alJPclB1M0VjM3A1Y05uVVhKX01SZktLc2FibTZjOFBnTGVEMVczNFE2WlhkVg?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-01-22T08:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
       "id": "930af6e370b4",
       "title": "Goodman files to develop 90MW data center campus in Sydney, Australia - Data Center Dynamics",
       "summary": "Goodman files to develop 90MW data center campus in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
@@ -397,10 +407,10 @@
       "relevance_score": 0.3
     },
     {
-      "id": "697eace795fb",
-      "title": "Australia\u2019s GreenSquareDC expanding data center in Greater Western Sydney - Data Center Dynamics",
-      "summary": "Australia\u2019s GreenSquareDC expanding data center in Greater Western Sydney&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORy0tTXY0em1NbldhRVd6WmZtNzh1eHVwUkwyYlJJNzFPMl9NME1vUElxU2RoWFh0Wm1FbTBob3dreGJHTlNER2VpdHdaRHVRRUowdjBqYzJNWndjRjhtZjk3Z1phVTFCSXhBOEFqUm9CQlNFRHFUNHYxaVRRWUhVSmxSUVVhZ3M1aUxwNlJNZXRLNzY3UzUzbzVYb1I4WEx0YWVLOXY4Z09JRVRnYTI3YUE2VjdKVlk?oc=5",
+      "id": "bae5fe2e7f20",
+      "title": "Australia\u2019s GreenSquareDC expanding data center in Greater Western Sydney - BeBeez International",
+      "summary": "Australia\u2019s GreenSquareDC expanding data center in Greater Western Sydney&nbsp;&nbsp;BeBeez International",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUXBMOXhmdkNhbURKelBaU2g4dkE0dGJDSjRxOFVGdk5nU091YWRjX1hsa1Bzd1NEeDBJa1ZNczZkOFRYUkZHT0NBRlJKekpuM1RRdHR2MTBpTW1QLThjdlRjOGdtbmJCM3AzNmd3eDZSZ3k0ZTlzbWpuQmRsZnZCZFpQbHp2azdRVTFaWWU3UlBTVTh0VkZmRVAxYWNGRXZkckR3aw?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-01-15T08:00:00+00:00",
       "tags": [
