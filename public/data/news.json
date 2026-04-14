@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T08:16:21.546474+00:00",
+  "last_updated": "2026-04-14T07:58:51.034460+00:00",
   "items": [
     {
       "id": "2476038491da",
@@ -31,7 +31,7 @@
       "summary": "NSW urged to freeze approvals for $41b data centre pipeline&nbsp;&nbsp;AFR",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmRJZ2ppWEJOM3hJb0pCcDAtYXQ3cEZvcGZWejF0OXl4bFAxMkJMekdFY0J4VVJLeXd0WXgzb0VidUVFbzd0WmlLT3JDZnF3UXVHWi1zVEwtMFl5R2lNZkl3ckYyM2lycjhSOTZ2VXUyY0EtMXVGaFkydWJabGRMR3lyYW9TLVEway1DdXItWERQbXFBQ1E?oc=5",
       "source": "Google News: NEXTDC",
-      "published_at": "2026-04-05T02:45:00+00:00",
+      "published_at": "2026-04-05T07:00:00+00:00",
       "tags": [
         "nsw"
       ],
@@ -166,6 +166,18 @@
       "relevance_score": 0.3
     },
     {
+      "id": "d0a54abda178",
+      "title": "Billionaire Robin Khuda\u2019s AirTrunk Taps $1.2 Billion Loan To Expand Tokyo Data Center - Forbes",
+      "summary": "Billionaire Robin Khuda\u2019s AirTrunk Taps $1.2 Billion Loan To Expand Tokyo Data Center&nbsp;&nbsp;Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVJDR3Z6WFFBd0I5RG12c19PX0l3NXY5OG1tLXg5NUliQ1kxeUJmaXNJa1M5eDFKR2lvMGtIUXhPejlPS29xNUFPMldMLTRvWkVzMEdfV2pHamxtYWh4NmVZbmkyVHNaVVhIdUllbGlVTTlHNzhvQ3owLWx1bjliS2lyVFYtV2Q3am0yWUlucHZHU1BzM083QUwyOVpiUW95MkFCckJsS2pkNkh5dHJoQjRENzVZUXA3RmRQYzF1X2xBd2MzYlhlbU5ReThfTEZIUHV3NQ?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-03-10T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "7c3573e8de86",
       "title": "Sydney-Based Iren Orders 50,000 Nvidia GPUs to Supercharge AI Data Center Expansion - Crypto News Australia",
       "summary": "Sydney-Based Iren Orders 50,000 Nvidia GPUs to Supercharge AI Data Center Expansion&nbsp;&nbsp;Crypto News Australia",
@@ -238,18 +250,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "5045d7a70f2a",
-      "title": "Australia Data Centre Construction Industry Report 2025 Featuring AirTrunk , Multiplex Constructions, Fujitsu, Procore Technologies, Kapitol, Nilsen, Kajima, and DXN - Growth Analysis Forecast to 2034 - Yahoo Finance",
-      "summary": "Australia Data Centre Construction Industry Report 2025 Featuring AirTrunk , Multiplex Constructions, Fujitsu, Procore Technologies, Kapitol, Nilsen, Kajima, and DXN - Growth Analysis Forecast to 2034",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOckRKazMtUVhCTXVKb3pHald3UTBGMXpaT1E5NDlnZzQ4YU04c1RCS3lydGFuTWMwN2x5NnVlclUxQTlWVEw3YlRJeGxGYUNyR3AxcmRnUlhhdmtLSkt5X2l4bHVFVGQ1RndfaTdYZGVkWExQZEdCU1FnQkxwS2VpNU9JM2V3ZWNZdlc0TXI1Wl9SUXc?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-02-19T08:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "33d5c69238ff",
       "title": "AirTrunk fires starting pistol as AI bond bonanza reaches Down Under - AFR",
       "summary": "AirTrunk fires starting pistol as AI bond bonanza reaches Down Under&nbsp;&nbsp;AFR",
@@ -316,6 +316,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmpHVllhcUdHUmpBc1VUQUQxdXR1aXRnNEh5R0Nxa0RzNnhpZGt2NWtFX1BOUXBSUzZnNERGY3BJcXM2ZWV5eUR3NEM5NlF6aXhkUGIxeTc4WHc5blF4UHluYzFITkVzaTgzeHlvYUNEWVg1YmtqVE42WVRIOEwwNlBSdWhXUXdqRHZBNQ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-01-29T08:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "69dd3e8e2d3c",
+      "title": "Goodman files plans for 500 MW Sydney campus as expansion continues - W.Media",
+      "summary": "Goodman files plans for 500 MW Sydney campus as expansion continues&nbsp;&nbsp;W.Media",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS29sYnY5X3BWX3NCRXl6RTNQdXMyMDdEMldhLXNUcm9KelFITGUwRE5UcDFlYnViLURfWklkTnB2RDg0OVNtY1NHZEtETnAweXlzQy1lMzI0NG9YcU9tZ3BSUHc4T0l0cTJZYmpCUUZ0UlFVT21NWTdXd1pFaVRWTFhsU1Y1RU9hVWdhQg?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-01-28T08:00:00+00:00",
       "tags": [
         "nsw"
       ],
