@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T07:59:49.486637+00:00",
+  "last_updated": "2026-04-16T07:59:17.923211+00:00",
   "items": [
     {
       "id": "2476038491da",
@@ -19,23 +19,11 @@
       "summary": "ASX misses the data boat as AirTrunk flies to Singapore&nbsp;&nbsp;AFR",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFlKYTVUbm5LcDJ3dDZnck5jYS14LVBzOFZQVDBHSTllLWtfZU1xbXAwNVNUMVNXQmJkcXRLaGZKcUpGeVFmakt1R2NVeC13WFZBZEJtR3lBWjdDOTNMOWtQRzQyUkdmaFhHaFBGNC0xM2E3ejVDQU5HczUwa3NIUVNwQkZRZnc2UTdBU2pXWUJIX1Z0OHZkb1lvV1kzR2FGYzJ3WEtB?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-04-06T08:15:00+00:00",
+      "published_at": "2026-04-06T07:00:00+00:00",
       "tags": [
         "airtrunk"
       ],
       "relevance_score": 0.3
-    },
-    {
-      "id": "27fdbfd7fc47",
-      "title": "NSW urged to freeze approvals for $41b data centre pipeline - AFR",
-      "summary": "NSW urged to freeze approvals for $41b data centre pipeline&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmRJZ2ppWEJOM3hJb0pCcDAtYXQ3cEZvcGZWejF0OXl4bFAxMkJMekdFY0J4VVJLeXd0WXgzb0VidUVFbzd0WmlLT3JDZnF3UXVHWi1zVEwtMFl5R2lNZkl3ckYyM2lycjhSOTZ2VXUyY0EtMXVGaFkydWJabGRMR3lyYW9TLVEway1DdXItWERQbXFBQ1E?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-04-05T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
     },
     {
       "id": "508a71d1111c",
@@ -81,6 +69,19 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDhsa05HZTdWMUp4NkRCTU90NTB5dGVrcllVd2cxNXlnY29ZWWVZSThhOEtQZDAtSkVlMkl3MDBYVHhUVDFtTjhuTFRpMmc5d0JJM1RyMDVDUnNaN1FLaDZaYkJnUW5WSGprWXYzblhNak9hRjIxTm5KWVNFUGR0bU5BRE82Zw?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-03-31T07:00:00+00:00",
+      "tags": [
+        "nextdc",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
+    {
+      "id": "6440f624da2d",
+      "title": "NextDC starts work on S4 Sydney data centre - ARNnet",
+      "summary": "NextDC starts work on S4 Sydney data centre&nbsp;&nbsp;ARNnet",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTYtWVE1NVhqeVBHTTN2SFpmWmpJd19TU09wWVBMSGtPUEhJM19Wc1Q3aGgzLTZ4M2pIckpSc0xnX2ItTDJaYjh4NGZ6OFV3bXVrRWFUeU1vZ0htQ1duM3ZiTmExVHpzUWFyRVBGX2hwN2lLMHgxOXhrYWRNLThKMlNmZll6MWJYb2I2bGhVeEdKLXd6?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-03-30T07:00:00+00:00",
       "tags": [
         "nextdc",
         "nsw"
@@ -139,19 +140,6 @@
         "western_sydney"
       ],
       "relevance_score": 0.7
-    },
-    {
-      "id": "6440f624da2d",
-      "title": "NextDC starts work on S4 Sydney data centre - ARNnet",
-      "summary": "NextDC starts work on S4 Sydney data centre&nbsp;&nbsp;ARNnet",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTYtWVE1NVhqeVBHTTN2SFpmWmpJd19TU09wWVBMSGtPUEhJM19Wc1Q3aGgzLTZ4M2pIckpSc0xnX2ItTDJaYjh4NGZ6OFV3bXVrRWFUeU1vZ0htQ1duM3ZiTmExVHpzUWFyRVBGX2hwN2lLMHgxOXhrYWRNLThKMlNmZll6MWJYb2I2bGhVeEdKLXd6?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-03-30T04:13:00+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
     },
     {
       "id": "c7dba47cc7d4",
@@ -248,6 +236,18 @@
       "published_at": "2026-03-01T08:00:00+00:00",
       "tags": [
         "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "cad733f9d781",
+      "title": "NextDC plans $2.7b investments to meet data centre demand - AFR",
+      "summary": "NextDC plans $2.7b investments to meet data centre demand&nbsp;&nbsp;AFR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTHRBempkbWhnS2dfeFRXREMwZm5BRWFIU0Zjd1lzajBKdmtCSmtaWDVsTVhZT0tNUHpBNWZtQnlzYU9fVnpIWnVVX1RxNVJVZUhITWZGR25ESlFhQjBSX29INXdMdWtLQmpqRERyXzdwUG5BSzhQUHljQ0pUYVZweTJmeC1HYUU4TW9ZOUJTcU40QVQ0b21MdndUNE84VUN3eGc0a2dR?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-02-25T08:00:00+00:00",
+      "tags": [
+        "nextdc"
       ],
       "relevance_score": 0.3
     },
@@ -394,19 +394,6 @@
         "airtrunk"
       ],
       "relevance_score": 0.3
-    },
-    {
-      "id": "697eace795fb",
-      "title": "Australia\u2019s GreenSquareDC expanding data center in Greater Western Sydney - Data Center Dynamics",
-      "summary": "Australia\u2019s GreenSquareDC expanding data center in Greater Western Sydney&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORy0tTXY0em1NbldhRVd6WmZtNzh1eHVwUkwyYlJJNzFPMl9NME1vUElxU2RoWFh0Wm1FbTBob3dreGJHTlNER2VpdHdaRHVRRUowdjBqYzJNWndjRjhtZjk3Z1phVTFCSXhBOEFqUm9CQlNFRHFUNHYxaVRRWUhVSmxSUVVhZ3M1aUxwNlJNZXRLNzY3UzUzbzVYb1I4WEx0YWVLOXY4Z09JRVRnYTI3YUE2VjdKVlk?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "tags": [
-        "nsw",
-        "western_sydney"
-      ],
-      "relevance_score": 0.4
     }
   ]
 }
