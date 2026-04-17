@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-16T07:59:17.923211+00:00",
+  "last_updated": "2026-04-17T08:00:46.835704+00:00",
   "items": [
+    {
+      "id": "dc5dd11a0dc8",
+      "title": "Amazon inks nine PPAs in Australia for 430MW of power",
+      "summary": "Include the company's first contracted battery energy storage capacity outside of the US market",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-inks-nine-ppas-in-australia-for-430mw-of-power/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-04-16T08:57:27+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
     {
       "id": "2476038491da",
       "title": "Stockland files to build 168MW data center in Sydney, Australia - Data Center Dynamics",
@@ -24,6 +36,18 @@
         "airtrunk"
       ],
       "relevance_score": 0.3
+    },
+    {
+      "id": "27fdbfd7fc47",
+      "title": "NSW urged to freeze approvals for $41b data centre pipeline - AFR",
+      "summary": "NSW urged to freeze approvals for $41b data centre pipeline&nbsp;&nbsp;AFR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmRJZ2ppWEJOM3hJb0pCcDAtYXQ3cEZvcGZWejF0OXl4bFAxMkJMekdFY0J4VVJLeXd0WXgzb0VidUVFbzd0WmlLT3JDZnF3UXVHWi1zVEwtMFl5R2lNZkl3ckYyM2lycjhSOTZ2VXUyY0EtMXVGaFkydWJabGRMR3lyYW9TLVEway1DdXItWERQbXFBQ1E?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-04-05T07:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
     },
     {
       "id": "508a71d1111c",
@@ -55,7 +79,7 @@
       "summary": "NextDC $1.1bn Data Centre Under Way in Sydney\u2019s West&nbsp;&nbsp;The Urban Developer",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ1FrLUkwOFgtaDVpa2xhQl8tQ09najl0cWV4VG9ubUN5NUtYWUdiTndFLS1kSUJuSkdiTm9IelpPcTY3Qy01SEJQTjB5bHhrQktoV3hCWjhwU0U5cjBwZl83NlgyREhxUndiNmtmVmtFdnRVTVktRlhSRnNYb3RDeExEcXJ0NEtIRTlqVUJFU0JWWFVXTmt6MlZNWWZ4Uk9f?oc=5",
       "source": "Google News: NEXTDC",
-      "published_at": "2026-04-02T02:05:44+00:00",
+      "published_at": "2026-04-01T07:00:00+00:00",
       "tags": [
         "nextdc",
         "nsw"
@@ -180,6 +204,18 @@
       "relevance_score": 0.3
     },
     {
+      "id": "a5cdf61225f8",
+      "title": "Data centre giant AirTrunk bets big on Singapore, mulls Reit IPO among other capital-raising options - The Business Times",
+      "summary": "Data centre giant AirTrunk bets big on Singapore, mulls Reit IPO among other capital-raising options&nbsp;&nbsp;The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0JmVnk0TG9DQ3J0T0Z3X2syVVlIQzRtWHM2NHYwbFpEV0NyTzRGTnV5blp2QW5XSHhIR3NyUHdWbnNGMm1UdXBIOUEzSW9xdW5yOVRtZTZvNHJxYTA3OHBBTlBwSllaRVlSVDBjZFZNcGN5eEdISDhVTlM3Mk5xNnowU3ZwcG9sVFBSYm1uS3VWTFREZFYyX2xjX1ZQN2J0QXc2Z2VoRVp3R29FWFcyOVhmYnRoWVlaWFFRRjY4dFpzZDZkZEtXbnBYazB2YjRXcjdRa29IUDh4cmFCZlJpQWtmdGU?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-03-13T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "7c3573e8de86",
       "title": "Sydney-Based Iren Orders 50,000 Nvidia GPUs to Supercharge AI Data Center Expansion - Crypto News Australia",
       "summary": "Sydney-Based Iren Orders 50,000 Nvidia GPUs to Supercharge AI Data Center Expansion&nbsp;&nbsp;Crypto News Australia",
@@ -264,18 +300,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "bbcbb16872a7",
-      "title": "NextDC lifts contracted capacity 137% in 1H26 - Telecompaper",
-      "summary": "NextDC lifts contracted capacity 137% in 1H26&nbsp;&nbsp;Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmtIMTkxSEZWbGYzY1lpeVh0TDV5VEtRcE5TNENDbDJ6NURiRUJ0VXFydjBSUERiN1lFUjhMR2JFLWJWVWR4SnNQSm02V0FIYURWYVA3dE9yQi0xMmhWQ2dCemdUY2NBZk91Wl9oYWNkalR3Y3RLX1lVejJvTmg4TDJkY29uZkpPb1R3LVdORG8?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-02-25T08:00:00+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "33d5c69238ff",
       "title": "AirTrunk fires starting pistol as AI bond bonanza reaches Down Under - AFR",
       "summary": "AirTrunk fires starting pistol as AI bond bonanza reaches Down Under&nbsp;&nbsp;AFR",
@@ -342,6 +366,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmpHVllhcUdHUmpBc1VUQUQxdXR1aXRnNEh5R0Nxa0RzNnhpZGt2NWtFX1BOUXBSUzZnNERGY3BJcXM2ZWV5eUR3NEM5NlF6aXhkUGIxeTc4WHc5blF4UHluYzFITkVzaTgzeHlvYUNEWVg1YmtqVE42WVRIOEwwNlBSdWhXUXdqRHZBNQ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-01-29T08:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "69dd3e8e2d3c",
+      "title": "Goodman files plans for 500 MW Sydney campus as expansion continues - W.Media",
+      "summary": "Goodman files plans for 500 MW Sydney campus as expansion continues&nbsp;&nbsp;W.Media",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS29sYnY5X3BWX3NCRXl6RTNQdXMyMDdEMldhLXNUcm9KelFITGUwRE5UcDFlYnViLURfWklkTnB2RDg0OVNtY1NHZEtETnAweXlzQy1lMzI0NG9YcU9tZ3BSUHc4T0l0cTJZYmpCUUZ0UlFVT21NWTdXd1pFaVRWTFhsU1Y1RU9hVWdhQg?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-01-28T08:00:00+00:00",
       "tags": [
         "nsw"
       ],
