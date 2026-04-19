@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T07:20:16.854002+00:00",
+  "last_updated": "2026-04-19T07:40:53.434560+00:00",
   "items": [
     {
       "id": "eebb9f795d93",
@@ -62,6 +62,18 @@
       "relevance_score": 0.3
     },
     {
+      "id": "27fdbfd7fc47",
+      "title": "NSW urged to freeze approvals for $41b data centre pipeline - AFR",
+      "summary": "NSW urged to freeze approvals for $41b data centre pipeline&nbsp;&nbsp;AFR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmRJZ2ppWEJOM3hJb0pCcDAtYXQ3cEZvcGZWejF0OXl4bFAxMkJMekdFY0J4VVJLeXd0WXgzb0VidUVFbzd0WmlLT3JDZnF3UXVHWi1zVEwtMFl5R2lNZkl3ckYyM2lycjhSOTZ2VXUyY0EtMXVGaFkydWJabGRMR3lyYW9TLVEway1DdXItWERQbXFBQ1E?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-04-05T07:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
       "id": "508a71d1111c",
       "title": "Former Exodus data center in Sydney, Australia, to be replaced with 70MW facility - Data Center Dynamics",
       "summary": "Former Exodus data center in Sydney, Australia, to be replaced with 70MW facility&nbsp;&nbsp;Data Center Dynamics",
@@ -80,19 +92,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ1FrLUkwOFgtaDVpa2xhQl8tQ09najl0cWV4VG9ubUN5NUtYWUdiTndFLS1kSUJuSkdiTm9IelpPcTY3Qy01SEJQTjB5bHhrQktoV3hCWjhwU0U5cjBwZl83NlgyREhxUndiNmtmVmtFdnRVTVktRlhSRnNYb3RDeExEcXJ0NEtIRTlqVUJFU0JWWFVXTmt6MlZNWWZ4Uk9f?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-04-01T07:00:00+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
-      "id": "9565039cbf07",
-      "title": "NextDC breaks ground on Sydney data centre - Green Street News",
-      "summary": "NextDC breaks ground on Sydney data centre&nbsp;&nbsp;Green Street News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDhsa05HZTdWMUp4NkRCTU90NTB5dGVrcllVd2cxNXlnY29ZWWVZSThhOEtQZDAtSkVlMkl3MDBYVHhUVDFtTjhuTFRpMmc5d0JJM1RyMDVDUnNaN1FLaDZaYkJnUW5WSGprWXYzblhNak9hRjIxTm5KWVNFUGR0bU5BRE82Zw?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-03-31T07:00:00+00:00",
       "tags": [
         "nextdc",
         "nsw"
@@ -176,6 +175,20 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "9f9c7bb626fc",
+      "title": "NextDC circles second western Sydney data centre play - Green Street News",
+      "summary": "NextDC circles second western Sydney data centre play&nbsp;&nbsp;Green Street News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQklwYXlhTC00bThTUnFVa2ZpUmZoY2ZCb0diTXpMeTJxMGh4OFdGWDk4WWlKQTk3VFJHRlhFTXF3NzI4WkNJS2kzV3BlVDF0eHB4T1N5b29IdGE0bGV4MGIwSER4Ul9iRVRHRTcxVU9FSmludjFQaGxhNG9WQWoyU0FKTVlIMFN5ZTNYODVVdWlVM0E3?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-03-20T07:00:00+00:00",
+      "tags": [
+        "nextdc",
+        "nsw",
+        "western_sydney"
+      ],
+      "relevance_score": 0.7
     },
     {
       "id": "af046cee0322",
@@ -288,18 +301,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "cad733f9d781",
-      "title": "NextDC plans $2.7b investments to meet data centre demand - AFR",
-      "summary": "NextDC plans $2.7b investments to meet data centre demand&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTHRBempkbWhnS2dfeFRXREMwZm5BRWFIU0Zjd1lzajBKdmtCSmtaWDVsTVhZT0tNUHpBNWZtQnlzYU9fVnpIWnVVX1RxNVJVZUhITWZGR25ESlFhQjBSX29INXdMdWtLQmpqRERyXzdwUG5BSzhQUHljQ0pUYVZweTJmeC1HYUU4TW9ZOUJTcU40QVQ0b21MdndUNE84VUN3eGc0a2dR?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-02-25T08:00:00+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "7e80fbf4b24d",
       "title": "NextDC appoints Barrenjoey to lead debt raise to fund data centre ambitions - Capital Brief",
       "summary": "NextDC appoints Barrenjoey to lead debt raise to fund data centre ambitions&nbsp;&nbsp;Capital Brief",
@@ -336,18 +337,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "03847c2000cb",
-      "title": "AirTrunk appoints Hugh Baggie to lead new capital partnerships role - Telecompaper",
-      "summary": "AirTrunk appoints Hugh Baggie to lead new capital partnerships role&nbsp;&nbsp;Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWlEtN2RnWW5FWVFaQXZBZnIyQXA4RHV4czdyVURNRUdwemxTM2pyVFBKS1VBdXVLbHZ6N21HcU1UZHFzX2ZYSlV0LVNxTlg4bktSa0UwWmtzOEk4eFExUVdwRktjY1RKRlJJOGxidGpPU3NGVkhMdFllV0tEeHVvVlhVdU5hYzZ4MkI3Sk1vcGhrTWpNY3pGSTgyTEQzZEJZTzdxTGM3V2gyLXoydDBv?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-02-08T08:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "c99a961fb506",
       "title": "AirTrunk founder buys landmark Mosman corner in rare village deal - CommercialRealEstate.com.au",
       "summary": "AirTrunk founder buys landmark Mosman corner in rare village deal&nbsp;&nbsp;CommercialRealEstate.com.au",
@@ -372,6 +361,18 @@
       "relevance_score": 0.2
     },
     {
+      "id": "1b3463cc6c30",
+      "title": "AirTrunk CEO Robin Khuda snaps up trophy Mosman corner - realcommercial.com.au",
+      "summary": "AirTrunk CEO Robin Khuda snaps up trophy Mosman corner&nbsp;&nbsp;realcommercial.com.au",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTnhLUXJDYUc0dmNJbVpwWUtqLWh2R2RKZzdVUlY5VnhEdDJFdVI2S05xbU5CNWJZYjRGLVZUTTRLUktUMXhVOS1oS1RKeVVzdzNWQ2pxNC11Zm1qdXJoX0Rtb2xTS0RPcXlQdy1ub1ZHUlJrYUI3dlVFU3dxSnRhU19zV1R4SnZCRk14eEFXMzVtakdmNU1Qaw?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-01-30T08:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "b4cd5232e12c",
       "title": "SubCo\u2019s SMAP cable lands in Sydney, Australia - Data Center Dynamics",
       "summary": "SubCo\u2019s SMAP cable lands in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
@@ -384,28 +385,16 @@
       "relevance_score": 0.2
     },
     {
-      "id": "3967837b15b5",
-      "title": "SCX.ai debuts sovereign, eco-efficient AI node in Sydney - IT Brief Australia",
-      "summary": "SCX.ai debuts sovereign, eco-efficient AI node in Sydney&nbsp;&nbsp;IT Brief Australia",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmpHVllhcUdHUmpBc1VUQUQxdXR1aXRnNEh5R0Nxa0RzNnhpZGt2NWtFX1BOUXBSUzZnNERGY3BJcXM2ZWV5eUR3NEM5NlF6aXhkUGIxeTc4WHc5blF4UHluYzFITkVzaTgzeHlvYUNEWVg1YmtqVE42WVRIOEwwNlBSdWhXUXdqRHZBNQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-01-29T08:00:00+00:00",
+      "id": "69dd3e8e2d3c",
+      "title": "Goodman files plans for 500 MW Sydney campus as expansion continues - W.Media",
+      "summary": "Goodman files plans for 500 MW Sydney campus as expansion continues&nbsp;&nbsp;W.Media",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS29sYnY5X3BWX3NCRXl6RTNQdXMyMDdEMldhLXNUcm9KelFITGUwRE5UcDFlYnViLURfWklkTnB2RDg0OVNtY1NHZEtETnAweXlzQy1lMzI0NG9YcU9tZ3BSUHc4T0l0cTJZYmpCUUZ0UlFVT21NWTdXd1pFaVRWTFhsU1Y1RU9hVWdhQg?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-01-28T08:00:00+00:00",
       "tags": [
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "ddf9da2b108d",
-      "title": "AirTrunk inks $1.8b debt package for Malaysian data centre - AFR",
-      "summary": "AirTrunk inks $1.8b debt package for Malaysian data centre&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVB2Y1MxOTJ2eGROdHUxNXNxTUp3dVM2SDJlX2IybmkwcUwzUXctUGZrX1YzMk1TZC1QZzFuakNDQkc5YWF4cFd4RVgzMUczSXN6R3Nnbm1WQXFTbjZtaHBUODhJYktobnNGQkJscUxyckVESjN0YjRYYktiOF82anlsc1F6M2hEYldibzQyZk9rTkVLSFNvUzZzaEpjaDhUaTR6czJLeFA?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-01-27T08:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "6082115c6405",
@@ -414,18 +403,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS2g0VG5ycmRTRTNnU2NPQ3pIRVVGSWRKdXJUaFdrTHdKejVRckRCa0dDMU9YVUs3cXc2Z1RxVktjVFlManA2blJkbkZFRmdqR0hPQ1pqcFhSS2N0aThjTUZSVHRnWDFtZmRYakxWOEJUNmZwTXp1VlVFZ1NTejUwR184YVh3RFk?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-01-23T08:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "95b84367fc7f",
-      "title": "Goodman files plans for 500 MW data centre campus in Sydney - Telecompaper",
-      "summary": "Goodman files plans for 500 MW data centre campus in Sydney&nbsp;&nbsp;Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUi1uYkpCNkl5NEZ4bjlVNjJKbUtGVFFyWmMxM0JCVmxNclRjUmwwQ3lmT2lhNGYtbGpBUlY1RU04aTM1SWVmU1IxYmMybG9RSFRCSXVOSkk4V2NjVlRBaUFsWWhlUGk0ZWdNa2JORTZOWDBUZkl3alJPclB1M0VjM3A1Y05uVVhKX01SZktLc2FibTZjOFBnTGVEMVczNFE2WlhkVg?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-01-22T08:00:00+00:00",
       "tags": [
         "nsw"
       ],
