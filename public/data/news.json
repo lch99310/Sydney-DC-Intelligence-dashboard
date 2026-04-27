@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-04-26T07:49:16.623949+00:00",
+  "last_updated": "2026-04-27T08:37:43.239253+00:00",
   "items": [
+    {
+      "id": "7be9e0fe226d",
+      "title": "Mallesons steers NEXTDC\u2019s USD1.5bn data centre capital raise - Law.asia",
+      "summary": "Mallesons steers NEXTDC\u2019s USD1.5bn data centre capital raise&nbsp;&nbsp;Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zSnZsU2tCbXpvNmNXUnJOTGJ6ZWFKZnZpYkJjYTVnQkJuM25zelRUVE9GMTZSLUIzSUkzQ2d0d01sYk5Danl2V1JOSUJvbEtNNmo3S3lybHpXMXI1cndxdnZrakhHWXhHdUI2Zg?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-04-27T05:42:56+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "908f6a4aba4c",
+      "title": "Sponsored: Data center dilemma: How hyperscalers can meet AI-driven timelines without limiting renewable energy options",
+      "summary": "By treating the control and data architecture as a core component of the build, rather than an afterthought, operators can move quickly today without sacrificing flexibility tomorrow",
+      "url": "https://www.datacenterdynamics.com/en/opinions/data-center-dilemma-how-hyperscalers-can-meet-ai-driven-timelines-without-limiting-renewable-energy-options/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-04-25T07:00:00+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
     {
       "id": "81821ff09710",
       "title": "Brunswick Real Estate files to build data center outside Helsinki, Finland",
@@ -12,6 +36,18 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "1167c23e9d75",
+      "title": "NextDC expands data centre war chest to $6.6b after latest raise - AFR",
+      "summary": "NextDC expands data centre war chest to $6.6b after latest raise&nbsp;&nbsp;AFR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlhOY00yU0NaMDItcnR1THFOMDJwLVhWODhxdFE2RE83ZUxRZ3A3a1k0X04tYlNqVlNHd25TUlU0ZXc0YndZOHktN2Zyci1tdWJ6UjFYSnl6TGtDQ1dnMnNQa2RJS3E0a0pkbDFUZzV2SzFfUm9IY0pHQ1FwdUdob3F6RXBQMGMzUXd4akktbzVJRVRHbzI3TUVZQ3lLS0VLWmR1aHRYSWFILWhBLTNj?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-04-24T02:42:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "2d8f3c14c247",
@@ -27,9 +63,9 @@
       "relevance_score": 0.4
     },
     {
-      "id": "3f7f5a8f88ff",
-      "title": "Blackstone\u2019s AirTrunk plans its first data centre-backed bond - The Business Times",
-      "summary": "Blackstone\u2019s AirTrunk plans its first data centre-backed bond&nbsp;&nbsp;The Business Times",
+      "id": "5122db6dac53",
+      "title": "Blackstone\u2019s AirTrunk plans its first data centre-backed bond - businesstimes.com.sg",
+      "summary": "Blackstone\u2019s AirTrunk plans its first data centre-backed bond&nbsp;&nbsp;businesstimes.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWDg4SndxNHVQSjNjdjN0WHlhQkQ5SXFqMzBhTVBYZVVCeVZyQi1aM3A0a0FXM0Q3RDV0WXNnOXpHMFdfdUNkOV92ODFiUkM0WWFlV2VWMkstckRja0pTRXFsWlM2QjJRY0NncjlCbnI2aF9YM0pEQzQ0MXpUNzZXTkFMTWthZkhFNXo2UTAycnVGcE1wYUVpZG5rWVZHYWRVbFdtVGRnR0FRbzJreVMwZUdMT3BjVjdPMmltUGVuV3RfMjdTcndxTQ?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-04-22T05:08:00+00:00",
@@ -52,9 +88,9 @@
       "relevance_score": 0.6
     },
     {
-      "id": "143204613613",
-      "title": "Blackstone\u2019s AirTrunk Plans Its First Data Center-Backed Bond - Bloomberg.com",
-      "summary": "Blackstone\u2019s AirTrunk Plans Its First Data Center-Backed Bond&nbsp;&nbsp;Bloomberg.com",
+      "id": "67777dbe709b",
+      "title": "Blackstone\u2019s AirTrunk Plans Its First Data Center-Backed Bond - Bloomberg",
+      "summary": "Blackstone\u2019s AirTrunk Plans Its First Data Center-Backed Bond&nbsp;&nbsp;Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdVpMMVJpdmxmWDkybFNXRUZTaHYzZTFabHRid2VMWUMyX3diQ1V6V1M2LXB5UnprT3pBeXdXaHgwVVgxLTgzUlNTZkpkOFhIQjhHeDNHbloxZFZoMmdmSm43SlhzemdLTkdadDZuUWpZZ181Y3haVmp0ZktSQmRNX1ltZkFZZzduem84Qm5hSzJrTHNFMjZrNTc3V2RvckQ3VlItZnNQbmNWcE5hbDFueU9n?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-04-22T00:28:00+00:00",
@@ -139,12 +175,12 @@
       "relevance_score": 0.5
     },
     {
-      "id": "dd6e8ce14fe9",
-      "title": "Aussie data center firm NextDC secures 250MW data center deals, set to raise more than AU$1.5 billion via new shares - Data Center Dynamics",
-      "summary": "Aussie data center firm NextDC secures 250MW data center deals, set to raise more than AU$1.5 billion via new shares&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWldEeE1IbFc5OEljQzc1Q0VEcWtYZ19oYUh2bWJ5S1JEbUFWLWtudVNSLXZOZUd4YmRWR3FiUjJvTGQ2Rk82dG1UUGhmSTV6VjdfZmxnTXBYcm5HcWFzbWRCRHRQeDhVc25PMlY3YjFSSHNjQmxOV0htMGpQM19vLWxnN09RdW1KX0phakdlemxNVm5jWEI2V0tMc1oxUExHT3JfZWE5V294R0dVeTlPWFp6YTJUZGRYN2Y2QUNWN2luREVaWXpjMjlvbldZRjZLTEpmN2FCcjQ5UWhRSC10ak1kbEJhSHJDaVVENFRn?oc=5",
+      "id": "39fe4311e31e",
+      "title": "Australia\u2019s NextDC Unveils $1.6B Capital Plan as La Caisse Upsizes Commitment - Mingtiandi",
+      "summary": "Australia\u2019s NextDC Unveils $1.6B Capital Plan as La Caisse Upsizes Commitment&nbsp;&nbsp;Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc09PM21YUGo0Y1pxdUgwVEVYekM5bFRpeEZvb0xXM08zQUxfX2J3N3N0ZVRYRjdlU2djMm1ib0tOZnIycDZWaDhYQVJ3MEo2X1FfY2Q5YmJNbDM4VkhJcXJMWEFKS1FmOFNmOENQaEpKNnkxbTluQjc3U2FIRF9XeVZ3WEdDNUtBY1UxSW45RWNwYmpaU2MtQTVDelFGanUydF9YaFB6ampKZ3ZHZGtOZ0xSeUFDVExwWHVFMWNsVllJUzRRbU1j?oc=5",
       "source": "Google News: NEXTDC",
-      "published_at": "2026-04-20T13:18:07+00:00",
+      "published_at": "2026-04-20T13:26:40+00:00",
       "tags": [
         "nextdc"
       ],
@@ -262,21 +298,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "b7816918880b",
-      "title": "AirTrunk, CDC and Equinix back govt data centre rules, NextDC urges execution focus - W.Media",
-      "summary": "AirTrunk, CDC and Equinix back govt data centre rules, NextDC urges execution focus&nbsp;&nbsp;W.Media",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSml1VktfVVlUMnhITmk2NFdmd0pmd1V2R0dLUkE5cHBqYXRJU01yNE4wYVNkSllWN3dQdWswZndjblJGdEFHNXBhSDIzZmVVTGJsZW04SWdPV2hsTXV2b21ORk03c1pxaGtSbHlwNEJYZjZXRTBZTUpjcW1YNW9ubHhQaUtDWVVMdzFzbUNBeUtzbHlnc0kzVVlxN0F1OTA?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-03-24T07:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "cdc",
-        "equinix",
-        "nextdc"
-      ],
-      "relevance_score": 1.0
     },
     {
       "id": "9f9c7bb626fc",
@@ -469,18 +490,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmpHVllhcUdHUmpBc1VUQUQxdXR1aXRnNEh5R0Nxa0RzNnhpZGt2NWtFX1BOUXBSUzZnNERGY3BJcXM2ZWV5eUR3NEM5NlF6aXhkUGIxeTc4WHc5blF4UHluYzFITkVzaTgzeHlvYUNEWVg1YmtqVE42WVRIOEwwNlBSdWhXUXdqRHZBNQ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-01-29T08:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "69dd3e8e2d3c",
-      "title": "Goodman files plans for 500 MW Sydney campus as expansion continues - W.Media",
-      "summary": "Goodman files plans for 500 MW Sydney campus as expansion continues&nbsp;&nbsp;W.Media",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS29sYnY5X3BWX3NCRXl6RTNQdXMyMDdEMldhLXNUcm9KelFITGUwRE5UcDFlYnViLURfWklkTnB2RDg0OVNtY1NHZEtETnAweXlzQy1lMzI0NG9YcU9tZ3BSUHc4T0l0cTJZYmpCUUZ0UlFVT21NWTdXd1pFaVRWTFhsU1Y1RU9hVWdhQg?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-01-28T08:00:00+00:00",
       "tags": [
         "nsw"
       ],
