@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T07:54:18.357630+00:00",
+  "last_updated": "2026-05-03T08:09:25.612772+00:00",
   "items": [
     {
       "id": "c22e61eb7e05",
@@ -137,18 +137,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "4508b7b8e400",
-      "title": "AirTrunk bets $4.2b on Malaysia data centre expansion - AFR",
-      "summary": "AirTrunk bets $4.2b on Malaysia data centre expansion&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2wzV09IM3RXWlE3Q1VOVWJ0MUxzclVzaFRRc1J6QTRnV1VNSmtfWHAtamlxSGdkdmVEZDBwYWI4M0tQazBOdnFYc2hCa0c5RzFULU1oYmtCbHpnRFhuSUFISGJfXzJVaWhLWm9LWVo4SzJlV2Y3VzMtRnRpUDJJTHdBLVdBQ2dKbTlWNHRSd0lPQlp4S2VwQUNub0pmNXpm?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-04-30T02:30:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "a1ff5ac1d817",
       "title": "AirTrunk doubles down in Malaysia with two new hyperscale campuses in Johor Bahru - AirTrunk",
       "summary": "AirTrunk doubles down in Malaysia with two new hyperscale campuses in Johor Bahru&nbsp;&nbsp;AirTrunk",
@@ -183,19 +171,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "77801b696ccf",
-      "title": "OpenAI and NextDC to build $4.6 billion data center in Sydney - MSN",
-      "summary": "OpenAI and NextDC to build $4.6 billion data center in Sydney&nbsp;&nbsp;MSN",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOOTU0OXVUUkJfOGRqV1M4T3ExVzF6YVp6dnI5SWt1a0doN0NKTjhBMVRIWjJfWDJXbmxtbjRQYVE4VXZaU3gtYlRnN1VNcVV1bW1EdVZWalNBcmw2ZFotQXBRMm9vcjdMZDZfSmlXMGF3eXhJMk1pN3RMVmZTU2dPc0Zpb2s0M294VExOUUd2TVY1V3VVeFFRd2tqc1oxREpkV2szcG54STZGSVo5S0RHRldicXFjR3hyNXJSM2xJN040ZVM2TXFpMWZudEFqOS16LXl0NkFxRVBQVDhKc2tqek9vRXpRNGZLNnJNNDA4cUQ2b0w3OHRaOXl3bEFsTTVnWGlULVpWU0dWdC00ZTdBNDA5QXB3OWxrVFFaRmFlaE5jMklyeEIyX01EQnBPR1NkQU1xazVEc095bHNZakx2VlpZelYxWU9rbmI4RFF6QzI3aTVSekFkUzc5cFpnZzRKek41dExydw?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-04-27T20:21:57+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
     },
     {
       "id": "6e18816a678c",
@@ -236,6 +211,19 @@
       "relevance_score": 0.4
     },
     {
+      "id": "291652ad0b75",
+      "title": "NextDC, AirTrunk face new hurdles in AI infrastructure race - AFR",
+      "summary": "NextDC, AirTrunk face new hurdles in AI infrastructure race&nbsp;&nbsp;AFR",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTExOa3NjdnBKR0tPOVF0Nm1EOXJWT25jMGtJU0U4Y09nRDkyUlNDdldSeWpTeXhVQkF1cnhKNUJQdXdqcVV3SGptdm1hSzZCbHhKRHhqZ0VqSkJMUTlfb2t2SXFvM0hidk8xd1Y5TTNIb29KQlM0N0Vta3dZZ1UzSnNSUjROdm1Ub1o0OGdNSVJBWUxyZGJGNUlmbGtLZ0R4VWpSekJYN0llOVpMYTVVaWFkSQ?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-04-22T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nextdc"
+      ],
+      "relevance_score": 0.6
+    },
+    {
       "id": "5eccbca7412e",
       "title": "Billionaire Robin Khuda\u2019s AirTrunk expands in India with Lumina CloudInfra deal - Forbes Australia",
       "summary": "Billionaire Robin Khuda\u2019s AirTrunk expands in India with Lumina CloudInfra deal&nbsp;&nbsp;Forbes Australia",
@@ -246,19 +234,6 @@
         "airtrunk"
       ],
       "relevance_score": 0.3
-    },
-    {
-      "id": "291652ad0b75",
-      "title": "NextDC, AirTrunk face new hurdles in AI infrastructure race - AFR",
-      "summary": "NextDC, AirTrunk face new hurdles in AI infrastructure race&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTExOa3NjdnBKR0tPOVF0Nm1EOXJWT25jMGtJU0U4Y09nRDkyUlNDdldSeWpTeXhVQkF1cnhKNUJQdXdqcVV3SGptdm1hSzZCbHhKRHhqZ0VqSkJMUTlfb2t2SXFvM0hidk8xd1Y5TTNIb29KQlM0N0Vta3dZZ1UzSnNSUjROdm1Ub1o0OGdNSVJBWUxyZGJGNUlmbGtLZ0R4VWpSekJYN0llOVpMYTVVaWFkSQ?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-04-22T03:10:00+00:00",
-      "tags": [
-        "airtrunk",
-        "nextdc"
-      ],
-      "relevance_score": 0.6
     },
     {
       "id": "a8f7d5466f68",
@@ -375,34 +350,10 @@
       "relevance_score": 0.3
     },
     {
-      "id": "5573bc43e8f4",
-      "title": "Australia\u2019s NEXTDC launches A$2.2 billion capital plan - The Next Web",
-      "summary": "Australia\u2019s NEXTDC launches A$2.2 billion capital plan&nbsp;&nbsp;The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWdveHRxWHZiLTNSUEpBdzB2X21GbW0yZkRTNThwRFhzZ1RXVjd6YU9zZllzLTlLbWRJUkNXNDhzajBMcml0cmJycU9aZ3hvcjhvaFpzZ3hHSGtLOFVhaS1hR2JISTcwdzdldEwzeTBoYnl5aHlfdVBVQ201V1owbWdTRmVBaGc?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-04-20T07:43:00+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "22349b8912f3",
       "title": "AirTrunk Acquires Lumina CloudInfra - AirTrunk",
       "summary": "AirTrunk Acquires Lumina CloudInfra&nbsp;&nbsp;AirTrunk",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6MnliejRsZDNpMlNrampkNHQ1VjNGZWRJTFNvLUVxRU9VSmQ3T2FBVWU0elRvdWFHbFdHYlJ3M192ZmJPUXFiaDNONUM1Qkk5bGZIWG9Ic2l4SlZpdGRBN0tlU1BlM3hE?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "bea22a473bd3",
-      "title": "AirTrunk targets India data centre riches with first acquisition - AFR",
-      "summary": "AirTrunk targets India data centre riches with first acquisition&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTY0ZHNIRElaeUpSbXhzR2NobmZhY01mRXlXZUc3Qm4tRVZPc3pPRFpMT2M4LVBrMFdxSm84Mk5lRTVIUDNsa0xjbFY3VlB2eldXUl9KMTFEWDZ1dWREMmpyNHIxVGoxZG4yYzQtWGxJWGE2THVIcmtMTnJKU1lzOTNYWjBOamt4U0c2dEVuRkF5SWh4SWtIM0FLVU1nTFhsNnBKWlN5S2ZqU3dtVTE2TQ?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-04-20T07:00:00+00:00",
       "tags": [
@@ -435,16 +386,42 @@
       "relevance_score": 0.3
     },
     {
-      "id": "39fe4311e31e",
-      "title": "Australia\u2019s NextDC Unveils $1.6B Capital Plan as La Caisse Upsizes Commitment - Mingtiandi",
-      "summary": "Australia\u2019s NextDC Unveils $1.6B Capital Plan as La Caisse Upsizes Commitment&nbsp;&nbsp;Mingtiandi",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc09PM21YUGo0Y1pxdUgwVEVYekM5bFRpeEZvb0xXM08zQUxfX2J3N3N0ZVRYRjdlU2djMm1ib0tOZnIycDZWaDhYQVJ3MEo2X1FfY2Q5YmJNbDM4VkhJcXJMWEFKS1FmOFNmOENQaEpKNnkxbTluQjc3U2FIRF9XeVZ3WEdDNUtBY1UxSW45RWNwYmpaU2MtQTVDelFGanUydF9YaFB6ampKZ3ZHZGtOZ0xSeUFDVExwWHVFMWNsVllJUzRRbU1j?oc=5",
+      "id": "5573bc43e8f4",
+      "title": "Australia\u2019s NEXTDC launches A$2.2 billion capital plan - The Next Web",
+      "summary": "Australia\u2019s NEXTDC launches A$2.2 billion capital plan&nbsp;&nbsp;The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWdveHRxWHZiLTNSUEpBdzB2X21GbW0yZkRTNThwRFhzZ1RXVjd6YU9zZllzLTlLbWRJUkNXNDhzajBMcml0cmJycU9aZ3hvcjhvaFpzZ3hHSGtLOFVhaS1hR2JISTcwdzdldEwzeTBoYnl5aHlfdVBVQ201V1owbWdTRmVBaGc?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-04-20T07:00:00+00:00",
       "tags": [
         "nextdc"
       ],
       "relevance_score": 0.3
+    },
+    {
+      "id": "da3fcca983f8",
+      "title": "Australia's NEXTDC to raise $1.07 billion to accelerate Sydney data centre rollout - Tuoi Tre News | The News Gateway to Vietnam",
+      "summary": "Australia's NEXTDC to raise $1.07 billion to accelerate Sydney data centre rollout&nbsp;&nbsp;Tuoi Tre News | The News Gateway to Vietnam",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZV94MF9mUFNfVEluNmJXek01d1dtUW03ZWoyN2JtOG1nZ3F0ci0wLVFHYlZMdy12czR4eGdUQ054RzVpVEl0bHBtRFJZMUpOYnVHd3VlbkFBdW1WdFowZ0FkTWhQTFVMN2ZIMHdUUW90b3lYRExEOG5NZDd5Ym5TWTF5RzBQLXlLMnE3WmxfNzRjQVVjb3VJZGN5V2lETXN5aUFQWGp6YkpBQmRlaWQwSkFYR1BwNGdGdlRGdTN3SFFPYUFW?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-04-20T03:41:00+00:00",
+      "tags": [
+        "nextdc",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
+    {
+      "id": "264a28e3a6e6",
+      "title": "Australia's NEXTDC to raise $1.07 billion to accelerate Sydney data centre rollout - Tuoi Tre News | The News Gateway to Vietnam",
+      "summary": "Australia's NEXTDC to raise $1.07 billion to accelerate Sydney data centre rollout&nbsp;&nbsp;Tuoi Tre News | The News Gateway to Vietnam",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZV94MF9mUFNfVEluNmJXek01d1dtUW03ZWoyN2JtOG1nZ3F0ci0wLVFHYlZMdy12czR4eGdUQ054RzVpVEl0bHBtRFJZMUpOYnVHd3VlbkFBdW1WdFowZ0FkTWhQTFVMN2ZIMHdUUW90b3lYRExEOG5NZDd5Ym5TWTF5RzBQLXlLMnE3WmxfNzRjQVVjb3VJZGN5V2lETXN5aUFQWGp6YkpBQmRlaWQwSkFYR1BwNGdGdlRGdTN3SFFPYUFW?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-04-20T03:41:00+00:00",
+      "tags": [
+        "nextdc",
+        "nsw"
+      ],
+      "relevance_score": 0.5
     },
     {
       "id": "492866da3ae3",
@@ -491,6 +468,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOWd4YUc2VWViM1czS252S00xUm1xY2tnRFVOTEVLeFpWNWVCWmMybU53VC1Va1V5OGVwNGpGN2VRNnNzTjJjTnQ3Y0ZMNm5YNjFOSlhaWEhYVHZ2VDFZemFPOGwyTmY4VFNGYlU1d0o4VDdUQkpYb0JhalBzb0xjc29TVkNyUUF5S1dBMkxzMzJkejJwTXdQNG53dGd3ZVN2TUVZSkkyR2NKQQ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-04-06T07:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "27fdbfd7fc47",
+      "title": "NSW urged to freeze approvals for $41b data centre pipeline - AFR",
+      "summary": "NSW urged to freeze approvals for $41b data centre pipeline&nbsp;&nbsp;AFR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmRJZ2ppWEJOM3hJb0pCcDAtYXQ3cEZvcGZWejF0OXl4bFAxMkJMekdFY0J4VVJLeXd0WXgzb0VidUVFbzd0WmlLT3JDZnF3UXVHWi1zVEwtMFl5R2lNZkl3ckYyM2lycjhSOTZ2VXUyY0EtMXVGaFkydWJabGRMR3lyYW9TLVEway1DdXItWERQbXFBQ1E?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-04-05T07:00:00+00:00",
       "tags": [
         "nsw"
       ],
@@ -588,10 +577,10 @@
       "relevance_score": 0.5
     },
     {
-      "id": "74471a0b1a34",
-      "title": "NextDC starts work on S4 Sydney data centre - ARNnet",
-      "summary": "NextDC starts work on S4 Sydney data centre&nbsp;&nbsp;ARNnet",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTYtWVE1NVhqeVBHTTN2SFpmWmpJd19TU09wWVBMSGtPUEhJM19Wc1Q3aGgzLTZ4M2pIckpSc0xnX2ItTDJaYjh4NGZ6OFV3bXVrRWFUeU1vZ0htQ1duM3ZiTmExVHpzUWFyRVBGX2hwN2lLMHgxOXhrYWRNLThKMlNmZll6MWJYb2I2bGhVeEdKLXd6?oc=5",
+      "id": "fdf6f385f2fc",
+      "title": "Australia's NextDC breaks ground on Sydney data center - Data Center Dynamics",
+      "summary": "Australia's NextDC breaks ground on Sydney data center&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXFyYXpmUGlJRUQ3d0syY1V4VmhfSzVlVnJfNER0TmlVem9wZUhiMUFkRjZYZzFjZnRNWC1CYmduTTUwX3FoVllvZ01qclZydTNqZ2JmalFxQU1jZl9VNXBTNW9lX2hJd2xhcHRsNUZxR09kVFBrbUVqSEJNWmc0RjIwNHd5eFc4Y2xnMk1jWFRUc0hNOTFMVkMwTThiUQ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-03-30T07:00:00+00:00",
       "tags": [
@@ -601,10 +590,10 @@
       "relevance_score": 0.5
     },
     {
-      "id": "fdf6f385f2fc",
-      "title": "Australia's NextDC breaks ground on Sydney data center - Data Center Dynamics",
-      "summary": "Australia's NextDC breaks ground on Sydney data center&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXFyYXpmUGlJRUQ3d0syY1V4VmhfSzVlVnJfNER0TmlVem9wZUhiMUFkRjZYZzFjZnRNWC1CYmduTTUwX3FoVllvZ01qclZydTNqZ2JmalFxQU1jZl9VNXBTNW9lX2hJd2xhcHRsNUZxR09kVFBrbUVqSEJNWmc0RjIwNHd5eFc4Y2xnMk1jWFRUc0hNOTFMVkMwTThiUQ?oc=5",
+      "id": "74471a0b1a34",
+      "title": "NextDC starts work on S4 Sydney data centre - ARNnet",
+      "summary": "NextDC starts work on S4 Sydney data centre&nbsp;&nbsp;ARNnet",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTYtWVE1NVhqeVBHTTN2SFpmWmpJd19TU09wWVBMSGtPUEhJM19Wc1Q3aGgzLTZ4M2pIckpSc0xnX2ItTDJaYjh4NGZ6OFV3bXVrRWFUeU1vZ0htQ1duM3ZiTmExVHpzUWFyRVBGX2hwN2lLMHgxOXhrYWRNLThKMlNmZll6MWJYb2I2bGhVeEdKLXd6?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-03-30T07:00:00+00:00",
       "tags": [
@@ -678,18 +667,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "a5cdf61225f8",
-      "title": "Data centre giant AirTrunk bets big on Singapore, mulls Reit IPO among other capital-raising options - The Business Times",
-      "summary": "Data centre giant AirTrunk bets big on Singapore, mulls Reit IPO among other capital-raising options&nbsp;&nbsp;The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0JmVnk0TG9DQ3J0T0Z3X2syVVlIQzRtWHM2NHYwbFpEV0NyTzRGTnV5blp2QW5XSHhIR3NyUHdWbnNGMm1UdXBIOUEzSW9xdW5yOVRtZTZvNHJxYTA3OHBBTlBwSllaRVlSVDBjZFZNcGN5eEdISDhVTlM3Mk5xNnowU3ZwcG9sVFBSYm1uS3VWTFREZFYyX2xjX1ZQN2J0QXc2Z2VoRVp3R29FWFcyOVhmYnRoWVlaWFFRRjY4dFpzZDZkZEtXbnBYazB2YjRXcjdRa29IUDh4cmFCZlJpQWtmdGU?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-03-13T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "7c3573e8de86",
       "title": "Sydney-Based Iren Orders 50,000 Nvidia GPUs to Supercharge AI Data Center Expansion - Crypto News Australia",
       "summary": "Sydney-Based Iren Orders 50,000 Nvidia GPUs to Supercharge AI Data Center Expansion&nbsp;&nbsp;Crypto News Australia",
@@ -750,18 +727,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "cad733f9d781",
-      "title": "NextDC plans $2.7b investments to meet data centre demand - AFR",
-      "summary": "NextDC plans $2.7b investments to meet data centre demand&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTHRBempkbWhnS2dfeFRXREMwZm5BRWFIU0Zjd1lzajBKdmtCSmtaWDVsTVhZT0tNUHpBNWZtQnlzYU9fVnpIWnVVX1RxNVJVZUhITWZGR25ESlFhQjBSX29INXdMdWtLQmpqRERyXzdwUG5BSzhQUHljQ0pUYVZweTJmeC1HYUU4TW9ZOUJTcU40QVQ0b21MdndUNE84VUN3eGc0a2dR?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-02-25T08:00:00+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "7e80fbf4b24d",
       "title": "NextDC appoints Barrenjoey to lead debt raise to fund data centre ambitions - Capital Brief",
       "summary": "NextDC appoints Barrenjoey to lead debt raise to fund data centre ambitions&nbsp;&nbsp;Capital Brief",
@@ -796,30 +761,6 @@
         "airtrunk"
       ],
       "relevance_score": 0.3
-    },
-    {
-      "id": "c99a961fb506",
-      "title": "AirTrunk founder buys landmark Mosman corner in rare village deal - CommercialRealEstate.com.au",
-      "summary": "AirTrunk founder buys landmark Mosman corner in rare village deal&nbsp;&nbsp;CommercialRealEstate.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQl9Xb1pZekZOZFVaa2hpU3QxV19pbkV4a0k0WVJHaUpsRkZOWEFVWUxFTEpQUVZWMTlKX1NvWmY1WVZ6WUQ2UnFUQ3pOcjFpTEhJU29Ub0Nxc18xRWVFVVk5WkloZXBaSVcwT0dJU3JNczJHTkxaNktlYzJnVmFwUFZjVGdJa0dRc204Ym9hMy1Jd2p3enpzUUVuMFlfc0ZEOEpHMmZZaGpDblRxSnYtTTlrTjFicF8teHBJ?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-02-02T08:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "edf0685de873",
-      "title": "Google\u2019s Tabua cable makes landfall in Sydney, Australia - Data Center Dynamics",
-      "summary": "Google\u2019s Tabua cable makes landfall in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZWo0ZE1keWpmU0tzelRBODBVNDlQOHFnVndnR3MzOF9iNXI2c0JkYXBRVWE0SWg3RTVVVDJreGVBR2F2QUJwMVl4ZVlBOHhEU0pKQmNqWDQzc0YzcjA1TDM4ZmRrVGJLR3ZxSjZaQkE1MVNxbWVYdUVveW41bGhvMHVOUzlFYU9yUGRwZ0NsN0FqVWxyNXIzWVU0bkZkNEE?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-02-02T08:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
     }
   ]
 }
