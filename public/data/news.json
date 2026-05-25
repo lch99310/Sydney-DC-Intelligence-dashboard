@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T08:39:59.843406+00:00",
+  "last_updated": "2026-05-25T10:23:38.263417+00:00",
   "items": [
     {
       "id": "e683a4e06acf",
@@ -24,6 +24,20 @@
         "energy_policy"
       ],
       "relevance_score": 0.1
+    },
+    {
+      "id": "0837a920f385",
+      "title": "GIANTS and AirTrunk Deepen Support in Western Sydney Communities - gwsgiants.com.au",
+      "summary": "GIANTS and AirTrunk Deepen Support in Western Sydney Communities&nbsp;&nbsp;gwsgiants.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM0xUWGZsOXhmZjN5dUZFZG55MVFDV0V2YWE3bGNna0laSWZVaUVJdk5PRXMwMEh3YklRSnM1YWN0ZDFNTjFSRWlYajZmeVlrejJYV3JiWGl3U0hVOWVtUUduajQxdFIyM1NhRldPY0hsVkVKczNwaE5GYk4xWUhnS2V2bEVKdk5CeUMyZWotR0VTaUlmR0UwV0xBalBMTTRSRzZhOFpXUUhFWUtKc1pPRUFVSXBiMlRNNldQdmVIQ3Y?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-05-19T02:03:38+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw",
+        "western_sydney"
+      ],
+      "relevance_score": 0.7
     },
     {
       "id": "5915f21c80d5",
@@ -60,18 +74,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "5f06c1509d3d",
-      "title": "AI Boom Trumps Sleep, Says Boss of Data Center Operator NEXTDC - Bloomberg.com",
-      "summary": "AI Boom Trumps Sleep, Says Boss of Data Center Operator NEXTDC&nbsp;&nbsp;Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVU9pdlRucHV6UW9ORGR3amdBWW5BbnVLbWVRaEJBdFl4Y2dpZFNUR3VGdnpMaVhTTVJyUjJCcVJaeWVKWVFvc00tR2F3WFc1N2l6YVZJUnZtWFAzT1YwQ3RpdjUybmdKTmItWUhSZjBGMzFGOW1WY3pRZXdKNUVMVWxRQVVUQVdRNDBIbERVVDdha21zUmVaT3U4cU1EeHVLOWJNNmhLRWl6OUY0UWhiVTdR?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "94c68f0f9758",
@@ -111,37 +113,12 @@
       "relevance_score": 0.5
     },
     {
-      "id": "53d54562fd90",
-      "title": "AirTrunk completes installation of rooftop solar array at SYD1 data center in Sydney, Australia - Data Center Dynamics",
-      "summary": "AirTrunk completes installation of rooftop solar array at SYD1 data center in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdGFiejNGMlVMVXpGM1gyRTM1ZmNNVTlGYmlNcV9rbTNmUV9ULVZDQVFnY1RnQnZaQW51aHpqaWtRUlV0NUlrejJKbWpITUN5LUg5aXJ5T1QyTi1lbUduYU0zeFFjVi1VcmdKWk54RVFGV0RHTHNkQkVBdjhuZUNHbk5uYkFQbnFvMFAxdXJhOHpheEx4X0NFcUxrSVVxeHBxWVl4MkRyb1RWUDdWcjNHWDNsZ0ljVnpXVFp5YmhHWERkcThKNVF4T25kT2tRMTJrMXlGcg?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-05-01T07:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
-      "id": "f2c389de6c1b",
-      "title": "AirTrunk\u2019s India push shows where Australia\u2019s next tech opportunity lies - Indian Link",
-      "summary": "AirTrunk\u2019s India push shows where Australia\u2019s next tech opportunity lies&nbsp;&nbsp;Indian Link",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX0RMLU5lb0VqQWVFbTItTnFaRE9YbEJGbmZxdUVBZjY4RHRvcFUzdWJMZTh3U2JMR012c2xTVldxSU03dElWY3FoS3Fhc1pNLVBJcEhJRUxzNTV3b0VwemtmZWsyMDk3U1hpem1IV01BSEJTX3JVVjRIQlF3Mk1hYXpJN3I1VGtjYTJNdVN5NURuTDFXOVV0ODYzVkl1SzFBYk4yXw?oc=5",
+      "id": "2d5b1f28be83",
+      "title": "Australia\u2019s AirTrunk to add two Malaysia data centres in USD3B expansion - Borneo Bulletin",
+      "summary": "Australia\u2019s AirTrunk to add two Malaysia data centres in USD3B expansion&nbsp;&nbsp;Borneo Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd2xGTXdtejE5MDVjMHBuUXJMYjFteHQ0aXBkNGt6dFhiNlBDVHR2R3JkMmxDVWMxOW5Vc19tRjZqd1A5TzFyS3oyWUJIVkhRS2k4UzhYZ3lfVElUa04tM3diZEdoWFhnTVJUVVM1V1RaVVl2by16SVFmcVhoN1llNENZUzVmalpxajNMRlBQQjBvd0JkMVFhX1FOSEZrU3FGWmdfcQ?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-04-30T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "4508b7b8e400",
-      "title": "AirTrunk bets $4.2b on Malaysia data centre expansion - AFR",
-      "summary": "AirTrunk bets $4.2b on Malaysia data centre expansion&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2wzV09IM3RXWlE3Q1VOVWJ0MUxzclVzaFRRc1J6QTRnV1VNSmtfWHAtamlxSGdkdmVEZDBwYWI4M0tQazBOdnFYc2hCa0c5RzFULU1oYmtCbHpnRFhuSUFISGJfXzJVaWhLWm9LWVo4SzJlV2Y3VzMtRnRpUDJJTHdBLVdBQ2dKbTlWNHRSd0lPQlp4S2VwQUNub0pmNXpm?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-04-30T07:00:00+00:00",
+      "published_at": "2026-04-30T21:07:48+00:00",
       "tags": [
         "airtrunk"
       ],
@@ -160,10 +137,10 @@
       "relevance_score": 0.3
     },
     {
-      "id": "a1ff5ac1d817",
-      "title": "AirTrunk doubles down in Malaysia with two new hyperscale campuses in Johor Bahru - AirTrunk",
-      "summary": "AirTrunk doubles down in Malaysia with two new hyperscale campuses in Johor Bahru&nbsp;&nbsp;AirTrunk",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQlhuYnBQTENJeEZRUzdaV0JaZGJ5SldBLWtWUWJIcHRxWGJkajJfMjBFRllKQ0ZLN0o1UThXVTJ5WUZiY1JZbEZ5N251S0Vxc294cUxxMVhOVEJYc1NGWlZ0ajJtbUM2bHV0TF9lNDRoTEh0azF5WFB3UWdJT3E0VHRKbHpqSE5Fby1PQXhqUmNiWnYwZW1kbmZDc1lxOG9WQzh4aDVB?oc=5",
+      "id": "f2c389de6c1b",
+      "title": "AirTrunk\u2019s India push shows where Australia\u2019s next tech opportunity lies - Indian Link",
+      "summary": "AirTrunk\u2019s India push shows where Australia\u2019s next tech opportunity lies&nbsp;&nbsp;Indian Link",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX0RMLU5lb0VqQWVFbTItTnFaRE9YbEJGbmZxdUVBZjY4RHRvcFUzdWJMZTh3U2JMR012c2xTVldxSU03dElWY3FoS3Fhc1pNLVBJcEhJRUxzNTV3b0VwemtmZWsyMDk3U1hpem1IV01BSEJTX3JVVjRIQlF3Mk1hYXpJN3I1VGtjYTJNdVN5NURuTDFXOVV0ODYzVkl1SzFBYk4yXw?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-04-30T07:00:00+00:00",
       "tags": [
@@ -184,10 +161,34 @@
       "relevance_score": 0.3
     },
     {
+      "id": "b0e9485c652c",
+      "title": "Australia's AirTrunk to invest $3B to develop two new data centers in Malaysia - TNGlobal",
+      "summary": "Australia's AirTrunk to invest $3B to develop two new data centers in Malaysia&nbsp;&nbsp;TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnNyUTFFV3ZNbnVta1RCOHA5b1RaTTUwSHl3TTk5M3FtaUFwdjBqTUp3NTlwZjAtWExwTW8ya180UUVWazc2c2J6Tlppd0oxUUl5ZG5CWklWYmQxUGg2ZGFaUXVRbTZJQkNrSnFlUnBzSmNXZ3Zubk9CdW9PREE4d193MlNXZGljNXZrRWtzUGVoMU9EUmNtUmFiLUgyUVdIaE1jdllHelJoZDZiYU1HRnJR?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-04-30T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "ce7684186ece",
       "title": "Australia\u2019s AirTrunk to invest US$3 billion in two new Malaysian data centres - The Business Times",
       "summary": "Australia\u2019s AirTrunk to invest US$3 billion in two new Malaysian data centres&nbsp;&nbsp;The Business Times",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa2xuUm9zYWd3d3NVWGlpTlBqa1NQcmVtb3FSbHM5eUVza0ZtZVp2ODhhSTJQbEFXVUJVSUY1TEFXS09kUm8wZ3RuTTBqYzRuNnNaWVlHWldiZmhiT0gxaWl4TUJ3d29Fd1NuakU2SlFJR1VIUHlZcVoxNG1LUDlONzVZelBSbzY2cTR4Z1FhY3k4bUhMeTJrbjdQOWtWMk5KM1FGT3NBaEJMRzhQVlFiZWk4UU1mbF9IYlRta1VKTVhuU090SV9la01PRWljSlVlOEFqaA?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-04-30T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "a1ff5ac1d817",
+      "title": "AirTrunk doubles down in Malaysia with two new hyperscale campuses in Johor Bahru - AirTrunk",
+      "summary": "AirTrunk doubles down in Malaysia with two new hyperscale campuses in Johor Bahru&nbsp;&nbsp;AirTrunk",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQlhuYnBQTENJeEZRUzdaV0JaZGJ5SldBLWtWUWJIcHRxWGJkajJfMjBFRllKQ0ZLN0o1UThXVTJ5WUZiY1JZbEZ5N251S0Vxc294cUxxMVhOVEJYc1NGWlZ0ajJtbUM2bHV0TF9lNDRoTEh0azF5WFB3UWdJT3E0VHRKbHpqSE5Fby1PQXhqUmNiWnYwZW1kbmZDc1lxOG9WQzh4aDVB?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-04-30T07:00:00+00:00",
       "tags": [
@@ -233,6 +234,18 @@
       "relevance_score": 0.4
     },
     {
+      "id": "5eccbca7412e",
+      "title": "Billionaire Robin Khuda\u2019s AirTrunk expands in India with Lumina CloudInfra deal - Forbes Australia",
+      "summary": "Billionaire Robin Khuda\u2019s AirTrunk expands in India with Lumina CloudInfra deal&nbsp;&nbsp;Forbes Australia",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPblQ4VVUwSjFtOXNmdUlpaFNFcjIzY0pLNklQeEtRUy1tVTlKYWh0dUdVNi1sNkNzYm5VUlhWX2pTTkEteF9zbmFqVFBLZ2ZXdnZUbVZYbWJlMWJzOUtKY25BWmFITVdzWnc2OWNEMFc5WHZwTTJOSDh3OTNWVUpNalgzOXdidm4teWVwUjh0bnUyc2lXSk1uejdNbTdnWEhvNHhsVQ?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-04-22T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "291652ad0b75",
       "title": "NextDC, AirTrunk face new hurdles in AI infrastructure race - AFR",
       "summary": "NextDC, AirTrunk face new hurdles in AI infrastructure race&nbsp;&nbsp;AFR",
@@ -244,18 +257,6 @@
         "nextdc"
       ],
       "relevance_score": 0.6
-    },
-    {
-      "id": "5eccbca7412e",
-      "title": "Billionaire Robin Khuda\u2019s AirTrunk expands in India with Lumina CloudInfra deal - Forbes Australia",
-      "summary": "Billionaire Robin Khuda\u2019s AirTrunk expands in India with Lumina CloudInfra deal&nbsp;&nbsp;Forbes Australia",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPblQ4VVUwSjFtOXNmdUlpaFNFcjIzY0pLNklQeEtRUy1tVTlKYWh0dUdVNi1sNkNzYm5VUlhWX2pTTkEteF9zbmFqVFBLZ2ZXdnZUbVZYbWJlMWJzOUtKY25BWmFITVdzWnc2OWNEMFc5WHZwTTJOSDh3OTNWVUpNalgzOXdidm4teWVwUjh0bnUyc2lXSk1uejdNbTdnWEhvNHhsVQ?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "ce3043c916cf",
@@ -270,17 +271,16 @@
       "relevance_score": 0.3
     },
     {
-      "id": "06ec69d6608b",
-      "title": "NEXTDC to raise $1.5 billion to accelerate Sydney data centre rollout - iTnews",
-      "summary": "NEXTDC to raise $1.5 billion to accelerate Sydney data centre rollout&nbsp;&nbsp;iTnews",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXNEWVNUWUh0QTFrTTgzQTJDbXFQcGdvYUZVNEk1U080ZDF0ekUwbnNQc0RtdmtkT2FhTjVPZGlocmktYXJGRDM2cVBYdDRSMmp3WlVGaDdzcmpGeTY2VVp5X1o3QkZYNVVwWkZQanRMYVk0bHJna0lhWU9pLVJqeG1oR2hmMG5qTlJtVVNsX09LdUQycVlyUHJ0QXJvV05EUmtfWERtSWU?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-04-21T07:00:00+00:00",
+      "id": "3f7f5a8f88ff",
+      "title": "Blackstone\u2019s AirTrunk plans its first data centre-backed bond - The Business Times",
+      "summary": "Blackstone\u2019s AirTrunk plans its first data centre-backed bond&nbsp;&nbsp;The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWDg4SndxNHVQSjNjdjN0WHlhQkQ5SXFqMzBhTVBYZVVCeVZyQi1aM3A0a0FXM0Q3RDV0WXNnOXpHMFdfdUNkOV92ODFiUkM0WWFlV2VWMkstckRja0pTRXFsWlM2QjJRY0NncjlCbnI2aF9YM0pEQzQ0MXpUNzZXTkFMTWthZkhFNXo2UTAycnVGcE1wYUVpZG5rWVZHYWRVbFdtVGRnR0FRbzJreVMwZUdMT3BjVjdPMmltUGVuV3RfMjdTcndxTQ?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-04-22T07:00:00+00:00",
       "tags": [
-        "nextdc",
-        "nsw"
+        "airtrunk"
       ],
-      "relevance_score": 0.5
+      "relevance_score": 0.3
     },
     {
       "id": "a8f7d5466f68",
@@ -297,6 +297,19 @@
       "relevance_score": 0.7
     },
     {
+      "id": "06ec69d6608b",
+      "title": "NEXTDC to raise $1.5 billion to accelerate Sydney data centre rollout - iTnews",
+      "summary": "NEXTDC to raise $1.5 billion to accelerate Sydney data centre rollout&nbsp;&nbsp;iTnews",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXNEWVNUWUh0QTFrTTgzQTJDbXFQcGdvYUZVNEk1U080ZDF0ekUwbnNQc0RtdmtkT2FhTjVPZGlocmktYXJGRDM2cVBYdDRSMmp3WlVGaDdzcmpGeTY2VVp5X1o3QkZYNVVwWkZQanRMYVk0bHJna0lhWU9pLVJqeG1oR2hmMG5qTlJtVVNsX09LdUQycVlyUHJ0QXJvV05EUmtfWERtSWU?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-04-21T07:00:00+00:00",
+      "tags": [
+        "nextdc",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
+    {
       "id": "2e8c5998209f",
       "title": "Australia\u2019s Viridis secures Sydney site for data center - Data Center Dynamics",
       "summary": "Australia\u2019s Viridis secures Sydney site for data center&nbsp;&nbsp;Data Center Dynamics",
@@ -307,18 +320,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "143204613613",
-      "title": "Blackstone\u2019s AirTrunk Plans Its First Data Center-Backed Bond - Bloomberg.com",
-      "summary": "Blackstone\u2019s AirTrunk Plans Its First Data Center-Backed Bond&nbsp;&nbsp;Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdVpMMVJpdmxmWDkybFNXRUZTaHYzZTFabHRid2VMWUMyX3diQ1V6V1M2LXB5UnprT3pBeXdXaHgwVVgxLTgzUlNTZkpkOFhIQjhHeDNHbloxZFZoMmdmSm43SlhzemdLTkdadDZuUWpZZ181Y3haVmp0ZktSQmRNX1ltZkFZZzduem84Qm5hSzJrTHNFMjZrNTc3V2RvckQ3VlItZnNQbmNWcE5hbDFueU9n?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "22349b8912f3",
@@ -358,6 +359,18 @@
       "relevance_score": 0.5
     },
     {
+      "id": "dd6e8ce14fe9",
+      "title": "Aussie data center firm NextDC secures 250MW data center deals, set to raise more than AU$1.5 billion via new shares - Data Center Dynamics",
+      "summary": "Aussie data center firm NextDC secures 250MW data center deals, set to raise more than AU$1.5 billion via new shares&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWldEeE1IbFc5OEljQzc1Q0VEcWtYZ19oYUh2bWJ5S1JEbUFWLWtudVNSLXZOZUd4YmRWR3FiUjJvTGQ2Rk82dG1UUGhmSTV6VjdfZmxnTXBYcm5HcWFzbWRCRHRQeDhVc25PMlY3YjFSSHNjQmxOV0htMGpQM19vLWxnN09RdW1KX0phakdlemxNVm5jWEI2V0tMc1oxUExHT3JfZWE5V294R0dVeTlPWFp6YTJUZGRYN2Y2QUNWN2luREVaWXpjMjlvbldZRjZLTEpmN2FCcjQ5UWhRSC10ak1kbEJhSHJDaVVENFRn?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-04-20T07:00:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "3fb863dd52eb",
       "title": "NEXTDC Capital Raise for Sydney S4 Data Center Expansion | 2026 Update - News and Statistics - IndexBox",
       "summary": "NEXTDC Capital Raise for Sydney S4 Data Center Expansion | 2026 Update - News and Statistics&nbsp;&nbsp;IndexBox",
@@ -369,18 +382,6 @@
         "nsw"
       ],
       "relevance_score": 0.5
-    },
-    {
-      "id": "dd6e8ce14fe9",
-      "title": "Aussie data center firm NextDC secures 250MW data center deals, set to raise more than AU$1.5 billion via new shares - Data Center Dynamics",
-      "summary": "Aussie data center firm NextDC secures 250MW data center deals, set to raise more than AU$1.5 billion via new shares&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWldEeE1IbFc5OEljQzc1Q0VEcWtYZ19oYUh2bWJ5S1JEbUFWLWtudVNSLXZOZUd4YmRWR3FiUjJvTGQ2Rk82dG1UUGhmSTV6VjdfZmxnTXBYcm5HcWFzbWRCRHRQeDhVc25PMlY3YjFSSHNjQmxOV0htMGpQM19vLWxnN09RdW1KX0phakdlemxNVm5jWEI2V0tMc1oxUExHT3JfZWE5V294R0dVeTlPWFp6YTJUZGRYN2Y2QUNWN2luREVaWXpjMjlvbldZRjZLTEpmN2FCcjQ5UWhRSC10ak1kbEJhSHJDaVVENFRn?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "39fe4311e31e",
@@ -433,18 +434,6 @@
       "relevance_score": 0.5
     },
     {
-      "id": "d698294732d8",
-      "title": "ASX misses the data boat as AirTrunk flies to Singapore - AFR",
-      "summary": "ASX misses the data boat as AirTrunk flies to Singapore&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFlKYTVUbm5LcDJ3dDZnck5jYS14LVBzOFZQVDBHSTllLWtfZU1xbXAwNVNUMVNXQmJkcXRLaGZKcUpGeVFmakt1R2NVeC13WFZBZEJtR3lBWjdDOTNMOWtQRzQyUkdmaFhHaFBGNC0xM2E3ejVDQU5HczUwa3NIUVNwQkZRZnc2UTdBU2pXWUJIX1Z0OHZkb1lvV1kzR2FGYzJ3WEtB?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-04-06T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "2476038491da",
       "title": "Stockland files to build 168MW data center in Sydney, Australia - Data Center Dynamics",
       "summary": "Stockland files to build 168MW data center in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
@@ -467,6 +456,18 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "b8c94e9cbb5b",
+      "title": "DBS, Citigroup to help Blackstone\u2019s AirTrunk list Singapore Reit: sources - The Business Times",
+      "summary": "DBS, Citigroup to help Blackstone\u2019s AirTrunk list Singapore Reit: sources&nbsp;&nbsp;The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMEJqVDM2TThDN01JNkxKLVdxR1E4U1dfdHlRVDVlUXp3OHEzSXVRU2I1WkRGa1Y4cllZaE1rRk0xeHVIOTF6dkR5S2lKcGR3cWdjMW1ISWV4eHJEZThIbmllYTB3bVl2aWttdzRidjVuQ3lYbE9hcWttR3l3NTRzWEFidS1Majk1dFNXT0lqUkdtN0NTbFBROHhOSmpGbUpFbDdSdWU3czJsSjg5ekRtSDRsOEgwWjhNYTVucjMtYkxLT3gwZ3ppSmNKZV9LU0Uwbnc?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-04-02T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "71f4950f56b6",
@@ -534,10 +535,10 @@
       "relevance_score": 0.5
     },
     {
-      "id": "e42889ca6752",
-      "title": "Australia's NextDC breaks ground on Sydney data center - Data Center Dynamics",
-      "summary": "Australia's NextDC breaks ground on Sydney data center&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXFyYXpmUGlJRUQ3d0syY1V4VmhfSzVlVnJfNER0TmlVem9wZUhiMUFkRjZYZzFjZnRNWC1CYmduTTUwX3FoVllvZ01qclZydTNqZ2JmalFxQU1jZl9VNXBTNW9lX2hJd2xhcHRsNUZxR09kVFBrbUVqSEJNWmc0RjIwNHd5eFc4Y2xnMk1jWFRUc0hNOTFMVkMwTThiUQ?oc=5",
+      "id": "02a67817c5d6",
+      "title": "Work commences on NEXTDC\u2019s S4 Sydney data centre - Inside Construction",
+      "summary": "Work commences on NEXTDC\u2019s S4 Sydney data centre&nbsp;&nbsp;Inside Construction",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdTdrN2NEaXJ2RDZrTGJnRDF2blNwNmZfWVEtV0xUeUtKM0RrN2hRaEF6bFA1ZHVIX0thWnRMUnZ2S0RvSzc5YjZaNDJtem44TTE4c2EtazZxNTYxYy1mZUhUanVHajVocFgzM1J6aG9CMWVnb3YycnNUTW9IYVNueWZQTWRGOFFYa3ZTa3dLZzR1RU40cGVCZUNwVjJVLTc3ZUFtLXNn?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-03-30T07:00:00+00:00",
       "tags": [
@@ -560,10 +561,10 @@
       "relevance_score": 0.5
     },
     {
-      "id": "02a67817c5d6",
-      "title": "Work commences on NEXTDC\u2019s S4 Sydney data centre - Inside Construction",
-      "summary": "Work commences on NEXTDC\u2019s S4 Sydney data centre&nbsp;&nbsp;Inside Construction",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdTdrN2NEaXJ2RDZrTGJnRDF2blNwNmZfWVEtV0xUeUtKM0RrN2hRaEF6bFA1ZHVIX0thWnRMUnZ2S0RvSzc5YjZaNDJtem44TTE4c2EtazZxNTYxYy1mZUhUanVHajVocFgzM1J6aG9CMWVnb3YycnNUTW9IYVNueWZQTWRGOFFYa3ZTa3dLZzR1RU40cGVCZUNwVjJVLTc3ZUFtLXNn?oc=5",
+      "id": "e42889ca6752",
+      "title": "Australia's NextDC breaks ground on Sydney data center - Data Center Dynamics",
+      "summary": "Australia's NextDC breaks ground on Sydney data center&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXFyYXpmUGlJRUQ3d0syY1V4VmhfSzVlVnJfNER0TmlVem9wZUhiMUFkRjZYZzFjZnRNWC1CYmduTTUwX3FoVllvZ01qclZydTNqZ2JmalFxQU1jZl9VNXBTNW9lX2hJd2xhcHRsNUZxR09kVFBrbUVqSEJNWmc0RjIwNHd5eFc4Y2xnMk1jWFRUc0hNOTFMVkMwTThiUQ?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-03-30T07:00:00+00:00",
       "tags": [
@@ -611,6 +612,21 @@
       "relevance_score": 0.2
     },
     {
+      "id": "b7816918880b",
+      "title": "AirTrunk, CDC and Equinix back govt data centre rules, NextDC urges execution focus - W.Media",
+      "summary": "AirTrunk, CDC and Equinix back govt data centre rules, NextDC urges execution focus&nbsp;&nbsp;W.Media",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSml1VktfVVlUMnhITmk2NFdmd0pmd1V2R0dLUkE5cHBqYXRJU01yNE4wYVNkSllWN3dQdWswZndjblJGdEFHNXBhSDIzZmVVTGJsZW04SWdPV2hsTXV2b21ORk03c1pxaGtSbHlwNEJYZjZXRTBZTUpjcW1YNW9ubHhQaUtDWVVMdzFzbUNBeUtzbHlnc0kzVVlxN0F1OTA?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-03-24T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "cdc",
+        "equinix",
+        "nextdc"
+      ],
+      "relevance_score": 1.0
+    },
+    {
       "id": "9f9c7bb626fc",
       "title": "NextDC circles second western Sydney data centre play - Green Street News",
       "summary": "NextDC circles second western Sydney data centre play&nbsp;&nbsp;Green Street News",
@@ -645,6 +661,42 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYXBGVmlzeDMwRHJaYUxjX1J5SDRNcGM1dUk3Sk1wcVNIR1pfZ3I1SS1ERlF0Q3doUC14RUY1OHBrMTNDV3hXQzV6UVRMRWtMSnpFSTVOam5kbGtnUnBtQ0xheFJSd0dRVW43S2tRMl9pajY5VWtGUjBlbTFkQlBUS0g4am1NR0ZrSERUeENnbzdGcFY4S0piLU1OOHNacnJpSmxlYV9RYjZZY3RlY3I5X2NpeTBfVERKY0Jza1BoSktDYjA3dkRMQW0zUmRtV21s?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-03-13T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "04aa156ee12e",
+      "title": "Australia's data center operator AirTrunk opens new regional headquarters in Singapore - TNGlobal",
+      "summary": "Australia's data center operator AirTrunk opens new regional headquarters in Singapore&nbsp;&nbsp;TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYTk3ZTJWcE1rOGdxZWtRd3lONWJXMmZMRU93eDNKcFAyYWlVN0xZRnByZkNLUFJoa2x0ZG8yNU9tLS1qSU0yV1Z0aV8wREhLRU1ER2k5Wnk2ZGx2d0pvdm5RZzR5NVp4VnM1ZmVZRFJvWUg2ZVMtWTB5emt0VXRMSldkRGZTV3lYUmtxNEtTWGh1TVJjOW91M1ZSalNFVFpVVmt3VWNlbmxtNGpMc0tYcGR3Y2FWel9xZnNRWnZB?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-03-13T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "a5cdf61225f8",
+      "title": "Data centre giant AirTrunk bets big on Singapore, mulls Reit IPO among other capital-raising options - The Business Times",
+      "summary": "Data centre giant AirTrunk bets big on Singapore, mulls Reit IPO among other capital-raising options&nbsp;&nbsp;The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0JmVnk0TG9DQ3J0T0Z3X2syVVlIQzRtWHM2NHYwbFpEV0NyTzRGTnV5blp2QW5XSHhIR3NyUHdWbnNGMm1UdXBIOUEzSW9xdW5yOVRtZTZvNHJxYTA3OHBBTlBwSllaRVlSVDBjZFZNcGN5eEdISDhVTlM3Mk5xNnowU3ZwcG9sVFBSYm1uS3VWTFREZFYyX2xjX1ZQN2J0QXc2Z2VoRVp3R29FWFcyOVhmYnRoWVlaWFFRRjY4dFpzZDZkZEtXbnBYazB2YjRXcjdRa29IUDh4cmFCZlJpQWtmdGU?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-03-13T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "d0a54abda178",
+      "title": "Billionaire Robin Khuda\u2019s AirTrunk Taps $1.2 Billion Loan To Expand Tokyo Data Center - Forbes",
+      "summary": "Billionaire Robin Khuda\u2019s AirTrunk Taps $1.2 Billion Loan To Expand Tokyo Data Center&nbsp;&nbsp;Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVJDR3Z6WFFBd0I5RG12c19PX0l3NXY5OG1tLXg5NUliQ1kxeUJmaXNJa1M5eDFKR2lvMGtIUXhPejlPS29xNUFPMldMLTRvWkVzMEdfV2pHamxtYWh4NmVZbmkyVHNaVVhIdUllbGlVTTlHNzhvQ3owLWx1bjliS2lyVFYtV2Q3am0yWUlucHZHU1BzM083QUwyOVpiUW95MkFCckJsS2pkNkh5dHJoQjRENzVZUXA3RmRQYzF1X2xBd2MzYlhlbU5ReThfTEZIUHV3NQ?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-03-10T07:00:00+00:00",
       "tags": [
         "airtrunk"
       ],
