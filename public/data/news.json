@@ -1,13 +1,25 @@
 {
-  "last_updated": "2026-07-05T09:16:34.766441+00:00",
+  "last_updated": "2026-07-06T10:52:28.450435+00:00",
   "items": [
+    {
+      "id": "258e5551a8cc",
+      "title": "The 20 percent problem: why data center sites fail before they\u2019re built",
+      "summary": "Why the industry must continue to look beyond the grid",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-20-percent-problem-why-data-center-sites-fail-before-theyre-built/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-07-05T10:00:30+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
     {
       "id": "0b886bd1f59d",
       "title": "300MW data center campus proposed in Kent, UK",
       "summary": "Renewables firm Clearstone looks to build campus near Dartford",
       "url": "https://www.datacenterdynamics.com/en/news/300mw-data-center-campus-proposed-in-kent-uk/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-07-03T15:47:43+00:00",
+      "published_at": "2026-07-03T15:47:00+00:00",
       "tags": [
         "energy_policy"
       ],
@@ -122,30 +134,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "91ea255139f1",
-      "title": "DigiCo Infrastructure REIT Gets Bull as Sydney Data Center Advances -- Market Talk - Moomoo",
-      "summary": "DigiCo Infrastructure REIT Gets Bull as Sydney Data Center Advances -- Market Talk&nbsp;&nbsp;Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDVFRXhYdUNXYzFPV240ZS1hMGVsVVFXS3dLRF8wNW5Yei1GUWNNSlNjdUgtSnRiZFhFenFHNzRwWWRQQU1IWktYVTJfVHRCbFU5SUN2WDZIb3RmemFzeXNoWE1nTFV5QktnR0pkcEwwT0F2U3Y5STlRbnNsZFZOcG1NSFVwV2hJakFVTHpfcUNNWkRDdDdXRjByTEhvYjFQLW82MDZtZngtSmd5VEE?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-06-25T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "d0fba6cb8fde",
-      "title": "AIP and Brookfield are both bidding for Stack Infrastructure's Asia operations and the $30 billion price tag explains exactly what AI has done to data center valuations - Startup Fortune",
-      "summary": "AIP and Brookfield are both bidding for Stack Infrastructure's Asia operations and the $30 billion price tag explains exactly what AI has done to data center valuations&nbsp;&nbsp;Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNS1dwakxBSm1vbHZsYi1qV0ZkSExqUzZIWURGV3JSdFEwQ2U0UzREbEI4U1dZeG8tWjFmZUNxelo5d1VUNmhnR3pzQkVzOE1MTUVxZkNJYThsMkppQlRnUXRjNVlxYTFfTFZwR3h5XzRBbnViYmlKYXN2YUVJSWhObHZiSG1mLXFsUVluWm9pSDVTZjFGWXZIY092YkxDeTBEU2ZqRVJOaC11d0FfSFp2UUxFMHVzRmZCS2o2ZGE1UEYyUGRoaG5IY3FmUVJkVHEwZzlPZTB2WEMtSDRUZ1htd0pVUUpmWVQ1a0dnZGEzbW13Zmp3c040LTVFUUp1UlZlQUYwN0c0WFpIVHEtUVYwbXhRNVF3a01UV2xjMHN4RQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-06-24T07:44:23+00:00",
-      "tags": [
-        "stack"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "43cd135eef3c",
       "title": "Licensable picture: A man walks past the NextDC S3 data centre in Sydney - reutersconnect.com",
       "summary": "Licensable picture: A man walks past the NextDC S3 data centre in Sydney&nbsp;&nbsp;reutersconnect.com",
@@ -213,7 +201,7 @@
       "summary": "Blackstone\u2019s AirTrunk Seeks $3 Billion Loan for Sydney Project&nbsp;&nbsp;Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFacGZuWjY0UmNXMlZuTkxhdFVqanRMMjY1VDlaRVBvTmRES3hndHF0RFliTzkwQk9DTEZ1U0FSblNpVDluNkdVdlNWRnRfcl9ENDBOMS1QcWtLdDNpa2NNYWUzaGhwTDlDWmlyTG52WmZQS0NVNEJ6LVVWQk1tWXZDQnlGUy1BNFdtc2xBcldjekJQb1ZhcW9MTnFrOS10U01yeXpuQzJ3QUNFV1A3OUN3?oc=5",
       "source": "Google News: Sydney DC",
-      "published_at": "2026-06-18T06:17:00+00:00",
+      "published_at": "2026-06-17T07:00:00+00:00",
       "tags": [
         "airtrunk",
         "nsw"
@@ -221,9 +209,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "3041d58fb3cb",
-      "title": "AirTrunk scopes out potential legal action against rival Zerra DC - afr.com",
-      "summary": "AirTrunk scopes out potential legal action against rival Zerra DC&nbsp;&nbsp;afr.com",
+      "id": "45fbfb7e3688",
+      "title": "AirTrunk scopes out potential legal action against rival Zerra DC - AFR",
+      "summary": "AirTrunk scopes out potential legal action against rival Zerra DC&nbsp;&nbsp;AFR",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOEhvQ29NX0RlLWh2UWExMFh2aDliazFRcWdZZFRpQlBPMVZ0am5Ram45TjFwaG54OTRZRjE1V3FJcXBqRFpUWTRTcmFLSnhxbVFfMjY5dUtmUEc2bVFYQjFrTWpEV3hPSVhiZlBWUkJaYzg5ZkZfdHVVOW9WSi1OZVd2TUxyTmdxZm1rXzFreXFCbGM3TXJ1dXlaR3hSWUgzekktUWF3?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-11T07:00:00+00:00",
@@ -367,6 +355,19 @@
       "relevance_score": 0.3
     },
     {
+      "id": "862560339a4f",
+      "title": "Google, AirTrunk and European Energy Australia prepare Mulwala Solar Farm for the grid - Tech Edition",
+      "summary": "Google, AirTrunk and European Energy Australia prepare Mulwala Solar Farm for the grid&nbsp;&nbsp;Tech Edition",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcHBFbDdYMXBXTjlMZkFqbmtzbVBUYnVtSkRJbmdTWHA2WGNvV0xDUHY4LVNVdUFFOXNHczJOSUoxalN6Sk9fQkZuQ29nZ01iRzJiaExpRUd5R1J6REFIMTJ1SWpwNnJTZ3k3UjBQZW5QTUI0ejZUa0VaWlJTSEhBdkpzdk9fZmxxLTRlNV9sT0NfM2pzbm82c2JQSENNZFNheE1CS3hCTWl5aUNmdWc?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "energy_policy"
+      ],
+      "relevance_score": 0.4
+    },
+    {
       "id": "c3c46f4c0e2d",
       "title": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future - blog.google",
       "summary": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future&nbsp;&nbsp;blog.google",
@@ -401,18 +402,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "90585c70a6e2",
-      "title": "NEXTDC Ltd stock (AU000000NXT8): Record 250MW contract win fuels AI data center growth - AD HOC NEWS",
-      "summary": "NEXTDC Ltd stock (AU000000NXT8): Record 250MW contract win fuels AI data center growth&nbsp;&nbsp;AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVE1DQmY2Sndhdms3UUlMNVdsMVVvQjVjMzBKN3A2cmVSWTR5RU9sa1oyRElUZlpBODVOWmQxZmJQZ3dkWk9VeklZVEs3SnVIbHB4aWFaOUdueUY5Q0owUFo0cTNrb0JfT09FZWpGcEF0eDRYWEVsenVxVVJaT0c0TVVRUlVfU1dlTDc0U2h6dV9yS2RpMUJyNUJHVWRma2lZTDZtaUJ5ZFFZNkQ1d1R2TmhGdGZxbzB5R00zek9FQkVCUDlEVnk0?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-05-13T07:00:00+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "ce5519b03b42",
@@ -488,9 +477,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "8b4edf30f12a",
-      "title": "AirTrunk bets $4.2b on Malaysia data centre expansion - afr.com",
-      "summary": "AirTrunk bets $4.2b on Malaysia data centre expansion&nbsp;&nbsp;afr.com",
+      "id": "4508b7b8e400",
+      "title": "AirTrunk bets $4.2b on Malaysia data centre expansion - AFR",
+      "summary": "AirTrunk bets $4.2b on Malaysia data centre expansion&nbsp;&nbsp;AFR",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2wzV09IM3RXWlE3Q1VOVWJ0MUxzclVzaFRRc1J6QTRnV1VNSmtfWHAtamlxSGdkdmVEZDBwYWI4M0tQazBOdnFYc2hCa0c5RzFULU1oYmtCbHpnRFhuSUFISGJfXzJVaWhLWm9LWVo4SzJlV2Y3VzMtRnRpUDJJTHdBLVdBQ2dKbTlWNHRSd0lPQlp4S2VwQUNub0pmNXpm?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-04-30T07:00:00+00:00",
@@ -609,9 +598,9 @@
       "relevance_score": 0.4
     },
     {
-      "id": "bb09baf60035",
-      "title": "NextDC, AirTrunk face new hurdles in AI infrastructure race - afr.com",
-      "summary": "NextDC, AirTrunk face new hurdles in AI infrastructure race&nbsp;&nbsp;afr.com",
+      "id": "291652ad0b75",
+      "title": "NextDC, AirTrunk face new hurdles in AI infrastructure race - AFR",
+      "summary": "NextDC, AirTrunk face new hurdles in AI infrastructure race&nbsp;&nbsp;AFR",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTExOa3NjdnBKR0tPOVF0Nm1EOXJWT25jMGtJU0U4Y09nRDkyUlNDdldSeWpTeXhVQkF1cnhKNUJQdXdqcVV3SGptdm1hSzZCbHhKRHhqZ0VqSkJMUTlfb2t2SXFvM0hidk8xd1Y5TTNIb29KQlM0N0Vta3dZZ1UzSnNSUjROdm1Ub1o0OGdNSVJBWUxyZGJGNUlmbGtLZ0R4VWpSekJYN0llOVpMYTVVaWFkSQ?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-04-22T07:00:00+00:00",
@@ -808,31 +797,6 @@
         "nsw"
       ],
       "relevance_score": 0.5
-    },
-    {
-      "id": "45b83537cb97",
-      "title": "Australia's NEXTDC to raise $1.07 billion to accelerate Sydney data centre rollout - marketscreener.com",
-      "summary": "Australia's NEXTDC to raise $1.07 billion to accelerate Sydney data centre rollout&nbsp;&nbsp;marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNDlxVXZRb0lBZ0ptUVIwOGZVVlhxRVFIOHlzbTN2emFic09HNGlwLVA5aU1Ia2tORktrVHhMVE1fSWlvTlBQdk9KYk5CNk1LYlNWSWZlYmdacDNOSERaWVRvZTFDQnZ5d0g3TkpSOUNySXAyLTl5Wjd1cndxcW4tdkNUVlpwc2hZbk05dlU0ZnRFeVhSMTFzY1NHc0h5ZXdLeUpwZS1oMFZrelpLT1lsU0ZvOUJlMGc4dXkyQ1BnWm13OGQ2SFdmSWQtWFU?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-04-19T07:00:00+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
-      "id": "c26faf4454c1",
-      "title": "Sydney council warns data centre clustering is straining infrastructure - W.Media",
-      "summary": "Sydney council warns data centre clustering is straining infrastructure&nbsp;&nbsp;W.Media",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS3gzbVVDZEVwUjVSQU5mZEM2cWpRSHNfRWloRGdQaE9yaHg3emYwSFoxSzZXMWQ5RGRZR2pXZEktRVpHWDZBZ1FCRjU1bzRqbDFTemU3QVplSGhMMFFDTmRDU1h1T3hmVHhnLU9Mc29OXy04S3lvZi16bnNhX0d6SjZ3ZnpKZ1NhRW85ZENmRThZdw?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-04-07T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
     }
   ]
 }
