@@ -1,53 +1,18 @@
 {
-  "last_updated": "2026-07-06T10:52:28.450435+00:00",
+  "last_updated": "2026-07-07T09:54:26.176913+00:00",
   "items": [
     {
-      "id": "258e5551a8cc",
-      "title": "The 20 percent problem: why data center sites fail before they\u2019re built",
-      "summary": "Why the industry must continue to look beyond the grid",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-20-percent-problem-why-data-center-sites-fail-before-theyre-built/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-07-05T10:00:30+00:00",
+      "id": "1ac636c2665c",
+      "title": "Telstra sells central offices in Sydney and Melbourne to developers - Data Center Dynamics",
+      "summary": "Telstra sells central offices in Sydney and Melbourne to developers&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjhYNnRuWkcxSS0xcVFhWndMYWY5cDFoQmRWdGlkLXpBbUhkcU44WlRzLWhtSEJHcjdrbElaZXphU3RSdjlFalpkQmJ1bWFuTTgyUEFfU0pQSHpoRDRka2J2dDZlb1g5Rlhwb2JmcFlTcHZCcW5LTWhIT0lFVDBPejlTQVUybDZNNnZfUVBjQlFWQnVBMzVGUy1qemdSNWNtZ0NiNzd0YXViS1dsQ3g3Mg?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-07-02T13:27:52+00:00",
       "tags": [
-        "energy_policy"
+        "nsw",
+        "telstra"
       ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "0b886bd1f59d",
-      "title": "300MW data center campus proposed in Kent, UK",
-      "summary": "Renewables firm Clearstone looks to build campus near Dartford",
-      "url": "https://www.datacenterdynamics.com/en/news/300mw-data-center-campus-proposed-in-kent-uk/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-07-03T15:47:00+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "e99b36d0263c",
-      "title": "Equinix-occupied data center in Manchester, UK, sold to a new landlord - report",
-      "summary": "Former Telecity site changes hands",
-      "url": "https://www.datacenterdynamics.com/en/news/equinix-occupied-data-center-in-manchester-uk-sold-to-a-new-landlord-report/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-07-03T15:39:56+00:00",
-      "tags": [
-        "equinix"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "16c11cccaa20",
-      "title": "National Grid Ventures invests $1.75bn in Joulent for construction of gas plant powering 2GW Microsoft data center in Texas",
-      "summary": "Joulent is a portfolio company of Engine No. 1",
-      "url": "https://www.datacenterdynamics.com/en/news/national-grid-ventures-invests-175bn-in-joulent-for-35-stake-to-develop-large-load-power-solutions-national-grid-ventures-ngv-the-commercial-arm-of-national-grid-has-agreed-to-invest-175-billion-for-a-35-stake-in-us-power-infrastructure-develope/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-07-03T15:30:28+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
+      "relevance_score": 0.5
     },
     {
       "id": "02a3896c14bd",
@@ -122,18 +87,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "1e05e7c88f2f",
-      "title": "DigiCo Infrastructure's Sydney Data Center Campus Progressing Well, Says Jefferies - marketscreener.com",
-      "summary": "DigiCo Infrastructure's Sydney Data Center Campus Progressing Well, Says Jefferies&nbsp;&nbsp;marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTTlQcmx5ZVJhM3Jra1J5b3hCSlNFUE14ekFrZUdtdk9Mem1lbzhkb2NyS2Y2X29iclhtcHdTbVp6N1czNXk1YkEySXRzZ2tCRHYzRkNkLVVPZHppS0QwaW9kWVNzYWhXbTZhNnRZX0VRMWpRb1Z3U05nZlpnUWxqcFNBS056QmVOLTJmVnVrTXN2TFJWTVJjSmxOV21yU3hWbk5DdTNvUnhyeU1ubzBtVGZyWFczaUtRUjNQbTdwOTk4Nk9abDdWdXQ2aHJ4X28?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-06-25T22:40:28+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
       "id": "43cd135eef3c",
       "title": "Licensable picture: A man walks past the NextDC S3 data centre in Sydney - reutersconnect.com",
       "summary": "Licensable picture: A man walks past the NextDC S3 data centre in Sydney&nbsp;&nbsp;reutersconnect.com",
@@ -189,11 +142,24 @@
       "summary": "Google, AirTrunk Bring 25 MW Solar Farm Online in Australia as AI Power Demand Surges&nbsp;&nbsp;AsiaTechDaily",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2JQRDhWdEVXSTllTTJyLTFKNG5rUmJEQXFxc0tGaWplNG5fWEctcGdLc3ZJUWN0LW0wSVRVemdaNGJMYUpIZVczeFZVOXI0RlNnaFdTSGpBRVZZcmw0ZHVaeTA1ek5TNl8xN2xseDM3OTVxWkRSbURwOWpFeFY5Xy0tdEtCTU1hN25NNTg4R21fZDlKTUN1Ujlqa3lJeG1LNWRCRnlvRUxGeWdEOFdFRg?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-06-18T08:26:32+00:00",
+      "published_at": "2026-06-18T07:00:00+00:00",
       "tags": [
         "airtrunk"
       ],
       "relevance_score": 0.3
+    },
+    {
+      "id": "8fafa5b005a2",
+      "title": "Blackstone\u2019s AirTrunk seeks A$4.3 billion loan for Sydney data centre project - The Business Times",
+      "summary": "Blackstone\u2019s AirTrunk seeks A$4.3 billion loan for Sydney data centre project&nbsp;&nbsp;The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZWx5b09YNG5Ha0dFbmVuUkc5R2RfS0lJMWludm54SER6QUFkdW9VRUJQU0poeVBKVGU0aDVybi05VkRDY1FtS1JzT1BJM1ZnV3VzdUs2RlE5UVRuOGVORWp6NnExRXYtNjR1Sl9wQlhma1NzTHBaek5JU1lpVkZhTXlNSnF3U3BMQi1zOUF1cFE4WGE0SW0wNXE3SmR4MlhhdWE3VGo5R2hkLThMbHBtX2FFbUFpVXRTMTV6U0RQWFg3YTVMTjZScFI5WkctcmxkSnlFUkRn?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-06-18T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
     },
     {
       "id": "c1d719a27cc0",
@@ -318,18 +284,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "89346a0f10f7",
-      "title": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future - iTWire",
-      "summary": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future&nbsp;&nbsp;iTWire",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY096R182cFZzek43ejFkQS1jNXdzOHdtUmx1bkhvT2dLaUhnMjJLZUQtSzVQQlA4T1NjV3NzRGd2a0VGZVFRWXRibGlZYk5pTHpIRlRCUU1fTExFYnZlVkk2ZnBkRzBFa1dPNjNLVGYzdVRRb3B6c2RoZjRIbWxIWUlZRmM5MjBFTnpKRmVYZXVUcmZENHA2bE1oaHVEa1doVUstYWNhWXBTRG5aUTFzdk90cnBZcnBJalotMXY0cEpfR1FQU3FRaTg2aFFxMU9pYkRxQ1d2TDQ1M3oySTd6RjF1UTAtRTFL?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-06-01T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "685ea3060b23",
       "title": "Google, AirTrunk-backed solar farm in NSW, Australia nears completion - Data Center Dynamics",
       "summary": "Google, AirTrunk-backed solar farm in NSW, Australia nears completion&nbsp;&nbsp;Data Center Dynamics",
@@ -366,6 +320,18 @@
         "energy_policy"
       ],
       "relevance_score": 0.4
+    },
+    {
+      "id": "a2db6e729bc6",
+      "title": "Australia's AirTrunk to invest $21 billion for data centre project in Raigad - Times of Oman",
+      "summary": "Australia's AirTrunk to invest $21 billion for data centre project in Raigad&nbsp;&nbsp;Times of Oman",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnI3N1l4dkRubFAyUGQzcEFJZm1qVGNXVWxoT0xuNEJaRWZLeHNDLVdvaE5WcS1INzZ6Q1BqTE5jcDJTMTVPNV82eWRRQmd0MDNKbUx0WjdIbUx4VmNpRUVCc2V1TjgtaUN0WkJlNTd1NFQwU3lsZVRUSm40MG45R1h6TUN1ZTVpN0oyVnVfVHM3MlFWbmtLMjMwWHpsQjFfYThHaURqcF9VN09KbnRiNDVUSQ?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "c3c46f4c0e2d",
@@ -477,6 +443,19 @@
       "relevance_score": 0.3
     },
     {
+      "id": "53d54562fd90",
+      "title": "AirTrunk completes installation of rooftop solar array at SYD1 data center in Sydney, Australia - Data Center Dynamics",
+      "summary": "AirTrunk completes installation of rooftop solar array at SYD1 data center in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdGFiejNGMlVMVXpGM1gyRTM1ZmNNVTlGYmlNcV9rbTNmUV9ULVZDQVFnY1RnQnZaQW51aHpqaWtRUlV0NUlrejJKbWpITUN5LUg5aXJ5T1QyTi1lbUduYU0zeFFjVi1VcmdKWk54RVFGV0RHTHNkQkVBdjhuZUNHbk5uYkFQbnFvMFAxdXJhOHpheEx4X0NFcUxrSVVxeHBxWVl4MkRyb1RWUDdWcjNHWDNsZ0ljVnpXVFp5YmhHWERkcThKNVF4T25kT2tRMTJrMXlGcg?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-05-01T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
+    {
       "id": "4508b7b8e400",
       "title": "AirTrunk bets $4.2b on Malaysia data centre expansion - AFR",
       "summary": "AirTrunk bets $4.2b on Malaysia data centre expansion&nbsp;&nbsp;AFR",
@@ -579,6 +558,18 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zSnZsU2tCbXpvNmNXUnJOTGJ6ZWFKZnZpYkJjYTVnQkJuM25zelRUVE9GMTZSLUIzSUkzQ2d0d01sYk5Danl2V1JOSUJvbEtNNmo3S3lybHpXMXI1cndxdnZrakhHWXhHdUI2Zg?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-04-27T07:00:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "1167c23e9d75",
+      "title": "NextDC expands data centre war chest to $6.6b after latest raise - AFR",
+      "summary": "NextDC expands data centre war chest to $6.6b after latest raise&nbsp;&nbsp;AFR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlhOY00yU0NaMDItcnR1THFOMDJwLVhWODhxdFE2RE83ZUxRZ3A3a1k0X04tYlNqVlNHd25TUlU0ZXc0YndZOHktN2Zyci1tdWJ6UjFYSnl6TGtDQ1dnMnNQa2RJS3E0a0pkbDFUZzV2SzFfUm9IY0pHQ1FwdUdob3F6RXBQMGMzUXd4akktbzVJRVRHbzI3TUVZQ3lLS0VLWmR1aHRYSWFILWhBLTNj?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-04-24T07:00:00+00:00",
       "tags": [
         "nextdc"
       ],
@@ -771,6 +762,18 @@
         "nsw"
       ],
       "relevance_score": 0.5
+    },
+    {
+      "id": "5eb12730fd58",
+      "title": "Aussie data center firm NextDC secures 250MW data center deals, set to raise more than AU$1.5 billion via new shares - Data Center Dynamics",
+      "summary": "Aussie data center firm NextDC secures 250MW data center deals, set to raise more than AU$1.5 billion via new shares&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWldEeE1IbFc5OEljQzc1Q0VEcWtYZ19oYUh2bWJ5S1JEbUFWLWtudVNSLXZOZUd4YmRWR3FiUjJvTGQ2Rk82dG1UUGhmSTV6VjdfZmxnTXBYcm5HcWFzbWRCRHRQeDhVc25PMlY3YjFSSHNjQmxOV0htMGpQM19vLWxnN09RdW1KX0phakdlemxNVm5jWEI2V0tMc1oxUExHT3JfZWE5V294R0dVeTlPWFp6YTJUZGRYN2Y2QUNWN2luREVaWXpjMjlvbldZRjZLTEpmN2FCcjQ5UWhRSC10ak1kbEJhSHJDaVVENFRn?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-04-20T07:00:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "264a28e3a6e6",
