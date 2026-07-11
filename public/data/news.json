@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-07-10T09:48:04.952771+00:00",
+  "last_updated": "2026-07-11T08:05:55.847931+00:00",
   "items": [
+    {
+      "id": "7eabceaac471",
+      "title": "NextDC raises another AU$500m in senior debt facilities, bringing total commitments to AU$2.3bn",
+      "summary": "Part of a plan to support massive contracted utilization growth, the Australian developer said",
+      "url": "https://www.datacenterdynamics.com/en/news/nextdc-raises-another-au500m-in-senior-debt-facilities-bringing-total-commitments-to-au23bn/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-07-10T15:00:26+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "9992dd255a4b",
+      "title": "Modular by necessity: Why the AI boom is making prefabricated data centers the new default",
+      "summary": "AI demand has made 18\u201324 month build timelines unsustainable, is modular the answer?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/modular-by-necessity-why-the-ai-boom-is-making-prefabricated-data-centers-the-new-default/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-07-10T14:30:31+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "a7f2a7aaf4a0",
+      "title": "Microsoft reports 25 percent increase in CO2 emissions, on back on data center growth",
+      "summary": "Claims increase is attributable to the decision to stop counting unbundled renewable energy credits",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-reports-25-percent-increase-in-co2-emissions-on-back-on-data-center-growth/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-07-10T14:00:29+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "4055dd036801",
+      "title": "HyperDataGrid eyes data center outside Lufkin, Texas",
+      "summary": "Company looking to develop on former mill site",
+      "url": "https://www.datacenterdynamics.com/en/news/hyperdatagrid-eyes-data-center-outside-lufkin-texas/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-07-10T13:38:52+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "8f95dcd853a9",
+      "title": "Equinix to develop 10th and 11th data centers in Amsterdam",
+      "summary": "But can only build 25 percent of total permitted development",
+      "url": "https://www.datacenterdynamics.com/en/news/equinix-to-develop-10th-and-11th-data-centers-in-amsterdam/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-07-10T12:41:54+00:00",
+      "tags": [
+        "equinix"
+      ],
+      "relevance_score": 0.3
+    },
     {
       "id": "48c1bd11f3c8",
       "title": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion - Reuters",
@@ -10,18 +70,6 @@
       "published_at": "2026-07-09T23:54:23+00:00",
       "tags": [
         "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "0f90aa2799d2",
-      "title": "FuriosaAI deploys its RNGD servers at Equinix data center in Lisbon, Portugal",
-      "summary": "Scale of deployment not stated",
-      "url": "https://www.datacenterdynamics.com/en/news/furiosaai-deploys-its-rngd-servers-at-equinix-data-center-in-lisbon-portugal/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-07-09T12:30:26+00:00",
-      "tags": [
-        "equinix"
       ],
       "relevance_score": 0.3
     },
@@ -36,19 +84,6 @@
         "nextdc"
       ],
       "relevance_score": 0.3
-    },
-    {
-      "id": "1ac636c2665c",
-      "title": "Telstra sells central offices in Sydney and Melbourne to developers - Data Center Dynamics",
-      "summary": "Telstra sells central offices in Sydney and Melbourne to developers&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjhYNnRuWkcxSS0xcVFhWndMYWY5cDFoQmRWdGlkLXpBbUhkcU44WlRzLWhtSEJHcjdrbElaZXphU3RSdjlFalpkQmJ1bWFuTTgyUEFfU0pQSHpoRDRka2J2dDZlb1g5Rlhwb2JmcFlTcHZCcW5LTWhIT0lFVDBPejlTQVUybDZNNnZfUVBjQlFWQnVBMzVGUy1qemdSNWNtZ0NiNzd0YXViS1dsQ3g3Mg?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-07-02T13:27:52+00:00",
-      "tags": [
-        "nsw",
-        "telstra"
-      ],
-      "relevance_score": 0.5
     },
     {
       "id": "02a3896c14bd",
@@ -71,6 +106,18 @@
       "published_at": "2026-07-02T13:22:52+00:00",
       "tags": [
         "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "2525239a5d34",
+      "title": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years - The Straits Times",
+      "summary": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years&nbsp;&nbsp;The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1NtLWs3QmVIVXItZkRleFI2Q2ZFY0dxMG4zemYyQXRzRkxhcjF2NXNmallDWjhjTnhQb1lZekprd0QwaDZiaWFYM25Vd0V1WjViemxpYnY2b05IZDVRbDZGY2hZNDBBaVdmUlVPa0k0U0hxQ2hwTHl2TVdDcFJXVWdOVTJpTWVINzRmaVFZbTd6cVBNdTB0c05xRkZQd0tySGMyZ2V0U295UGpEYmw3aGxDNjN1NHdCR1JiNHhGenVSWEtaUnZNcEhZQVJUYnVq?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-06-30T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
       ],
       "relevance_score": 0.3
     },
@@ -99,9 +146,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "32f8d58cbb88",
-      "title": "NextDC clears key growth milestone, data center stock draws analyst focus - AD HOC NEWS",
-      "summary": "NextDC clears key growth milestone, data center stock draws analyst focus&nbsp;&nbsp;AD HOC NEWS",
+      "id": "22cb363a9906",
+      "title": "NextDC clears key growth milestone, data center stock draws analyst focus - ad-hoc-news.de",
+      "summary": "NextDC clears key growth milestone, data center stock draws analyst focus&nbsp;&nbsp;ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMVJ0T0h0VDdMSWp1X3JGZko4RXBZbmRGWlZvbUJYU3dmUVJUZFFnWTRERTU5eFVYZmtMT2hfRjlEdS1VU1lxZ3N6R3M3Vy1SU1pxdnU2ZTBhZjZsWURRa3YxYWpnekRMV2diV2xRNHc0T21nUUx0TGpTc0NERkEzZHp1UXNLYmR2MmRhZ05uVkdMbTEtSXE4bUVPaE10a1V6cml3M2ZabjV6VzZnbDBkanZWcXAtUUFrTXd6UlZmekJZQzFrV1JxREZVMA?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-06-26T13:20:40+00:00",
@@ -204,18 +251,6 @@
       "summary": "Data centres vow to fund Australia\u2019s renewables shift, not derail it&nbsp;&nbsp;SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc21EZ1puVmc4WkZpVENhdS1hRUNBQ0Jhei01YUZGVEcwSkxJTFpXT1RHMWY0UndyVzM2RFhFY0p2blNyY0lXT0RON0RORktvd3BTZEEtUmNnaVl6UE5UUWc0Wlh2UXRCOUFrZ3JJR0oyWmFfS1dYM2xFRGhnbnlIU0MyZXZwR3ljRTJlRVY0dUYxTS1vTTFZVElZWnBfRkhWenAxemRFVmd1VTcteXc4aGljeE95QU9oVV9YQk1SeXRrdW1YN2pZMGJ6Slo?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-06-14T07:00:00+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "d99de28354ea",
-      "title": "Data centres vow to fund Australia\u2019s renewables shift, not derail it - SMH.com.au",
-      "summary": "Data centres vow to fund Australia\u2019s renewables shift, not derail it&nbsp;&nbsp;SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc21EZ1puVmc4WkZpVENhdS1hRUNBQ0Jhei01YUZGVEcwSkxJTFpXT1RHMWY0UndyVzM2RFhFY0p2blNyY0lXT0RON0RORktvd3BTZEEtUmNnaVl6UE5UUWc0Wlh2UXRCOUFrZ3JJR0oyWmFfS1dYM2xFRGhnbnlIU0MyZXZwR3ljRTJlRVY0dUYxTS1vTTFZVElZWnBfRkhWenAxemRFVmd1VTcteXc4aGljeE95QU9oVV9YQk1SeXRrdW1YN2pZMGJ6Slo?oc=5",
-      "source": "Google News: NEXTDC",
       "published_at": "2026-06-14T07:00:00+00:00",
       "tags": [
         "energy_policy"
@@ -563,18 +598,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "3f0b4ff3ac30",
-      "title": "Australia's AirTrunk to invest $2.7 billion in two new Malaysian data centres, World News - AsiaOne",
-      "summary": "Australia's AirTrunk to invest $2.7 billion in two new Malaysian data centres, World News&nbsp;&nbsp;AsiaOne",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM0RnM0hhZjdwR1dtWWR2SXNqd1UwcFc0QS1zeDd4RW03UWhwa0NuYS1ITTdDR09WdjZNclFaenRjN3hyVFdOamdKT0Fwa2Z6ekVFQ281aGhyY2x3dzl0c2xJUVEwM21rbnNTekJ0WUp0bmJLRkdxUlpuWVpEN2tiVlQ2eGkxR0toU1oyOVVrYTJrd1FwXzNTeEJQTFRlczg?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-04-29T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "7be9e0fe226d",
       "title": "Mallesons steers NEXTDC\u2019s USD1.5bn data centre capital raise - Law.asia",
       "summary": "Mallesons steers NEXTDC\u2019s USD1.5bn data centre capital raise&nbsp;&nbsp;Law.asia",
@@ -746,19 +769,6 @@
         "nextdc"
       ],
       "relevance_score": 0.3
-    },
-    {
-      "id": "35466dc0889e",
-      "title": "Sydney\u2019s data hunger triggers $1.5bn NextDC fund raise - InnovationAus.com",
-      "summary": "Sydney\u2019s data hunger triggers $1.5bn NextDC fund raise&nbsp;&nbsp;InnovationAus.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU2ViNE41YzdqQjZMWHNUOEg3R0hSUmFaT0d5QWxjSk4tN0NpQ2loajlEUlpudUktWFJqREJkckxJVHUxbkRnMloyTDhPNno0UGdVSVFicV9FUUdwOFhlWURtWFVKQ1BnbDJqc05idjZRdGxvQTRjX3VxZ1MteXZBOW9qTmJMWFhYVVYw?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
     },
     {
       "id": "39fe4311e31e",
