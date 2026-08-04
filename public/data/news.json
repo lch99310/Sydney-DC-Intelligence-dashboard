@@ -1,13 +1,37 @@
 {
-  "last_updated": "2026-08-03T09:58:41.785209+00:00",
+  "last_updated": "2026-08-04T08:48:45.336228+00:00",
   "items": [
     {
-      "id": "d14aa3f10142",
-      "title": "Veolia to operate 350MW gas-powered microgrid for Ohio data center campus",
-      "summary": "Will be anchored by natural gas power and supplemented with a BESS unit",
-      "url": "https://www.datacenterdynamics.com/en/news/veolia-to-operate-350mw-gas-powered-microgrid-for-ohio-data-center-campus/",
+      "id": "1efb85bb05e6",
+      "title": "Sponsored: Maximize tokens per watt to power the AI era forward",
+      "summary": "The new blueprint for next-generation, grid-interactive AI data centers",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/maximize-tokens-per-watt-to-power-the-ai-era-forward/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-07-31T11:44:33+00:00",
+      "published_at": "2026-08-04T07:00:00+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "d3734a54eec2",
+      "title": "Google signs 155MW solar PPA with RWE in Oklahoma",
+      "summary": "Second PPA Google has signed in the Sooner State this year",
+      "url": "https://www.datacenterdynamics.com/en/news/google-signs-155mw-solar-ppa-with-rwe-in-oklahoma/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-08-03T15:23:13+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "6abc63d4f866",
+      "title": "DCD News: July review",
+      "summary": "DCD's Zoe Turner, Zachary Skidmore and Matt Gooding explore July's biggest data center stories, from AI-driven energy demand and M&amp;A activity to grid challenges and emerging cooling solutions.",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-news-july-review/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-08-03T14:52:06+00:00",
       "tags": [
         "energy_policy"
       ],
@@ -174,19 +198,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "fc36acdc3876",
-      "title": "Hoban Group President Kim Dae-heon Expands AI Power Grid Cooperation in Australia, Holds Talks with AirTrunk and Transgrid - finance.biggo.com",
-      "summary": "Hoban Group President Kim Dae-heon Expands AI Power Grid Cooperation in Australia, Holds Talks with AirTrunk and Transgrid&nbsp;&nbsp;finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiaUxsVzRWdGJfSG5GS0hJWW5DWFdPc3RZU0FWd3JNQk84SklvMmc0dkZENk5RbnhXOGZfTkRqUVY5VU05eUphOGVSc3o4UU1lN1pYWl9wLWNEenlWbDc5dGJnMVBjZTk0Sk5waVRWemhaUUlUTkE?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-07-13T07:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "energy_policy"
-      ],
-      "relevance_score": 0.4
-    },
-    {
       "id": "2941a00bbe1f",
       "title": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion - MSN",
       "summary": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion&nbsp;&nbsp;MSN",
@@ -199,12 +210,24 @@
       "relevance_score": 0.3
     },
     {
-      "id": "0faf41afe1b6",
-      "title": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion - reuters.com",
-      "summary": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion&nbsp;&nbsp;reuters.com",
+      "id": "48c1bd11f3c8",
+      "title": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion - Reuters",
+      "summary": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSzZzZ250MEZjQlQ1N1c3VkxzdmhUbWp0RGY3V0ZQNkIyVTlDU3hwcTJ2c293ak9reXctUVB5bzQwdWQwaTNBTXRNS2R6LS1MeURYcE11eG55d3lGTUNOVGpPVGx1ang2dGwzakpRdzg3Wm8yMEt0VXg4X09PZnZfUkpPdkZLdTNRcGJTeTFnMmNyYUxNdVpnTGh4RkFZanp1bEVKT1VpSkZkTFhBajZ2Mkc1UV8zZVZlUzhGMnNaczNZV3FIWmc?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-09T07:00:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "56c417852e9c",
+      "title": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock? - Kalkine Media",
+      "summary": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock?&nbsp;&nbsp;Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObTVoc1JQSUZkOXEzVW84bHBJakJFYlVkMnNvNTZ6SEN2QUVXR28zYlJCZkd4MnZDaU1ram15Q1l3M1Q4VnhXNUR5d1VoY3Q3NkVoVEZvQldQWC0yUy05VG1QcWVXeW12Vk5MR1NSNGlMR2ZKOUVmYmlQZG1CTk1ISndHWGM2em82S1Fic2djSWx6clFWNnJyWVF1V3dvUTJGYlhCRXYzOVNGWWtiSzJ0d0VxLVVGbXhGbXpnUkI3ZW84UUh3OGc?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-07-08T08:56:00+00:00",
       "tags": [
         "nextdc"
       ],
@@ -233,30 +256,6 @@
         "nextdc"
       ],
       "relevance_score": 0.3
-    },
-    {
-      "id": "d0fba6cb8fde",
-      "title": "AIP and Brookfield are both bidding for Stack Infrastructure's Asia operations and the $30 billion price tag explains exactly what AI has done to data center valuations - Startup Fortune",
-      "summary": "AIP and Brookfield are both bidding for Stack Infrastructure's Asia operations and the $30 billion price tag explains exactly what AI has done to data center valuations&nbsp;&nbsp;Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNS1dwakxBSm1vbHZsYi1qV0ZkSExqUzZIWURGV3JSdFEwQ2U0UzREbEI4U1dZeG8tWjFmZUNxelo5d1VUNmhnR3pzQkVzOE1MTUVxZkNJYThsMkppQlRnUXRjNVlxYTFfTFZwR3h5XzRBbnViYmlKYXN2YUVJSWhObHZiSG1mLXFsUVluWm9pSDVTZjFGWXZIY092YkxDeTBEU2ZqRVJOaC11d0FfSFp2UUxFMHVzRmZCS2o2ZGE1UEYyUGRoaG5IY3FmUVJkVHEwZzlPZTB2WEMtSDRUZ1htd0pVUUpmWVQ1a0dnZGEzbW13Zmp3c040LTVFUUp1UlZlQUYwN0c0WFpIVHEtUVYwbXhRNVF3a01UV2xjMHN4RQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-06-24T07:00:00+00:00",
-      "tags": [
-        "stack"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "bb041e6f0ec0",
-      "title": "\u2018This is personal\u2019: Haynes Station neighbors press for data center answers - WRDW",
-      "summary": "\u2018This is personal\u2019: Haynes Station neighbors press for data center answers&nbsp;&nbsp;WRDW",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWZBLW1EYzZ5azY4dEFralBjRnFQTEJxTUo5aVJyd2FFX2gxNFhOdmlja3IwbmFpYzZjNGU3Sk9xRnRET3lFR1gxcFI2WXVkcWFiNmhGTENhNkwtenUtR3NqamxfekJXNDlJQ09kMWZxWGdQellFNzcycnR5UlhOQ1hONGpqN2JPNXJ0M3NkWS1oUnNqZmpuN3h1X0Y5bi1BTUHSAbYBQVVfeXFMTzA5UjdFRkR6Z0hrMHF2ekxuLUNRR1BobmtSWFgzTTNESHlWb0ViQXoycmp2MEpTbGpWLTI3aWstV3YzUUZPamZTdGxydlktclpWVzZLUmZPdnhSVktKbjFrYzJxTEtCdV8wZ1YtQWU3OTN3dW0yNmpIa1k3TmkwZ09lOHdRYnZnWURvY2cwVHFoOWpHaGpVRm9lSXNyTkJwM2tra0wzZlZDQmF0Q3F0dlJybzNQYlE?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-06-24T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
     },
     {
       "id": "ae2344d32119",
@@ -407,9 +406,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "6112144460ca",
-      "title": "Australia's AirTrunk to invest $30 billion in India by 2030 - reuters.com",
-      "summary": "Australia's AirTrunk to invest $30 billion in India by 2030&nbsp;&nbsp;reuters.com",
+      "id": "60e3e9953c37",
+      "title": "Australia's AirTrunk to invest $30 billion in India by 2030 - Reuters",
+      "summary": "Australia's AirTrunk to invest $30 billion in India by 2030&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRjJkc3E2Z3NoakhZRzRMMjlSN3dxYWNTc3phXzVWZWw3WkhGaGhPRVJCSnBoS1NSNHJIaFBtdDVscWdEM091cHd4WktyRkZNb2RodC00SUtsUDlSLXdhdG5tb2hCTHEwY3BlczhLOHU3ZDh4ZkM5TXZKSU5iOTRmYldUOTg2OG5SdnpuaWtrbkJELThyVUxZQUJZM01taGgz?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-05T07:00:00+00:00",
@@ -481,16 +480,17 @@
       "relevance_score": 0.5
     },
     {
-      "id": "b1d0ec50ef2e",
-      "title": "Google, AirTrunk add solar power for AI demand - Tech in Asia",
-      "summary": "Google, AirTrunk add solar power for AI demand&nbsp;&nbsp;Tech in Asia",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hSUxTLVg1bV9HRlhaRV9YZ1AzN19QZWlVTXVhaDdvVnE0b1R4Q2o0N2Rac3JlajJ3dzVYT0x4dS1sTUhLS2toWTZ0RGZOSEJwSHhtNFFzLW5Oak9ycXREUmx1Z1g1U0wxRVR5VTlPQ0tjN05VTHJYVTVGeG1yZw?oc=5",
+      "id": "862560339a4f",
+      "title": "Google, AirTrunk and European Energy Australia prepare Mulwala Solar Farm for the grid - Tech Edition",
+      "summary": "Google, AirTrunk and European Energy Australia prepare Mulwala Solar Farm for the grid&nbsp;&nbsp;Tech Edition",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcHBFbDdYMXBXTjlMZkFqbmtzbVBUYnVtSkRJbmdTWHA2WGNvV0xDUHY4LVNVdUFFOXNHczJOSUoxalN6Sk9fQkZuQ29nZ01iRzJiaExpRUd5R1J6REFIMTJ1SWpwNnJTZ3k3UjBQZW5QTUI0ejZUa0VaWlJTSEhBdkpzdk9fZmxxLTRlNV9sT0NfM2pzbm82c2JQSENNZFNheE1CS3hCTWl5aUNmdWc?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-01T07:00:00+00:00",
       "tags": [
-        "airtrunk"
+        "airtrunk",
+        "energy_policy"
       ],
-      "relevance_score": 0.3
+      "relevance_score": 0.4
     },
     {
       "id": "c3c46f4c0e2d",
@@ -513,42 +513,6 @@
       "published_at": "2026-05-27T07:00:00+00:00",
       "tags": [
         "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "ce5519b03b42",
-      "title": "AI Boom Trumps Sleep, Says Boss of Data Center Operator NEXTDC - Bloomberg.com",
-      "summary": "AI Boom Trumps Sleep, Says Boss of Data Center Operator NEXTDC&nbsp;&nbsp;Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVU9pdlRucHV6UW9ORGR3amdBWW5BbnVLbWVRaEJBdFl4Y2dpZFNUR3VGdnpMaVhTTVJyUjJCcVJaeWVKWVFvc00tR2F3WFc1N2l6YVZJUnZtWFAzT1YwQ3RpdjUybmdKTmItWUhSZjBGMzFGOW1WY3pRZXdKNUVMVWxRQVVUQVdRNDBIbERVVDdha21zUmVaT3U4cU1EeHVLOWJNNmhLRWl6OUY0UWhiVTdR?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "15da0c4227ea",
-      "title": "CDC signs 'largest ever' Aussie data center deal to provide 555MW for US client - Data Center Dynamics",
-      "summary": "CDC signs 'largest ever' Aussie data center deal to provide 555MW for US client&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaDdWMi13TjlKTm9QRG9tYlNSLS1Pd0V1d2VpTi13TVhJZmNBeEFnQ2xFUGdxV2xSNXB2ZnZBeTZ0ekF3TFVoTDVRa0RmX24xY1ZGZE9Ybi1YMFJ5dndGT1hnd29QWldnUTI0bS1qd2toV3Z0MzRfWUtjeEJwcC1SSDc2UjU0QmIxSlgxUU11a2M1U3dEMmtBOGRhYUNRcm8wZEh2ZTZlTHhrX2EzaEVNZHpOY0E2SlhnRjZ4QjBR?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "tags": [
-        "cdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "5f06c1509d3d",
-      "title": "AI Boom Trumps Sleep, Says Boss of Data Center Operator NEXTDC - Bloomberg.com",
-      "summary": "AI Boom Trumps Sleep, Says Boss of Data Center Operator NEXTDC&nbsp;&nbsp;Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVU9pdlRucHV6UW9ORGR3amdBWW5BbnVLbWVRaEJBdFl4Y2dpZFNUR3VGdnpMaVhTTVJyUjJCcVJaeWVKWVFvc00tR2F3WFc1N2l6YVZJUnZtWFAzT1YwQ3RpdjUybmdKTmItWUhSZjBGMzFGOW1WY3pRZXdKNUVMVWxRQVVUQVdRNDBIbERVVDdha21zUmVaT3U4cU1EeHVLOWJNNmhLRWl6OUY0UWhiVTdR?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "tags": [
-        "nextdc"
       ],
       "relevance_score": 0.3
     }
