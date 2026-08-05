@@ -1,41 +1,18 @@
 {
-  "last_updated": "2026-08-04T08:48:45.336228+00:00",
+  "last_updated": "2026-08-05T08:46:05.951646+00:00",
   "items": [
     {
-      "id": "1efb85bb05e6",
-      "title": "Sponsored: Maximize tokens per watt to power the AI era forward",
-      "summary": "The new blueprint for next-generation, grid-interactive AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/maximize-tokens-per-watt-to-power-the-ai-era-forward/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-08-04T07:00:00+00:00",
+      "id": "20974a6d51e4",
+      "title": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion - World Construction Network",
+      "summary": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion&nbsp;&nbsp;World Construction Network",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcndGZW5ncmhOYnppaUdlc3NBUDNiUWJzWUpVemY2VWF1OFJRdmtXM1dhS0R0aWdVQkdZMzB1dVlyaWROemJjVW83WmV1eXVYc2tYd3F0ZTZQc2s2ZmxHZjFzREJXLVE4UlBuM0xuaXFjcjk4VTZSUkNwaHk0TkxTTTZNNlRVQmNQ?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-07-31T11:52:57+00:00",
       "tags": [
-        "energy_policy"
+        "airtrunk",
+        "nsw"
       ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "d3734a54eec2",
-      "title": "Google signs 155MW solar PPA with RWE in Oklahoma",
-      "summary": "Second PPA Google has signed in the Sooner State this year",
-      "url": "https://www.datacenterdynamics.com/en/news/google-signs-155mw-solar-ppa-with-rwe-in-oklahoma/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-08-03T15:23:13+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "6abc63d4f866",
-      "title": "DCD News: July review",
-      "summary": "DCD's Zoe Turner, Zachary Skidmore and Matt Gooding explore July's biggest data center stories, from AI-driven energy demand and M&amp;A activity to grid challenges and emerging cooling solutions.",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-news-july-review/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-08-03T14:52:06+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
+      "relevance_score": 0.5
     },
     {
       "id": "286b649c0d60",
@@ -68,18 +45,6 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObGhaTDc5d1JaQXRmYXpzYngyX21oc0xUa01SWTRWREJSTUd1eUdWY0VkRmxldG5LWHVtb0NIUk91ejdMQmtJbThQQjJRT2FGd1YzUGI1QkQ1MFZXOWpZU3hUVW9vdk1UMUtLLUpDSW94MjAtb0xDNlEyUm9OdmJfMmZpUzJoOUVEb0J0TG1GTHdPZUF5WEwwOGk4a3l5bmVXSzNUUV9pbWlmaU1YWVcySDVWS0l3R2FoT0NvNmdjNlk2ZXFWSW1NcEt0ekNOdw?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-29T09:54:11+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "e6f03767c1c6",
-      "title": "AirTrunk gets US$2.3 billion green loan for Johor data centre - The Business Times",
-      "summary": "AirTrunk gets US$2.3 billion green loan for Johor data centre&nbsp;&nbsp;The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVjl4NjN1RHM0eEgtWFJHbkJUM3pjalgxUXpZMVNDZkpyN2trMDdkb0NZTm1haWlMQ2pISXpyODBvNW11UldxSTlESUFfYWlOeUFaUzRJWXVod3FaajJLSm9OVW9XMUZacHdiRERxUEpHakRESWQ3Z2I0Ny1kSHpiSVJjT0Q5UVZWTjZQZkJWTmxid1hxYi1qeDdmRjJmYUVhek81RUh4SFlLekIxdmZra1AyTHA?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-07-29T04:49:00+00:00",
       "tags": [
         "airtrunk"
       ],
@@ -173,6 +138,18 @@
       "relevance_score": 0.3
     },
     {
+      "id": "8687641e5eeb",
+      "title": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg - The Edge Malaysia",
+      "summary": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg&nbsp;&nbsp;The Edge Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03VTZPRjNSekpPQkRwclNIRVRXSmpHMXlLMnFmbml5RnJhSElXUDR3d1R2VmhDZFRtNFlEdG0zd1ZyRUVraFZUVUM3bm5ERkRf?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-07-22T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "c7176722fa47",
       "title": "NextDC account manager sues over commissions on Melbourne, Sydney centre deals - Lawyerly",
       "summary": "NextDC account manager sues over commissions on Melbourne, Sydney centre deals&nbsp;&nbsp;Lawyerly",
@@ -204,6 +181,18 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTEoyNEZTcDU3RjVFVVc1aVBHLVRKdHU2RkZYMVA4RUNSSENEMkpwcG1zWmxCSjlaTThGUk5maENnc0syZ2Z2REpzWndvQm0wRTlqV3ZuUi1tejN3N2ZYTUpBTTNZVDIwaWZaNjlGdm5hLUFzSmw0R0hqRXdEZlpndUViOER5eTRIcG1LUUxpblY1bmUzRklTaUNJdkxDaUF1aHNSRjdaYXU2dDJmYlFtS0pSdFNKbnRnYVJqbW1wekd3VGlQMzBhQzFUTHNvTjlvVk1hZnd1UHNmbDhWNE94V1VyVUFldDJRV0NhdGFB?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-10T07:00:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "71307a6bf1f8",
+      "title": "NextDC expands senior debt facilities to $2.3B for capex boost - arnnet.com.au",
+      "summary": "NextDC expands senior debt facilities to $2.3B for capex boost&nbsp;&nbsp;arnnet.com.au",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHJyeTBQdV92d1ZvSzFxdGcxNnoyU0drZHpNV3V5VTRKTWhlWlZlbHVZNWpzTUthUjJEOWVKWVRmelg5VkdJeTdEZjkxWkZ4NGNBTHMtdzEyZWNMbVdiZ1N1eGhjU0REanl0c0Z3TG5lbi1IZEFDTFFpWEh2dGctRHEwYkJVYkd5Um1FNVhadnZFc3JRcGJmVTVOVkY4LVltWE1BS1NzWmw0Ymdi?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-07-10T01:09:15+00:00",
       "tags": [
         "nextdc"
       ],
@@ -333,9 +322,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "c1d719a27cc0",
-      "title": "Blackstone\u2019s AirTrunk Seeks $3 Billion Loan for Sydney Project - Bloomberg.com",
-      "summary": "Blackstone\u2019s AirTrunk Seeks $3 Billion Loan for Sydney Project&nbsp;&nbsp;Bloomberg.com",
+      "id": "4fa7bd546b0b",
+      "title": "Blackstone\u2019s AirTrunk Seeks $3 Billion Loan for Sydney Project - bloomberg.com",
+      "summary": "Blackstone\u2019s AirTrunk Seeks $3 Billion Loan for Sydney Project&nbsp;&nbsp;bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFacGZuWjY0UmNXMlZuTkxhdFVqanRMMjY1VDlaRVBvTmRES3hndHF0RFliTzkwQk9DTEZ1U0FSblNpVDluNkdVdlNWRnRfcl9ENDBOMS1QcWtLdDNpa2NNYWUzaGhwTDlDWmlyTG52WmZQS0NVNEJ6LVVWQk1tWXZDQnlGUy1BNFdtc2xBcldjekJQb1ZhcW9MTnFrOS10U01yeXpuQzJ3QUNFV1A3OUN3?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-06-17T07:00:00+00:00",
@@ -459,6 +448,18 @@
       "title": "Tech Bytes: Google and AirTrunk\u2019s solar bet highlights AI\u2019s growing energy challenge - Proactive financial news",
       "summary": "Tech Bytes: Google and AirTrunk\u2019s solar bet highlights AI\u2019s growing energy challenge&nbsp;&nbsp;Proactive financial news",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYXhWZU8ycWg3d3hKLUZKR2tKOTlfMTZ0bEZ3cFFuNnR6VjFJWEYwNHRLeDhMVmFZWTVXSERGVDFzSFVsSUctQmRoNnRCZVpicjU1aEVhNVQ5STRQSWlVN0VQQk5NR1k4Q2sweVREeENnUWNIZU9xNlBJRi11akdPU0hvWWYzcGpfczVpYVdGb1NmRnV4aGROdkNnTE9qbU9QbVdXS01qWWZNRUJ4S2tTSnZDdXJzVUxETmlmdUlJU2lWQ2s3NjVOdGJBVDQwWjFJamdNREY0X1ZReG9HOGtOenhGMWRMNjBhVk9Fc0h3?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "89346a0f10f7",
+      "title": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future - iTWire",
+      "summary": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future&nbsp;&nbsp;iTWire",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY096R182cFZzek43ejFkQS1jNXdzOHdtUmx1bkhvT2dLaUhnMjJLZUQtSzVQQlA4T1NjV3NzRGd2a0VGZVFRWXRibGlZYk5pTHpIRlRCUU1fTExFYnZlVkk2ZnBkRzBFa1dPNjNLVGYzdVRRb3B6c2RoZjRIbWxIWUlZRmM5MjBFTnpKRmVYZXVUcmZENHA2bE1oaHVEa1doVUstYWNhWXBTRG5aUTFzdk90cnBZcnBJalotMXY0cEpfR1FQU3FRaTg2aFFxMU9pYkRxQ1d2TDQ1M3oySTd6RjF1UTAtRTFL?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-01T07:00:00+00:00",
       "tags": [
