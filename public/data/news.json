@@ -1,58 +1,22 @@
 {
-  "last_updated": "2026-08-07T07:26:30.604106+00:00",
+  "last_updated": "2026-08-08T07:03:16.016490+00:00",
   "items": [
     {
-      "id": "bc7fd2216c9e",
-      "title": "Partners Group to invest $1bn in AVK to help scale its microgrid offering for data center market",
-      "summary": "Takes a majority stake in the firm",
-      "url": "https://www.datacenterdynamics.com/en/news/partners-group-to-invest-1bn-in-avk-to-help-scale-its-microgrid-offering-for-data-center-market/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-08-06T15:51:34+00:00",
+      "id": "8b77d1c5c4c3",
+      "title": "These Sydney schools teach 1500 students. A $9b data centre is moving next door - SMH.com.au",
+      "summary": "These Sydney schools teach 1500 students. A $9b data centre is moving next door&nbsp;&nbsp;SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTFlJanQ2Z1RJYmw5a1oxbXZhREhQNWVJTEFWOUFNT0ZqMXRmVG9hNURWbDFyS0ZjLXdPbl9PYVNLMDI2amFFMWs1OGYzSWtuQWFzVENHLW9YLU1mQUNoMmFQMldOX2xqdUc4MnBuTFR3S0g0dVBFZkktbi1uTGRzamlNa21lOEpMczZPQVNOMnpZN0xhREJzUXc1VE1uLW9hOUx3c09tSUtsY001Q25qUW1uT2U4QUJkSDlxQXFya3d6aTEtVUl4RTE3ZUNIczg?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-08-06T01:30:00+00:00",
       "tags": [
-        "energy_policy"
+        "nsw"
       ],
-      "relevance_score": 0.1
+      "relevance_score": 0.2
     },
     {
-      "id": "b23d90c038c1",
-      "title": "Y Combinator-backed Impact Drones to offer missile-intercepting drone service for data centers and grid operators",
-      "summary": "Following several strikes on data centers in US-Israel and Iran conflict",
-      "url": "https://www.datacenterdynamics.com/en/news/y-combinator-backed-impact-drones-launches-offers-missile-intercepting-drone-service-for-data-centers-and-grid-operators/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-08-06T13:55:00+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "5efbc2b0446e",
-      "title": "Redaptive and Recurve launch platform to unlock grid capacity for data centers",
-      "summary": "Will be based on Recurve's Flex software program",
-      "url": "https://www.datacenterdynamics.com/en/news/redaptive-and-recurve-launch-platform-to-unlock-grid-capacity-for-data-centers/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-08-06T13:00:36+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "ab9cb45e624c",
-      "title": "We Energies begins work on three renewable projects slated to help power Vantage's data center in Port Washington, Wisconsin",
-      "summary": "50 percent of generation is expected to serve the data center",
-      "url": "https://www.datacenterdynamics.com/en/news/we-energies-begins-work-on-three-renewable-projects-slated-to-help-power-vantages-data-center-in-port-washington-wisconsin/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-08-06T11:28:07+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "91877b743ccf",
-      "title": "Australia\u2019s CDC files for data center in Kemps Creek, Sydney - Data Center Dynamics",
-      "summary": "Australia\u2019s CDC files for data center in Kemps Creek, Sydney&nbsp;&nbsp;Data Center Dynamics",
+      "id": "0fac60c06312",
+      "title": "Australia\u2019s CDC files for data center in Kemps Creek, Sydney - datacenterdynamics.com",
+      "summary": "Australia\u2019s CDC files for data center in Kemps Creek, Sydney&nbsp;&nbsp;datacenterdynamics.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd3Nwbkp2NXBQdks0LWxDYU5KSDRtUjEzM1o0bm5vRVhuVWtYOHlhbWVXb2lIRC1ZbnlwT1BIbTVUY29QaFJKX2dpQjMzS2t3UnB6UTNxcFh6anF5LVM0SElHeFhmYW5FVGh3M2dLMlNlUXF4bm42NTJUSjlNbU9Qc3hwNW1FNDlac0ttck5PaXduVEdWRFlPSWNPLVVwZzZ0X2x5Zg?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-08-05T12:35:23+00:00",
@@ -63,9 +27,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "9ecb76902016",
-      "title": "Australia's new data centers must be majority renewable powered, says minister - thestandard.com.hk",
-      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;thestandard.com.hk",
+      "id": "e8ba1595abc3",
+      "title": "Australia's new data centers must be majority renewable powered, says minister - The Standard (HK)",
+      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;The Standard (HK)",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWURQOVZhTlZOMkdZY0dhdU5feE5QX0xSZFd3Y2U3RHhFTHM4TVQ1ZFlnTHpGN3JJU0J5YVV4VVpDaEN3MnNfMTRNc3lFeVJ6dXg0b2VicGhPeGVUZEVwRDVUWHNxV05IdGFIOTRFRllUSDl3TFY0UHFUZEdrR2cwYUZOQjhwOS03c0sxMktfdTdwSFpRSXJ1ZWV2SlY5aUIzaGJsUkpnTW5WZFRQSmdKc3JFc0I4OFpESWw3VW02a1M1Ymdz?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-05T09:23:51+00:00",
@@ -99,18 +63,6 @@
         "nsw"
       ],
       "relevance_score": 0.5
-    },
-    {
-      "id": "a05e6a358cc4",
-      "title": "Australia should treat data centres as 'anchor tenants' for clean energy infrastructure, says AirTrunk - Energy-Storage.News",
-      "summary": "Australia should treat data centres as 'anchor tenants' for clean energy infrastructure, says AirTrunk&nbsp;&nbsp;Energy-Storage.News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM3lJMGRuOFJONFVCU3R4cWtKRWYyeld0UDdBeWVRajh2MGM1ZWhiMGUySWRMRUE0ZGpqN3VCOTZ2Q281MS1Nak40VGdjbDAyS2ZkZWhtTnV2MEJUY0dYMjNIazFpRmZQMTNBUmVKZVBJLUxOMkFVZGxHU2dRUVkyb2hvQUxRT01DR283aG5hQkdtMmdDZ3B3d0wwX0VZZzhPbGM5bTJsMXpqZUozdmY3LTdVQ3UxYVQtX1FETlFhMnhybmZ6SVRHaGJjVDE?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-07-30T02:17:10+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "3ef52c9145a7",
@@ -162,30 +114,6 @@
         "nsw"
       ],
       "relevance_score": 0.5
-    },
-    {
-      "id": "70c59a4a94db",
-      "title": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report - Data Center Dynamics",
-      "summary": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc3NncURVRlZhMklkY2ZrZ29pRmZaZlVLWmd1OElkMDZfR3N5VUJWb0NZTlc4SF91TFBMOGl2ZmloNUp1OUdoTDU2bEJEX00yU1o3RjdIZ2FicUlZTTJEeGpVTE1OeEtjWm01d2U5eEZEbEo1ckl0NmhrMnh5SXJSZ0JyU3dYSTN3akFfcUNNRnd6NHBFVTdkc2NROXFpNTF3dU5QWXhzaXROMG1BbThIZWhUQldxY1JuTG82SWZ5R1RWN0VEcHZLQ1Rxc0tGd0xMb29iSg?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "78c67c296c2b",
-      "title": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report - Data Center Dynamics",
-      "summary": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc3NncURVRlZhMklkY2ZrZ29pRmZaZlVLWmd1OElkMDZfR3N5VUJWb0NZTlc4SF91TFBMOGl2ZmloNUp1OUdoTDU2bEJEX00yU1o3RjdIZ2FicUlZTTJEeGpVTE1OeEtjWm01d2U5eEZEbEo1ckl0NmhrMnh5SXJSZ0JyU3dYSTN3akFfcUNNRnd6NHBFVTdkc2NROXFpNTF3dU5QWXhzaXROMG1BbThIZWhUQldxY1JuTG82SWZ5R1RWN0VEcHZLQ1Rxc0tGd0xMb29iSg?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
     },
     {
       "id": "b04918beaf5d",
@@ -262,9 +190,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "704d20caa126",
-      "title": "NextDC expands senior debt facilities to $2.3B for capex boost - ARNnet",
-      "summary": "NextDC expands senior debt facilities to $2.3B for capex boost&nbsp;&nbsp;ARNnet",
+      "id": "71307a6bf1f8",
+      "title": "NextDC expands senior debt facilities to $2.3B for capex boost - arnnet.com.au",
+      "summary": "NextDC expands senior debt facilities to $2.3B for capex boost&nbsp;&nbsp;arnnet.com.au",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHJyeTBQdV92d1ZvSzFxdGcxNnoyU0drZHpNV3V5VTRKTWhlWlZlbHVZNWpzTUthUjJEOWVKWVRmelg5VkdJeTdEZjkxWkZ4NGNBTHMtdzEyZWNMbVdiZ1N1eGhjU0REanl0c0Z3TG5lbi1IZEFDTFFpWEh2dGctRHEwYkJVYkd5Um1FNVhadnZFc3JRcGJmVTVOVkY4LVltWE1BS1NzWmw0Ymdi?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-10T01:09:15+00:00",
@@ -298,9 +226,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "02a3896c14bd",
-      "title": "NextDC S7 Australian data center to offer 612MW of capacity, OpenAI Stargate planned as customer - Data Center Dynamics",
-      "summary": "NextDC S7 Australian data center to offer 612MW of capacity, OpenAI Stargate planned as customer&nbsp;&nbsp;Data Center Dynamics",
+      "id": "46b5c3f92c73",
+      "title": "NextDC S7 Australian data center to offer 612MW of capacity, OpenAI Stargate planned as customer - datacenterdynamics.com",
+      "summary": "NextDC S7 Australian data center to offer 612MW of capacity, OpenAI Stargate planned as customer&nbsp;&nbsp;datacenterdynamics.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVqdFVKZU1NeFFwYXNpRm45Ym5sNnlZZ3Z2dWhnRnJYb1NBRFpQSG1xVDlZaTBhMFJYUEdrWmstbTN3bkl5ZWRCNnF0bEVmRHpXd1gzOHhFbjJHWUlwb2Z0aVZvOUpkd19yd0pzSHJRUnRmWjFBbXJ6blE3Y0VGb20yMXdVeDdOWXdrOHN5ZWJGX283M3hZR0p3T1NVa2tVczlrTkU0aW9BNjhlajF0RUJOM1A?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-02T07:00:00+00:00",
@@ -310,9 +238,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "675d8752259a",
-      "title": "NextDC S7 Australian data center to offer 612MW of capacity, OpenAI Stargate planned as customer - Data Center Dynamics",
-      "summary": "NextDC S7 Australian data center to offer 612MW of capacity, OpenAI Stargate planned as customer&nbsp;&nbsp;Data Center Dynamics",
+      "id": "eee698caaf1c",
+      "title": "NextDC S7 Australian data center to offer 612MW of capacity, OpenAI Stargate planned as customer - datacenterdynamics.com",
+      "summary": "NextDC S7 Australian data center to offer 612MW of capacity, OpenAI Stargate planned as customer&nbsp;&nbsp;datacenterdynamics.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVqdFVKZU1NeFFwYXNpRm45Ym5sNnlZZ3Z2dWhnRnJYb1NBRFpQSG1xVDlZaTBhMFJYUEdrWmstbTN3bkl5ZWRCNnF0bEVmRHpXd1gzOHhFbjJHWUlwb2Z0aVZvOUpkd19yd0pzSHJRUnRmWjFBbXJ6blE3Y0VGb20yMXdVeDdOWXdrOHN5ZWJGX283M3hZR0p3T1NVa2tVczlrTkU0aW9BNjhlajF0RUJOM1A?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-07-02T07:00:00+00:00",
@@ -322,22 +250,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "ae2344d32119",
-      "title": "Licensable picture: A logo is displayed at NextDC S3 data centre in Sydney - reutersconnect.com",
-      "summary": "Licensable picture: A logo is displayed at NextDC S3 data centre in Sydney&nbsp;&nbsp;reutersconnect.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQnA1VDhjeXRUaE5Yb0tBczBzdzhEekxZejBmWlpKWE9KRGZGa2oxX0EyVzk5WVVlWU12TV9sM19hNm8xa29reWhQWFJRQVg3aklhNmRlV1JVc2tlZzkxN045aGZ2WXFaUlRTekdMQ04tbnFWM0VNMm5DQTZSNUJpd3R0T3Z3WmZ2TDRmVVI4TDVUbXF5b0hFOGhTWWJWS0tUd3BPdmRXeU1uNEVwNDFKaVdSaEhNQ0tMNVlTWWpZUkFhQmpZZXFxZjhOX2xiYkIzejgyVzEzTS1fQ3ZsdFE?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-06-23T07:00:00+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
-      "id": "1cee017a024a",
-      "title": "CEVA Logistics supports AirTrunk data centres in Australia, Malaysia - Cargo Airports & Airline Services",
-      "summary": "CEVA Logistics supports AirTrunk data centres in Australia, Malaysia&nbsp;&nbsp;Cargo Airports & Airline Services",
+      "id": "38e588594a8f",
+      "title": "CEVA Logistics supports AirTrunk data centres in Australia, Malaysia - caasint.com",
+      "summary": "CEVA Logistics supports AirTrunk data centres in Australia, Malaysia&nbsp;&nbsp;caasint.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXBvTE85bS15amF2UlJuRlR5RzF0bE16UzMwWjFxZEE2YS1LQUxHQ252Vl85WHh0Tm9YX1hYbUZxTHhZQ3czYUtVZmxsVzRxNE5UdFlhZWRWVEtfc0w4SV9QQUFoa0wzMFplT0hQSjFBTjcyR1hnLXFpMThCdnN6ZF9GazlMczFQY2taRkZkNWxqdw?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-19T07:00:00+00:00",
@@ -347,10 +262,10 @@
       "relevance_score": 0.3
     },
     {
-      "id": "ac4057bab892",
-      "title": "AirTrunk Pursues A$4.3 Billion Loan for 400MW Australia Data Center - TradingView",
-      "summary": "AirTrunk Pursues A$4.3 Billion Loan for 400MW Australia Data Center&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLTRrVlJPXzYweFdteXlDbVp2TUwwQ0ZVQjRTN2NpSjNYYU9hLXJTTkpubkZaTHFVRFZoOE4tM3Q3di1vcE8yLWFURE1Fd2ZzT3JnVTRqRmlQSUZSdjNkVE04M0lRYzlrSENwT0owR0Zhd3BGRlUzNGgzOTllUmF1RWlURV9kNXc4QnBVWEJrRnNaTjlsRDYxVFFZTkRZTGYzU25wSUNmYm5DUGk5RnAwbTFCZ20tckxDVzJ1bG96Mk52MGlaZUE?oc=5",
+      "id": "d4f64014585c",
+      "title": "AirTrunk Pursues A$4.3 Billion Loan for 400MW Australia Data Center - Yahoo Finance",
+      "summary": "AirTrunk Pursues A$4.3 Billion Loan for 400MW Australia Data Center&nbsp;&nbsp;Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTkRJcjFEY2dCWHVXaS1Mb0pLWFVuRUQ0dmlsQkMwand4dUVzaUx1UDNzQTZzckM0NjcySl81WS13V1pVMmx3SGVZckdPTG50ZEtlN0txRHlfbjFMeFhIYVJXQXlBN0FZQUFVckNJTzdlTENDY0Z1N1Y0X2J3N2lrdWc4LUlOdW5xLVNNX3NsQzZVRlk?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-19T07:00:00+00:00",
       "tags": [
@@ -359,9 +274,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "1497c368971f",
-      "title": "Google, AirTrunk Bring 25 MW Solar Farm Online in Australia as AI Power Demand Surges - asiatechdaily.com",
-      "summary": "Google, AirTrunk Bring 25 MW Solar Farm Online in Australia as AI Power Demand Surges&nbsp;&nbsp;asiatechdaily.com",
+      "id": "47b20a805c4f",
+      "title": "Google, AirTrunk Bring 25 MW Solar Farm Online in Australia as AI Power Demand Surges - AsiaTechDaily",
+      "summary": "Google, AirTrunk Bring 25 MW Solar Farm Online in Australia as AI Power Demand Surges&nbsp;&nbsp;AsiaTechDaily",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2JQRDhWdEVXSTllTTJyLTFKNG5rUmJEQXFxc0tGaWplNG5fWEctcGdLc3ZJUWN0LW0wSVRVemdaNGJMYUpIZVczeFZVOXI0RlNnaFdTSGpBRVZZcmw0ZHVaeTA1ek5TNl8xN2xseDM3OTVxWkRSbURwOWpFeFY5Xy0tdEtCTU1hN25NNTg4R21fZDlKTUN1Ujlqa3lJeG1LNWRCRnlvRUxGeWdEOFdFRg?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-18T07:00:00+00:00",
@@ -507,9 +422,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "be229280f53a",
-      "title": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future - airtrunk.com",
-      "summary": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future&nbsp;&nbsp;airtrunk.com",
+      "id": "b1ec018eef59",
+      "title": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future - AirTrunk",
+      "summary": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future&nbsp;&nbsp;AirTrunk",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQczZ1WWcwSlFiT1lXV0dRS0w4QUZTTkZGWk5jWkFrbEpmeHA4cWVSX2p2dk1qWVRtNFE1MXV3ZmN5NFdTd3J5UVkwTkl2MTNzQUF4ZmJQeUN1WmIzTXU2UHFGamlQR2YwdTQxYzJNU295SFcyVjdTb0pFYWZXbDAtN2VuMlRYZEJBd3dHRFBfeUtaa0FIWVFsU0pXY0s?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-01T07:00:00+00:00",
@@ -531,9 +446,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "685ea3060b23",
-      "title": "Google, AirTrunk-backed solar farm in NSW, Australia nears completion - Data Center Dynamics",
-      "summary": "Google, AirTrunk-backed solar farm in NSW, Australia nears completion&nbsp;&nbsp;Data Center Dynamics",
+      "id": "1338a02ffc08",
+      "title": "Google, AirTrunk-backed solar farm in NSW, Australia nears completion - datacenterdynamics.com",
+      "summary": "Google, AirTrunk-backed solar farm in NSW, Australia nears completion&nbsp;&nbsp;datacenterdynamics.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzhXYVo3dVZjZVVZeEsyV1RZaXpYekxwQm1XdFY1LW80eDdKUkVfWG5CX2JvbTRzbTBQem8wVHZ3RDNFSTJyUS1paTUwQ3dMZzR0UWl1MnJsem56SGRlYklwNFlOQ1RVNXVHWG5ENnNrNUhuRG1RS1gxTmtpOEdvcjAyX2pHV3pfOENlZVZtYUVDbXRJbVJ6ajZBczl0Q2tSR0djNzdWeWk4cmM2aE45Tg?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-01T07:00:00+00:00",
