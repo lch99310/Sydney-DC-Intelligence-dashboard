@@ -1,10 +1,22 @@
 {
-  "last_updated": "2026-08-11T07:17:50.823342+00:00",
+  "last_updated": "2026-08-12T07:41:45.158117+00:00",
   "items": [
     {
-      "id": "17ead9d44a72",
-      "title": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access - pv-tech.org",
-      "summary": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access&nbsp;&nbsp;pv-tech.org",
+      "id": "c3ad9b882bf9",
+      "title": "Australia\u2019s CDC mulls new data center in New Zealand",
+      "summary": "Partners with Contact Energy on the potential project",
+      "url": "https://www.datacenterdynamics.com/en/news/australias-cdc-mulls-new-data-center-in-new-zealand/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-08-11T15:40:03+00:00",
+      "tags": [
+        "cdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "3c65e6b05cb4",
+      "title": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access - PV Tech",
+      "summary": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access&nbsp;&nbsp;PV Tech",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamNBcUp0eWY3QnhjRV9BTWtsb2lHMXZsdHA0LXNEcWtNZUJLY056M1l2cXhqblVEZTNsVElxbE9QVENwSmNiSkQ2MFpTLUI2Q3hLRTJfcF8tSWFYQVRKWDhZR1RpbWhOR19WZXllakpUV2xRZS0yNF9ESGkxc3FpaUhkMjM2Q0VocFRPcVN2VlZIQVgtTl9YYndaUGRXMTFBc1RZQVlfQ3ZSSzdZTEQyVjFXQ3M0MzJLQTNnTEREa01fVTdsOENyaVVBN3o5LUgyV3c?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-08-07T03:57:01+00:00",
@@ -15,9 +27,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "4e6ee5fca6e6",
-      "title": "These Sydney schools teach 1500 students. A $9b data centre is moving next door - smh.com.au",
-      "summary": "These Sydney schools teach 1500 students. A $9b data centre is moving next door&nbsp;&nbsp;smh.com.au",
+      "id": "8b77d1c5c4c3",
+      "title": "These Sydney schools teach 1500 students. A $9b data centre is moving next door - SMH.com.au",
+      "summary": "These Sydney schools teach 1500 students. A $9b data centre is moving next door&nbsp;&nbsp;SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTFlJanQ2Z1RJYmw5a1oxbXZhREhQNWVJTEFWOUFNT0ZqMXRmVG9hNURWbDFyS0ZjLXdPbl9PYVNLMDI2amFFMWs1OGYzSWtuQWFzVENHLW9YLU1mQUNoMmFQMldOX2xqdUc4MnBuTFR3S0g0dVBFZkktbi1uTGRzamlNa21lOEpMczZPQVNOMnpZN0xhREJzUXc1VE1uLW9hOUx3c09tSUtsY001Q25qUW1uT2U4QUJkSDlxQXFya3d6aTEtVUl4RTE3ZUNIczg?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-08-06T01:30:00+00:00",
@@ -40,12 +52,12 @@
       "relevance_score": 0.5
     },
     {
-      "id": "20974a6d51e4",
+      "id": "34552f031df1",
       "title": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion - World Construction Network",
       "summary": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion&nbsp;&nbsp;World Construction Network",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcndGZW5ncmhOYnppaUdlc3NBUDNiUWJzWUpVemY2VWF1OFJRdmtXM1dhS0R0aWdVQkdZMzB1dVlyaWROemJjVW83WmV1eXVYc2tYd3F0ZTZQc2s2ZmxHZjFzREJXLVE4UlBuM0xuaXFjcjk4VTZSUkNwaHk0TkxTTTZNNlRVQmNQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-07-31T11:52:57+00:00",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-07-31T07:00:00+00:00",
       "tags": [
         "airtrunk",
         "nsw"
@@ -53,11 +65,11 @@
       "relevance_score": 0.5
     },
     {
-      "id": "34552f031df1",
+      "id": "20974a6d51e4",
       "title": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion - World Construction Network",
       "summary": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion&nbsp;&nbsp;World Construction Network",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcndGZW5ncmhOYnppaUdlc3NBUDNiUWJzWUpVemY2VWF1OFJRdmtXM1dhS0R0aWdVQkdZMzB1dVlyaWROemJjVW83WmV1eXVYc2tYd3F0ZTZQc2s2ZmxHZjFzREJXLVE4UlBuM0xuaXFjcjk4VTZSUkNwaHk0TkxTTTZNNlRVQmNQ?oc=5",
-      "source": "Google News: AirTrunk",
+      "source": "Google News: Sydney DC",
       "published_at": "2026-07-31T07:00:00+00:00",
       "tags": [
         "airtrunk",
@@ -104,6 +116,18 @@
       "relevance_score": 0.5
     },
     {
+      "id": "8fbfba4f80b4",
+      "title": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns - Capital Brief",
+      "summary": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns&nbsp;&nbsp;Capital Brief",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRkZEX0Z3Y2N0Nlp6S0U3ZkpYS240cnNnTTBnX1E5REg0YWpNODYyTFZIQ3ZLbjI0VncyM2pTaGF4cFJnM2VqamxrYS11TEMyV09jUnpOZ0MySVN1OE5ERE55UFRQYVhiVE1jWTR1X0NXT0xQQjlubHgyNThvbVh1aE94ZXowX0szQ0dUVmtZdXNmMF8wYjlodTJqaDNPUndUUndlMGxKQUZPWXVrc1VjWXBlZ2RmZ3JwSTNWVDZhd05ldl9HX1g1QWNEWGRCdlJEdm43dFdGSmJtTHhjWmZKQ3hRc1V2OGM?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "70c59a4a94db",
       "title": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report - Data Center Dynamics",
       "summary": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report&nbsp;&nbsp;Data Center Dynamics",
@@ -128,22 +152,22 @@
       "relevance_score": 0.2
     },
     {
-      "id": "8fbfba4f80b4",
-      "title": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns - Capital Brief",
-      "summary": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns&nbsp;&nbsp;Capital Brief",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRkZEX0Z3Y2N0Nlp6S0U3ZkpYS240cnNnTTBnX1E5REg0YWpNODYyTFZIQ3ZLbjI0VncyM2pTaGF4cFJnM2VqamxrYS11TEMyV09jUnpOZ0MySVN1OE5ERE55UFRQYVhiVE1jWTR1X0NXT0xQQjlubHgyNThvbVh1aE94ZXowX0szQ0dUVmtZdXNmMF8wYjlodTJqaDNPUndUUndlMGxKQUZPWXVrc1VjWXBlZ2RmZ3JwSTNWVDZhd05ldl9HX1g1QWNEWGRCdlJEdm43dFdGSmJtTHhjWmZKQ3hRc1V2OGM?oc=5",
+      "id": "8687641e5eeb",
+      "title": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg - The Edge Malaysia",
+      "summary": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg&nbsp;&nbsp;The Edge Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03VTZPRjNSekpPQkRwclNIRVRXSmpHMXlLMnFmbml5RnJhSElXUDR3d1R2VmhDZFRtNFlEdG0zd1ZyRUVraFZUVUM3bm5ERkRf?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-07-22T19:03:40+00:00",
+      "published_at": "2026-07-22T07:00:00+00:00",
       "tags": [
         "airtrunk"
       ],
       "relevance_score": 0.3
     },
     {
-      "id": "8687641e5eeb",
-      "title": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg - The Edge Malaysia",
-      "summary": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg&nbsp;&nbsp;The Edge Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03VTZPRjNSekpPQkRwclNIRVRXSmpHMXlLMnFmbml5RnJhSElXUDR3d1R2VmhDZFRtNFlEdG0zd1ZyRUVraFZUVUM3bm5ERkRf?oc=5",
+      "id": "270f2b89cbd5",
+      "title": "Blackstone lines up US$3bil AirTrunk loan as data centre debt concerns grow - Free Malaysia Today",
+      "summary": "Blackstone lines up US$3bil AirTrunk loan as data centre debt concerns grow&nbsp;&nbsp;Free Malaysia Today",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNXIwUTdfdHVYamRBdnhmYk1DTGdaMUd1S1ZCdWZETTk1SkVjRmRzNVJiMGhDaFN4ajVMTGxfNHRkOUpEQzEzYy0zTzdiNVNQVGxzSUhOQkF1cGRydXh2VTdjUTNXSVdKd09FVkZIbHBpVmpna0xTc2dvZ2ZMODN2S2tUNmRzRU9FbEFZNHZid25IVkRteVVleVhRYWNNZkRsbDRMdkp2TWd0Skk1YndXdU93Nlc0TF9wanFtLUYtUVpySEpmcUNLTk1KT3BLZm95OTZZ?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-22T07:00:00+00:00",
       "tags": [
@@ -201,11 +225,23 @@
       "relevance_score": 0.3
     },
     {
-      "id": "0faf41afe1b6",
-      "title": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion - reuters.com",
-      "summary": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion&nbsp;&nbsp;reuters.com",
+      "id": "48c1bd11f3c8",
+      "title": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion - Reuters",
+      "summary": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSzZzZ250MEZjQlQ1N1c3VkxzdmhUbWp0RGY3V0ZQNkIyVTlDU3hwcTJ2c293ak9reXctUVB5bzQwdWQwaTNBTXRNS2R6LS1MeURYcE11eG55d3lGTUNOVGpPVGx1ang2dGwzakpRdzg3Wm8yMEt0VXg4X09PZnZfUkpPdkZLdTNRcGJTeTFnMmNyYUxNdVpnTGh4RkFZanp1bEVKT1VpSkZkTFhBajZ2Mkc1UV8zZVZlUzhGMnNaczNZV3FIWmc?oc=5",
       "source": "Google News: NEXTDC",
+      "published_at": "2026-07-09T07:00:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "0644614bad91",
+      "title": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion - Reuters",
+      "summary": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion&nbsp;&nbsp;Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSzZzZ250MEZjQlQ1N1c3VkxzdmhUbWp0RGY3V0ZQNkIyVTlDU3hwcTJ2c293ak9reXctUVB5bzQwdWQwaTNBTXRNS2R6LS1MeURYcE11eG55d3lGTUNOVGpPVGx1ang2dGwzakpRdzg3Wm8yMEt0VXg4X09PZnZfUkpPdkZLdTNRcGJTeTFnMmNyYUxNdVpnTGh4RkFZanp1bEVKT1VpSkZkTFhBajZ2Mkc1UV8zZVZlUzhGMnNaczNZV3FIWmc?oc=5",
+      "source": "Google News: Sydney DC",
       "published_at": "2026-07-09T07:00:00+00:00",
       "tags": [
         "nextdc"
@@ -297,9 +333,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "47b20a805c4f",
-      "title": "Google, AirTrunk Bring 25 MW Solar Farm Online in Australia as AI Power Demand Surges - AsiaTechDaily",
-      "summary": "Google, AirTrunk Bring 25 MW Solar Farm Online in Australia as AI Power Demand Surges&nbsp;&nbsp;AsiaTechDaily",
+      "id": "1497c368971f",
+      "title": "Google, AirTrunk Bring 25 MW Solar Farm Online in Australia as AI Power Demand Surges - asiatechdaily.com",
+      "summary": "Google, AirTrunk Bring 25 MW Solar Farm Online in Australia as AI Power Demand Surges&nbsp;&nbsp;asiatechdaily.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2JQRDhWdEVXSTllTTJyLTFKNG5rUmJEQXFxc0tGaWplNG5fWEctcGdLc3ZJUWN0LW0wSVRVemdaNGJMYUpIZVczeFZVOXI0RlNnaFdTSGpBRVZZcmw0ZHVaeTA1ek5TNl8xN2xseDM3OTVxWkRSbURwOWpFeFY5Xy0tdEtCTU1hN25NNTg4R21fZDlKTUN1Ujlqa3lJeG1LNWRCRnlvRUxGeWdEOFdFRg?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-18T07:00:00+00:00",
@@ -348,9 +384,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "98373ee52c54",
-      "title": "Data centres vow to fund Australia\u2019s renewables shift, not derail it - smh.com.au",
-      "summary": "Data centres vow to fund Australia\u2019s renewables shift, not derail it&nbsp;&nbsp;smh.com.au",
+      "id": "4ec2a2c2fc9c",
+      "title": "Data centres vow to fund Australia\u2019s renewables shift, not derail it - SMH.com.au",
+      "summary": "Data centres vow to fund Australia\u2019s renewables shift, not derail it&nbsp;&nbsp;SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc21EZ1puVmc4WkZpVENhdS1hRUNBQ0Jhei01YUZGVEcwSkxJTFpXT1RHMWY0UndyVzM2RFhFY0p2blNyY0lXT0RON0RORktvd3BTZEEtUmNnaVl6UE5UUWc0Wlh2UXRCOUFrZ3JJR0oyWmFfS1dYM2xFRGhnbnlIU0MyZXZwR3ljRTJlRVY0dUYxTS1vTTFZVElZWnBfRkhWenAxemRFVmd1VTcteXc4aGljeE95QU9oVV9YQk1SeXRrdW1YN2pZMGJ6Slo?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-14T07:00:00+00:00",
@@ -396,9 +432,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "6112144460ca",
-      "title": "Australia's AirTrunk to invest $30 billion in India by 2030 - reuters.com",
-      "summary": "Australia's AirTrunk to invest $30 billion in India by 2030&nbsp;&nbsp;reuters.com",
+      "id": "60e3e9953c37",
+      "title": "Australia's AirTrunk to invest $30 billion in India by 2030 - Reuters",
+      "summary": "Australia's AirTrunk to invest $30 billion in India by 2030&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRjJkc3E2Z3NoakhZRzRMMjlSN3dxYWNTc3phXzVWZWw3WkhGaGhPRVJCSnBoS1NSNHJIaFBtdDVscWdEM091cHd4WktyRkZNb2RodC00SUtsUDlSLXdhdG5tb2hCTHEwY3BlczhLOHU3ZDh4ZkM5TXZKSU5iOTRmYldUOTg2OG5SdnpuaWtrbkJELThyVUxZQUJZM01taGgz?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-05T07:00:00+00:00",
