@@ -1,41 +1,29 @@
 {
-  "last_updated": "2026-08-14T07:41:11.487051+00:00",
+  "last_updated": "2026-08-15T06:48:49.927458+00:00",
   "items": [
     {
-      "id": "e4ad0a0e6cec",
-      "title": "\u2018Zero-impact\u2019 data center announced for Florence, Italy",
-      "summary": "The facility will form part of a renewable energy hub planned for the southeast of the city",
-      "url": "https://www.datacenterdynamics.com/en/news/zero-impact-data-center-announced-for-florence-italy/",
+      "id": "ad84c5c6301a",
+      "title": "In the era of AI, data center standardization is the name of the game - here\u2019s why",
+      "summary": "Is Global Reference Design the answer to support this standardization?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/in-the-era-of-ai-data-center-standardization-is-the-name-of-the-game-heres-why/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-08-13T13:40:01+00:00",
+      "published_at": "2026-08-14T14:00:36+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "75a57a0ba663",
+      "title": "Helios targets 80-hectare data center project in Lapinlahti, Finland",
+      "summary": "Renewable energy firm looks to expand data center portfolio",
+      "url": "https://www.datacenterdynamics.com/en/news/helios-targets-80-hectare-data-center-project-in-lapinlahti-finland/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-08-14T12:39:14+00:00",
       "tags": [
         "energy_policy"
       ],
       "relevance_score": 0.1
-    },
-    {
-      "id": "36fad6a0d569",
-      "title": "Optimal Transit pitches Kraaken floating data center than can generate power and provide clean drinking water",
-      "summary": "Project sounds ambitious, but is apparently based on proven technologies",
-      "url": "https://www.datacenterdynamics.com/en/news/optimal-transit-pitches-kraaken-floating-data-center-than-can-generate-power-and-provide-clean-drinking-water/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-08-13T13:38:00+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "ed448a16d4d1",
-      "title": "Centuria Capital Group and ResetData sign 7MW capacity agreement with CDC Data Centres, secures $165m bridge facility with Macquarie Bank",
-      "summary": "GPUs for initial CDC deployment have been ordered, companies said",
-      "url": "https://www.datacenterdynamics.com/en/news/centuria-capital-group-and-resetdata-sign-7mw-capacity-agreement-with-cdc-data-centres-secures-165m-bridge-facility-with-macquarie-bank/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-08-13T10:40:00+00:00",
-      "tags": [
-        "cdc"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "7af7c3ead7c9",
@@ -50,10 +38,10 @@
       "relevance_score": 0.2
     },
     {
-      "id": "7db572e837bf",
-      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - Brisbane Times",
-      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;Brisbane Times",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbDZxUGVTbFpsQTFNWEFrcjZpWXNKVmRyZTN4ZjdLMzFwaVVaWUlOekZWUGE0OWlzTEN4QWFERDllZWZydDlJV0FudmVXU05uVEs0RVU3V3BxQlZsTFIxN3dzY2dBVjdBaEI3cWpaWjZtenBvU21WMk93VGtNTmlPOXI4WFM0OEhzU3lHUFNPdzlCZUQyeW5HWU9LN1d2dE5Tb3g3dG9PT3A1UXBZR3ZtbGt6Q0hVU2JQd2tjcmd0RnlDLUVBc3JfZ09nNDhzbjN3Q1Y0RUxuTFlDR1l1ZEw5X2F3NFoyZ1pmN1prcQ?oc=5",
+      "id": "21432f47f004",
+      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - The Age",
+      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;The Age",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmlQZ2tEcVhDaTVqU09WX0gyay1LWUNUMmhnNFZBNlZmRG1qS2hEbXMya0JpWlhucmpMWHZ5Z29pT2NJZ1pKR3JnWTVIU19ic2lNSW8wRzllYVVKLTc4a0EzSU5IdEFkOHN5NWpicUNSUHlOaUR6ODJzdTVtTkl1TGFZSG9OcEpRc2M5NWVCZGU4ZndUaTloQmZWRldqeVZhQjA2NTNCOGNsa19oX0lHZldYTFdqZlg0Nk16aHM4VUJGNzJlNjRPYmZrSk1nR18wUHRUYzVHTUl3b1VFMk1ScUNzcw?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-13T02:02:04+00:00",
       "tags": [
@@ -74,9 +62,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "3c65e6b05cb4",
-      "title": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access - PV Tech",
-      "summary": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access&nbsp;&nbsp;PV Tech",
+      "id": "17ead9d44a72",
+      "title": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access - pv-tech.org",
+      "summary": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access&nbsp;&nbsp;pv-tech.org",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamNBcUp0eWY3QnhjRV9BTWtsb2lHMXZsdHA0LXNEcWtNZUJLY056M1l2cXhqblVEZTNsVElxbE9QVENwSmNiSkQ2MFpTLUI2Q3hLRTJfcF8tSWFYQVRKWDhZR1RpbWhOR19WZXllakpUV2xRZS0yNF9ESGkxc3FpaUhkMjM2Q0VocFRPcVN2VlZIQVgtTl9YYndaUGRXMTFBc1RZQVlfQ3ZSSzdZTEQyVjFXQ3M0MzJLQTNnTEREa01fVTdsOENyaVVBN3o5LUgyV3c?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-08-07T03:57:01+00:00",
@@ -92,7 +80,7 @@
       "summary": "These Sydney schools teach 1500 students. A $9b data centre is moving next door&nbsp;&nbsp;SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTFlJanQ2Z1RJYmw5a1oxbXZhREhQNWVJTEFWOUFNT0ZqMXRmVG9hNURWbDFyS0ZjLXdPbl9PYVNLMDI2amFFMWs1OGYzSWtuQWFzVENHLW9YLU1mQUNoMmFQMldOX2xqdUc4MnBuTFR3S0g0dVBFZkktbi1uTGRzamlNa21lOEpMczZPQVNOMnpZN0xhREJzUXc1VE1uLW9hOUx3c09tSUtsY001Q25qUW1uT2U4QUJkSDlxQXFya3d6aTEtVUl4RTE3ZUNIczg?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-08-06T01:30:00+00:00",
+      "published_at": "2026-08-06T07:00:00+00:00",
       "tags": [
         "nsw"
       ],
@@ -212,9 +200,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "ab5653fc8554",
-      "title": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg - theedgemalaysia.com",
-      "summary": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg&nbsp;&nbsp;theedgemalaysia.com",
+      "id": "8687641e5eeb",
+      "title": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg - The Edge Malaysia",
+      "summary": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg&nbsp;&nbsp;The Edge Malaysia",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03VTZPRjNSekpPQkRwclNIRVRXSmpHMXlLMnFmbml5RnJhSElXUDR3d1R2VmhDZFRtNFlEdG0zd1ZyRUVraFZUVUM3bm5ERkRf?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-22T07:00:00+00:00",
@@ -297,9 +285,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "ff228a05e5db",
-      "title": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock? - kalkinemedia.com",
-      "summary": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock?&nbsp;&nbsp;kalkinemedia.com",
+      "id": "56c417852e9c",
+      "title": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock? - Kalkine Media",
+      "summary": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock?&nbsp;&nbsp;Kalkine Media",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObTVoc1JQSUZkOXEzVW84bHBJakJFYlVkMnNvNTZ6SEN2QUVXR28zYlJCZkd4MnZDaU1ram15Q1l3M1Q4VnhXNUR5d1VoY3Q3NkVoVEZvQldQWC0yUy05VG1QcWVXeW12Vk5MR1NSNGlMR2ZKOUVmYmlQZG1CTk1ISndHWGM2em82S1Fic2djSWx6clFWNnJyWVF1V3dvUTJGYlhCRXYzOVNGWWtiSzJ0d0VxLVVGbXhGbXpnUkI3ZW84UUh3OGc?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-08T07:00:00+00:00",
@@ -357,9 +345,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "38e588594a8f",
-      "title": "CEVA Logistics supports AirTrunk data centres in Australia, Malaysia - caasint.com",
-      "summary": "CEVA Logistics supports AirTrunk data centres in Australia, Malaysia&nbsp;&nbsp;caasint.com",
+      "id": "1cee017a024a",
+      "title": "CEVA Logistics supports AirTrunk data centres in Australia, Malaysia - Cargo Airports & Airline Services",
+      "summary": "CEVA Logistics supports AirTrunk data centres in Australia, Malaysia&nbsp;&nbsp;Cargo Airports & Airline Services",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXBvTE85bS15amF2UlJuRlR5RzF0bE16UzMwWjFxZEE2YS1LQUxHQ252Vl85WHh0Tm9YX1hYbUZxTHhZQ3czYUtVZmxsVzRxNE5UdFlhZWRWVEtfc0w4SV9QQUFoa0wzMFplT0hQSjFBTjcyR1hnLXFpMThCdnN6ZF9GazlMczFQY2taRkZkNWxqdw?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-19T07:00:00+00:00",
@@ -504,6 +492,18 @@
       "relevance_score": 0.5
     },
     {
+      "id": "82672c11a728",
+      "title": "Australia's AirTrunk to invest $30 billion in India by 2030 - TradingView",
+      "summary": "Australia's AirTrunk to invest $30 billion in India by 2030&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOHJaT3V0SWczZUxNTzJ0RDcyYkQzelRMT0RTOEhHUGc1TFg2cU1VWnpQWm14djZHMElTU2Z4WmpFdlRNVl9MR19wQm5JcFVYX19pWVh6Nk9VRzdBNWVDY2hXRV95aDVVZ2ZkNThXY1hsMnNkaE1YRmRMMFhfc3ZPQnNpdE1PMDF1cXBVUklsSllzWEdVaDUtZ1ZYeDBJNW81R2lhMlc1ZmNDNDFmSzFNclhJWmk3RHBIMndMczBqTF9FVm1vZS1n?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-06-04T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "b1ec018eef59",
       "title": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future - AirTrunk",
       "summary": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future&nbsp;&nbsp;AirTrunk",
@@ -526,6 +526,19 @@
         "airtrunk"
       ],
       "relevance_score": 0.3
+    },
+    {
+      "id": "40135b9f00d4",
+      "title": "Google, AirTrunk-backed solar farm in NSW, Australia nears completion - BeBeez International",
+      "summary": "Google, AirTrunk-backed solar farm in NSW, Australia nears completion&nbsp;&nbsp;BeBeez International",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQREUwV2dSZTRZTlhNZzhyX3k3eTJuU0pCMFZ5TXJUek5QRWNTcGo1SmlQQ3diUkg1TVRwLU5aQ1pBVHFlVXBnOXRCckJGdGZqNXdqR05IOWJNaGJCVmxqRDF0c1gwaFVJa2tvVFBReDZGNlJJa1B3V0ptVzR3S280aE9pM2pOVWY3UzIwcUFkcjVNaW5SYnhRdldtWGRWQQ?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
     },
     {
       "id": "685ea3060b23",
@@ -552,6 +565,19 @@
         "energy_policy"
       ],
       "relevance_score": 0.4
+    },
+    {
+      "id": "8d2a7832ff34",
+      "title": "Google, AirTrunk, and European Energy Australia Near Completion of 25 MW Mulwala Solar Farm in New South Wales - SolarQuarter",
+      "summary": "Google, AirTrunk, and European Energy Australia Near Completion of 25 MW Mulwala Solar Farm in New South Wales&nbsp;&nbsp;SolarQuarter",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzktMTBDbW8zbFlGNnpxcHVpZWxEajZLNGpuekhtb1IxQ0dhbUVoSzNycDAzczZqUFZJbmNKWENoZFYtS3JmZkpTZUJxNDJyWjA0aENsZkhzRDV2VUpTdG8zdjd2ajFLZ0hfNGdiTzg0cDduZEl2c0lYOUw4bG8wSThPSWVjMWFpb05RYXIyUEpxVTBSV2JFNS1KdldZNS1GbUFTNE9GMFZYem9RZmZlQjZRN0NmR3ZjS3pFc0N4Rk5COE94bUtsSWhOMmE5UTJzWHpBQUJMU0dSanhXTmc?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
     },
     {
       "id": "c3c46f4c0e2d",
