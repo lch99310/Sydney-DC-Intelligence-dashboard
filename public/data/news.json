@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-27T17:32:50.151731+00:00",
+  "last_updated": "2026-08-28T18:29:23.907306+00:00",
   "items": [
+    {
+      "id": "0d713dff1282",
+      "title": "Amazon signs 199MW worth of PPAs across Sweden with OX2 and Mirova",
+      "summary": "Power will be delivered from four onshore wind farms",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-signs-199mw-worth-of-ppas-across-sweden-with-ox2-and-mirova/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-08-28T10:40:25+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "18b8fc97b0c2",
+      "title": "Indosat's Infra Fiber Teknologi spin-off launches AI-ready RAIA Grid",
+      "summary": "It will embed Machine Learning, AI, and Agentic AI",
+      "url": "https://www.datacenterdynamics.com/en/news/indosats-infra-fiber-teknologi-spin-off-launches-ai-ready-raia-grid/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-08-28T10:33:48+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "070676389005",
+      "title": "Australia data centre firm NextDC reports rising water, energy use with profit beat - Reuters",
+      "summary": "Australia data centre firm NextDC reports rising water, energy use with profit beat&nbsp;&nbsp;Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON2VBOGx1R1BMUktrMzItSm9tUloxUUFub0pHQnNLU01sOEoxamNlRlNKamFoYkRSVF9sQjVYRjR1T29KanVRMWl2cVM3bE02NzVJdWF0Q1NZWTJLQnZMazZmamFWcmpDSnZzdDdFZXM4OFJGTnA4ZTBTbERqWmJ5dmlfcUVQMnN2ZVhpM2RhY0pyNDNoYlZxY2NYQ1hRQTkwRVExbFVtdk1mZkJQaGU5Ni10VVFyc2pMYktXVC11QTJ5Z3ZXRTV2ZA?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-08-28T03:50:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
     {
       "id": "ad7240a15b9b",
       "title": "Gateway Capital files to build 81MW data center in Sydney, Australia - Data Center Dynamics",
@@ -8,18 +44,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWxsN0hPWGJrUTR4cS02RkRlNXMxdDVLVXhwMkpPMkFtSmt0M0UzSFFXdmFaNmkwR1laczY2d09qekQ3aHAwTGhjVFVydDlnNUxTUXoydVlnakJDei1LdklKU0RrdXNrS1lzQU4wcXVXT2xINnlxNmRmVzc4amNYN3JEVU1tUVc0cTFHUmpCWWRpdl9zdUYwa0VqaXBwd3A4bUI4Ry1jMDc2LXR2eXRqMQ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-08-27T12:32:42+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "d5572624d1bb",
-      "title": "Gateway Capital files to build 81MW data center in Sydney, Australia",
-      "summary": "Former industrial site earmarked for five-story facility",
-      "url": "https://www.datacenterdynamics.com/en/news/gateway-capital-files-to-build-81mw-data-center-in-sydney-australia/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-08-27T12:28:02+00:00",
       "tags": [
         "nsw"
       ],
@@ -55,24 +79,11 @@
       "summary": "PM\u2019s green grid decree faces $31bn test in Queensland&nbsp;&nbsp;The Australian",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQR29zQllMenJRaU5BY3RBWmF0aU5nWGhmRE83LVNNVTlpR1pxblRPRmJwTWwwNWVpQVRpS1VBODhXckJXamlzY1RYU0l3Vk1LcGt5d3ltYmxYR0t4cFB1TzVFT2VxdEtNdGkycERYTzU0aGltY01QbU45cnp1WTdDYUsyRVpHTmp1LXphNUhiX09oVW5OTXZRdUx0WlNGamlaQTY1ai1reDVfWmh5MDBhVExxbDR5eF9PVnk2dm9Tak5EZWYxM1ZDeGFfSGVBdG1tOVQzTHQxWmIwTnhrWXdrczVlbU9SbHlIZnlnblp0LTFIR29Fb21Hdk1qZTRaa0tVMHRpMGJvQjFtX0RqQnFHWXpR0gGXAkFVX3lxTE5nNm1rOHlnUkR1d0NSMUNZLTljRFhUbnFIX2kzcTJkNWVrYlZMOXpoazJKUV9zVXoyaS1rQ2t1M0FEWTFLSU0tWEV5T1pzUnRLd1MyWEd5aHA1YWFNWXIyeWVYZzhVWlo5UUlvd01QRU52MnFQTVVzZklqMkdKaFJUNzNsQlM0bmJEbDc1VzYya25UeE1TSUc4bjYwb3dwY1NvckIwY0FNLVNyOUxOdFBVMmhEQjlZTmdva1d0N1BPTmE1OG1Dbi13Q1ExWXJ5Zmo1X2NZNE5vQVlyRGpaU0ZzenN3NXNLVnFCbUI3aV82d25kdXhsN3BoNHNsTjN1SDB5VzY0RGFtUFdfR05NNnhaZW1zQW1nRQ?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-08-24T09:48:00+00:00",
+      "published_at": "2026-08-24T23:20:00+00:00",
       "tags": [
         "energy_policy"
       ],
       "relevance_score": 0.1
-    },
-    {
-      "id": "071d7c99f624",
-      "title": "Australian data centre financing models: AirTrunk and NEXTDC's path to platform-scale capital - Dentons",
-      "summary": "Australian data centre financing models: AirTrunk and NEXTDC's path to platform-scale capital&nbsp;&nbsp;Dentons",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQVJqdzhTVDJ2cE52eXNhZUpCWlRlNFg4dHhPT3dNOXZReTNuVUxGRVdxaEZxZ0xyMmtQYW5XVUwzSHliU0VYVVdPYndaeGZ2T2ZkWmlNTElDeFZSMER3RGNlUEhWc1p0MXlOc01TT1hsLV9iZ3FmaXRXNDd4YjIzR0o3R1pzLUN2Nl93SGZpYkwxZXZ1VzNUandJaERyVHlKS20xZmRwV1VQeE9GS3FVSTdvdmF5bWEwbkxzVjU2SQ?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-08-18T07:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "nextdc"
-      ],
-      "relevance_score": 0.6
     },
     {
       "id": "d8902f2600d4",
@@ -89,12 +100,12 @@
       "relevance_score": 0.9
     },
     {
-      "id": "e36c4309c2f4",
-      "title": "NSW ramps up power and water standards for data centre builds - Startup Daily",
-      "summary": "NSW ramps up power and water standards for data centre builds&nbsp;&nbsp;Startup Daily",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnBVNG1xVmtpR3R6VllQM0lPczZjeTBIWXU4aGhVbDRkay1hcS0xWjY4WGlJb21feXpFU19JQWRpQjl3U0VmUHoxR2p1dncwbTFhOXM1a01MMW85VVd5TmdfWkstZHRVLVZSUUdjc0Z6cnJLRVd5aVMwLWxWX3p6UHRnQzE4SGR3LW1uVXk0YTkxN01ONVduS1RQenliLUJwLXZCblRLd2VUazVsOXJfR2Z1dkplajlqRm9IcDdmZU1Jc05RSVhrRHBrdUQ2ODI3eFhzTg?oc=5",
+      "id": "776a4234cb6a",
+      "title": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash - Daily Mail",
+      "summary": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash&nbsp;&nbsp;Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ05CNElWRlZkZlRmMmNsSW9Eem1RZ05VeGFDLVdYbV9BYS12UG9tUmI0aGFMYVZuN0NNYVNHNnNQRlY1NnV0cGJoQjBOZVotUjB3a1RtTzgzRDFpcWdjblgySFFYUkNTX0ltZ2tWaklyUnZ2bHlEMTA1UW9vb0x2Rnl4UXluV01jc1EyNWtSVkbSAZYBQVVfeXFMTmpZUW53enplNk9mWVpZelZaMVpVajlvZFNJYi1ENXJ2WHM2SmtzRWNwUnEzT0E4cldXdUpnajZOYlpYWi1SWXRFa0NXYXVCdVQ5ek9aQ3lpZUdQUEZ4cHQ0a1FNd3R6QmlPTG5pNzR5OGxJV3l0d3p4Ni1pY2hNazA3YUlDbHFHVG0tSkI0aGhubkJhVFZR?oc=5",
       "source": "Google News: NEXTDC",
-      "published_at": "2026-08-17T02:49:34+00:00",
+      "published_at": "2026-08-16T07:00:00+00:00",
       "tags": [
         "nsw"
       ],
