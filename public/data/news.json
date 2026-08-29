@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T18:29:23.907306+00:00",
+  "last_updated": "2026-08-29T12:35:21.174799+00:00",
   "items": [
     {
       "id": "0d713dff1282",
@@ -112,18 +112,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "fda0611bcc46",
-      "title": "Australia\u2019s \u201cnext AirTrunk\u201d eyes Melbourne west site - Green Street News",
-      "summary": "Australia\u2019s \u201cnext AirTrunk\u201d eyes Melbourne west site&nbsp;&nbsp;Green Street News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeDVXWHl5bWVkZmRXem5nYVVGUW1BeUhhSlh5OS0wZ0R3V2QwVDFMdmstMFl3ZFBUd3NfWXJ6ZHhHX1NGX05IODhiWkx6X1g2cTdwVUxIZC0zckVWYmFROC0xSjR3VkdpR2FrUXlyeWN1OTJjbFZkVFlMbC1Fa3FXVXR5OHZ4QUJDWnpaVVZjNA?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-08-13T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "7af7c3ead7c9",
       "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - SMH.com.au",
       "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;SMH.com.au",
@@ -146,19 +134,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "3c65e6b05cb4",
-      "title": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access - PV Tech",
-      "summary": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access&nbsp;&nbsp;PV Tech",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamNBcUp0eWY3QnhjRV9BTWtsb2lHMXZsdHA0LXNEcWtNZUJLY056M1l2cXhqblVEZTNsVElxbE9QVENwSmNiSkQ2MFpTLUI2Q3hLRTJfcF8tSWFYQVRKWDhZR1RpbWhOR19WZXllakpUV2xRZS0yNF9ESGkxc3FpaUhkMjM2Q0VocFRPcVN2VlZIQVgtTl9YYndaUGRXMTFBc1RZQVlfQ3ZSSzdZTEQyVjFXQ3M0MzJLQTNnTEREa01fVTdsOENyaVVBN3o5LUgyV3c?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-08-07T07:00:00+00:00",
-      "tags": [
-        "energy_policy",
-        "nsw"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "8b77d1c5c4c3",
@@ -260,18 +235,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "3ef52c9145a7",
-      "title": "Australia's AirTrunk secures $2.33B green financing for Johor Bahru data center, largest in Malaysia - TNGlobal",
-      "summary": "Australia's AirTrunk secures $2.33B green financing for Johor Bahru data center, largest in Malaysia&nbsp;&nbsp;TNGlobal",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObGhaTDc5d1JaQXRmYXpzYngyX21oc0xUa01SWTRWREJSTUd1eUdWY0VkRmxldG5LWHVtb0NIUk91ejdMQmtJbThQQjJRT2FGd1YzUGI1QkQ1MFZXOWpZU3hUVW9vdk1UMUtLLUpDSW94MjAtb0xDNlEyUm9OdmJfMmZpUzJoOUVEb0J0TG1GTHdPZUF5WEwwOGk4a3l5bmVXSzNUUV9pbWlmaU1YWVcySDVWS0l3R2FoT0NvNmdjNlk2ZXFWSW1NcEt0ekNOdw?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-07-29T09:54:11+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "6c4bb8a1e2cd",
       "title": "Data centres not a blank cheque for renewables: AirTrunk - AFR",
       "summary": "Data centres not a blank cheque for renewables: AirTrunk&nbsp;&nbsp;AFR",
@@ -295,6 +258,18 @@
         "airtrunk"
       ],
       "relevance_score": 0.3
+    },
+    {
+      "id": "feb31cd28db5",
+      "title": "Sydney and Melbourne's data centre domination under threat from new laws - CommercialRealEstate.com.au",
+      "summary": "Sydney and Melbourne's data centre domination under threat from new laws&nbsp;&nbsp;CommercialRealEstate.com.au",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQblNrbDMzOXBITzJoN2xXSjhLa2xJNUEzT25ycmQySlloaUhjREFvLXg0N0tsNW9mQ2xtVjNSUGdSMFh0bVF2dlFUVmdNcEpfaU5NRTVhZm0wNGUyV0wyc1R0VE9QSUt6NHUxTWpoZHRLUmpUWGxydGI2NmdOUDFlemRLZ1B6VHVRYm5Gd1dKcUhjSkZxNUNQcy1qczdYX2xsTDJaX3J4RTl4ZENRdmk3NlVCWWh3TE0?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
     },
     {
       "id": "90364ab507c9",
@@ -798,18 +773,6 @@
         "energy_policy"
       ],
       "relevance_score": 0.4
-    },
-    {
-      "id": "c3c46f4c0e2d",
-      "title": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future - blog.google",
-      "summary": "Google, AirTrunk, and European Energy Australia set to launch Mulwala Solar Farm, powering Australia\u2019s digital future&nbsp;&nbsp;blog.google",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU0dBOGp5cjc4czZ1Ry1tQ1lHa2JLSHYyM0ZDdlg1ZkN1dHJZelF4N2FRWWhTc19BclQzTmJKaGRUVVZ3Q1Zmbkx0MGRnV1c5RWhza0k0Z3RISUQ0eDhlV0RJNXlkWTN6TVkyVEx3X1hnUVlrQ3hTOEJ4RFlBWVMzbFAtSWFXTDNHVHI3dzV1dV9kbHZybWVFdkt4bmRvc3VDNzJtc09KcUZYOXB4R0JManY5QTE1YmN3YmN1aWhQVUI0T1dJVU9Wa082WFAxQWxFQ3UxUmV4d05LbVd3X0Z5aE01b0RabFhZU3lCRzFnQQ?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-05-31T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
     }
   ]
 }
