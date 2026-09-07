@@ -1,29 +1,17 @@
 {
-  "last_updated": "2026-09-06T10:43:02.785804+00:00",
+  "last_updated": "2026-09-07T12:11:53.526335+00:00",
   "items": [
     {
-      "id": "170127a6db7c",
-      "title": "Telstra confirms July outage was caused by network timing system failure",
-      "summary": "As independent report finds that the Australian carrier failed to react to previous warnings after 2020 network upgrade",
-      "url": "https://www.datacenterdynamics.com/en/news/telstra-confirms-july-outage-was-caused-by-network-timing-system-failure/",
+      "id": "73030a14285b",
+      "title": "Key ASIC and CT Vision plan green AI data center in Malaysia",
+      "summary": "Companies plan 100 percent renewable powered facility",
+      "url": "https://www.datacenterdynamics.com/en/news/key-asic-and-ct-vision-plan-green-ai-data-center-in-malaysia/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-09-04T16:35:13+00:00",
+      "published_at": "2026-09-07T11:40:44+00:00",
       "tags": [
-        "telstra"
+        "energy_policy"
       ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "6979c22e5731",
-      "title": "Diraq and Equinix to deploy first quantum computer inside an Australian commercial data center - Data Center Dynamics",
-      "summary": "Diraq and Equinix to deploy first quantum computer inside an Australian commercial data center&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVWt6TmllaEdyeHdQX3Z1ejFjOUI2M1R5MFlpeDc3cl9QdXBDNnQ4VFpKSm90YWtrb2VkcDcyS0llOURra3FqTGhjbC04TFdQd3NhTDFXX3JCOFBwMXI3a3J4aXFaSXFRbkNNeTQ2SXdaSFU4QkktLU4tQkxEaHF5R3dkenJ4Yl9kdFdhTUdmVzQ2VlVEMVRnTENmdG5CdFR1cmw1cE1SNVh3REFiY2o2MGJXMm90MXMwS1h2Nm84LVB2V282Nnp5RWc3WEM1Y0NtSTVmSw?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-09-03T14:22:34+00:00",
-      "tags": [
-        "equinix"
-      ],
-      "relevance_score": 0.3
+      "relevance_score": 0.1
     },
     {
       "id": "0c7f0c3e94e2",
@@ -32,18 +20,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41UXFZekZJaVVmdmoxdGp1M1cwMFlESXp2ejZMUUoyb09WTzU3S1Ftd0VjNmJZT2dzVU40b04xT1lUeV9BRGhPVlItU09fTjZkYTZMcnItNldoTG9CT2x0ZG9DZHBoRHpRV0xQMlY5ci1Hdw?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-09-01T20:59:56+00:00",
-      "tags": [
-        "equinix"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "2632e7a09111",
-      "title": "Equinix Inc. stock gains analyst support as quantum deal highlights data center strength - AD HOC NEWS",
-      "summary": "Equinix Inc. stock gains analyst support as quantum deal highlights data center strength&nbsp;&nbsp;AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeXJSc0owWGJ3eXpIeUw2Mk9RQlRqTDNpNlhNUGQ5cU5EcVVmRHhIbG1hNUFaRzg4amxmOG5mekR1N3VvVmV1NFlnajliemVUZFZMa3U2ekUxZmwwU1RmTXZ4MHlEZVY2ZFIxREhKMlRLOVBmSlE4VklsWEZoQW5sVXN4cUUtZnc4NU8tMWRyU3VvM1J4VS1kVWFRSmZZb3M1VnNJeE5tLXR0cTF4UWJlQ2Nlem8yTF9DV284QW1wUkY5MG1teUgxdG9LVzBsMFU?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-09-01T16:20:55+00:00",
       "tags": [
         "equinix"
       ],
@@ -111,9 +87,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "cd572690c593",
-      "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center - globenewswire.com",
-      "summary": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center&nbsp;&nbsp;globenewswire.com",
+      "id": "29047d4f5537",
+      "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center - GlobeNewswire",
+      "summary": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center&nbsp;&nbsp;GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZll1cmVZMUFWVzhyVllxejBpUXFkdHhPaXVCZFNzbkZuZUFFd0NPbl9WcTc2Smc3X1NrTkk3T21ydl9STGZGREJpTkQ2YlZqUlFNcmNsYmVQQnU0UVVQV2FUcEpsbzlfQ3BtaUEtMVV3bjVNOXZxV1lCSG5WQlZ4NXQxbEtDUm5aS25paXFWRDVLTWtSYmtyTDFKUkllOWlXOGhlZ3ZmVmNXRGhYYW1FNlpJcjdWczJfNVpvVGNsc1hISEJIMHFLNlJGSG9HeXJFOGc?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-08-31T21:00:00+00:00",
@@ -123,21 +99,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "ad7240a15b9b",
-      "title": "Gateway Capital files to build 81MW data center in Sydney, Australia - Data Center Dynamics",
-      "summary": "Gateway Capital files to build 81MW data center in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWxsN0hPWGJrUTR4cS02RkRlNXMxdDVLVXhwMkpPMkFtSmt0M0UzSFFXdmFaNmkwR1laczY2d09qekQ3aHAwTGhjVFVydDlnNUxTUXoydVlnakJDei1LdklKU0RrdXNrS1lzQU4wcXVXT2xINnlxNmRmVzc4amNYN3JEVU1tUVc0cTFHUmpCWWRpdl9zdUYwa0VqaXBwd3A4bUI4Ry1jMDc2LXR2eXRqMQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-08-27T12:32:42+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "70e6150110c4",
-      "title": "Australia data centre firm NextDC reports rising water, energy use with profit beat - reuters.com",
-      "summary": "Australia data centre firm NextDC reports rising water, energy use with profit beat&nbsp;&nbsp;reuters.com",
+      "id": "070676389005",
+      "title": "Australia data centre firm NextDC reports rising water, energy use with profit beat - Reuters",
+      "summary": "Australia data centre firm NextDC reports rising water, energy use with profit beat&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON2VBOGx1R1BMUktrMzItSm9tUloxUUFub0pHQnNLU01sOEoxamNlRlNKamFoYkRSVF9sQjVYRjR1T29KanVRMWl2cVM3bE02NzVJdWF0Q1NZWTJLQnZMazZmamFWcmpDSnZzdDdFZXM4OFJGTnA4ZTBTbERqWmJ5dmlfcUVQMnN2ZVhpM2RhY0pyNDNoYlZxY2NYQ1hRQTkwRVExbFVtdk1mZkJQaGU5Ni10VVFyc2pMYktXVC11QTJ5Z3ZXRTV2ZA?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-27T07:00:00+00:00",
@@ -145,6 +109,18 @@
         "nextdc"
       ],
       "relevance_score": 0.3
+    },
+    {
+      "id": "ad7240a15b9b",
+      "title": "Gateway Capital files to build 81MW data center in Sydney, Australia - Data Center Dynamics",
+      "summary": "Gateway Capital files to build 81MW data center in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWxsN0hPWGJrUTR4cS02RkRlNXMxdDVLVXhwMkpPMkFtSmt0M0UzSFFXdmFaNmkwR1laczY2d09qekQ3aHAwTGhjVFVydDlnNUxTUXoydVlnakJDei1LdklKU0RrdXNrS1lzQU4wcXVXT2xINnlxNmRmVzc4amNYN3JEVU1tUVc0cTFHUmpCWWRpdl9zdUYwa0VqaXBwd3A4bUI4Ry1jMDc2LXR2eXRqMQ?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-08-27T07:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
     },
     {
       "id": "f69e8d3faadf",
@@ -159,18 +135,6 @@
         "nextdc"
       ],
       "relevance_score": 0.9
-    },
-    {
-      "id": "fda0611bcc46",
-      "title": "Australia\u2019s \u201cnext AirTrunk\u201d eyes Melbourne west site - Green Street News",
-      "summary": "Australia\u2019s \u201cnext AirTrunk\u201d eyes Melbourne west site&nbsp;&nbsp;Green Street News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeDVXWHl5bWVkZmRXem5nYVVGUW1BeUhhSlh5OS0wZ0R3V2QwVDFMdmstMFl3ZFBUd3NfWXJ6ZHhHX1NGX05IODhiWkx6X1g2cTdwVUxIZC0zckVWYmFROC0xSjR3VkdpR2FrUXlyeWN1OTJjbFZkVFlMbC1Fa3FXVXR5OHZ4QUJDWnpaVVZjNA?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-08-13T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "7af7c3ead7c9",
@@ -209,9 +173,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "9ecb76902016",
-      "title": "Australia's new data centers must be majority renewable powered, says minister - thestandard.com.hk",
-      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;thestandard.com.hk",
+      "id": "e8ba1595abc3",
+      "title": "Australia's new data centers must be majority renewable powered, says minister - The Standard (HK)",
+      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;The Standard (HK)",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWURQOVZhTlZOMkdZY0dhdU5feE5QX0xSZFd3Y2U3RHhFTHM4TVQ1ZFlnTHpGN3JJU0J5YVV4VVpDaEN3MnNfMTRNc3lFeVJ6dXg0b2VicGhPeGVUZEVwRDVUWHNxV05IdGFIOTRFRllUSDl3TFY0UHFUZEdrR2cwYUZOQjhwOS03c0sxMktfdTdwSFpRSXJ1ZWV2SlY5aUIzaGJsUkpnTW5WZFRQSmdKc3JFc0I4OFpESWw3VW02a1M1Ymdz?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-05T07:00:00+00:00",
@@ -234,9 +198,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "a5c3b82aed5f",
-      "title": "Australia's new data centers must be majority renewable powered, says minister - thestandard.com.hk",
-      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;thestandard.com.hk",
+      "id": "028fd355b517",
+      "title": "Australia's new data centers must be majority renewable powered, says minister - The Standard (HK)",
+      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;The Standard (HK)",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWURQOVZhTlZOMkdZY0dhdU5feE5QX0xSZFd3Y2U3RHhFTHM4TVQ1ZFlnTHpGN3JJU0J5YVV4VVpDaEN3MnNfMTRNc3lFeVJ6dXg0b2VicGhPeGVUZEVwRDVUWHNxV05IdGFIOTRFRllUSDl3TFY0UHFUZEdrR2cwYUZOQjhwOS03c0sxMktfdTdwSFpRSXJ1ZWV2SlY5aUIzaGJsUkpnTW5WZFRQSmdKc3JFc0I4OFpESWw3VW02a1M1Ymdz?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-08-05T07:00:00+00:00",
@@ -517,9 +481,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "0faf41afe1b6",
-      "title": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion - reuters.com",
-      "summary": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion&nbsp;&nbsp;reuters.com",
+      "id": "48c1bd11f3c8",
+      "title": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion - Reuters",
+      "summary": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSzZzZ250MEZjQlQ1N1c3VkxzdmhUbWp0RGY3V0ZQNkIyVTlDU3hwcTJ2c293ak9reXctUVB5bzQwdWQwaTNBTXRNS2R6LS1MeURYcE11eG55d3lGTUNOVGpPVGx1ang2dGwzakpRdzg3Wm8yMEt0VXg4X09PZnZfUkpPdkZLdTNRcGJTeTFnMmNyYUxNdVpnTGh4RkFZanp1bEVKT1VpSkZkTFhBajZ2Mkc1UV8zZVZlUzhGMnNaczNZV3FIWmc?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-09T07:00:00+00:00",
@@ -529,9 +493,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "56c417852e9c",
-      "title": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock? - Kalkine Media",
-      "summary": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock?&nbsp;&nbsp;Kalkine Media",
+      "id": "ff228a05e5db",
+      "title": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock? - kalkinemedia.com",
+      "summary": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock?&nbsp;&nbsp;kalkinemedia.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObTVoc1JQSUZkOXEzVW84bHBJakJFYlVkMnNvNTZ6SEN2QUVXR28zYlJCZkd4MnZDaU1ram15Q1l3M1Q4VnhXNUR5d1VoY3Q3NkVoVEZvQldQWC0yUy05VG1QcWVXeW12Vk5MR1NSNGlMR2ZKOUVmYmlQZG1CTk1ISndHWGM2em82S1Fic2djSWx6clFWNnJyWVF1V3dvUTJGYlhCRXYzOVNGWWtiSzJ0d0VxLVVGbXhGbXpnUkI3ZW84UUh3OGc?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-08T07:00:00+00:00",
@@ -577,28 +541,16 @@
       "relevance_score": 0.3
     },
     {
-      "id": "2525239a5d34",
-      "title": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years - The Straits Times",
-      "summary": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years&nbsp;&nbsp;The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1NtLWs3QmVIVXItZkRleFI2Q2ZFY0dxMG4zemYyQXRzRkxhcjF2NXNmallDWjhjTnhQb1lZekprd0QwaDZiaWFYM25Vd0V1WjViemxpYnY2b05IZDVRbDZGY2hZNDBBaVdmUlVPa0k0U0hxQ2hwTHl2TVdDcFJXVWdOVTJpTWVINzRmaVFZbTd6cVBNdTB0c05xRkZQd0tySGMyZ2V0U295UGpEYmw3aGxDNjN1NHdCR1JiNHhGenVSWEtaUnZNcEhZQVJUYnVq?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-06-30T07:00:00+00:00",
+      "id": "68a6ccfda9d9",
+      "title": "Vocus to invest AUD 500m in Sydney-Melbourne AI fibre route - ET Datacenters",
+      "summary": "Vocus to invest AUD 500m in Sydney-Melbourne AI fibre route&nbsp;&nbsp;ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVk00UlJXNDhLOXZhUlRkYXZFUFlYTGVuZWlrRU44amVqSTFvUTZwYldjTUFpd3lqUVZ2aHFlZFdfWlhRQzZtYXY0NEc3TFAxUkNhQnVTQTRhSExEVUtvaUs5UHJrUnV4dGhQMzNDdTY4dE1KZ0pnQmhiMEV5QWhnb1hKUkdRcFZWeWRSdTgzWWVFWksxWEhoRXE4QTlzYjdoODVaM0pQMU5aWGQ1T1dYYUtlclA3cDRialFCQVBaMWROc0N3dnQtT3lyZlZnc3kxVTZTNGVaUzRtRkE4cUI1WWZhemZaYUnSAewBQVVfeXFMUC04bnNUNV9nSk5VUDFWZl9BeVlZWjQ1NjlFeFdjWkVyUk1yWmlnV1J0dW9BTjZUNkFQVkY0YlhaWlVLVHhVQm5rMTg2SHpQZUg3RDlLbVZJLXVFbFdfYVlaMVEwcEE5dC1wTDBYZ2R0UkctSGNzckpZbEdZbjd0QktZMDl1VXJUSXhKNF9SYS1IWE5CV1ZwdzJOcW11WTZHY1R5eTJBTERaNzkxTWRTTjFVem9mNEdqMUh4M1F3am5qUGRrZW5DUjBHOUNrR0RLdTBQYVpWT2hTdjhmZTI0WDJPSFV1U0RuMm00c1A?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-07-02T07:00:00+00:00",
       "tags": [
-        "airtrunk"
+        "nsw"
       ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "d32f2ea7047b",
-      "title": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years - The Business Times",
-      "summary": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years&nbsp;&nbsp;The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVl81aDFEMGJhS01fb2Zjcm9oSVdNNkZrYWpvOFlGU0FXc3lKVEpkLWstR1FReGZoLXQ5WG9oZVk4alo2TWNqY2RjRTNRQ2VtWGpSOUhZaHJnU1ZyMXpfdzRkanFYd1F4bTVqR29BeW5sc3I1Sm5hV3hBcndLLXM5dE1xZEhiQ1BoYUM2LTdIY1dZRmtXV09jS2tCeVdSamhZZzRFZVMtTWc2WGdIZWhZaXFTMldPUVU?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-06-29T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
+      "relevance_score": 0.2
     },
     {
       "id": "1cee017a024a",
@@ -714,9 +666,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "cec312a86fd6",
-      "title": "AI Data Centers Put Australia\u2019s Power Grid Under New Pressure - TechRepublic",
-      "summary": "AI Data Centers Put Australia\u2019s Power Grid Under New Pressure&nbsp;&nbsp;TechRepublic",
+      "id": "91c06f26ea38",
+      "title": "AI Data Centers Put Australia\u2019s Power Grid Under New Pressure - techrepublic.com",
+      "summary": "AI Data Centers Put Australia\u2019s Power Grid Under New Pressure&nbsp;&nbsp;techrepublic.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeTY0SW1JRDU2RG44cVRUTEstU2l2c096RFRvNnR0Z0xEb1ZSTlhvTjhFY3BJbk10M0VOSElZbUpxc3lOTzdiakhJRlpkTV94NUFJNzh3aV9LUTc1OWs4eUprSzFFMkhESThzcWcyMC1wdjl2RTZ1SUkxRDZzdXFyaDRIT2tYcWlmaGVZ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-06-10T07:00:00+00:00",
