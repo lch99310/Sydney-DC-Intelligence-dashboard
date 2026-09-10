@@ -1,29 +1,53 @@
 {
-  "last_updated": "2026-09-09T11:07:19.270742+00:00",
+  "last_updated": "2026-09-10T11:03:21.348121+00:00",
   "items": [
     {
-      "id": "5f99dbf769d5",
-      "title": "NextEra secures $1.9bn loan from US DOE to support restart of the Duane Arnold nuclear power plant in Linn County, Iowa",
-      "summary": "Plant tied to long-term PPA with Google",
-      "url": "https://www.datacenterdynamics.com/en/news/nextera-secures-19bn-loan-from-us-doe-to-support-restart-of-the-duane-arnold-nuclear-power-plant-in-linn-county-iowa/",
+      "id": "a841d6b267df",
+      "title": "Renewable energy firm Friesen Elektra explores data center project in Lower Saxony, Germany",
+      "summary": "If approved, the facility in Sande will be built at the firm\u2019s existing hydrogen park in the town",
+      "url": "https://www.datacenterdynamics.com/en/news/renewable-energy-firm-friesen-elektra-explores-data-center-project-in-lower-saxony-germany/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-09-09T11:00:33+00:00",
+      "published_at": "2026-09-10T09:35:18+00:00",
       "tags": [
         "energy_policy"
       ],
       "relevance_score": 0.1
     },
     {
-      "id": "0f8363815ddc",
-      "title": "Oracle issues RFP for 2GW of new renewable capacity in New Mexico",
-      "summary": "Announces $1m funding package for carbon capture and storage research",
-      "url": "https://www.datacenterdynamics.com/en/news/oracle-issues-rfp-for-2gw-of-new-renewable-capacity-in-new-mexico/",
+      "id": "cf5690fd1fef",
+      "title": "NEXTDC wins DCA Innovation Achievement for Liquid Cooling - NEXTDC",
+      "summary": "NEXTDC wins DCA Innovation Achievement for Liquid Cooling&nbsp;&nbsp;NEXTDC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZk85ZlhubnJhT01NZVVPeWFvbzNmTGlScFBKdGNrQl9SOERrRnJfSkhWZzU3Ul9kQW9jQURRU2RuSDJsSkpBWlZzNWZ2MjJZNG9RTTd4LUJCcHh1X1NnNUpzamE2bTgyMzhpMGh5a0FfZ1BaLV9WZ0FTZnpaS05CWFpzOUJpVklHekx6eFh4MU5mQ2RuVnlOaUhralNud9IBngFBVV95cUxQZk85ZlhubnJhT01NZVVPeWFvbzNmTGlScFBKdGNrQl9SOERrRnJfSkhWZzU3Ul9kQW9jQURRU2RuSDJsSkpBWlZzNWZ2MjJZNG9RTTd4LUJCcHh1X1NnNUpzamE2bTgyMzhpMGh5a0FfZ1BaLV9WZ0FTZnpaS05CWFpzOUJpVklHekx6eFh4MU5mQ2RuVnlOaUhralNudw?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-09-10T04:24:16+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "0aa0d9fd2400",
+      "title": "FlexSysAI launches grid-flexibility pilot with ResetData, CSIRO, University of Queensland",
+      "summary": "Will test AI orchestration platform at ResetData data center",
+      "url": "https://www.datacenterdynamics.com/en/news/flexsysai-launches-grid-flexibility-pilot-with-resetdata-csiro-university-of-queensland/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-09-09T10:20:26+00:00",
+      "published_at": "2026-09-09T21:00:00+00:00",
       "tags": [
         "energy_policy"
       ],
       "relevance_score": 0.1
+    },
+    {
+      "id": "32cd83467170",
+      "title": "Don\u2019t call it a backlash, AirTrunk\u2019s been building data centres for years - Capital Brief",
+      "summary": "Don\u2019t call it a backlash, AirTrunk\u2019s been building data centres for years&nbsp;&nbsp;Capital Brief",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQUZPTVFTb095SXJzaGJYQU9EMGxrSkZmR3J4M3dzOVVqLVNiSWpjc2l3aHNrRHpEaE51WTBocFhLaXhqdGM2eTNjeU5GX19VdFQ1ZDZGZ2RseGFMOG5CSzZGQWZnNktpaGg1VS14OHl2MDgxTUZKSEJjTTlxemw0cUg3WUFIdm5OZEtGZTB0dmF6NHZfaDlLeWdQQlhTdERPMjRBc1pCU0NTbjNhYTlUVHhPMFhkSkFRUWlqMlRqTEozeWlrQ0hmcHBuZ0FDQTlaYjhTa2gtZzdvWTdkclE?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-09-09T19:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "d2abd203d669",
@@ -38,18 +62,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "9ebab6e02686",
-      "title": "Google signs nuclear PPA with Fortum in Loviisa, Finland",
-      "summary": "The company's first nuclear PPA outside of the US market",
-      "url": "https://www.datacenterdynamics.com/en/news/google-signs-nuclear-ppa-with-fortum-in-loviisa-finland/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-09-09T08:39:00+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
       "id": "f8e70fd69834",
       "title": "Goodman Group gets green light for 135MW data center in northern Sydney, Australia - Data Center Dynamics",
       "summary": "Goodman Group gets green light for 135MW data center in northern Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
@@ -60,6 +72,18 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "872dd0b6dc58",
+      "title": "NextDC taps the market to fund record data centre build-out - Dealroom",
+      "summary": "NextDC taps the market to fund record data centre build-out&nbsp;&nbsp;Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUVVSbUlTSzZsT3hiZjVtdFRJODJNQ3hpcXNTWVVnUU05OFZHanItSTk2cGpDSVAzeUUyb0xHOThfVTVnTGFfcUdZWGNKeDZsZk9IbGlCRHBoYUx1ckZvZGJUUVVVVzFXYmZLaDBVZll0UWV3RU5wMHVRMVMyR2dCcUFzbE4wVGlUOXZZY0JkeklFUzV6VGlJTQ?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-09-03T08:21:49+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "0c7f0c3e94e2",
@@ -173,9 +197,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "b2126ac31d7f",
-      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - smh.com.au",
-      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;smh.com.au",
+      "id": "7af7c3ead7c9",
+      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - SMH.com.au",
+      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRm9RcjFISC1MZHNtQnBOQ2hUUzVVM25DYmpYcF9taFU3MUc2VFFCb09qU2lfVkMxc0ZpVXBleVhCY0xGV3ZHVkF1RkpkWlI0TFQzejhjcGpOYkItekhURFZzUnVnVC1vb2xSVC1SUkx1c3hLTlRiNVU3UzJnRlFPT2hLTEhvUnRkMDROcWxsLTk0Uzc1RG5udUk1Mk5EU3pZb0JYLWlUejlBMjY5RE1hdTRWLVJFUlhDTEpmV2NjcHlWSXFGdHlONjlnaUVlMC1YOXJMbVFpaHhjM1FvSGlr?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-13T07:00:00+00:00",
@@ -197,9 +221,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "4e6ee5fca6e6",
-      "title": "These Sydney schools teach 1500 students. A $9b data centre is moving next door - smh.com.au",
-      "summary": "These Sydney schools teach 1500 students. A $9b data centre is moving next door&nbsp;&nbsp;smh.com.au",
+      "id": "8b77d1c5c4c3",
+      "title": "These Sydney schools teach 1500 students. A $9b data centre is moving next door - SMH.com.au",
+      "summary": "These Sydney schools teach 1500 students. A $9b data centre is moving next door&nbsp;&nbsp;SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTFlJanQ2Z1RJYmw5a1oxbXZhREhQNWVJTEFWOUFNT0ZqMXRmVG9hNURWbDFyS0ZjLXdPbl9PYVNLMDI2amFFMWs1OGYzSWtuQWFzVENHLW9YLU1mQUNoMmFQMldOX2xqdUc4MnBuTFR3S0g0dVBFZkktbi1uTGRzamlNa21lOEpMczZPQVNOMnpZN0xhREJzUXc1VE1uLW9hOUx3c09tSUtsY001Q25qUW1uT2U4QUJkSDlxQXFya3d6aTEtVUl4RTE3ZUNIczg?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-08-06T07:00:00+00:00",
@@ -209,9 +233,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "e8ba1595abc3",
-      "title": "Australia's new data centers must be majority renewable powered, says minister - The Standard (HK)",
-      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;The Standard (HK)",
+      "id": "9ecb76902016",
+      "title": "Australia's new data centers must be majority renewable powered, says minister - thestandard.com.hk",
+      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;thestandard.com.hk",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWURQOVZhTlZOMkdZY0dhdU5feE5QX0xSZFd3Y2U3RHhFTHM4TVQ1ZFlnTHpGN3JJU0J5YVV4VVpDaEN3MnNfMTRNc3lFeVJ6dXg0b2VicGhPeGVUZEVwRDVUWHNxV05IdGFIOTRFRllUSDl3TFY0UHFUZEdrR2cwYUZOQjhwOS03c0sxMktfdTdwSFpRSXJ1ZWV2SlY5aUIzaGJsUkpnTW5WZFRQSmdKc3JFc0I4OFpESWw3VW02a1M1Ymdz?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-05T07:00:00+00:00",
@@ -234,9 +258,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "028fd355b517",
-      "title": "Australia's new data centers must be majority renewable powered, says minister - The Standard (HK)",
-      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;The Standard (HK)",
+      "id": "a5c3b82aed5f",
+      "title": "Australia's new data centers must be majority renewable powered, says minister - thestandard.com.hk",
+      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;thestandard.com.hk",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWURQOVZhTlZOMkdZY0dhdU5feE5QX0xSZFd3Y2U3RHhFTHM4TVQ1ZFlnTHpGN3JJU0J5YVV4VVpDaEN3MnNfMTRNc3lFeVJ6dXg0b2VicGhPeGVUZEVwRDVUWHNxV05IdGFIOTRFRllUSDl3TFY0UHFUZEdrR2cwYUZOQjhwOS03c0sxMktfdTdwSFpRSXJ1ZWV2SlY5aUIzaGJsUkpnTW5WZFRQSmdKc3JFc0I4OFpESWw3VW02a1M1Ymdz?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-08-05T07:00:00+00:00",
@@ -283,18 +307,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "cce4d7d49abc",
-      "title": "Key facts: Bouygues SA \u20ac20.35B SFR bid; wins \u20ac1.2B AirTrunk data deal - TradingView",
-      "summary": "Key facts: Bouygues SA \u20ac20.35B SFR bid; wins \u20ac1.2B AirTrunk data deal&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0FHdzhwYjVabjI2UmRBampENzU5SEx1NktSUFl6MWt2ZEx6LXJBZG9pNmNTdGNBZjZBMGJrak1tNU5uT0ZxRVlZY1JDcGF0V2VuU01NWWh4bjZ1bG9kU29EenpPUmRQekltTjI5dnhYNWYxZ3dsQzFGUlJpNS1NM0szQnpUTEhNd0Vkd2tfOTIwSFdYZ3JERkxPdXVqaUEzUkJBNW5oWVpNdFpYMmNlSGxRbFQ1UFJMTlNOYzJlNkNrcDAyRlE?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "3ef52c9145a7",
       "title": "Australia's AirTrunk secures $2.33B green financing for Johor Bahru data center, largest in Malaysia - TNGlobal",
       "summary": "Australia's AirTrunk secures $2.33B green financing for Johor Bahru data center, largest in Malaysia&nbsp;&nbsp;TNGlobal",
@@ -320,9 +332,9 @@
       "relevance_score": 0.4
     },
     {
-      "id": "ea85da076ba5",
-      "title": "Heavyweight battle: Forrest\u2019s green zeal meets AirTrunk\u2019s hard reality - theaustralian.com.au",
-      "summary": "Heavyweight battle: Forrest\u2019s green zeal meets AirTrunk\u2019s hard reality&nbsp;&nbsp;theaustralian.com.au",
+      "id": "d422c38c224e",
+      "title": "Heavyweight battle: Forrest\u2019s green zeal meets AirTrunk\u2019s hard reality - The Australian",
+      "summary": "Heavyweight battle: Forrest\u2019s green zeal meets AirTrunk\u2019s hard reality&nbsp;&nbsp;The Australian",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSHg5ZXNjNnd3V0tsVEIwY0xGNkFkcHZkUnhjdWxrc2FvVkpRekhtOGQ0QlZYQWg5YnBBR2Vpb3h5Mlh3M2I0SU5hWTktbnN5X1Y0Y3EwN0lkV1hkR2xrVkZMdlJ3ejVsRDRzUVZGRTdkaXVYcDM4RWhzczd6bERwb2N6R281MWw1N1RkQ1Z6OGNyd3Uzamg5SXJvMlpUczUyN2ZRNEo0VTFhWlYwaHY2b3c5UEw1U0RyMmw2MjdsUFBOclFVaUdqMnBTa0ZGWjFZVGRUMHhOQVM2M3gwaUNaUHU3RVk2LWpOWnpieDJuNjI5UDNaODZ2ak9vaVZLaHRDcW1tOdIBigJBVV95cUxPb2NzYXZBQUhmbkNHUk5kRTE2Z1kwczg5dU1kUGxCelJsX25wSUd1cTNjSkZCXzd0TTV4cGZaenBUVzQtbmQ4LVUtRVRXYk1jVEVxNzN2a0g5R1JTaTZLZmdFaU5heXVJTGptZmJ2MEFnU2I5QVIxNDNvZ1FBbkJ2UXFHa2xCX1FuakI5NUlnNnN3eDA2c0NmYm4zYkR2Y0o0eEs2bmtUWjEtTnVfTW9tTHB5em9kMTNzRnlQVHdINnpFUUlFQ09TeG1HZXhnMlcxU3JISFNZcnpjR3A2X0JRYjRYb2ZPd1hmU3A2UGw3UmZobW8zaVhoUjhLMkZ5Zk1aeWJtSUE3eHhhZw?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-28T07:00:00+00:00",
@@ -357,9 +369,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "f54b53405174",
-      "title": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns - capitalbrief.com",
-      "summary": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns&nbsp;&nbsp;capitalbrief.com",
+      "id": "8fbfba4f80b4",
+      "title": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns - Capital Brief",
+      "summary": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns&nbsp;&nbsp;Capital Brief",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRkZEX0Z3Y2N0Nlp6S0U3ZkpYS240cnNnTTBnX1E5REg0YWpNODYyTFZIQ3ZLbjI0VncyM2pTaGF4cFJnM2VqamxrYS11TEMyV09jUnpOZ0MySVN1OE5ERE55UFRQYVhiVE1jWTR1X0NXT0xQQjlubHgyNThvbVh1aE94ZXowX0szQ0dUVmtZdXNmMF8wYjlodTJqaDNPUndUUndlMGxKQUZPWXVrc1VjWXBlZ2RmZ3JwSTNWVDZhd05ldl9HX1g1QWNEWGRCdlJEdm43dFdGSmJtTHhjWmZKQ3hRc1V2OGM?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-23T07:00:00+00:00",
@@ -443,9 +455,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "c7176722fa47",
-      "title": "NextDC account manager sues over commissions on Melbourne, Sydney centre deals - Lawyerly",
-      "summary": "NextDC account manager sues over commissions on Melbourne, Sydney centre deals&nbsp;&nbsp;Lawyerly",
+      "id": "2bf3d41be669",
+      "title": "NextDC account manager sues over commissions on Melbourne, Sydney centre deals - lawyerly.com.au",
+      "summary": "NextDC account manager sues over commissions on Melbourne, Sydney centre deals&nbsp;&nbsp;lawyerly.com.au",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQkNZNVZfMXlORmtNVkZVWDV4Q2F2X1IzY2lpRXZmc0ZQcy1teVRzR2drZFVTRU1HZEowZEdRVDdoa2JianRiZEYtZVRudFpqZG5NRE16N1hTdWd1M19NaXRrS2NOR1JobGkyeHlGNUVaNmdnMWh2aGUzVGtVMVFITmxVMXYyLU1JZWticmhYUlJRS3JwUDJGV2poRXpiNXExUjhZcjVmUVlBQQ?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-21T07:00:00+00:00",
@@ -472,6 +484,30 @@
       "title": "Macquarie Data Centres Acquires Sydney Site for 200MW AI Campus - ET Datacenters",
       "summary": "Macquarie Data Centres Acquires Sydney Site for 200MW AI Campus&nbsp;&nbsp;ET Datacenters",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWkZ3TnJVZWx3LXNCdFNhb0VOU2E3Zm5nQU91ZFlFa180anRwMkNvQUZEeVBIX1pyaWpyR2lseTVBay1jX21iMDdFZW8wTXFwQTBfT3dsVmt1QTdGWUJHQXlmanQ1MEJzQkpjbXBManV3YWpWeWRsT2p5NG9YZ1loamxRM0hDX00yTEx3aXdyUTBEUHdrZ1lLZ3ROaUpFVkZOaDVhNWxncXFUSmJiRDRMN0hSQWR5Vl9hb1RpRGtLd1BCcnRKaHc2b2VUc19DaDJEUGQwQXA1Nldkd1dfTmZtRmNGVDllT0MxcXkwaNIB8gFBVV95cUxOSWpCMlA2S1FlYWU2aF9hUnhNbV8xNS0zeTNGYXZRbmwydGxkXzhlc1FMWktURkhvWWxPREVKV3ZsbUc1RHF4UU5ULWl3VUQ1cE5NYW9lc1hlTS1sTWJwcW1RLVFtYVpZd2VDdEJHY2lVOUVENkE5WTNqem12MER3NHRETkVJTWQxdExOQ1NubjB3YWpzUG9FSzZIMm5RMzhfTUxGTkdkbk1vYW5rU2xMMXRiS0FjOTRreWJaSksyXzEtbWZCcHBUU2RXRk1jY2dtWlJMLW1ZRjhuWHA4dTVmTGNnOUNoRjdSR0xvbFdSRUF6dw?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "8b9f8c05d130",
+      "title": "Macquarie Tech\u2019s Sydney Data Center Plan Comes With Local Politics - Finimize",
+      "summary": "Macquarie Tech\u2019s Sydney Data Center Plan Comes With Local Politics&nbsp;&nbsp;Finimize",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3c0OWNlN3VFRldOOUViUHpycDJCdkdyTFlmZWVhQk13STFfTV9BTVRJRzFhYmttMFBNY0FYWlhPQzF5R2VjX2RJRnJNTkpITVBuMHhXdDNvWlVRbDVFTC1OR2tVTmJsZFY3OW9ybmFaUWR3VVZMT0dTdzFXdHBRQklYU0NpSUVYaUpLV0xtSFBWOVRVUXdFbU1B?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "e17aadad6d72",
+      "title": "Macquarie Data Centres to develop 200MW tech centre in Sydney for $168 mn - ET Datacenters",
+      "summary": "Macquarie Data Centres to develop 200MW tech centre in Sydney for $168 mn&nbsp;&nbsp;ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOY2YxRl9pM2lndUo5azFRREdpNmNELTNYQmw0a2ZyQlZIWTVwRUI1OU0xbGZWTi1TU2NTTHZZa3VQSmVXTUpjQVNtRHhPSG1kaUdRbXhfQmk3NHB6MjhQckJHb3RDcmdLcmNBVmp0VXllT01tYUVJRDRmQmk2ZldNbGlJS2w3UGtaUjBuMU9GRng5a3VTUU9XeHV0X0hMcEc4MWo4aWhGYjRBN0gxM3gweUtmbTNCaDlKTkxGS0Q2b2EzMXpaN2RxaWIyRDhKaGF2Q0Utb1ZEU1JWZWpKdk1LeWhHRGx4dkdLYWpRcFQ3SGY2Z3ZhSzJHU0pEam5STURXQU9mclAxMA?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-07-16T07:00:00+00:00",
       "tags": [
@@ -625,9 +661,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "8fafa5b005a2",
-      "title": "Blackstone\u2019s AirTrunk seeks A$4.3 billion loan for Sydney data centre project - The Business Times",
-      "summary": "Blackstone\u2019s AirTrunk seeks A$4.3 billion loan for Sydney data centre project&nbsp;&nbsp;The Business Times",
+      "id": "94d24c56312c",
+      "title": "Blackstone\u2019s AirTrunk seeks A$4.3 billion loan for Sydney data centre project - businesstimes.com.sg",
+      "summary": "Blackstone\u2019s AirTrunk seeks A$4.3 billion loan for Sydney data centre project&nbsp;&nbsp;businesstimes.com.sg",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZWx5b09YNG5Ha0dFbmVuUkc5R2RfS0lJMWludm54SER6QUFkdW9VRUJQU0poeVBKVGU0aDVybi05VkRDY1FtS1JzT1BJM1ZnV3VzdUs2RlE5UVRuOGVORWp6NnExRXYtNjR1Sl9wQlhma1NzTHBaek5JU1lpVkZhTXlNSnF3U3BMQi1zOUF1cFE4WGE0SW0wNXE3SmR4MlhhdWE3VGo5R2hkLThMbHBtX2FFbUFpVXRTMTV6U0RQWFg3YTVMTjZScFI5WkctcmxkSnlFUkRn?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-18T07:00:00+00:00",
@@ -638,9 +674,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "b3dffebef870",
-      "title": "$2.8 Billion Sydney Data Center Project Advances as AirTrunk Seeks New Construction Financing - Construction Review",
-      "summary": "$2.8 Billion Sydney Data Center Project Advances as AirTrunk Seeks New Construction Financing&nbsp;&nbsp;Construction Review",
+      "id": "fd624868f055",
+      "title": "$2.8 Billion Sydney Data Center Project Advances as AirTrunk Seeks New Construction Financing - constructionreviewonline.com",
+      "summary": "$2.8 Billion Sydney Data Center Project Advances as AirTrunk Seeks New Construction Financing&nbsp;&nbsp;constructionreviewonline.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNjAyVlpuOGlxLXdCYlJpUWstODM4aklDOU5pWENEbWhEVTBpTVdYX1pOSjNFRXdHeHd1akxMZy1mTHdYZ3pFMm5jV2tNbURWRGVINFB5Y3l2RzNUaEVQeVNXMmVjenplRmNHdlVqRmZUWGtMLTNpN0JMQmlUd0tSclRaVldjMTJrTjI5RnNwd3RITjhkNXk1azBOTVpTVEhDMTB0bkNmemswa3J3Rm5RXy1FZlJtQmpxVVAydFFNUnhQcTdBd2NZa2d3?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-06-18T07:00:00+00:00",
@@ -677,9 +713,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "98373ee52c54",
-      "title": "Data centres vow to fund Australia\u2019s renewables shift, not derail it - smh.com.au",
-      "summary": "Data centres vow to fund Australia\u2019s renewables shift, not derail it&nbsp;&nbsp;smh.com.au",
+      "id": "4ec2a2c2fc9c",
+      "title": "Data centres vow to fund Australia\u2019s renewables shift, not derail it - SMH.com.au",
+      "summary": "Data centres vow to fund Australia\u2019s renewables shift, not derail it&nbsp;&nbsp;SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc21EZ1puVmc4WkZpVENhdS1hRUNBQ0Jhei01YUZGVEcwSkxJTFpXT1RHMWY0UndyVzM2RFhFY0p2blNyY0lXT0RON0RORktvd3BTZEEtUmNnaVl6UE5UUWc0Wlh2UXRCOUFrZ3JJR0oyWmFfS1dYM2xFRGhnbnlIU0MyZXZwR3ljRTJlRVY0dUYxTS1vTTFZVElZWnBfRkhWenAxemRFVmd1VTcteXc4aGljeE95QU9oVV9YQk1SeXRrdW1YN2pZMGJ6Slo?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-06-14T07:00:00+00:00",
