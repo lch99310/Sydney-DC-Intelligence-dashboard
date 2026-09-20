@@ -1,6 +1,6 @@
 {
   "electricity_last_updated": "2026-09-20T07:30:06.943696+00:00",
-  "news_last_updated": "2026-09-19T10:43:25.027029+00:00",
+  "news_last_updated": "2026-09-20T11:06:00.498518+00:00",
   "facilities_last_updated": "2026-04-08T00:00:00Z",
   "data_sources": {
     "electricity": "AEMO NEM PRICE_AND_DEMAND CSV",
