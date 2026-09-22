@@ -1,34 +1,36 @@
 {
-  "last_updated": "2026-09-21T12:34:12.964523+00:00",
+  "last_updated": "2026-09-22T11:22:05.302527+00:00",
   "items": [
     {
-      "id": "182b67daf45a",
-      "title": "Oman\u2019s O-Green targets 200MW of data center capacity by 2028",
-      "summary": "Firm says its data centers in Oman and Europe will be powered by low-cost renewable energy",
-      "url": "https://www.datacenterdynamics.com/en/news/omans-o-green-targets-200mw-of-data-center-capacity-by-2028/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-09-21T09:00:05+00:00",
+      "id": "10ae4f614b57",
+      "title": "Anthropic negotiates with AirTrunk\u2019s regional NSW data centre - afr.com",
+      "summary": "Anthropic negotiates with AirTrunk\u2019s regional NSW data centre&nbsp;&nbsp;afr.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2F6S0xhNG80Ml8zbW5yUWhSak5LS3hRdnQ1MGNnWC1TRVl5T3hfUk51RlMyazh3MmVtYm8xR21abjh5X09hSWtkS1R6aU1QQVZwb29MeFg4Wm1ELWVtU21UUVlCdG9fUnAxQ09hNHBHWklJOWdvc0k1OU1ZWEowdDdkUHF4NXZqLW9HRk9lejFoVVA3MHRrZ2NiaDF6UEpSMHRGdm11cW1ONmM3WXc?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-09-22T07:51:00+00:00",
       "tags": [
-        "energy_policy"
+        "airtrunk",
+        "nsw"
       ],
-      "relevance_score": 0.1
+      "relevance_score": 0.5
     },
     {
-      "id": "0abdafc12853",
-      "title": "Sponsored: Powering NAM: Yesterday, tomorrow, and beyond",
-      "summary": "How combined-cycle power delivers reliable, dispatchable electricity while supporting grid stability in North America",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/powering-nam-yesterday-tomorrow-and-beyond/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-09-21T07:00:00+00:00",
+      "id": "a4d4065a37a3",
+      "title": "AirTrunk, CDC call for national data centre rules with greater accountability - W.Media",
+      "summary": "AirTrunk, CDC call for national data centre rules with greater accountability&nbsp;&nbsp;W.Media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFVheEw5MTVTVUJPMDZJYlRyZ1FoaHBIbjk3NXJwa1Q5SVpXbkNWSXhtXzdEam9WSDVRd3dxc0w4ekNoMWFMRE16UXFDRVZSM3UxYlNldTl4SDZGbnltU05KM0RvSFNxc0s2dlhuR1d4NEMwODVjLXA2ZER3ZkdQT1JRd2dUMVVJUWZmaE1jNzN0SkZ6b1BKag?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-09-21T10:34:00+00:00",
       "tags": [
-        "energy_policy"
+        "airtrunk",
+        "cdc"
       ],
-      "relevance_score": 0.1
+      "relevance_score": 0.6
     },
     {
-      "id": "816ae2553885",
-      "title": "Emergence Quantum partners with AirTrunk to advance cryogenic data centres - The University of Sydney",
-      "summary": "Emergence Quantum partners with AirTrunk to advance cryogenic data centres&nbsp;&nbsp;The University of Sydney",
+      "id": "2fa172978d04",
+      "title": "Emergence Quantum partners with AirTrunk to advance cryogenic data centres - sydney.edu.au",
+      "summary": "Emergence Quantum partners with AirTrunk to advance cryogenic data centres&nbsp;&nbsp;sydney.edu.au",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEVIbFNMM0JaNl9idmEwcUVNQUZtXy1jcE1yMEdpbVRac1JNLUc2elVHc2QzbnUxdzZkNzRxOVZRSExrU0RMdFkwemM4UnZlbjU4ZmhMd1UyMVBacUhOVjZHcHRjdHZvZXpCM0E0Q25TZEo3RWxIUkYyMVBGSTE1cTctLUJpWUg0YThJWmE1SXd4U1lfR3RrSGZKaHF4anhEelJJeHlkX2djczFGLTVHUDVCSFY4U1V6RUE?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-09-15T07:27:29+00:00",
@@ -100,9 +102,21 @@
       "relevance_score": 0.3
     },
     {
-      "id": "99e23c894009",
-      "title": "Sumitomo Electric to Showcase Next-Generation Data Center Solutions at Sydney Cloud & Datacenter Convention 2026 - Sumitomo Electric",
-      "summary": "Sumitomo Electric to Showcase Next-Generation Data Center Solutions at Sydney Cloud & Datacenter Convention 2026&nbsp;&nbsp;Sumitomo Electric",
+      "id": "2632e7a09111",
+      "title": "Equinix Inc. stock gains analyst support as quantum deal highlights data center strength - AD HOC NEWS",
+      "summary": "Equinix Inc. stock gains analyst support as quantum deal highlights data center strength&nbsp;&nbsp;AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeXJSc0owWGJ3eXpIeUw2Mk9RQlRqTDNpNlhNUGQ5cU5EcVVmRHhIbG1hNUFaRzg4amxmOG5mekR1N3VvVmV1NFlnajliemVUZFZMa3U2ekUxZmwwU1RmTXZ4MHlEZVY2ZFIxREhKMlRLOVBmSlE4VklsWEZoQW5sVXN4cUUtZnc4NU8tMWRyU3VvM1J4VS1kVWFRSmZZb3M1VnNJeE5tLXR0cTF4UWJlQ2Nlem8yTF9DV284QW1wUkY5MG1teUgxdG9LVzBsMFU?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-09-01T16:20:55+00:00",
+      "tags": [
+        "equinix"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "85e8ce7b6884",
+      "title": "Sumitomo Electric to Showcase Next-Generation Data Center Solutions at Sydney Cloud & Datacenter Convention 2026 - sumitomoelectric.com",
+      "summary": "Sumitomo Electric to Showcase Next-Generation Data Center Solutions at Sydney Cloud & Datacenter Convention 2026&nbsp;&nbsp;sumitomoelectric.com",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PY2k0LVdFNXBxQXVILVI5R0tXNWUtckN0cmN3STVqbTJ6bFpKcmhWWU1UakVwRXB4WUl5dzVfNzBBbTJzZFMzaFNSYmkzeDVaNTVUNUlDM3R1YXhMSmc?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-09-01T07:00:00+00:00",
@@ -211,9 +225,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "b2126ac31d7f",
-      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - smh.com.au",
-      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;smh.com.au",
+      "id": "7af7c3ead7c9",
+      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - SMH.com.au",
+      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRm9RcjFISC1MZHNtQnBOQ2hUUzVVM25DYmpYcF9taFU3MUc2VFFCb09qU2lfVkMxc0ZpVXBleVhCY0xGV3ZHVkF1RkpkWlI0TFQzejhjcGpOYkItekhURFZzUnVnVC1vb2xSVC1SUkx1c3hLTlRiNVU3UzJnRlFPT2hLTEhvUnRkMDROcWxsLTk0Uzc1RG5udUk1Mk5EU3pZb0JYLWlUejlBMjY5RE1hdTRWLVJFUlhDTEpmV2NjcHlWSXFGdHlONjlnaUVlMC1YOXJMbVFpaHhjM1FvSGlr?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-13T07:00:00+00:00",
@@ -235,9 +249,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "e8ba1595abc3",
-      "title": "Australia's new data centers must be majority renewable powered, says minister - The Standard (HK)",
-      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;The Standard (HK)",
+      "id": "9ecb76902016",
+      "title": "Australia's new data centers must be majority renewable powered, says minister - thestandard.com.hk",
+      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;thestandard.com.hk",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWURQOVZhTlZOMkdZY0dhdU5feE5QX0xSZFd3Y2U3RHhFTHM4TVQ1ZFlnTHpGN3JJU0J5YVV4VVpDaEN3MnNfMTRNc3lFeVJ6dXg0b2VicGhPeGVUZEVwRDVUWHNxV05IdGFIOTRFRllUSDl3TFY0UHFUZEdrR2cwYUZOQjhwOS03c0sxMktfdTdwSFpRSXJ1ZWV2SlY5aUIzaGJsUkpnTW5WZFRQSmdKc3JFc0I4OFpESWw3VW02a1M1Ymdz?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-05T07:00:00+00:00",
@@ -260,9 +274,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "028fd355b517",
-      "title": "Australia's new data centers must be majority renewable powered, says minister - The Standard (HK)",
-      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;The Standard (HK)",
+      "id": "a5c3b82aed5f",
+      "title": "Australia's new data centers must be majority renewable powered, says minister - thestandard.com.hk",
+      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;thestandard.com.hk",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWURQOVZhTlZOMkdZY0dhdU5feE5QX0xSZFd3Y2U3RHhFTHM4TVQ1ZFlnTHpGN3JJU0J5YVV4VVpDaEN3MnNfMTRNc3lFeVJ6dXg0b2VicGhPeGVUZEVwRDVUWHNxV05IdGFIOTRFRllUSDl3TFY0UHFUZEdrR2cwYUZOQjhwOS03c0sxMktfdTdwSFpRSXJ1ZWV2SlY5aUIzaGJsUkpnTW5WZFRQSmdKc3JFc0I4OFpESWw3VW02a1M1Ymdz?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-08-05T07:00:00+00:00",
@@ -282,19 +296,6 @@
         "energy_policy"
       ],
       "relevance_score": 0.1
-    },
-    {
-      "id": "a858e08a861d",
-      "title": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion - Yahoo Finance",
-      "summary": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion&nbsp;&nbsp;Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUmcxNG5qcWJLTVVnc2tUSXd3RXRPZ2FLcVVlWlpHOWJfOHliajJoWWVxYzdMbGhHSzRldkVPLTlXRVBJMm1pc0VQcXB4MHZQR3V0WkhVSGdHejJpLURYdTJCWlBQSDFyb0xHY1RybHFyWU1IOXhObC1YNlhTOXJmMzRtWTdNbnVSS28zM0pVWEtfekk?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-07-31T07:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
     },
     {
       "id": "286b649c0d60",
@@ -333,9 +334,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "6c4bb8a1e2cd",
-      "title": "Data centres not a blank cheque for renewables: AirTrunk - AFR",
-      "summary": "Data centres not a blank cheque for renewables: AirTrunk&nbsp;&nbsp;AFR",
+      "id": "c870f007c0f9",
+      "title": "Data centres not a blank cheque for renewables: AirTrunk - afr.com",
+      "summary": "Data centres not a blank cheque for renewables: AirTrunk&nbsp;&nbsp;afr.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbFpsbC11QkVSRG1ySTZra2xRWmx5TE5TRk5NSnhtQ1B3NjFucDF4WjhNSEU5NmZwcnF3YzdrQUdZRHNmYVJjSlVWYjBiTTV5b3puLUJ6aElzMk5LZDNXbS14M3NFOWFCcDZOYTNuVHc5SWdFRUp1LXRBamJiU0xWcjd4Tk91Z1d2MzJtTzloWkVudEd2R28zT01pSmVoSzlhWC1jWXVRWFRVYWJT?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-28T07:00:00+00:00",
@@ -346,9 +347,9 @@
       "relevance_score": 0.4
     },
     {
-      "id": "d422c38c224e",
-      "title": "Heavyweight battle: Forrest\u2019s green zeal meets AirTrunk\u2019s hard reality - The Australian",
-      "summary": "Heavyweight battle: Forrest\u2019s green zeal meets AirTrunk\u2019s hard reality&nbsp;&nbsp;The Australian",
+      "id": "ea85da076ba5",
+      "title": "Heavyweight battle: Forrest\u2019s green zeal meets AirTrunk\u2019s hard reality - theaustralian.com.au",
+      "summary": "Heavyweight battle: Forrest\u2019s green zeal meets AirTrunk\u2019s hard reality&nbsp;&nbsp;theaustralian.com.au",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSHg5ZXNjNnd3V0tsVEIwY0xGNkFkcHZkUnhjdWxrc2FvVkpRekhtOGQ0QlZYQWg5YnBBR2Vpb3h5Mlh3M2I0SU5hWTktbnN5X1Y0Y3EwN0lkV1hkR2xrVkZMdlJ3ejVsRDRzUVZGRTdkaXVYcDM4RWhzczd6bERwb2N6R281MWw1N1RkQ1Z6OGNyd3Uzamg5SXJvMlpUczUyN2ZRNEo0VTFhWlYwaHY2b3c5UEw1U0RyMmw2MjdsUFBOclFVaUdqMnBTa0ZGWjFZVGRUMHhOQVM2M3gwaUNaUHU3RVk2LWpOWnpieDJuNjI5UDNaODZ2ak9vaVZLaHRDcW1tOQ?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-28T07:00:00+00:00",
@@ -358,9 +359,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "d567453c8406",
-      "title": "Sydney and Melbourne's data centre domination under threat from new laws - commercialrealestate.com.au",
-      "summary": "Sydney and Melbourne's data centre domination under threat from new laws&nbsp;&nbsp;commercialrealestate.com.au",
+      "id": "feb31cd28db5",
+      "title": "Sydney and Melbourne's data centre domination under threat from new laws - CommercialRealEstate.com.au",
+      "summary": "Sydney and Melbourne's data centre domination under threat from new laws&nbsp;&nbsp;CommercialRealEstate.com.au",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQblNrbDMzOXBITzJoN2xXSjhLa2xJNUEzT25ycmQySlloaUhjREFvLXg0N0tsNW9mQ2xtVjNSUGdSMFh0bVF2dlFUVmdNcEpfaU5NRTVhZm0wNGUyV0wyc1R0VE9QSUt6NHUxTWpoZHRLUmpUWGxydGI2NmdOUDFlemRLZ1B6VHVRYm5Gd1dKcUhjSkZxNUNQcy1qczdYX2xsTDJaX3J4RTl4ZENRdmk3NlVCWWh3TE0?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-26T07:00:00+00:00",
@@ -370,9 +371,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "90364ab507c9",
-      "title": "Inside S3 Sydney | Exclusive Data Centre Tour with NEXTDC CEO Craig Scroggie - NEXTDC",
-      "summary": "Inside S3 Sydney | Exclusive Data Centre Tour with NEXTDC CEO Craig Scroggie&nbsp;&nbsp;NEXTDC",
+      "id": "688b91be5422",
+      "title": "Inside S3 Sydney | Exclusive Data Centre Tour with NEXTDC CEO Craig Scroggie - nextdc.com",
+      "summary": "Inside S3 Sydney | Exclusive Data Centre Tour with NEXTDC CEO Craig Scroggie&nbsp;&nbsp;nextdc.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Jc0tkUHlRb1NLa1hQQjFYVmdVb3hDaklPTVJEMndUeVFwcUIxMTh4ZXJ3ZzNwMnNRZnpCTDFOVUJSSW9TWTFtNUpvZ2dZRUhveUwwckZPUUZFX3lyVWVmNG5KT245T3RiQzBsU3Z5cGR1SW5rWDJIYUxB?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-24T07:00:00+00:00",
@@ -469,9 +470,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "51a659352f2d",
-      "title": "Inside AirTrunk\u2019s plans to create a $4.4b Singapore-listed giant - AFR",
-      "summary": "Inside AirTrunk\u2019s plans to create a $4.4b Singapore-listed giant&nbsp;&nbsp;AFR",
+      "id": "27b0d27b7a27",
+      "title": "Inside AirTrunk\u2019s plans to create a $4.4b Singapore-listed giant - afr.com",
+      "summary": "Inside AirTrunk\u2019s plans to create a $4.4b Singapore-listed giant&nbsp;&nbsp;afr.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHFVLURwY2I1SFY4alBsWjVWSDNucUdia0tjWEJYb2pYRnZLQ3JKaTcxZy1vWldrTmpSUXBSdEhyMTBadGRPRHU4VmlUVXJZT05WRjZiekFnWGVNVFp3Mk9YS2w3bXdEWFprMXVXZnVCTTBGSlVvWXl4QlozZ1B6U3hBdjVSY3EzbnZBSlVZT0xkQ2VtY3ozRXJEN3ZzcU03eU92Yy16S25fcGR4TnZXMg?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-21T07:00:00+00:00",
