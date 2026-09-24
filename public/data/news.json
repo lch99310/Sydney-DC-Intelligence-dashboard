@@ -1,25 +1,73 @@
 {
-  "last_updated": "2026-09-23T11:17:44.507091+00:00",
+  "last_updated": "2026-09-24T11:31:18.017466+00:00",
   "items": [
     {
-      "id": "6801f8aa0ce4",
-      "title": "Zeo Energy and Ewyze partner on off-grid power solutions for US data center sector",
-      "summary": "Also looking at international expansion",
-      "url": "https://www.datacenterdynamics.com/en/news/zeo-energy-and-ewyze-partner-on-off-grid-power-solutions-for-us-data-center-sector/",
+      "id": "e37175d096e8",
+      "title": "Victoria, Australia, proposes rules requiring data centers to secure own renewable energy supply",
+      "summary": "Alongside several other provisions to prevent cost shifting and excessive water use",
+      "url": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-09-23T09:25:57+00:00",
+      "published_at": "2026-09-24T10:46:00+00:00",
       "tags": [
         "energy_policy"
       ],
       "relevance_score": 0.1
     },
     {
-      "id": "5d991b1e80ce",
-      "title": "New Era signs 20-year gas PPA with Vistra subsidiary to power 250MW data center in Ector County, Texas",
-      "summary": "Powered via an adjacent natural gas plant in Odessa, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/new-era-signs-20-year-gas-ppa-with-vistra-subsidiary-to-power-250mw-data-center-in-ector-county-texas/",
+      "id": "4f4ae5955b0f",
+      "title": "Australia\u2019s data center guidelines lay the platform for new good grid citizens",
+      "summary": "How can big energy consumers make a greater contribution to energy systems and the communities they serve?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/australias-data-center-guidelines-lay-the-platform-for-new-good-grid-citizens/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-09-22T13:08:11+00:00",
+      "published_at": "2026-09-24T00:00:27+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "5bbbe8ec6359",
+      "title": "Australian Senate calls for nationalized Triple Zero service following several high-profile outages",
+      "summary": "Telstra operates the system that connects Australian phone calls to 000",
+      "url": "https://www.datacenterdynamics.com/en/news/australian-senate-calls-for-nationalized-triple-zero-service-following-several-high-profile-outages/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-09-23T16:10:51+00:00",
+      "tags": [
+        "telstra"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "aa58a29b10c6",
+      "title": "The renewable energy deal that looks cheap on paper can leave data centers most exposed",
+      "summary": "New analysis shows the best-matched clean power portfolio is also the strongest hedge against price shocks",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-renewable-energy-deal-that-looks-cheap-on-paper-can-leave-data-centers-most-exposed/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-09-23T16:05:36+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "49d6498b92bf",
+      "title": "Australia's Optus expands 5G network to Moree, New South Wales",
+      "summary": "Optus' 5G coverage now reaches 94.5 percent of country's population",
+      "url": "https://www.datacenterdynamics.com/en/news/australias-optus-expands-5g-network-to-moree-new-south-wales/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-09-23T12:00:37+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "e2f050a8da4a",
+      "title": "Meta signs 144MW solar PPA with Apex in Texas",
+      "summary": "Seventh agreement between the two companies",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-signs-144mw-solar-ppa-with-apex-in-texas/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-09-23T11:42:00+00:00",
       "tags": [
         "energy_policy"
       ],
@@ -39,9 +87,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "a4d4065a37a3",
-      "title": "AirTrunk, CDC call for national data centre rules with greater accountability - W.Media",
-      "summary": "AirTrunk, CDC call for national data centre rules with greater accountability&nbsp;&nbsp;W.Media",
+      "id": "d73e8243e9ac",
+      "title": "AirTrunk, CDC call for national data centre rules with greater accountability - w.media",
+      "summary": "AirTrunk, CDC call for national data centre rules with greater accountability&nbsp;&nbsp;w.media",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFVheEw5MTVTVUJPMDZJYlRyZ1FoaHBIbjk3NXJwa1Q5SVpXbkNWSXhtXzdEam9WSDVRd3dxc0w4ekNoMWFMRE16UXFDRVZSM3UxYlNldTl4SDZGbnltU05KM0RvSFNxc0s2dlhuR1d4NEMwODVjLXA2ZER3ZkdQT1JRd2dUMVVJUWZmaE1jNzN0SkZ6b1BKag?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-09-21T10:34:00+00:00",
@@ -150,6 +198,18 @@
       "relevance_score": 0.3
     },
     {
+      "id": "2898927a5748",
+      "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center - HPCwire",
+      "summary": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center&nbsp;&nbsp;HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGxVREt4X2kxX0g4RUxFMkxIT05kVVBpYVVNckZUbl93aDVJY0NwTXNxdjZ4QldIVllWRFBTa1FlMkRjLV9PaDhoemw0aEs1ZUZOVTg5S2RyX24tTWtmb3djQnREWWFRTE1zb2xfTWtMeVhGb2ZvaHRFRHNnMFpSQ0kySmoybF9QVjJkc3h3R2NEMktRS2tIWk4xbHV2dlhRcXdUbw?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-08-31T22:19:06+00:00",
+      "tags": [
+        "equinix"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "a58b73b0b6af",
       "title": "Diraq to Deploy Eight-Qubit Silicon Quantum Computer at Equinix Sydney Data Center - Quantum Computing Report",
       "summary": "Diraq to Deploy Eight-Qubit Silicon Quantum Computer at Equinix Sydney Data Center&nbsp;&nbsp;Quantum Computing Report",
@@ -237,9 +297,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "b2126ac31d7f",
-      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - smh.com.au",
-      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;smh.com.au",
+      "id": "7af7c3ead7c9",
+      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - SMH.com.au",
+      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRm9RcjFISC1MZHNtQnBOQ2hUUzVVM25DYmpYcF9taFU3MUc2VFFCb09qU2lfVkMxc0ZpVXBleVhCY0xGV3ZHVkF1RkpkWlI0TFQzejhjcGpOYkItekhURFZzUnVnVC1vb2xSVC1SUkx1c3hLTlRiNVU3UzJnRlFPT2hLTEhvUnRkMDROcWxsLTk0Uzc1RG5udUk1Mk5EU3pZb0JYLWlUejlBMjY5RE1hdTRWLVJFUlhDTEpmV2NjcHlWSXFGdHlONjlnaUVlMC1YOXJMbVFpaHhjM1FvSGlr?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-13T07:00:00+00:00",
@@ -286,9 +346,22 @@
       "relevance_score": 0.1
     },
     {
-      "id": "4b0ce4c14210",
-      "title": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables - PV Tech",
-      "summary": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables&nbsp;&nbsp;PV Tech",
+      "id": "34552f031df1",
+      "title": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion - World Construction Network",
+      "summary": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion&nbsp;&nbsp;World Construction Network",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcndGZW5ncmhOYnppaUdlc3NBUDNiUWJzWUpVemY2VWF1OFJRdmtXM1dhS0R0aWdVQkdZMzB1dVlyaWROemJjVW83WmV1eXVYc2tYd3F0ZTZQc2s2ZmxHZjFzREJXLVE4UlBuM0xuaXFjcjk4VTZSUkNwaHk0TkxTTTZNNlRVQmNQ?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
+    {
+      "id": "4e3dc2e9b65a",
+      "title": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables - pv-tech.org",
+      "summary": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables&nbsp;&nbsp;pv-tech.org",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRVBQcWlLNHFFVU5nVEs3LWhvNlNHQzFzSGVSVTF5bWY3eUswN29vQXlCeXJvbUxBc09TNHU0YUt4aTR3WTNHVXZ6dS1aWkdNSE9weGZibWZUQzh3bHlZWUxKZklOS2lMUlBkRko5TG1PVXZkamY4M1I0UFI4WmV1d0VLdzBySnZ0dkFlUk1LZDdhWTFaRmtXYlRfQW9LeElybDJNWkRUMzBISHZZUGZhbFpsTG5NcThWSzhvcGkyaHVhdWtfR0xJMzVUOWViQkpISk0zakNYZw?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-31T07:00:00+00:00",
@@ -296,6 +369,19 @@
         "energy_policy"
       ],
       "relevance_score": 0.1
+    },
+    {
+      "id": "20974a6d51e4",
+      "title": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion - World Construction Network",
+      "summary": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion&nbsp;&nbsp;World Construction Network",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcndGZW5ncmhOYnppaUdlc3NBUDNiUWJzWUpVemY2VWF1OFJRdmtXM1dhS0R0aWdVQkdZMzB1dVlyaWROemJjVW83WmV1eXVYc2tYd3F0ZTZQc2s2ZmxHZjFzREJXLVE4UlBuM0xuaXFjcjk4VTZSUkNwaHk0TkxTTTZNNlRVQmNQ?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
     },
     {
       "id": "286b649c0d60",
@@ -579,9 +665,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "ff228a05e5db",
-      "title": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock? - kalkinemedia.com",
-      "summary": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock?&nbsp;&nbsp;kalkinemedia.com",
+      "id": "56c417852e9c",
+      "title": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock? - Kalkine Media",
+      "summary": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock?&nbsp;&nbsp;Kalkine Media",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObTVoc1JQSUZkOXEzVW84bHBJakJFYlVkMnNvNTZ6SEN2QUVXR28zYlJCZkd4MnZDaU1ram15Q1l3M1Q4VnhXNUR5d1VoY3Q3NkVoVEZvQldQWC0yUy05VG1QcWVXeW12Vk5MR1NSNGlMR2ZKOUVmYmlQZG1CTk1ISndHWGM2em82S1Fic2djSWx6clFWNnJyWVF1V3dvUTJGYlhCRXYzOVNGWWtiSzJ0d0VxLVVGbXhGbXpnUkI3ZW84UUh3OGc?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-08T07:00:00+00:00",
@@ -637,6 +723,30 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "2525239a5d34",
+      "title": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years - The Straits Times",
+      "summary": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years&nbsp;&nbsp;The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1NtLWs3QmVIVXItZkRleFI2Q2ZFY0dxMG4zemYyQXRzRkxhcjF2NXNmallDWjhjTnhQb1lZekprd0QwaDZiaWFYM25Vd0V1WjViemxpYnY2b05IZDVRbDZGY2hZNDBBaVdmUlVPa0k0U0hxQ2hwTHl2TVdDcFJXVWdOVTJpTWVINzRmaVFZbTd6cVBNdTB0c05xRkZQd0tySGMyZ2V0U295UGpEYmw3aGxDNjN1NHdCR1JiNHhGenVSWEtaUnZNcEhZQVJUYnVq?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-06-30T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "d32f2ea7047b",
+      "title": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years - The Business Times",
+      "summary": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years&nbsp;&nbsp;The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVl81aDFEMGJhS01fb2Zjcm9oSVdNNkZrYWpvOFlGU0FXc3lKVEpkLWstR1FReGZoLXQ5WG9oZVk4alo2TWNqY2RjRTNRQ2VtWGpSOUhZaHJnU1ZyMXpfdzRkanFYd1F4bTVqR29BeW5sc3I1Sm5hV3hBcndLLXM5dE1xZEhiQ1BoYUM2LTdIY1dZRmtXV09jS2tCeVdSamhZZzRFZVMtTWc2WGdIZWhZaXFTMldPUVU?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-06-29T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
     }
   ]
 }
