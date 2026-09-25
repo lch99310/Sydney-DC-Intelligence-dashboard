@@ -1,73 +1,25 @@
 {
-  "last_updated": "2026-09-24T11:31:18.017466+00:00",
+  "last_updated": "2026-09-25T11:37:19.310133+00:00",
   "items": [
     {
-      "id": "e37175d096e8",
-      "title": "Victoria, Australia, proposes rules requiring data centers to secure own renewable energy supply",
-      "summary": "Alongside several other provisions to prevent cost shifting and excessive water use",
-      "url": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/",
+      "id": "a4233adad7fa",
+      "title": "DOE unveils $1.9bn in funding for 31 grid upgrade projects to speed data center connections",
+      "summary": "Expected to unlock 23GW of additional capacity on the grid",
+      "url": "https://www.datacenterdynamics.com/en/news/doe-unveils-19bn-in-funding-for-31-grid-upgrade-projects-to-speed-data-center-connections/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-09-24T10:46:00+00:00",
+      "published_at": "2026-09-25T09:35:00+00:00",
       "tags": [
         "energy_policy"
       ],
       "relevance_score": 0.1
     },
     {
-      "id": "4f4ae5955b0f",
-      "title": "Australia\u2019s data center guidelines lay the platform for new good grid citizens",
-      "summary": "How can big energy consumers make a greater contribution to energy systems and the communities they serve?",
-      "url": "https://www.datacenterdynamics.com/en/opinions/australias-data-center-guidelines-lay-the-platform-for-new-good-grid-citizens/",
+      "id": "77a06c41ce64",
+      "title": "Solid oxide fuel cells enabling growth in a power-constrained world",
+      "summary": "How solid oxide fuel cells are offering a scalable route to reliable, on-site power as grid constraints reshape data center growth",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/solid-oxide-fuel-cells-enabling-growth-in-a-power-constrained-world/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-09-24T00:00:27+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "5bbbe8ec6359",
-      "title": "Australian Senate calls for nationalized Triple Zero service following several high-profile outages",
-      "summary": "Telstra operates the system that connects Australian phone calls to 000",
-      "url": "https://www.datacenterdynamics.com/en/news/australian-senate-calls-for-nationalized-triple-zero-service-following-several-high-profile-outages/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-09-23T16:10:51+00:00",
-      "tags": [
-        "telstra"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "aa58a29b10c6",
-      "title": "The renewable energy deal that looks cheap on paper can leave data centers most exposed",
-      "summary": "New analysis shows the best-matched clean power portfolio is also the strongest hedge against price shocks",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-renewable-energy-deal-that-looks-cheap-on-paper-can-leave-data-centers-most-exposed/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-09-23T16:05:36+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "49d6498b92bf",
-      "title": "Australia's Optus expands 5G network to Moree, New South Wales",
-      "summary": "Optus' 5G coverage now reaches 94.5 percent of country's population",
-      "url": "https://www.datacenterdynamics.com/en/news/australias-optus-expands-5g-network-to-moree-new-south-wales/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-09-23T12:00:37+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "e2f050a8da4a",
-      "title": "Meta signs 144MW solar PPA with Apex in Texas",
-      "summary": "Seventh agreement between the two companies",
-      "url": "https://www.datacenterdynamics.com/en/news/meta-signs-144mw-solar-ppa-with-apex-in-texas/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-09-23T11:42:00+00:00",
+      "published_at": "2026-09-25T07:25:13+00:00",
       "tags": [
         "energy_policy"
       ],
@@ -105,24 +57,12 @@
       "summary": "Emergence Quantum partners with AirTrunk to advance cryogenic data centres&nbsp;&nbsp;The University of Sydney",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEVIbFNMM0JaNl9idmEwcUVNQUZtXy1jcE1yMEdpbVRac1JNLUc2elVHc2QzbnUxdzZkNzRxOVZRSExrU0RMdFkwemM4UnZlbjU4ZmhMd1UyMVBacUhOVjZHcHRjdHZvZXpCM0E0Q25TZEo3RWxIUkYyMVBGSTE1cTctLUJpWUg0YThJWmE1SXd4U1lfR3RrSGZKaHF4anhEelJJeHlkX2djczFGLTVHUDVCSFY4U1V6RUE?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-09-15T07:27:29+00:00",
+      "published_at": "2026-09-15T07:00:00+00:00",
       "tags": [
         "airtrunk",
         "nsw"
       ],
       "relevance_score": 0.5
-    },
-    {
-      "id": "32cd83467170",
-      "title": "Don\u2019t call it a backlash, AirTrunk\u2019s been building data centres for years - Capital Brief",
-      "summary": "Don\u2019t call it a backlash, AirTrunk\u2019s been building data centres for years&nbsp;&nbsp;Capital Brief",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQUZPTVFTb095SXJzaGJYQU9EMGxrSkZmR3J4M3dzOVVqLVNiSWpjc2l3aHNrRHpEaE51WTBocFhLaXhqdGM2eTNjeU5GX19VdFQ1ZDZGZ2RseGFMOG5CSzZGQWZnNktpaGg1VS14OHl2MDgxTUZKSEJjTTlxemw0cUg3WUFIdm5OZEtGZTB0dmF6NHZfaDlLeWdQQlhTdERPMjRBc1pCU0NTbjNhYTlUVHhPMFhkSkFRUWlqMlRqTEozeWlrQ0hmcHBuZ0FDQTlaYjhTa2gtZzdvWTdkclE?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "4f49408bc8b6",
@@ -271,6 +211,32 @@
       "relevance_score": 0.2
     },
     {
+      "id": "071d7c99f624",
+      "title": "Australian data centre financing models: AirTrunk and NEXTDC's path to platform-scale capital - Dentons",
+      "summary": "Australian data centre financing models: AirTrunk and NEXTDC's path to platform-scale capital&nbsp;&nbsp;Dentons",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQVJqdzhTVDJ2cE52eXNhZUpCWlRlNFg4dHhPT3dNOXZReTNuVUxGRVdxaEZxZ0xyMmtQYW5XVUwzSHliU0VYVVdPYndaeGZ2T2ZkWmlNTElDeFZSMER3RGNlUEhWc1p0MXlOc01TT1hsLV9iZ3FmaXRXNDd4YjIzR0o3R1pzLUN2Nl93SGZpYkwxZXZ1VzNUandJaERyVHlKS20xZmRwV1VQeE9GS3FVSTdvdmF5bWEwbkxzVjU2SQ?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nextdc"
+      ],
+      "relevance_score": 0.6
+    },
+    {
+      "id": "549adba52fe8",
+      "title": "Australian data centre financing models: AirTrunk and NEXTDC's path to platform-scale capital - Dentons",
+      "summary": "Australian data centre financing models: AirTrunk and NEXTDC's path to platform-scale capital&nbsp;&nbsp;Dentons",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQVJqdzhTVDJ2cE52eXNhZUpCWlRlNFg4dHhPT3dNOXZReTNuVUxGRVdxaEZxZ0xyMmtQYW5XVUwzSHliU0VYVVdPYndaeGZ2T2ZkWmlNTElDeFZSMER3RGNlUEhWc1p0MXlOc01TT1hsLV9iZ3FmaXRXNDd4YjIzR0o3R1pzLUN2Nl93SGZpYkwxZXZ1VzNUandJaERyVHlKS20xZmRwV1VQeE9GS3FVSTdvdmF5bWEwbkxzVjU2SQ?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nextdc"
+      ],
+      "relevance_score": 0.6
+    },
+    {
       "id": "d8902f2600d4",
       "title": "Australian data centre financing models: comparing AirTrunk, NEXTDC, CDC and Macquarie Technology Group - Dentons",
       "summary": "Australian data centre financing models: comparing AirTrunk, NEXTDC, CDC and Macquarie Technology Group&nbsp;&nbsp;Dentons",
@@ -285,9 +251,9 @@
       "relevance_score": 0.9
     },
     {
-      "id": "776a4234cb6a",
-      "title": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash - Daily Mail",
-      "summary": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash&nbsp;&nbsp;Daily Mail",
+      "id": "a00fb397695c",
+      "title": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash - dailymail.com",
+      "summary": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash&nbsp;&nbsp;dailymail.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ05CNElWRlZkZlRmMmNsSW9Eem1RZ05VeGFDLVdYbV9BYS12UG9tUmI0aGFMYVZuN0NNYVNHNnNQRlY1NnV0cGJoQjBOZVotUjB3a1RtTzgzRDFpcWdjblgySFFYUkNTX0ltZ2tWaklyUnZ2bHlEMTA1UW9vb0x2Rnl4UXluV01jc1EyNWtSVkbSAZYBQVVfeXFMTmpZUW53enplNk9mWVpZelZaMVpVajlvZFNJYi1ENXJ2WHM2SmtzRWNwUnEzT0E4cldXdUpnajZOYlpYWi1SWXRFa0NXYXVCdVQ5ek9aQ3lpZUdQUEZ4cHQ0a1FNd3R6QmlPTG5pNzR5OGxJV3l0d3p4Ni1pY2hNazA3YUlDbHFHVG0tSkI0aGhubkJhVFZR?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-16T07:00:00+00:00",
@@ -307,6 +273,19 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "3c65e6b05cb4",
+      "title": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access - PV Tech",
+      "summary": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access&nbsp;&nbsp;PV Tech",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamNBcUp0eWY3QnhjRV9BTWtsb2lHMXZsdHA0LXNEcWtNZUJLY056M1l2cXhqblVEZTNsVElxbE9QVENwSmNiSkQ2MFpTLUI2Q3hLRTJfcF8tSWFYQVRKWDhZR1RpbWhOR19WZXllakpUV2xRZS0yNF9ESGkxc3FpaUhkMjM2Q0VocFRPcVN2VlZIQVgtTl9YYndaUGRXMTFBc1RZQVlfQ3ZSSzdZTEQyVjFXQ3M0MzJLQTNnTEREa01fVTdsOENyaVVBN3o5LUgyV3c?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-08-07T07:00:00+00:00",
+      "tags": [
+        "energy_policy",
+        "nsw"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "e8ba1595abc3",
@@ -359,9 +338,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "4e3dc2e9b65a",
-      "title": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables - pv-tech.org",
-      "summary": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables&nbsp;&nbsp;pv-tech.org",
+      "id": "4b0ce4c14210",
+      "title": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables - PV Tech",
+      "summary": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables&nbsp;&nbsp;PV Tech",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRVBQcWlLNHFFVU5nVEs3LWhvNlNHQzFzSGVSVTF5bWY3eUswN29vQXlCeXJvbUxBc09TNHU0YUt4aTR3WTNHVXZ6dS1aWkdNSE9weGZibWZUQzh3bHlZWUxKZklOS2lMUlBkRko5TG1PVXZkamY4M1I0UFI4WmV1d0VLdzBySnZ0dkFlUk1LZDdhWTFaRmtXYlRfQW9LeElybDJNWkRUMzBISHZZUGZhbFpsTG5NcThWSzhvcGkyaHVhdWtfR0xJMzVUOWViQkpISk0zakNYZw?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-31T07:00:00+00:00",
@@ -470,9 +449,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "8fbfba4f80b4",
-      "title": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns - Capital Brief",
-      "summary": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns&nbsp;&nbsp;Capital Brief",
+      "id": "f54b53405174",
+      "title": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns - capitalbrief.com",
+      "summary": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns&nbsp;&nbsp;capitalbrief.com",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRkZEX0Z3Y2N0Nlp6S0U3ZkpYS240cnNnTTBnX1E5REg0YWpNODYyTFZIQ3ZLbjI0VncyM2pTaGF4cFJnM2VqamxrYS11TEMyV09jUnpOZ0MySVN1OE5ERE55UFRQYVhiVE1jWTR1X0NXT0xQQjlubHgyNThvbVh1aE94ZXowX0szQ0dUVmtZdXNmMF8wYjlodTJqaDNPUndUUndlMGxKQUZPWXVrc1VjWXBlZ2RmZ3JwSTNWVDZhd05ldl9HX1g1QWNEWGRCdlJEdm43dFdGSmJtTHhjWmZKQ3hRc1V2OGM?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-23T07:00:00+00:00",
@@ -723,30 +702,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "2525239a5d34",
-      "title": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years - The Straits Times",
-      "summary": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years&nbsp;&nbsp;The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1NtLWs3QmVIVXItZkRleFI2Q2ZFY0dxMG4zemYyQXRzRkxhcjF2NXNmallDWjhjTnhQb1lZekprd0QwaDZiaWFYM25Vd0V1WjViemxpYnY2b05IZDVRbDZGY2hZNDBBaVdmUlVPa0k0U0hxQ2hwTHl2TVdDcFJXVWdOVTJpTWVINzRmaVFZbTd6cVBNdTB0c05xRkZQd0tySGMyZ2V0U295UGpEYmw3aGxDNjN1NHdCR1JiNHhGenVSWEtaUnZNcEhZQVJUYnVq?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-06-30T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "d32f2ea7047b",
-      "title": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years - The Business Times",
-      "summary": "AirTrunk said to be near confidential filing for biggest Singapore IPO in years&nbsp;&nbsp;The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVl81aDFEMGJhS01fb2Zjcm9oSVdNNkZrYWpvOFlGU0FXc3lKVEpkLWstR1FReGZoLXQ5WG9oZVk4alo2TWNqY2RjRTNRQ2VtWGpSOUhZaHJnU1ZyMXpfdzRkanFYd1F4bTVqR29BeW5sc3I1Sm5hV3hBcndLLXM5dE1xZEhiQ1BoYUM2LTdIY1dZRmtXV09jS2tCeVdSamhZZzRFZVMtTWc2WGdIZWhZaXFTMldPUVU?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-06-29T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
     }
   ]
 }
