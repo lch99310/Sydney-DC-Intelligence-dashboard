@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T11:11:38.152102+00:00",
+  "last_updated": "2026-09-27T11:50:07.488599+00:00",
   "items": [
     {
       "id": "a4233adad7fa",
@@ -14,21 +14,9 @@
       "relevance_score": 0.1
     },
     {
-      "id": "77a06c41ce64",
-      "title": "Solid oxide fuel cells enabling growth in a power-constrained world",
-      "summary": "How solid oxide fuel cells are offering a scalable route to reliable, on-site power as grid constraints reshape data center growth",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/solid-oxide-fuel-cells-enabling-growth-in-a-power-constrained-world/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-09-25T07:25:13+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "ca3ef9d7e2b7",
-      "title": "AirTrunk gains access to rival\u2019s files over $1.1b data centre dispute - AFR",
-      "summary": "AirTrunk gains access to rival\u2019s files over $1.1b data centre dispute&nbsp;&nbsp;AFR",
+      "id": "e6ed00afa0d2",
+      "title": "AirTrunk gains access to rival\u2019s files over $1.1b data centre dispute - afr.com",
+      "summary": "AirTrunk gains access to rival\u2019s files over $1.1b data centre dispute&nbsp;&nbsp;afr.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdW5lY2lIZUV5SmZ2Q3BsLWRhdXJzRlhxbUg5cjh5OTdfREJBNi1USTM2bEhvQjJnOWRpcXpRX2JXUldiWTZMRzFwWlAxTFZ1aVB5enA5UjV6eVQyeEN4aVBldkJyOThER3hIdzU4amNFSk9JakE0bWVGdThfOHhLS1oxdTd5WGFsZjc0bXJZenFXWGFsU003blVRSm5ncnpnbnZLY0RTRjVETDlnb2w4Nk5mcXNYZw?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-09-25T04:34:00+00:00",
@@ -38,9 +26,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "0da1d36f238a",
-      "title": "Anthropic negotiates with AirTrunk\u2019s regional NSW data centre - AFR",
-      "summary": "Anthropic negotiates with AirTrunk\u2019s regional NSW data centre&nbsp;&nbsp;AFR",
+      "id": "10ae4f614b57",
+      "title": "Anthropic negotiates with AirTrunk\u2019s regional NSW data centre - afr.com",
+      "summary": "Anthropic negotiates with AirTrunk\u2019s regional NSW data centre&nbsp;&nbsp;afr.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2F6S0xhNG80Ml8zbW5yUWhSak5LS3hRdnQ1MGNnWC1TRVl5T3hfUk51RlMyazh3MmVtYm8xR21abjh5X09hSWtkS1R6aU1QQVZwb29MeFg4Wm1ELWVtU21UUVlCdG9fUnAxQ09hNHBHWklJOWdvc0k1OU1ZWEowdDdkUHF4NXZqLW9HRk9lejFoVVA3MHRrZ2NiaDF6UEpSMHRGdm11cW1ONmM3WXc?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-09-22T07:51:00+00:00",
@@ -64,9 +52,9 @@
       "relevance_score": 0.6
     },
     {
-      "id": "816ae2553885",
-      "title": "Emergence Quantum partners with AirTrunk to advance cryogenic data centres - The University of Sydney",
-      "summary": "Emergence Quantum partners with AirTrunk to advance cryogenic data centres&nbsp;&nbsp;The University of Sydney",
+      "id": "2fa172978d04",
+      "title": "Emergence Quantum partners with AirTrunk to advance cryogenic data centres - sydney.edu.au",
+      "summary": "Emergence Quantum partners with AirTrunk to advance cryogenic data centres&nbsp;&nbsp;sydney.edu.au",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEVIbFNMM0JaNl9idmEwcUVNQUZtXy1jcE1yMEdpbVRac1JNLUc2elVHc2QzbnUxdzZkNzRxOVZRSExrU0RMdFkwemM4UnZlbjU4ZmhMd1UyMVBacUhOVjZHcHRjdHZvZXpCM0E0Q25TZEo3RWxIUkYyMVBGSTE1cTctLUJpWUg0YThJWmE1SXd4U1lfR3RrSGZKaHF4anhEelJJeHlkX2djczFGLTVHUDVCSFY4U1V6RUE?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-09-15T07:00:00+00:00",
@@ -89,22 +77,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "4f49408bc8b6",
-      "title": "$2.8bn Sydney Data Center Project Gains AI Boost as AirTrunk Joins Nvidia\u2019s 2GW Australia Buildout - Construction Review",
-      "summary": "$2.8bn Sydney Data Center Project Gains AI Boost as AirTrunk Joins Nvidia\u2019s 2GW Australia Buildout&nbsp;&nbsp;Construction Review",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNjAyVlpuOGlxLXdCYlJpUWstODM4aklDOU5pWENEbWhEVTBpTVdYX1pOSjNFRXdHeHd1akxMZy1mTHdYZ3pFMm5jV2tNbURWRGVINFB5Y3l2RzNUaEVQeVNXMmVjenplRmNHdlVqRmZUWGtMLTNpN0JMQmlUd0tSclRaVldjMTJrTjI5RnNwd3RITjhkNXk1azBOTVpTVEhDMTB0bkNmemswa3J3Rm5RXy1FZlJtQmpxVVAydFFNUnhQcTdBd2NZa2d3?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
-      "id": "75607818b05f",
-      "title": "Australian data centre operator NEXTDC to raise $795 mln for AI infrastructure - reuters.com",
-      "summary": "Australian data centre operator NEXTDC to raise $795 mln for AI infrastructure&nbsp;&nbsp;reuters.com",
+      "id": "d2abd203d669",
+      "title": "Australian data centre operator NEXTDC to raise $795 mln for AI infrastructure - Reuters",
+      "summary": "Australian data centre operator NEXTDC to raise $795 mln for AI infrastructure&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdll4N0dhM2RGWm1WemdORWtKQjNLQi0zb3Bzc1p4bW9fbXhiZ1Axckt4SkhsUkpNcVlWc2c3ekh6SVVqREFfdWdiQ2wzUjR6VDBIR29VQUdNWUl4MEZFNVRCdFQ4VWxuTmQzWVRxV3NXa3RBaFVNU0RzWFctMVU3N2pVa2VtRGJqMzJCc2pkRlFDYnQ3QXlUWm4ycjNieWdDM3FSckJKUldQWjlIcWZzUmR6dzhOZ2hhM3V0U2d2Y2VoN1k?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-09-09T07:00:00+00:00",
@@ -124,18 +99,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "8e376a6c0cd7",
-      "title": "NextDC taps the market to fund record data centre build-out - app.dealroom.co",
-      "summary": "NextDC taps the market to fund record data centre build-out&nbsp;&nbsp;app.dealroom.co",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUVVSbUlTSzZsT3hiZjVtdFRJODJNQ3hpcXNTWVVnUU05OFZHanItSTk2cGpDSVAzeUUyb0xHOThfVTVnTGFfcUdZWGNKeDZsZk9IbGlCRHBoYUx1ckZvZGJUUVVVVzFXYmZLaDBVZll0UWV3RU5wMHVRMVMyR2dCcUFzbE4wVGlUOXZZY0JkeklFUzV6VGlJTQ?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-09-03T13:52:39+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "99e23c894009",
@@ -162,9 +125,21 @@
       "relevance_score": 0.3
     },
     {
-      "id": "a58b73b0b6af",
-      "title": "Diraq to Deploy Eight-Qubit Silicon Quantum Computer at Equinix Sydney Data Center - Quantum Computing Report",
-      "summary": "Diraq to Deploy Eight-Qubit Silicon Quantum Computer at Equinix Sydney Data Center&nbsp;&nbsp;Quantum Computing Report",
+      "id": "80cffde11e0f",
+      "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center - hpcwire.com",
+      "summary": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center&nbsp;&nbsp;hpcwire.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGxVREt4X2kxX0g4RUxFMkxIT05kVVBpYVVNckZUbl93aDVJY0NwTXNxdjZ4QldIVllWRFBTa1FlMkRjLV9PaDhoemw0aEs1ZUZOVTg5S2RyX24tTWtmb3djQnREWWFRTE1zb2xfTWtMeVhGb2ZvaHRFRHNnMFpSQ0kySmoybF9QVjJkc3h3R2NEMktRS2tIWk4xbHV2dlhRcXdUbw?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-08-31T22:19:06+00:00",
+      "tags": [
+        "equinix"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "5fcbfafec58c",
+      "title": "Diraq to Deploy Eight-Qubit Silicon Quantum Computer at Equinix Sydney Data Center - quantumcomputingreport.com",
+      "summary": "Diraq to Deploy Eight-Qubit Silicon Quantum Computer at Equinix Sydney Data Center&nbsp;&nbsp;quantumcomputingreport.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVjRONUd2VUxmTEVJNHBWc09wcl9Nc1lSS1Jnd2lFVEZOZ0hfQjJCX1ZXNks4U3VENzFMdjhjYy1zYUJUVU5oRlowLTlLSFZDQXRnTzU4Y2dON3d2eWpxTnpKZGFlaW5Rdy1xYmhOSTBudElMUlBJanBPVmpXMlN5OFR4VENyN1hBaVprdjEzUm1DczEyODc1dG5lUld0cEtTVWJKdW02OWpzUk5EdU5FMzQ3Z2xIV2ZocnfSAb8BQVVfeXFMTmxqd043LU5KcTBoanVNb3NwWE5iTHpXUFh2VVN4ME1DUjI4cUg1d2hGTGw0MDJZWEVDYUNHWms0TnppLU8ta0dOSWgxMzFETTNxS0xEMWpmWDJCdGpfNHJfaWVUWHBvSTg0Mm9RaVlpdTI2ZTZwREplWkV6S1ZidG4zVWVHR3lXUWtLcE1QM2M5eEF1WndXaDJ1N1JxRnIzbHlvNWNqX3kzTG1RUjZMX2FTNktaaC1SeUlzd1dYdkU?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-08-31T07:00:00+00:00",
@@ -175,9 +150,21 @@
       "relevance_score": 0.5
     },
     {
-      "id": "70e6150110c4",
-      "title": "Australia data centre firm NextDC reports rising water, energy use with profit beat - reuters.com",
-      "summary": "Australia data centre firm NextDC reports rising water, energy use with profit beat&nbsp;&nbsp;reuters.com",
+      "id": "29047d4f5537",
+      "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center - GlobeNewswire",
+      "summary": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center&nbsp;&nbsp;GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZll1cmVZMUFWVzhyVllxejBpUXFkdHhPaXVCZFNzbkZuZUFFd0NPbl9WcTc2Smc3X1NrTkk3T21ydl9STGZGREJpTkQ2YlZqUlFNcmNsYmVQQnU0UVVQV2FUcEpsbzlfQ3BtaUEtMVV3bjVNOXZxV1lCSG5WQlZ4NXQxbEtDUm5aS25paXFWRDVLTWtSYmtyTDFKUkllOWlXOGhlZ3ZmVmNXRGhYYW1FNlpJcjdWczJfNVpvVGNsc1hISEJIMHFLNlJGSG9HeXJFOGc?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "tags": [
+        "equinix"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "070676389005",
+      "title": "Australia data centre firm NextDC reports rising water, energy use with profit beat - Reuters",
+      "summary": "Australia data centre firm NextDC reports rising water, energy use with profit beat&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON2VBOGx1R1BMUktrMzItSm9tUloxUUFub0pHQnNLU01sOEoxamNlRlNKamFoYkRSVF9sQjVYRjR1T29KanVRMWl2cVM3bE02NzVJdWF0Q1NZWTJLQnZMazZmamFWcmpDSnZzdDdFZXM4OFJGTnA4ZTBTbERqWmJ5dmlfcUVQMnN2ZVhpM2RhY0pyNDNoYlZxY2NYQ1hRQTkwRVExbFVtdk1mZkJQaGU5Ni10VVFyc2pMYktXVC11QTJ5Z3ZXRTV2ZA?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-27T07:00:00+00:00",
@@ -225,9 +212,9 @@
       "relevance_score": 0.6
     },
     {
-      "id": "a00fb397695c",
-      "title": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash - dailymail.com",
-      "summary": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash&nbsp;&nbsp;dailymail.com",
+      "id": "776a4234cb6a",
+      "title": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash - Daily Mail",
+      "summary": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash&nbsp;&nbsp;Daily Mail",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ05CNElWRlZkZlRmMmNsSW9Eem1RZ05VeGFDLVdYbV9BYS12UG9tUmI0aGFMYVZuN0NNYVNHNnNQRlY1NnV0cGJoQjBOZVotUjB3a1RtTzgzRDFpcWdjblgySFFYUkNTX0ltZ2tWaklyUnZ2bHlEMTA1UW9vb0x2Rnl4UXluV01jc1EyNWtSVkbSAZYBQVVfeXFMTmpZUW53enplNk9mWVpZelZaMVpVajlvZFNJYi1ENXJ2WHM2SmtzRWNwUnEzT0E4cldXdUpnajZOYlpYWi1SWXRFa0NXYXVCdVQ5ek9aQ3lpZUdQUEZ4cHQ0a1FNd3R6QmlPTG5pNzR5OGxJV3l0d3p4Ni1pY2hNazA3YUlDbHFHVG0tSkI0aGhubkJhVFZR?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-16T07:00:00+00:00",
@@ -249,9 +236,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "3c65e6b05cb4",
-      "title": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access - PV Tech",
-      "summary": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access&nbsp;&nbsp;PV Tech",
+      "id": "17ead9d44a72",
+      "title": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access - pv-tech.org",
+      "summary": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access&nbsp;&nbsp;pv-tech.org",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamNBcUp0eWY3QnhjRV9BTWtsb2lHMXZsdHA0LXNEcWtNZUJLY056M1l2cXhqblVEZTNsVElxbE9QVENwSmNiSkQ2MFpTLUI2Q3hLRTJfcF8tSWFYQVRKWDhZR1RpbWhOR19WZXllakpUV2xRZS0yNF9ESGkxc3FpaUhkMjM2Q0VocFRPcVN2VlZIQVgtTl9YYndaUGRXMTFBc1RZQVlfQ3ZSSzdZTEQyVjFXQ3M0MzJLQTNnTEREa01fVTdsOENyaVVBN3o5LUgyV3c?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-08-07T07:00:00+00:00",
@@ -299,9 +286,9 @@
       "relevance_score": 0.1
     },
     {
-      "id": "4b0ce4c14210",
-      "title": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables - PV Tech",
-      "summary": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables&nbsp;&nbsp;PV Tech",
+      "id": "4e3dc2e9b65a",
+      "title": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables - pv-tech.org",
+      "summary": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables&nbsp;&nbsp;pv-tech.org",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRVBQcWlLNHFFVU5nVEs3LWhvNlNHQzFzSGVSVTF5bWY3eUswN29vQXlCeXJvbUxBc09TNHU0YUt4aTR3WTNHVXZ6dS1aWkdNSE9weGZibWZUQzh3bHlZWUxKZklOS2lMUlBkRko5TG1PVXZkamY4M1I0UFI4WmV1d0VLdzBySnZ0dkFlUk1LZDdhWTFaRmtXYlRfQW9LeElybDJNWkRUMzBISHZZUGZhbFpsTG5NcThWSzhvcGkyaHVhdWtfR0xJMzVUOWViQkpISk0zakNYZw?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-31T07:00:00+00:00",
@@ -309,6 +296,19 @@
         "energy_policy"
       ],
       "relevance_score": 0.1
+    },
+    {
+      "id": "a858e08a861d",
+      "title": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion - Yahoo Finance",
+      "summary": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion&nbsp;&nbsp;Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUmcxNG5qcWJLTVVnc2tUSXd3RXRPZ2FLcVVlWlpHOWJfOHliajJoWWVxYzdMbGhHSzRldkVPLTlXRVBJMm1pc0VQcXB4MHZQR3V0WkhVSGdHejJpLURYdTJCWlBQSDFyb0xHY1RybHFyWU1IOXhObC1YNlhTOXJmMzRtWTdNbnVSS28zM0pVWEtfekk?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
     },
     {
       "id": "286b649c0d60",
@@ -347,9 +347,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "6c4bb8a1e2cd",
-      "title": "Data centres not a blank cheque for renewables: AirTrunk - AFR",
-      "summary": "Data centres not a blank cheque for renewables: AirTrunk&nbsp;&nbsp;AFR",
+      "id": "c870f007c0f9",
+      "title": "Data centres not a blank cheque for renewables: AirTrunk - afr.com",
+      "summary": "Data centres not a blank cheque for renewables: AirTrunk&nbsp;&nbsp;afr.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbFpsbC11QkVSRG1ySTZra2xRWmx5TE5TRk5NSnhtQ1B3NjFucDF4WjhNSEU5NmZwcnF3YzdrQUdZRHNmYVJjSlVWYjBiTTV5b3puLUJ6aElzMk5LZDNXbS14M3NFOWFCcDZOYTNuVHc5SWdFRUp1LXRBamJiU0xWcjd4Tk91Z1d2MzJtTzloWkVudEd2R28zT01pSmVoSzlhWC1jWXVRWFRVYWJT?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-28T07:00:00+00:00",
@@ -409,9 +409,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "b813ed174378",
-      "title": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system - mezha.net",
-      "summary": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system&nbsp;&nbsp;mezha.net",
+      "id": "983539394e3f",
+      "title": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "summary": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system&nbsp;&nbsp;\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jZzNrRkhZejdJcXk0Y3YyY3RQbFpHQXVjZHlnejFkWjM3bHYwNmlzc3MzVUsxVWZVNVE3V2FYZlR2eldRdTVvZnBtNGpGNG5KVkwxX2lpaVNOeTJrRlZjWmV0VkEyMzJicjZQTDJR?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-23T07:00:00+00:00",
@@ -434,9 +434,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "fc92d5ecbdc9",
-      "title": "In Pictures: iTnews State of Data & AI Launch Sydney - itnews.com.au",
-      "summary": "In Pictures: iTnews State of Data & AI Launch Sydney&nbsp;&nbsp;itnews.com.au",
+      "id": "58c5dbe1b62d",
+      "title": "In Pictures: iTnews State of Data & AI Launch Sydney - iTnews",
+      "summary": "In Pictures: iTnews State of Data & AI Launch Sydney&nbsp;&nbsp;iTnews",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVlA1c2lFTnNLaVVKVkNBY0FqSDJ0NDUxcFBGZXctTGJBX2ZrV25aQnpxLTFXUnF5aU5RMGg1ZjYyNnhkV3E0dlU3bWxud0d0eDl4eEFES1RyckhQRVhvWWJIOFlfUTg2eWtsSmZSY0Q2SEt5amV0Ujl0c2IxLVlLTTc0SHBXbjdGZnB6MTJSbk41ZVZ1?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-23T07:00:00+00:00",
@@ -458,9 +458,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "a7e22cdefd4c",
-      "title": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system - mezha.net",
-      "summary": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system&nbsp;&nbsp;mezha.net",
+      "id": "b04918beaf5d",
+      "title": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "summary": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system&nbsp;&nbsp;\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jZzNrRkhZejdJcXk0Y3YyY3RQbFpHQXVjZHlnejFkWjM3bHYwNmlzc3MzVUsxVWZVNVE3V2FYZlR2eldRdTVvZnBtNGpGNG5KVkwxX2lpaVNOeTJrRlZjWmV0VkEyMzJicjZQTDJR?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-07-23T07:00:00+00:00",
@@ -471,21 +471,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "8687641e5eeb",
-      "title": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg - The Edge Malaysia",
-      "summary": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg&nbsp;&nbsp;The Edge Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03VTZPRjNSekpPQkRwclNIRVRXSmpHMXlLMnFmbml5RnJhSElXUDR3d1R2VmhDZFRtNFlEdG0zd1ZyRUVraFZUVUM3bm5ERkRf?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-07-22T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "51a659352f2d",
-      "title": "Inside AirTrunk\u2019s plans to create a $4.4b Singapore-listed giant - AFR",
-      "summary": "Inside AirTrunk\u2019s plans to create a $4.4b Singapore-listed giant&nbsp;&nbsp;AFR",
+      "id": "27b0d27b7a27",
+      "title": "Inside AirTrunk\u2019s plans to create a $4.4b Singapore-listed giant - afr.com",
+      "summary": "Inside AirTrunk\u2019s plans to create a $4.4b Singapore-listed giant&nbsp;&nbsp;afr.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHFVLURwY2I1SFY4alBsWjVWSDNucUdia0tjWEJYb2pYRnZLQ3JKaTcxZy1vWldrTmpSUXBSdEhyMTBadGRPRHU4VmlUVXJZT05WRjZiekFnWGVNVFp3Mk9YS2w3bXdEWFprMXVXZnVCTTBGSlVvWXl4QlozZ1B6U3hBdjVSY3EzbnZBSlVZT0xkQ2VtY3ozRXJEN3ZzcU03eU92Yy16S25fcGR4TnZXMg?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-21T07:00:00+00:00",
@@ -544,18 +532,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "e17aadad6d72",
-      "title": "Macquarie Data Centres to develop 200MW tech centre in Sydney for $168 mn - ET Datacenters",
-      "summary": "Macquarie Data Centres to develop 200MW tech centre in Sydney for $168 mn&nbsp;&nbsp;ET Datacenters",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOY2YxRl9pM2lndUo5azFRREdpNmNELTNYQmw0a2ZyQlZIWTVwRUI1OU0xbGZWTi1TU2NTTHZZa3VQSmVXTUpjQVNtRHhPSG1kaUdRbXhfQmk3NHB6MjhQckJHb3RDcmdLcmNBVmp0VXllT01tYUVJRDRmQmk2ZldNbGlJS2w3UGtaUjBuMU9GRng5a3VTUU9XeHV0X0hMcEc4MWo4aWhGYjRBN0gxM3gweUtmbTNCaDlKTkxGS0Q2b2EzMXpaN2RxaWIyRDhKaGF2Q0Utb1ZEU1JWZWpKdk1LeWhHRGx4dkdLYWpRcFQ3SGY2Z3ZhSzJHU0pEam5STURXQU9mclAxMA?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-07-16T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
       "id": "4b97c4f8d8d6",
       "title": "Australia\u2019s NextDC Upsizes Senior Debt Facilities to $1.6B for AI Data Centre Buildout - mingtiandi.com",
       "summary": "Australia\u2019s NextDC Upsizes Senior Debt Facilities to $1.6B for AI Data Centre Buildout&nbsp;&nbsp;mingtiandi.com",
@@ -580,9 +556,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "0faf41afe1b6",
-      "title": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion - reuters.com",
-      "summary": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion&nbsp;&nbsp;reuters.com",
+      "id": "48c1bd11f3c8",
+      "title": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion - Reuters",
+      "summary": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSzZzZ250MEZjQlQ1N1c3VkxzdmhUbWp0RGY3V0ZQNkIyVTlDU3hwcTJ2c293ak9reXctUVB5bzQwdWQwaTNBTXRNS2R6LS1MeURYcE11eG55d3lGTUNOVGpPVGx1ang2dGwzakpRdzg3Wm8yMEt0VXg4X09PZnZfUkpPdkZLdTNRcGJTeTFnMmNyYUxNdVpnTGh4RkFZanp1bEVKT1VpSkZkTFhBajZ2Mkc1UV8zZVZlUzhGMnNaczNZV3FIWmc?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-09T07:00:00+00:00",
