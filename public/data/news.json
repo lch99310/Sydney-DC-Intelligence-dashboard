@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T12:09:49.469744+00:00",
+  "last_updated": "2026-10-05T14:17:57.729642+00:00",
   "items": [
     {
       "id": "9a6dd5e88236",
@@ -124,19 +124,6 @@
       "relevance_score": 0.5
     },
     {
-      "id": "4f49408bc8b6",
-      "title": "$2.8bn Sydney Data Center Project Gains AI Boost as AirTrunk Joins Nvidia\u2019s 2GW Australia Buildout - Construction Review",
-      "summary": "$2.8bn Sydney Data Center Project Gains AI Boost as AirTrunk Joins Nvidia\u2019s 2GW Australia Buildout&nbsp;&nbsp;Construction Review",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNjAyVlpuOGlxLXdCYlJpUWstODM4aklDOU5pWENEbWhEVTBpTVdYX1pOSjNFRXdHeHd1akxMZy1mTHdYZ3pFMm5jV2tNbURWRGVINFB5Y3l2RzNUaEVQeVNXMmVjenplRmNHdlVqRmZUWGtMLTNpN0JMQmlUd0tSclRaVldjMTJrTjI5RnNwd3RITjhkNXk1azBOTVpTVEhDMTB0bkNmemswa3J3Rm5RXy1FZlJtQmpxVVAydFFNUnhQcTdBd2NZa2d3?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
       "id": "d2abd203d669",
       "title": "Australian data centre operator NEXTDC to raise $795 mln for AI infrastructure - Reuters",
       "summary": "Australian data centre operator NEXTDC to raise $795 mln for AI infrastructure&nbsp;&nbsp;Reuters",
@@ -161,30 +148,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "0c7f0c3e94e2",
-      "title": "Diraq\u2019s Silicon Qubits Move Into An Equinix Data Center - Quantum Zeitgeist",
-      "summary": "Diraq\u2019s Silicon Qubits Move Into An Equinix Data Center&nbsp;&nbsp;Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41UXFZekZJaVVmdmoxdGp1M1cwMFlESXp2ejZMUUoyb09WTzU3S1Ftd0VjNmJZT2dzVU40b04xT1lUeV9BRGhPVlItU09fTjZkYTZMcnItNldoTG9CT2x0ZG9DZHBoRHpRV0xQMlY5ci1Hdw?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-09-01T07:00:00+00:00",
-      "tags": [
-        "equinix"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "fd15cc6a3358",
-      "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center - markets.businessinsider.com",
-      "summary": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center&nbsp;&nbsp;markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVE0UGFhNFo3Q2JJN0tHcXhBeHduUzdkcEg0Ykh6N1pqdXJjUktXUTRsSVVxYzdVZGpWRWJ6Qk5PTXZBQXA0dy1ORlh6Ym1MeXRjTFJqS0lBSXlvQVBGcEJqaUNGbklyOWVpazNPU2Vod3RGcmJJSFBtMXNubHJ1dDdqOTFISXlsRXI5elF1U2Q4WjNBNktzQUt1MUIzUmdVbkQ5WFZBeV9xdWVId1ZEaUZCeEtZSzNXeEU0YWFfZkM?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-08-31T07:00:00+00:00",
-      "tags": [
-        "equinix"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "070676389005",
       "title": "Australia data centre firm NextDC reports rising water, energy use with profit beat - Reuters",
       "summary": "Australia data centre firm NextDC reports rising water, energy use with profit beat&nbsp;&nbsp;Reuters",
@@ -195,6 +158,31 @@
         "nextdc"
       ],
       "relevance_score": 0.3
+    },
+    {
+      "id": "ad7240a15b9b",
+      "title": "Gateway Capital files to build 81MW data center in Sydney, Australia - Data Center Dynamics",
+      "summary": "Gateway Capital files to build 81MW data center in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWxsN0hPWGJrUTR4cS02RkRlNXMxdDVLVXhwMkpPMkFtSmt0M0UzSFFXdmFaNmkwR1laczY2d09qekQ3aHAwTGhjVFVydDlnNUxTUXoydVlnakJDei1LdklKU0RrdXNrS1lzQU4wcXVXT2xINnlxNmRmVzc4amNYN3JEVU1tUVc0cTFHUmpCWWRpdl9zdUYwa0VqaXBwd3A4bUI4Ry1jMDc2LXR2eXRqMQ?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-08-27T07:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "8ea6bd19c8b7",
+      "title": "AirTrunk shrinking footprint of Sydney data centre without reducing capacity - Green Street News",
+      "summary": "AirTrunk shrinking footprint of Sydney data centre without reducing capacity&nbsp;&nbsp;Green Street News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGloc0pzZnNKaExCS1BzbHFVbkdHeVNMenZVRm56SmFTdzFGU3BwaW5WbmpSMERhWDFma0JfOE1NZ1p0Z3RZbi1FQnE0RUtZRTVlUGVtcERyVG9xZzVpUnFmdE9sTzR0d1VnaVRZQWloZkdXNGVwd3ZvdkFoUDhFMktHXzQzSjFLbm05Z0dNakVoYUkybWdpTVJEeXVIN2FScGJnVTBycFlsS0hUcHV1RThiRQ?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
     },
     {
       "id": "d8902f2600d4",
@@ -237,9 +225,9 @@
       "relevance_score": 0.6
     },
     {
-      "id": "5b31304a329c",
-      "title": "Australia\u2019s NSW becomes first state to detail national data centre rules with new framework - PV Tech",
-      "summary": "Australia\u2019s NSW becomes first state to detail national data centre rules with new framework&nbsp;&nbsp;PV Tech",
+      "id": "c44a6b892041",
+      "title": "Australia\u2019s NSW becomes first state to detail national data centre rules with new framework - pv-tech.org",
+      "summary": "Australia\u2019s NSW becomes first state to detail national data centre rules with new framework&nbsp;&nbsp;pv-tech.org",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNakVydHNtRDVDUnhJbjFJa2d5MWVVdU1mMVVmQ294ZG5OVWVYb0FETmFmbjdiVmVtQ1ZSZzROMXc1SVRfZHV6YUtiNnZsbHJlUE5QYkNRb2diOUx4MjJIcm5ZWldLbkJmX0VaYkNtM3RmVDZrUURoRXVhRFdSdjdhcHotVnRuaTRZMmJ4SE93TG1YQnAxZFVDclZremQ3R3lYSldITU1HRzd6UnN6ZmpFZjdwVThzdw?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-08-17T07:00:00+00:00",
@@ -285,21 +273,9 @@
       "relevance_score": 0.2
     },
     {
-      "id": "21432f47f004",
-      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - The Age",
-      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;The Age",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmlQZ2tEcVhDaTVqU09WX0gyay1LWUNUMmhnNFZBNlZmRG1qS2hEbXMya0JpWlhucmpMWHZ5Z29pT2NJZ1pKR3JnWTVIU19ic2lNSW8wRzllYVVKLTc4a0EzSU5IdEFkOHN5NWpicUNSUHlOaUR6ODJzdTVtTkl1TGFZSG9OcEpRc2M5NWVCZGU4ZndUaTloQmZWRldqeVZhQjA2NTNCOGNsa19oX0lHZldYTFdqZlg0Nk16aHM4VUJGNzJlNjRPYmZrSk1nR18wUHRUYzVHTUl3b1VFMk1ScUNzcw?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-08-13T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "3c65e6b05cb4",
-      "title": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access - PV Tech",
-      "summary": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access&nbsp;&nbsp;PV Tech",
+      "id": "17ead9d44a72",
+      "title": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access - pv-tech.org",
+      "summary": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access&nbsp;&nbsp;pv-tech.org",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamNBcUp0eWY3QnhjRV9BTWtsb2lHMXZsdHA0LXNEcWtNZUJLY056M1l2cXhqblVEZTNsVElxbE9QVENwSmNiSkQ2MFpTLUI2Q3hLRTJfcF8tSWFYQVRKWDhZR1RpbWhOR19WZXllakpUV2xRZS0yNF9ESGkxc3FpaUhkMjM2Q0VocFRPcVN2VlZIQVgtTl9YYndaUGRXMTFBc1RZQVlfQ3ZSSzdZTEQyVjFXQ3M0MzJLQTNnTEREa01fVTdsOENyaVVBN3o5LUgyV3c?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-08-07T07:00:00+00:00",
@@ -347,9 +323,9 @@
       "relevance_score": 0.1
     },
     {
-      "id": "5c9050d75b55",
-      "title": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion - worldconstructionnetwork.com",
-      "summary": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion&nbsp;&nbsp;worldconstructionnetwork.com",
+      "id": "34552f031df1",
+      "title": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion - World Construction Network",
+      "summary": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion&nbsp;&nbsp;World Construction Network",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcndGZW5ncmhOYnppaUdlc3NBUDNiUWJzWUpVemY2VWF1OFJRdmtXM1dhS0R0aWdVQkdZMzB1dVlyaWROemJjVW83WmV1eXVYc2tYd3F0ZTZQc2s2ZmxHZjFzREJXLVE4UlBuM0xuaXFjcjk4VTZSUkNwaHk0TkxTTTZNNlRVQmNQ?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-31T07:00:00+00:00",
@@ -360,9 +336,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "4b0ce4c14210",
-      "title": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables - PV Tech",
-      "summary": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables&nbsp;&nbsp;PV Tech",
+      "id": "4e3dc2e9b65a",
+      "title": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables - pv-tech.org",
+      "summary": "Queensland and the Northern Territory break ranks as Australia moves to require data centres to fund new renewables&nbsp;&nbsp;pv-tech.org",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRVBQcWlLNHFFVU5nVEs3LWhvNlNHQzFzSGVSVTF5bWY3eUswN29vQXlCeXJvbUxBc09TNHU0YUt4aTR3WTNHVXZ6dS1aWkdNSE9weGZibWZUQzh3bHlZWUxKZklOS2lMUlBkRko5TG1PVXZkamY4M1I0UFI4WmV1d0VLdzBySnZ0dkFlUk1LZDdhWTFaRmtXYlRfQW9LeElybDJNWkRUMzBISHZZUGZhbFpsTG5NcThWSzhvcGkyaHVhdWtfR0xJMzVUOWViQkpISk0zakNYZw?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-31T07:00:00+00:00",
@@ -372,9 +348,9 @@
       "relevance_score": 0.1
     },
     {
-      "id": "fb21484649c5",
-      "title": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion - worldconstructionnetwork.com",
-      "summary": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion&nbsp;&nbsp;worldconstructionnetwork.com",
+      "id": "20974a6d51e4",
+      "title": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion - World Construction Network",
+      "summary": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion&nbsp;&nbsp;World Construction Network",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcndGZW5ncmhOYnppaUdlc3NBUDNiUWJzWUpVemY2VWF1OFJRdmtXM1dhS0R0aWdVQkdZMzB1dVlyaWROemJjVW83WmV1eXVYc2tYd3F0ZTZQc2s2ZmxHZjFzREJXLVE4UlBuM0xuaXFjcjk4VTZSUkNwaHk0TkxTTTZNNlRVQmNQ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-07-31T07:00:00+00:00",
@@ -397,9 +373,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "cce4d7d49abc",
-      "title": "Key facts: Bouygues SA \u20ac20.35B SFR bid; wins \u20ac1.2B AirTrunk data deal - TradingView",
-      "summary": "Key facts: Bouygues SA \u20ac20.35B SFR bid; wins \u20ac1.2B AirTrunk data deal&nbsp;&nbsp;TradingView",
+      "id": "0c616a03848b",
+      "title": "Key facts: Bouygues SA \u20ac20.35B SFR bid; wins \u20ac1.2B AirTrunk data deal - tradingview.com",
+      "summary": "Key facts: Bouygues SA \u20ac20.35B SFR bid; wins \u20ac1.2B AirTrunk data deal&nbsp;&nbsp;tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0FHdzhwYjVabjI2UmRBampENzU5SEx1NktSUFl6MWt2ZEx6LXJBZG9pNmNTdGNBZjZBMGJrak1tNU5uT0ZxRVlZY1JDcGF0V2VuU01NWWh4bjZ1bG9kU29EenpPUmRQekltTjI5dnhYNWYxZ3dsQzFGUlJpNS1NM0szQnpUTEhNd0Vkd2tfOTIwSFdYZ3JERkxPdXVqaUEzUkJBNW5oWVpNdFpYMmNlSGxRbFQ1UFJMTlNOYzJlNkNrcDAyRlE?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-30T07:00:00+00:00",
@@ -475,18 +451,6 @@
       "title": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report - Data Center Dynamics",
       "summary": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc3NncURVRlZhMklkY2ZrZ29pRmZaZlVLWmd1OElkMDZfR3N5VUJWb0NZTlc4SF91TFBMOGl2ZmloNUp1OUdoTDU2bEJEX00yU1o3RjdIZ2FicUlZTTJEeGpVTE1OeEtjWm01d2U5eEZEbEo1ckl0NmhrMnh5SXJSZ0JyU3dYSTN3akFfcUNNRnd6NHBFVTdkc2NROXFpNTF3dU5QWXhzaXROMG1BbThIZWhUQldxY1JuTG82SWZ5R1RWN0VEcHZLQ1Rxc0tGd0xMb29iSg?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "58c5dbe1b62d",
-      "title": "In Pictures: iTnews State of Data & AI Launch Sydney - iTnews",
-      "summary": "In Pictures: iTnews State of Data & AI Launch Sydney&nbsp;&nbsp;iTnews",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVlA1c2lFTnNLaVVKVkNBY0FqSDJ0NDUxcFBGZXctTGJBX2ZrV25aQnpxLTFXUnF5aU5RMGg1ZjYyNnhkV3E0dlU3bWxud0d0eDl4eEFES1RyckhQRVhvWWJIOFlfUTg2eWtsSmZSY0Q2SEt5amV0Ujl0c2IxLVlLTTc0SHBXbjdGZnB6MTJSbk41ZVZ1?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-23T07:00:00+00:00",
       "tags": [
@@ -602,18 +566,6 @@
         "nextdc"
       ],
       "relevance_score": 0.3
-    },
-    {
-      "id": "f91b343dd8cb",
-      "title": "Battle over Australia\u2019s digital sovereign future unfolds through NSW data centre inquiry - ARNnet",
-      "summary": "Battle over Australia\u2019s digital sovereign future unfolds through NSW data centre inquiry&nbsp;&nbsp;ARNnet",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN1pFX3pBdmIzbERJQzBkSXE5UngzNU1MYWlubGtlOFlpU0RnN0ZuVkdyVWQ0Q2Q1aFE2ZGR0SUpKc0xfSWRLMTVRand2MmR1OF9IdUYzbDVPbEpXSzFEcGZ5Y1JsNXBGVzNxUnBReU1jWG1GV3A0amIzUWdhZ1hfQmNnVWdieDB1dFI1akd6T09wcThBNS01blNtZ1dLeGd4TElVd3pNUmZrTnpSOXJub2JIeVFYZ21zNjRZNjV4RExVdzJQNnJHczVfS3lrNXM?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-07-07T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
     }
   ]
 }
