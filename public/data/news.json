@@ -1,29 +1,92 @@
 {
-  "last_updated": "2026-10-06T13:10:05.953440+00:00",
+  "last_updated": "2026-10-07T13:06:08.320311+00:00",
   "items": [
     {
-      "id": "19411106cfd0",
-      "title": "Powering North America\u2019s data center boom",
-      "summary": "How data center operators are overcoming grid constraints to secure reliable and scalable power needed to support North America\u2019s rapid growth",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/powering-north-americas-data-center-boom/",
+      "id": "be6f287545ef",
+      "title": "Danish Parliament adopts \"emergency plan\" for electricity grid, puts data centers at the back of queue",
+      "summary": "Measures were first suggested during the summer",
+      "url": "https://www.datacenterdynamics.com/en/news/danish-parliament-adopts-emergency-plan-for-electricity-grid-puts-data-centers-at-the-back-of-queue/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-10-06T09:47:59+00:00",
+      "published_at": "2026-10-07T12:50:41+00:00",
       "tags": [
         "energy_policy"
       ],
       "relevance_score": 0.1
     },
     {
-      "id": "8f6efb27db12",
-      "title": "Firmus and CDC end 1.6GW Project Southgate collaboration, deploy just 42MW",
-      "summary": "Due to Firmus' expansion in Asia raising questions about funding",
-      "url": "https://www.datacenterdynamics.com/en/news/firmus-and-cdc-end-16gw-project-southgate-collaboration-deploy-just-42mw/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-10-06T09:45:44+00:00",
+      "id": "2d722f92ecc2",
+      "title": "Telstra expands Aura Network with launch of Perth-Sydney route - Data Center Dynamics",
+      "summary": "Telstra expands Aura Network with launch of Perth-Sydney route&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT2ZLS1I2cXFEOEhnd1Rjbkx2UkFFbnk0dVdicEtiZGJVUkpyMGNXNVMzcFh6YUlPdk5RN0tSOHlwVnJRU0RnMFJ6bkRLa1BObENUY2VEU0JrOW1ZVnRIS1ZSS1FXVzFUSXhyd2ZTSnk2RlhZOTlua1k1Y1YwMnlmNzlsT1FoakdFOW1zcjltbkFoWkJ4TjdldUNDcGxXUFRaYTU3T1VfVmZydw?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-10-07T12:33:30+00:00",
       "tags": [
-        "cdc"
+        "nsw",
+        "telstra"
+      ],
+      "relevance_score": 0.5
+    },
+    {
+      "id": "a72b479c79fe",
+      "title": "Telstra expands Aura Network with launch of Perth-Sydney route",
+      "summary": "As Telstra continues to build out its planned 14,000km fiber network",
+      "url": "https://www.datacenterdynamics.com/en/news/telstra-expands-aura-network-with-launch-of-perth-sydney-route/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-10-07T12:30:44+00:00",
+      "tags": [
+        "nsw",
+        "telstra"
+      ],
+      "relevance_score": 0.5
+    },
+    {
+      "id": "c9cf4923b8aa",
+      "title": "Australia's AirTrunk to triple Japan data center investment to up to $30bn - Nikkei Asia",
+      "summary": "Australia's AirTrunk to triple Japan data center investment to up to $30bn&nbsp;&nbsp;Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQelYwS2lPRWVDWTRHSFpRdzBtcTJqQ09fckZOUmQxR0tMdG1wZWFvUWpJMlZjSEVLWXhrX0pzVVBfaXdBdENYZ0s4VnQtQzBDSGhDNHhwQTlVelhKUmE0MG5PVFZOQUNIQlNRUU1SWmNYX1VTX0lJTVdnZnl3eDBwZ1E0MmJtSHlDRTc5MDdQc1ZjVnRvR3ZtRzJIQ0xmcnBjVHVGRHl0NTRTZjd6OVdRbnJQYUNUM1lkcDZiTmp5UQ?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-10-07T09:59:00+00:00",
+      "tags": [
+        "airtrunk"
       ],
       "relevance_score": 0.3
+    },
+    {
+      "id": "d22ed9e6e162",
+      "title": "Sponsored: Is BTM the answer to future AI factories?",
+      "summary": "Thinking beyond the grid takes time, partnership, and commitment",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/is-btm-the-answer-to-future-ai-factories/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-10-07T08:00:00+00:00",
+      "tags": [
+        "energy_policy",
+        "nsw"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "380749a15461",
+      "title": "Goodman\u2019s Japanese data center under fire following Sydney site setback - The Japan Times",
+      "summary": "Goodman\u2019s Japanese data center under fire following Sydney site setback&nbsp;&nbsp;The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa2pKaTY0eGhRd0FSVmZEMnVBQjl4RnZDWFlxbDJDZmtSYTBsXzJ3enl5aUNuTWRZczdGSE5nZU5OTXRzMzhjZzNIaTVtYWVEd2pqM0dmUDJqamVUVFppcHpPZkRvUGNxTklsYy12ZlU5eDJjUDV4MmZzazgwXy1CZkVTS2dsMndlMFV6YXhFVlYwM0htMHNHNEtPWQ?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-10-07T07:31:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "4385833ebba5",
+      "title": "Microsoft Wins Govt Approval for $902M Sydney Data Centre After Goodman Retreat - Mingtiandi",
+      "summary": "Microsoft Wins Govt Approval for $902M Sydney Data Centre After Goodman Retreat&nbsp;&nbsp;Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnNUUFdKY2tDWlpTeUoxcDJZUmJSODhvR0pEZFhBMExMblJwYXk2cmkyQ0V2c2tfSEpCR29hRTRsWklGQ2JDMHo3eXpZU1BzcHFFRmxDNVpWX0ZzQnhyQ0FLT3R6TTVaNkhGcFd1Qk4ySkFCU3Q3TVgwbWNHeTRBUkRtRWUyZUJhaEdWb0pTd0NTMDlXWVhJM3lzRWN3S3hXMTc2bF9rUQ?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-10-05T22:19:47+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
     },
     {
       "id": "9a6dd5e88236",
@@ -38,12 +101,12 @@
       "relevance_score": 0.3
     },
     {
-      "id": "053c52566b5e",
-      "title": "Australia's CDC plans gigawatt-scale data center campus in Wagga Wagga - Data Center Dynamics",
-      "summary": "Australia's CDC plans gigawatt-scale data center campus in Wagga Wagga&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQblhOU1cxaG5XUjZJb0cwMXdQTVkxcEY1X0xGejZVOV84bGRGS0N3M1BKS3pUVTBITTkzbFoxeTRKaDRlSU90ZFlPSC13Z2dZOHRldjZxQkJLMFRRUW8tejlEOUM4UFl6bTdRY2ROd2kzNndjMWtuaEdWdWphSTY3VkJXRi1YMmZ2MEtuOUJRLVhhZWJ5N2p0R0YzdGJ4MWVtckFtUU5UbWhEWUhfYmtSWVZ1NA?oc=5",
+      "id": "d2e18ca6f584",
+      "title": "Australia\u2019s CDC plans gigawatt-scale data center campus in Wagga Wagga - BeBeez International",
+      "summary": "Australia\u2019s CDC plans gigawatt-scale data center campus in Wagga Wagga&nbsp;&nbsp;BeBeez International",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0p3QzlqVHU5V1lINk5CYnNNWnRYekJaams3SlZIZWhmMU56ZzRoc0U4RmpiZW1xQ3lEN0xVU0NjOFctbUZ3Ym55RTF3SmdiaFZnQ0lVZXVYaC1qWmp4eVVmbjlMdW5uUlo1czQzNXd5Qy1hZzhKcEx4UmZsOU9kNHpqaFhIRXVIR3MxaUxrd1F6YmM4dXM3blBqbHozb1Bn?oc=5",
       "source": "Google News: Sydney DC",
-      "published_at": "2026-09-30T12:45:24+00:00",
+      "published_at": "2026-09-30T13:11:54+00:00",
       "tags": [
         "cdc"
       ],
@@ -62,18 +125,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "997093beaca1",
-      "title": "Axed Sydney Data Center Shows Backlash to Australia\u2019s AI Boom - Bloomberg.com",
-      "summary": "Axed Sydney Data Center Shows Backlash to Australia\u2019s AI Boom&nbsp;&nbsp;Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNExPRUhGcTRJNlNQbk56eFpnWWE2SlpFRjFBYThMRFFQWDM4TjZSYVlld3hmWXQ2WVUyaV9RM05jSGQwNTFyVTl1Nnh4NzV2SzZtRkRLQnViZkVPaVBoSzNNLU1UbkZjd1dqQ3o4ZXdWb2I4cFMxYkNCUHVjT2dJRVQ1YUtNLVdKRFlKSW5jOVpBYmNpT1NnTGtQVG4wYWE3WjAzaWxOYnZsdTJTaUJlaQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-09-29T02:09:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
       "id": "208911a43381",
       "title": "Goodman Halts Sydney Data Center Plan - Briefs Finance",
       "summary": "Goodman Halts Sydney Data Center Plan&nbsp;&nbsp;Briefs Finance",
@@ -86,12 +137,48 @@
       "relevance_score": 0.2
     },
     {
+      "id": "3fb5f26a94a1",
+      "title": "Goodman withdraws application for 90MW data center campus in Sydney, Australia - BeBeez International",
+      "summary": "Goodman withdraws application for 90MW data center campus in Sydney, Australia&nbsp;&nbsp;BeBeez International",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2Q1Z3hIMDdlRS1aZVB0YmNVSmhPUFFub3A3aWpJN3BnOEN1cXJmZDY1bmxEU3BoeTd2Y3gzS2JUc2ZVREpwUjlCeDR6WV9kRTVQTjVyUjlETWl2RmhGSXFGa2VaZjRnb2J3Qm1KSFk5UDNPdzlJWGdPeWhLWV81QkcwTFpHRnptS1MwYWZjczdFUm1vUEkxUEtXbFF1eHJCbGpfdWJHOTduMFE?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-09-28T17:37:36+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
       "id": "6fe7f7d0d904",
       "title": "Goodman withdraws application for 90MW data center campus in Sydney, Australia - Data Center Dynamics",
       "summary": "Goodman withdraws application for 90MW data center campus in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmFJZ1VQeW1xX1VkdGxpc20tODhnWFpUNmZ2M1F2RGQwMFNNQmxyVXZmUUdEVkYzQXpfdGZKeUF4Vkd1OUJJblhUb3R3UG04bWx5U2JtRjljWUdycWxncURYVWpVSUVBbVp3SzN6TTU3eXhFMUVTV2xpTzVKZ3l6NlVZUFRBeGtIWFZqVFVONkctZlpOcGJiQWJCQnZsYlVLTzNCVWkxSk9IV0JXbjV0TVM0dGRFRGJUalRrdllR?oc=5",
       "source": "Google News: Sydney DC",
-      "published_at": "2026-09-28T15:47:11+00:00",
+      "published_at": "2026-09-28T15:47:43+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "2c161e513b3c",
+      "title": "Australian developer axes Sydney suburban data centre plan after local opposition - Yahoo Finance",
+      "summary": "Australian developer axes Sydney suburban data centre plan after local opposition&nbsp;&nbsp;Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDhtWkZxZ2hxd05xcW1ISE8yd1pKVkdLLWdwUzItNy1fZ21weUJDOHFvWFE5aUh0VVRpVTJvR1kza2I5U2h2cTNVX0EwMndnLUltdEZ4Mm53Rk5jb0ZLQURUS0RnRzl5QXk0ZjB5LXJ0QXVMV2pCYTU1UkpLUnMxQk12bnE3MnFyWEZFaTJ4S1FqQ0tGTVQ4dURsZ1lybXd1Rk1CSEhB?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-09-28T07:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "997093beaca1",
+      "title": "Axed Sydney Data Center Shows Backlash to Australia\u2019s AI Boom - Bloomberg.com",
+      "summary": "Axed Sydney Data Center Shows Backlash to Australia\u2019s AI Boom&nbsp;&nbsp;Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNExPRUhGcTRJNlNQbk56eFpnWWE2SlpFRjFBYThMRFFQWDM4TjZSYVlld3hmWXQ2WVUyaV9RM05jSGQwNTFyVTl1Nnh4NzV2SzZtRkRLQnViZkVPaVBoSzNNLU1UbkZjd1dqQ3o4ZXdWb2I4cFMxYkNCUHVjT2dJRVQ1YUtNLVdKRFlKSW5jOVpBYmNpT1NnTGtQVG4wYWE3WjAzaWxOYnZsdTJTaUJlaQ?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-09-28T07:00:00+00:00",
       "tags": [
         "nsw"
       ],
@@ -161,22 +248,35 @@
       "relevance_score": 0.2
     },
     {
-      "id": "fd15cc6a3358",
-      "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center - markets.businessinsider.com",
-      "summary": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center&nbsp;&nbsp;markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVE0UGFhNFo3Q2JJN0tHcXhBeHduUzdkcEg0Ykh6N1pqdXJjUktXUTRsSVVxYzdVZGpWRWJ6Qk5PTXZBQXA0dy1ORlh6Ym1MeXRjTFJqS0lBSXlvQVBGcEJqaUNGbklyOWVpazNPU2Vod3RGcmJJSFBtMXNubHJ1dDdqOTFISXlsRXI5elF1U2Q4WjNBNktzQUt1MUIzUmdVbkQ5WFZBeV9xdWVId1ZEaUZCeEtZSzNXeEU0YWFfZkM?oc=5",
+      "id": "0c7f0c3e94e2",
+      "title": "Diraq\u2019s Silicon Qubits Move Into An Equinix Data Center - Quantum Zeitgeist",
+      "summary": "Diraq\u2019s Silicon Qubits Move Into An Equinix Data Center&nbsp;&nbsp;Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41UXFZekZJaVVmdmoxdGp1M1cwMFlESXp2ejZMUUoyb09WTzU3S1Ftd0VjNmJZT2dzVU40b04xT1lUeV9BRGhPVlItU09fTjZkYTZMcnItNldoTG9CT2x0ZG9DZHBoRHpRV0xQMlY5ci1Hdw?oc=5",
       "source": "Google News: Sydney DC",
-      "published_at": "2026-08-31T07:00:00+00:00",
+      "published_at": "2026-09-01T07:00:00+00:00",
       "tags": [
         "equinix"
       ],
       "relevance_score": 0.3
     },
     {
-      "id": "29047d4f5537",
-      "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center - GlobeNewswire",
-      "summary": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center&nbsp;&nbsp;GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZll1cmVZMUFWVzhyVllxejBpUXFkdHhPaXVCZFNzbkZuZUFFd0NPbl9WcTc2Smc3X1NrTkk3T21ydl9STGZGREJpTkQ2YlZqUlFNcmNsYmVQQnU0UVVQV2FUcEpsbzlfQ3BtaUEtMVV3bjVNOXZxV1lCSG5WQlZ4NXQxbEtDUm5aS25paXFWRDVLTWtSYmtyTDFKUkllOWlXOGhlZ3ZmVmNXRGhYYW1FNlpJcjdWczJfNVpvVGNsc1hISEJIMHFLNlJGSG9HeXJFOGc?oc=5",
+      "id": "a58b73b0b6af",
+      "title": "Diraq to Deploy Eight-Qubit Silicon Quantum Computer at Equinix Sydney Data Center - Quantum Computing Report",
+      "summary": "Diraq to Deploy Eight-Qubit Silicon Quantum Computer at Equinix Sydney Data Center&nbsp;&nbsp;Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVjRONUd2VUxmTEVJNHBWc09wcl9Nc1lSS1Jnd2lFVEZOZ0hfQjJCX1ZXNks4U3VENzFMdjhjYy1zYUJUVU5oRlowLTlLSFZDQXRnTzU4Y2dON3d2eWpxTnpKZGFlaW5Rdy1xYmhOSTBudElMUlBJanBPVmpXMlN5OFR4VENyN1hBaVprdjEzUm1DczEyODc1dG5lUld0cEtTVWJKdW02OWpzUk5EdU5FMzQ3Z2xIV2ZocnfSAb8BQVVfeXFMTmxqd043LU5KcTBoanVNb3NwWE5iTHpXUFh2VVN4ME1DUjI4cUg1d2hGTGw0MDJZWEVDYUNHWms0TnppLU8ta0dOSWgxMzFETTNxS0xEMWpmWDJCdGpfNHJfaWVUWHBvSTg0Mm9RaVlpdTI2ZTZwREplWkV6S1ZidG4zVWVHR3lXUWtLcE1QM2M5eEF1WndXaDJ1N1JxRnIzbHlvNWNqX3kzTG1RUjZMX2FTNktaaC1SeUlzd1dYdkU?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "tags": [
+        "equinix",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
+    {
+      "id": "fd15cc6a3358",
+      "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center - markets.businessinsider.com",
+      "summary": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center&nbsp;&nbsp;markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVE0UGFhNFo3Q2JJN0tHcXhBeHduUzdkcEg0Ykh6N1pqdXJjUktXUTRsSVVxYzdVZGpWRWJ6Qk5PTXZBQXA0dy1ORlh6Ym1MeXRjTFJqS0lBSXlvQVBGcEJqaUNGbklyOWVpazNPU2Vod3RGcmJJSFBtMXNubHJ1dDdqOTFISXlsRXI5elF1U2Q4WjNBNktzQUt1MUIzUmdVbkQ5WFZBeV9xdWVId1ZEaUZCeEtZSzNXeEU0YWFfZkM?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-08-31T07:00:00+00:00",
       "tags": [
@@ -310,18 +410,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "21432f47f004",
-      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - The Age",
-      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;The Age",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmlQZ2tEcVhDaTVqU09WX0gyay1LWUNUMmhnNFZBNlZmRG1qS2hEbXMya0JpWlhucmpMWHZ5Z29pT2NJZ1pKR3JnWTVIU19ic2lNSW8wRzllYVVKLTc4a0EzSU5IdEFkOHN5NWpicUNSUHlOaUR6ODJzdTVtTkl1TGFZSG9OcEpRc2M5NWVCZGU4ZndUaTloQmZWRldqeVZhQjA2NTNCOGNsa19oX0lHZldYTFdqZlg0Nk16aHM4VUJGNzJlNjRPYmZrSk1nR18wUHRUYzVHTUl3b1VFMk1ScUNzcw?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-08-13T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
       "id": "3c65e6b05cb4",
       "title": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access - PV Tech",
       "summary": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access&nbsp;&nbsp;PV Tech",
@@ -335,9 +423,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "9ecb76902016",
-      "title": "Australia's new data centers must be majority renewable powered, says minister - thestandard.com.hk",
-      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;thestandard.com.hk",
+      "id": "e8ba1595abc3",
+      "title": "Australia's new data centers must be majority renewable powered, says minister - The Standard (HK)",
+      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;The Standard (HK)",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWURQOVZhTlZOMkdZY0dhdU5feE5QX0xSZFd3Y2U3RHhFTHM4TVQ1ZFlnTHpGN3JJU0J5YVV4VVpDaEN3MnNfMTRNc3lFeVJ6dXg0b2VicGhPeGVUZEVwRDVUWHNxV05IdGFIOTRFRllUSDl3TFY0UHFUZEdrR2cwYUZOQjhwOS03c0sxMktfdTdwSFpRSXJ1ZWV2SlY5aUIzaGJsUkpnTW5WZFRQSmdKc3JFc0I4OFpESWw3VW02a1M1Ymdz?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-05T07:00:00+00:00",
@@ -360,9 +448,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "a5c3b82aed5f",
-      "title": "Australia's new data centers must be majority renewable powered, says minister - thestandard.com.hk",
-      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;thestandard.com.hk",
+      "id": "028fd355b517",
+      "title": "Australia's new data centers must be majority renewable powered, says minister - The Standard (HK)",
+      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;The Standard (HK)",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWURQOVZhTlZOMkdZY0dhdU5feE5QX0xSZFd3Y2U3RHhFTHM4TVQ1ZFlnTHpGN3JJU0J5YVV4VVpDaEN3MnNfMTRNc3lFeVJ6dXg0b2VicGhPeGVUZEVwRDVUWHNxV05IdGFIOTRFRllUSDl3TFY0UHFUZEdrR2cwYUZOQjhwOS03c0sxMktfdTdwSFpRSXJ1ZWV2SlY5aUIzaGJsUkpnTW5WZFRQSmdKc3JFc0I4OFpESWw3VW02a1M1Ymdz?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-08-05T07:00:00+00:00",
@@ -471,9 +559,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "d567453c8406",
-      "title": "Sydney and Melbourne's data centre domination under threat from new laws - commercialrealestate.com.au",
-      "summary": "Sydney and Melbourne's data centre domination under threat from new laws&nbsp;&nbsp;commercialrealestate.com.au",
+      "id": "feb31cd28db5",
+      "title": "Sydney and Melbourne's data centre domination under threat from new laws - CommercialRealEstate.com.au",
+      "summary": "Sydney and Melbourne's data centre domination under threat from new laws&nbsp;&nbsp;CommercialRealEstate.com.au",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQblNrbDMzOXBITzJoN2xXSjhLa2xJNUEzT25ycmQySlloaUhjREFvLXg0N0tsNW9mQ2xtVjNSUGdSMFh0bVF2dlFUVmdNcEpfaU5NRTVhZm0wNGUyV0wyc1R0VE9QSUt6NHUxTWpoZHRLUmpUWGxydGI2NmdOUDFlemRLZ1B6VHVRYm5Gd1dKcUhjSkZxNUNQcy1qczdYX2xsTDJaX3J4RTl4ZENRdmk3NlVCWWh3TE0?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-26T07:00:00+00:00",
@@ -496,18 +584,6 @@
       "relevance_score": 0.5
     },
     {
-      "id": "8687641e5eeb",
-      "title": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg - The Edge Malaysia",
-      "summary": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg&nbsp;&nbsp;The Edge Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03VTZPRjNSekpPQkRwclNIRVRXSmpHMXlLMnFmbml5RnJhSElXUDR3d1R2VmhDZFRtNFlEdG0zd1ZyRUVraFZUVUM3bm5ERkRf?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-07-22T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "51a659352f2d",
       "title": "Inside AirTrunk\u2019s plans to create a $4.4b Singapore-listed giant - AFR",
       "summary": "Inside AirTrunk\u2019s plans to create a $4.4b Singapore-listed giant&nbsp;&nbsp;AFR",
@@ -520,9 +596,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "2bf3d41be669",
-      "title": "NextDC account manager sues over commissions on Melbourne, Sydney centre deals - lawyerly.com.au",
-      "summary": "NextDC account manager sues over commissions on Melbourne, Sydney centre deals&nbsp;&nbsp;lawyerly.com.au",
+      "id": "c7176722fa47",
+      "title": "NextDC account manager sues over commissions on Melbourne, Sydney centre deals - Lawyerly",
+      "summary": "NextDC account manager sues over commissions on Melbourne, Sydney centre deals&nbsp;&nbsp;Lawyerly",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQkNZNVZfMXlORmtNVkZVWDV4Q2F2X1IzY2lpRXZmc0ZQcy1teVRzR2drZFVTRU1HZEowZEdRVDdoa2JianRiZEYtZVRudFpqZG5NRE16N1hTdWd1M19NaXRrS2NOR1JobGkyeHlGNUVaNmdnMWh2aGUzVGtVMVFITmxVMXYyLU1JZWticmhYUlJRS3JwUDJGV2poRXpiNXExUjhZcjVmUVlBQQ?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-21T07:00:00+00:00",
@@ -587,18 +663,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHJyeTBQdV92d1ZvSzFxdGcxNnoyU0drZHpNV3V5VTRKTWhlWlZlbHVZNWpzTUthUjJEOWVKWVRmelg5VkdJeTdEZjkxWkZ4NGNBTHMtdzEyZWNMbVdiZ1N1eGhjU0REanl0c0Z3TG5lbi1IZEFDTFFpWEh2dGctRHEwYkJVYkd5Um1FNVhadnZFc3JRcGJmVTVOVkY4LVltWE1BS1NzWmw0Ymdi?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-10T07:00:00+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "48c1bd11f3c8",
-      "title": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion - Reuters",
-      "summary": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion&nbsp;&nbsp;Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSzZzZ250MEZjQlQ1N1c3VkxzdmhUbWp0RGY3V0ZQNkIyVTlDU3hwcTJ2c293ak9reXctUVB5bzQwdWQwaTNBTXRNS2R6LS1MeURYcE11eG55d3lGTUNOVGpPVGx1ang2dGwzakpRdzg3Wm8yMEt0VXg4X09PZnZfUkpPdkZLdTNRcGJTeTFnMmNyYUxNdVpnTGh4RkFZanp1bEVKT1VpSkZkTFhBajZ2Mkc1UV8zZVZlUzhGMnNaczNZV3FIWmc?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-07-09T07:00:00+00:00",
       "tags": [
         "nextdc"
       ],
