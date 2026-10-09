@@ -1,17 +1,29 @@
 {
-  "last_updated": "2026-10-08T13:13:35.544570+00:00",
+  "last_updated": "2026-10-09T13:00:10.932293+00:00",
   "items": [
     {
-      "id": "55aa19b71c25",
-      "title": "AirTrunk to treble Japan data-centre investment to $43bn - The Australian",
-      "summary": "AirTrunk to treble Japan data-centre investment to $43bn&nbsp;&nbsp;The Australian",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdDJycDBMOGJXYVhhQXdpSm9pMkVNLVJ3SUFGNFBFN2xFcS04dDVCR3RsOGNfdTFYRWVnU3lka3Q3eVUxdXBtNnlxVE9kMGJVWVo0Z1d0VnR6eG1lMmhnSkYtYUZiTDZtVVJCZ1BBaVUyY01lVlVwc3Rpdk9UdXdYeWpTa2Y1TzcyVm5rLWxza3hEam1jZEZ4d0lEMkN6QW56ajNzVzRKWmZpMC1XM3dWNWNYdXl3U2Y0MmZmb09xdEdUdU1HU3FXUlNsb01KQ20tbzFPeVZyMkFnUVBBeDdEMnotbEIyMEpoMm5ENjFtODZlX0ZsN29PdEtPdUVvRHRvbGxaWGk2SUhyTXo1?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-10-08T05:49:04+00:00",
+      "id": "46af1117a8dd",
+      "title": "DCD Studio: Market models for SMRs with Rosa Rotko, Mott MacDonald",
+      "summary": "Tam Pledger speaks with Rosa Rotko of Mott MacDonald on critical grid connection delays impacting UK energy projects",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-market-models-for-smrs-with-rosa-rotko-mott-macdonald/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-10-08T16:32:05+00:00",
       "tags": [
-        "airtrunk"
+        "energy_policy"
       ],
-      "relevance_score": 0.3
+      "relevance_score": 0.1
+    },
+    {
+      "id": "c3f6dae9b88b",
+      "title": "Summer Research Highlight: Communications Intern Sydney Peterson - UW-Milwaukee",
+      "summary": "Summer Research Highlight: Communications Intern Sydney Peterson&nbsp;&nbsp;UW-Milwaukee",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkNGT2Uza2NQazB1dGlISV9iaDl0cUxNS2NMRHB6QldHdUlIS25TY2pSVklKRTZTd245MVp4N0p1SmFiWC1DSUxBU2Y2VEdobE9jcU5tNEtmMzQ0Qkd3WG8wY2RoQ2lvZ1BQdU1OR2RNNDU3X1pJbGIzaENOQXV4Rk9RRl9xTkFUR3RzZUlYODhhanEwQUJVcFFzUlBXVEFhclBV?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-10-08T14:33:30+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
     },
     {
       "id": "03be604e5d74",
@@ -26,16 +38,28 @@
       "relevance_score": 0.3
     },
     {
-      "id": "ff689a271d4a",
-      "title": "AirTrunk plans additional $1bn investment in data center campus in Inzai, Japan",
-      "summary": "Company plans to triple overall investment in country to $30bn",
-      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-plans-additional-1bn-investment-in-data-center-campus-in-inzai-japan/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-10-07T16:10:15+00:00",
+      "id": "55aa19b71c25",
+      "title": "AirTrunk to treble Japan data-centre investment to $43bn - The Australian",
+      "summary": "AirTrunk to treble Japan data-centre investment to $43bn&nbsp;&nbsp;The Australian",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdDJycDBMOGJXYVhhQXdpSm9pMkVNLVJ3SUFGNFBFN2xFcS04dDVCR3RsOGNfdTFYRWVnU3lka3Q3eVUxdXBtNnlxVE9kMGJVWVo0Z1d0VnR6eG1lMmhnSkYtYUZiTDZtVVJCZ1BBaVUyY01lVlVwc3Rpdk9UdXdYeWpTa2Y1TzcyVm5rLWxza3hEam1jZEZ4d0lEMkN6QW56ajNzVzRKWmZpMC1XM3dWNWNYdXl3U2Y0MmZmb09xdEdUdU1HU3FXUlNsb01KQ20tbzFPeVZyMkFnUVBBeDdEMnotbEIyMEpoMm5ENjFtODZlX0ZsN29PdEtPdUVvRHRvbGxaWGk2SUhyTXo1?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-10-08T03:14:00+00:00",
       "tags": [
         "airtrunk"
       ],
       "relevance_score": 0.3
+    },
+    {
+      "id": "b76965f2c18a",
+      "title": "Goodman\u2019s Japanese data center comes under fire following Sydney site setback - \u671d\u65e5\u65b0\u805e",
+      "summary": "Goodman\u2019s Japanese data center comes under fire following Sydney site setback&nbsp;&nbsp;\u671d\u65e5\u65b0\u805e",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51czJ6dXhLVkJDZEpqX3R5RWptZTk3WWc5a1R1cEF1Sl8yZG94d09oMWtsZlJXZXc1cEdEdkptSTd5MFJxNHZtLXVleDJUT2hNckpxOUt6elVrUzkyZkE?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-10-07T17:09:37+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
     },
     {
       "id": "2d722f92ecc2",
@@ -63,12 +87,24 @@
       "relevance_score": 0.3
     },
     {
-      "id": "380749a15461",
-      "title": "Goodman\u2019s Japanese data center under fire following Sydney site setback - The Japan Times",
-      "summary": "Goodman\u2019s Japanese data center under fire following Sydney site setback&nbsp;&nbsp;The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa2pKaTY0eGhRd0FSVmZEMnVBQjl4RnZDWFlxbDJDZmtSYTBsXzJ3enl5aUNuTWRZczdGSE5nZU5OTXRzMzhjZzNIaTVtYWVEd2pqM0dmUDJqamVUVFppcHpPZkRvUGNxTklsYy12ZlU5eDJjUDV4MmZzazgwXy1CZkVTS2dsMndlMFV6YXhFVlYwM0htMHNHNEtPWQ?oc=5",
+      "id": "089642e49512",
+      "title": "Goodman's Japanese data centre comes under fire following Sydney site setback - Reuters",
+      "summary": "Goodman's Japanese data centre comes under fire following Sydney site setback&nbsp;&nbsp;Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRm9Oc29yazhIOVhUdDRHZVB1LTRwbEY4bFl4cDlnYTZrdm5Pck9aSVZtTTJIUmRST2NVSFJIMEkyMVZ0TDBFdDY2YXY0ZVlSRnFuTnp4RThSUEc0UVAyOTVCcmdQaEhob0hTTU1TbW9wcW5Vd1VfekR6NnhNX0Vkb19BaEpqbXhlSHBwM2dFSlU0YXZiRzhHdWxXTGdwQmQ4ZTRzVHJ3REV1bUZFWk50eVJiSXpRdEJxRlRYa2VPSzBNelItOVlNYXdsMA?oc=5",
       "source": "Google News: Sydney DC",
-      "published_at": "2026-10-07T07:31:00+00:00",
+      "published_at": "2026-10-07T06:58:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "03b307f810fa",
+      "title": "DeSoto data center plan hits wall over unanswered community concerns - WINK News",
+      "summary": "DeSoto data center plan hits wall over unanswered community concerns&nbsp;&nbsp;WINK News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMTlZaXF6THBIcHotN1lhQ29TdWxGdXRDNWN0bm1PTUhDbE0ySkNPZXdFNVhDMGhGaVlMamx1c3hYQ0gyZDQtX2F4SnBiMlFwTTI3VEdsVUNBc0RWclFkQk8yS0tVSTdEdGhUNDJ3NTdLaWdvaU4xZVJMVmVvTWZJUmIyR1VoYWQ1RnNDanpyN2pRcFNObE84V1ZyUXZUX3ZVY0NQRGJrY1N2UkpJR2x6dVFTczNJbXVoQ245eHFxZ19wb210OUpsUVFTdlo1a0xBUnB4SHdRYWF1TkJjLUNVNFJFemU5VjE2YjZZ?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-10-07T03:08:00+00:00",
       "tags": [
         "nsw"
       ],
@@ -147,18 +183,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "2c161e513b3c",
-      "title": "Australian developer axes Sydney suburban data centre plan after local opposition - Yahoo Finance",
-      "summary": "Australian developer axes Sydney suburban data centre plan after local opposition&nbsp;&nbsp;Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDhtWkZxZ2hxd05xcW1ISE8yd1pKVkdLLWdwUzItNy1fZ21weUJDOHFvWFE5aUh0VVRpVTJvR1kza2I5U2h2cTNVX0EwMndnLUltdEZ4Mm53Rk5jb0ZLQURUS0RnRzl5QXk0ZjB5LXJ0QXVMV2pCYTU1UkpLUnMxQk12bnE3MnFyWEZFaTJ4S1FqQ0tGTVQ4dURsZ1lybXd1Rk1CSEhB?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-09-28T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
       "id": "997093beaca1",
       "title": "Axed Sydney Data Center Shows Backlash to Australia\u2019s AI Boom - Bloomberg.com",
       "summary": "Axed Sydney Data Center Shows Backlash to Australia\u2019s AI Boom&nbsp;&nbsp;Bloomberg.com",
@@ -207,6 +231,18 @@
         "nsw"
       ],
       "relevance_score": 0.5
+    },
+    {
+      "id": "3054b34108ba",
+      "title": "Blackstone\u2019s AirTrunk seeks S$2 billion loan for Singapore IPO - The Business Times",
+      "summary": "Blackstone\u2019s AirTrunk seeks S$2 billion loan for Singapore IPO&nbsp;&nbsp;The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEJMT2VUOFpmeGFNYUV1YWo3VVB1cUNMTnVKOEpjbmJjeVpwelI5eUJDQW4ySjBVOWNFVkF2Y21yay1SQVBLVzRvZTJ0Mld0cmFBVTJoRkYwOWxVb2gxOWdfbnZDRkZuQm1zWjBVS3NFSkRqLUl1cmdnaHlVQXNVU0wtRF9TUk1RQWlmYlNLZHBwSW43MVpEbEpPMkx0WE5EMzN5TVNCZmRqYmhaZnBRR3NMemE?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-09-11T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "32cd83467170",
@@ -258,16 +294,16 @@
       "relevance_score": 0.2
     },
     {
-      "id": "0c7f0c3e94e2",
-      "title": "Diraq\u2019s Silicon Qubits Move Into An Equinix Data Center - Quantum Zeitgeist",
-      "summary": "Diraq\u2019s Silicon Qubits Move Into An Equinix Data Center&nbsp;&nbsp;Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41UXFZekZJaVVmdmoxdGp1M1cwMFlESXp2ejZMUUoyb09WTzU3S1Ftd0VjNmJZT2dzVU40b04xT1lUeV9BRGhPVlItU09fTjZkYTZMcnItNldoTG9CT2x0ZG9DZHBoRHpRV0xQMlY5ci1Hdw?oc=5",
+      "id": "99e23c894009",
+      "title": "Sumitomo Electric to Showcase Next-Generation Data Center Solutions at Sydney Cloud & Datacenter Convention 2026 - Sumitomo Electric",
+      "summary": "Sumitomo Electric to Showcase Next-Generation Data Center Solutions at Sydney Cloud & Datacenter Convention 2026&nbsp;&nbsp;Sumitomo Electric",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PY2k0LVdFNXBxQXVILVI5R0tXNWUtckN0cmN3STVqbTJ6bFpKcmhWWU1UakVwRXB4WUl5dzVfNzBBbTJzZFMzaFNSYmkzeDVaNTVUNUlDM3R1YXhMSmc?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-09-01T07:00:00+00:00",
       "tags": [
-        "equinix"
+        "nsw"
       ],
-      "relevance_score": 0.3
+      "relevance_score": 0.2
     },
     {
       "id": "a58b73b0b6af",
@@ -616,6 +652,18 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "8687641e5eeb",
+      "title": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg - The Edge Malaysia",
+      "summary": "Blackstone tying up US$3 bil AirTrunk loan as data centre debt binge woes grow \u2014 Bloomberg&nbsp;&nbsp;The Edge Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03VTZPRjNSekpPQkRwclNIRVRXSmpHMXlLMnFmbml5RnJhSElXUDR3d1R2VmhDZFRtNFlEdG0zd1ZyRUVraFZUVUM3bm5ERkRf?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-07-22T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "51a659352f2d",
