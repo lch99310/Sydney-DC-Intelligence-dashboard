@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-10-09T13:00:10.932293+00:00",
+  "last_updated": "2026-10-10T12:17:14.766922+00:00",
   "items": [
-    {
-      "id": "46af1117a8dd",
-      "title": "DCD Studio: Market models for SMRs with Rosa Rotko, Mott MacDonald",
-      "summary": "Tam Pledger speaks with Rosa Rotko of Mott MacDonald on critical grid connection delays impacting UK energy projects",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-market-models-for-smrs-with-rosa-rotko-mott-macdonald/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-10-08T16:32:05+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
     {
       "id": "c3f6dae9b88b",
       "title": "Summer Research Highlight: Communications Intern Sydney Peterson - UW-Milwaukee",
@@ -87,24 +75,12 @@
       "relevance_score": 0.3
     },
     {
-      "id": "089642e49512",
-      "title": "Goodman's Japanese data centre comes under fire following Sydney site setback - Reuters",
-      "summary": "Goodman's Japanese data centre comes under fire following Sydney site setback&nbsp;&nbsp;Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRm9Oc29yazhIOVhUdDRHZVB1LTRwbEY4bFl4cDlnYTZrdm5Pck9aSVZtTTJIUmRST2NVSFJIMEkyMVZ0TDBFdDY2YXY0ZVlSRnFuTnp4RThSUEc0UVAyOTVCcmdQaEhob0hTTU1TbW9wcW5Vd1VfekR6NnhNX0Vkb19BaEpqbXhlSHBwM2dFSlU0YXZiRzhHdWxXTGdwQmQ4ZTRzVHJ3REV1bUZFWk50eVJiSXpRdEJxRlRYa2VPSzBNelItOVlNYXdsMA?oc=5",
+      "id": "380749a15461",
+      "title": "Goodman\u2019s Japanese data center under fire following Sydney site setback - The Japan Times",
+      "summary": "Goodman\u2019s Japanese data center under fire following Sydney site setback&nbsp;&nbsp;The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa2pKaTY0eGhRd0FSVmZEMnVBQjl4RnZDWFlxbDJDZmtSYTBsXzJ3enl5aUNuTWRZczdGSE5nZU5OTXRzMzhjZzNIaTVtYWVEd2pqM0dmUDJqamVUVFppcHpPZkRvUGNxTklsYy12ZlU5eDJjUDV4MmZzazgwXy1CZkVTS2dsMndlMFV6YXhFVlYwM0htMHNHNEtPWQ?oc=5",
       "source": "Google News: Sydney DC",
-      "published_at": "2026-10-07T06:58:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "03b307f810fa",
-      "title": "DeSoto data center plan hits wall over unanswered community concerns - WINK News",
-      "summary": "DeSoto data center plan hits wall over unanswered community concerns&nbsp;&nbsp;WINK News",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMTlZaXF6THBIcHotN1lhQ29TdWxGdXRDNWN0bm1PTUhDbE0ySkNPZXdFNVhDMGhGaVlMamx1c3hYQ0gyZDQtX2F4SnBiMlFwTTI3VEdsVUNBc0RWclFkQk8yS0tVSTdEdGhUNDJ3NTdLaWdvaU4xZVJMVmVvTWZJUmIyR1VoYWQ1RnNDanpyN2pRcFNObE84V1ZyUXZUX3ZVY0NQRGJrY1N2UkpJR2x6dVFTczNJbXVoQ245eHFxZ19wb210OUpsUVFTdlo1a0xBUnB4SHdRYWF1TkJjLUNVNFJFemU5VjE2YjZZ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-10-07T03:08:00+00:00",
+      "published_at": "2026-10-07T07:31:00+00:00",
       "tags": [
         "nsw"
       ],
@@ -131,18 +107,6 @@
       "published_at": "2026-10-01T20:37:00+00:00",
       "tags": [
         "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "d2e18ca6f584",
-      "title": "Australia\u2019s CDC plans gigawatt-scale data center campus in Wagga Wagga - BeBeez International",
-      "summary": "Australia\u2019s CDC plans gigawatt-scale data center campus in Wagga Wagga&nbsp;&nbsp;BeBeez International",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0p3QzlqVHU5V1lINk5CYnNNWnRYekJaams3SlZIZWhmMU56ZzRoc0U4RmpiZW1xQ3lEN0xVU0NjOFctbUZ3Ym55RTF3SmdiaFZnQ0lVZXVYaC1qWmp4eVVmbjlMdW5uUlo1czQzNXd5Qy1hZzhKcEx4UmZsOU9kNHpqaFhIRXVIR3MxaUxrd1F6YmM4dXM3blBqbHozb1Bn?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-09-30T13:11:54+00:00",
-      "tags": [
-        "cdc"
       ],
       "relevance_score": 0.3
     },
@@ -444,6 +408,18 @@
       "relevance_score": 0.2
     },
     {
+      "id": "21432f47f004",
+      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - The Age",
+      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;The Age",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmlQZ2tEcVhDaTVqU09WX0gyay1LWUNUMmhnNFZBNlZmRG1qS2hEbXMya0JpWlhucmpMWHZ5Z29pT2NJZ1pKR3JnWTVIU19ic2lNSW8wRzllYVVKLTc4a0EzSU5IdEFkOHN5NWpicUNSUHlOaUR6ODJzdTVtTkl1TGFZSG9OcEpRc2M5NWVCZGU4ZndUaTloQmZWRldqeVZhQjA2NTNCOGNsa19oX0lHZldYTFdqZlg0Nk16aHM4VUJGNzJlNjRPYmZrSk1nR18wUHRUYzVHTUl3b1VFMk1ScUNzcw?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
       "id": "3c65e6b05cb4",
       "title": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access - PV Tech",
       "summary": "Australia's data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access&nbsp;&nbsp;PV Tech",
@@ -622,18 +598,6 @@
       "title": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report - Data Center Dynamics",
       "summary": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc3NncURVRlZhMklkY2ZrZ29pRmZaZlVLWmd1OElkMDZfR3N5VUJWb0NZTlc4SF91TFBMOGl2ZmloNUp1OUdoTDU2bEJEX00yU1o3RjdIZ2FicUlZTTJEeGpVTE1OeEtjWm01d2U5eEZEbEo1ckl0NmhrMnh5SXJSZ0JyU3dYSTN3akFfcUNNRnd6NHBFVTdkc2NROXFpNTF3dU5QWXhzaXROMG1BbThIZWhUQldxY1JuTG82SWZ5R1RWN0VEcHZLQ1Rxc0tGd0xMb29iSg?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "58c5dbe1b62d",
-      "title": "In Pictures: iTnews State of Data & AI Launch Sydney - iTnews",
-      "summary": "In Pictures: iTnews State of Data & AI Launch Sydney&nbsp;&nbsp;iTnews",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVlA1c2lFTnNLaVVKVkNBY0FqSDJ0NDUxcFBGZXctTGJBX2ZrV25aQnpxLTFXUnF5aU5RMGg1ZjYyNnhkV3E0dlU3bWxud0d0eDl4eEFES1RyckhQRVhvWWJIOFlfUTg2eWtsSmZSY0Q2SEt5amV0Ujl0c2IxLVlLTTc0SHBXbjdGZnB6MTJSbk41ZVZ1?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-07-23T07:00:00+00:00",
       "tags": [
