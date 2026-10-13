@@ -1,17 +1,53 @@
 {
-  "last_updated": "2026-10-12T15:06:15.064699+00:00",
+  "last_updated": "2026-10-13T13:59:23.303851+00:00",
   "items": [
     {
-      "id": "4b119c536e83",
-      "title": "Dolphin Telecoms signs solar deal with Grid Crux to power ACE cable landing station in Lagos, Nigeria",
-      "summary": "Grid Crux will design, finance, install, and operate the system at the cable landing station",
-      "url": "https://www.datacenterdynamics.com/en/news/dolphin-t/",
+      "id": "607d8f308401",
+      "title": "FERC approves PJM's request to create data center database",
+      "summary": "Rejects separate request to curtail power to data centers during periods of grid stress",
+      "url": "https://www.datacenterdynamics.com/en/news/ferc-approves-pjms-request-to-create-data-center-database/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-10-12T11:40:35+00:00",
+      "published_at": "2026-10-13T13:30:48+00:00",
       "tags": [
         "energy_policy"
       ],
       "relevance_score": 0.1
+    },
+    {
+      "id": "6c8e9bc71413",
+      "title": "AirTrunk halts Singapore float as market choas hits AI boom - The Australian",
+      "summary": "AirTrunk halts Singapore float as market choas hits AI boom&nbsp;&nbsp;The Australian",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSlNOS0N1b1phZUQzb29MUGJ2bDVHS2kzR3g2WWVnY25raFNZcjk5b3UxNkxGek5DUVgxcWVTV1VkX0xhcjRmVlJmdUhHZmhLbWszZnFvTFpuZlFUX1hraktNZXFYTndlWEN6WE84dnl1eVFrSGxmeEVBaUhRblo0WG9EOW1pZy03MWJEYnVrNjRlNWJxcWlaNFdEaHNrbXdITkFvMGhFQ2l3MldFV3cyaUI2ZUx6RGlMaHVTUTgxUDlfT2hqRF8zYWx0emU3dEFaTnF5WmNSUzRRRDlYcTdoSF9OLXpFTDBUcm45aHlhcm1WZW12RHQzaXlvc1EtTE1BSzZFVzJwNlhjYllHaXc?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-10-13T09:52:49+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "a71999c149c4",
+      "title": "DCD Studio: AVK's billion dollar investment into energy solutions, with Ben Pritchard, AVK",
+      "summary": "Seb Moss speaks with Ben Pritchard of AVK about meeting data center power demands via microgrids, innovative pod factories, and creative financing backed by a $1B investment.",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-avks-billion-dollar-investment-into-energy-solutions-with-ben-pritchard-avk/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-10-12T16:32:29+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "d5f67ee66625",
+      "title": "AirTrunk secures USD 1 bln loan for AI capacity in Japan - Telecompaper",
+      "summary": "AirTrunk secures USD 1 bln loan for AI capacity in Japan&nbsp;&nbsp;Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ01XcENIaXZDczlYLTFyOW55MlJUU0cyV0VRMVZGei1YdDlSc0JDMGxsSk5Sc3hKUjBJY3dGZS1Xd09lNUJ0WmtZYzhXenFSVllsWGxIZUFOdHlZUUFGU0JoTy1qak1nUnkzaGdMb1RVc2lraDA3Mm9VTHBTN1RxbTVXc2FpQzRsQ1M0R3AxWDA5RWFBMVVpaUdIeUNKSkdt?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-10-09T04:57:40+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "c3f6dae9b88b",
@@ -26,24 +62,24 @@
       "relevance_score": 0.2
     },
     {
-      "id": "03be604e5d74",
-      "title": "Australian-founded AirTrunk unveils A$43 billion Japan data centre expansion - Proactive Investors Australia",
-      "summary": "Australian-founded AirTrunk unveils A$43 billion Japan data centre expansion&nbsp;&nbsp;Proactive Investors Australia",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlFHRzR0U0NCUlRETXBTbC1fNHg3TDRsQ1ZkWU8tdEI0R2s4QWwxYUhjY0FyQkFNZzRiSEZaa2JpT1ZZZnkzeldJeXBxd3lmS25EX3dWZjVzV0x5NGpMaWZHTnpFY3Utc1dZMWhnVk1GUEJla1dJUzhvaEdKUTNLeVlURVBBVG9YR1dVa1pJUFdEZ1V3aFo1eTl4WVFOS1pyakh4WW9WLWVTVDNYcWw1MjJfLUFQTVlDVnFkQ0Rn?oc=5",
+      "id": "c83563cf64e5",
+      "title": "AirTrunk to treble Japan data-centre investment to $43bn - The Weekly Times",
+      "summary": "AirTrunk to treble Japan data-centre investment to $43bn&nbsp;&nbsp;The Weekly Times",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPcE5pZnV5S3Fjc1NGcE5YQ2pKdTFrdmpoelg2OC1DRS1CcG4zR0dvOEhERk1Kc3hBcVh6TDZfbnFlWEhuZU5HeDRTRG11VzFHWGkzVjJHRFc5V3FZVEtoVEVGY2NpQW5XQ1lZWWk1NEV1MXh4MS1jVU5PZldGcHBRSG9FNUZwaldLVl9LdEdrTUdqc2xDTmo1dlRRZFE2TERKTnFCN2tmTVYzendVMXhjX0RHVm5oWDlMYnR5dENPYmVZTi1RLVVNZjNnZThiNWs2UmlvQmdzRnRBdVNZQlJpbkdzSmM1ZTFPQ0s4OXk2aVgwU2JYaEk0QXVIOTN2eU9sWmEzZjR0LXJjWWV2NGdhVkgtY1dZTlE?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-10-08T05:12:11+00:00",
+      "published_at": "2026-10-08T09:15:41+00:00",
       "tags": [
         "airtrunk"
       ],
       "relevance_score": 0.3
     },
     {
-      "id": "55aa19b71c25",
-      "title": "AirTrunk to treble Japan data-centre investment to $43bn - The Australian",
-      "summary": "AirTrunk to treble Japan data-centre investment to $43bn&nbsp;&nbsp;The Australian",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdDJycDBMOGJXYVhhQXdpSm9pMkVNLVJ3SUFGNFBFN2xFcS04dDVCR3RsOGNfdTFYRWVnU3lka3Q3eVUxdXBtNnlxVE9kMGJVWVo0Z1d0VnR6eG1lMmhnSkYtYUZiTDZtVVJCZ1BBaVUyY01lVlVwc3Rpdk9UdXdYeWpTa2Y1TzcyVm5rLWxza3hEam1jZEZ4d0lEMkN6QW56ajNzVzRKWmZpMC1XM3dWNWNYdXl3U2Y0MmZmb09xdEdUdU1HU3FXUlNsb01KQ20tbzFPeVZyMkFnUVBBeDdEMnotbEIyMEpoMm5ENjFtODZlX0ZsN29PdEtPdUVvRHRvbGxaWGk2SUhyTXo1?oc=5",
+      "id": "03be604e5d74",
+      "title": "Australian-founded AirTrunk unveils A$43 billion Japan data centre expansion - Proactive Investors Australia",
+      "summary": "Australian-founded AirTrunk unveils A$43 billion Japan data centre expansion&nbsp;&nbsp;Proactive Investors Australia",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlFHRzR0U0NCUlRETXBTbC1fNHg3TDRsQ1ZkWU8tdEI0R2s4QWwxYUhjY0FyQkFNZzRiSEZaa2JpT1ZZZnkzeldJeXBxd3lmS25EX3dWZjVzV0x5NGpMaWZHTnpFY3Utc1dZMWhnVk1GUEJla1dJUzhvaEdKUTNLeVlURVBBVG9YR1dVa1pJUFdEZ1V3aFo1eTl4WVFOS1pyakh4WW9WLWVTVDNYcWw1MjJfLUFQTVlDVnFkQ0Rn?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-10-08T03:14:00+00:00",
+      "published_at": "2026-10-08T05:12:11+00:00",
       "tags": [
         "airtrunk"
       ],
@@ -168,19 +204,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "0da1d36f238a",
-      "title": "Anthropic negotiates with AirTrunk\u2019s regional NSW data centre - AFR",
-      "summary": "Anthropic negotiates with AirTrunk\u2019s regional NSW data centre&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2F6S0xhNG80Ml8zbW5yUWhSak5LS3hRdnQ1MGNnWC1TRVl5T3hfUk51RlMyazh3MmVtYm8xR21abjh5X09hSWtkS1R6aU1QQVZwb29MeFg4Wm1ELWVtU21UUVlCdG9fUnAxQ09hNHBHWklJOWdvc0k1OU1ZWEowdDdkUHF4NXZqLW9HRk9lejFoVVA3MHRrZ2NiaDF6UEpSMHRGdm11cW1ONmM3WXc?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-09-22T07:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
     },
     {
       "id": "816ae2553885",
@@ -419,18 +442,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "7ea284c0b9fc",
-      "title": "NSW to manage data centre boom with new planning and cost measures - ARNnet",
-      "summary": "NSW to manage data centre boom with new planning and cost measures&nbsp;&nbsp;ARNnet",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkEtOWdrZGNMd2hfaWZ5Q0RmZlJud1lFc25RNDBWcWFibXU3dzFtcmpEdDc3X2FYaUJPN2lRZXByUDVSWExxNmQ4SDhGcWdlRS0yRFhZV05FTUtQZ0ZIQkdzd3pMcGREaEJHbVotUkd1aU05V2txRksxTVhBSXcxd0VsMi10a2dZRmlXLUotT2ZUSFdORXFQUFJkOENSbmNveDRILUI4TzJvOXRFbTZUNjEySQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-08-17T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
       "id": "776a4234cb6a",
       "title": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash - Daily Mail",
       "summary": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash&nbsp;&nbsp;Daily Mail",
@@ -616,6 +627,19 @@
       "relevance_score": 0.2
     },
     {
+      "id": "b813ed174378",
+      "title": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system - mezha.net",
+      "summary": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system&nbsp;&nbsp;mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jZzNrRkhZejdJcXk0Y3YyY3RQbFpHQXVjZHlnejFkWjM3bHYwNmlzc3MzVUsxVWZVNVE3V2FYZlR2eldRdTVvZnBtNGpGNG5KVkwxX2lpaVNOeTJrRlZjWmV0VkEyMzJicjZQTDJR?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "tags": [
+        "nextdc",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
+    {
       "id": "70c59a4a94db",
       "title": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report - Data Center Dynamics",
       "summary": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report&nbsp;&nbsp;Data Center Dynamics",
@@ -650,6 +674,19 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "a7e22cdefd4c",
+      "title": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system - mezha.net",
+      "summary": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system&nbsp;&nbsp;mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jZzNrRkhZejdJcXk0Y3YyY3RQbFpHQXVjZHlnejFkWjM3bHYwNmlzc3MzVUsxVWZVNVE3V2FYZlR2eldRdTVvZnBtNGpGNG5KVkwxX2lpaVNOeTJrRlZjWmV0VkEyMzJicjZQTDJR?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "tags": [
+        "nextdc",
+        "nsw"
+      ],
+      "relevance_score": 0.5
     },
     {
       "id": "8687641e5eeb",
