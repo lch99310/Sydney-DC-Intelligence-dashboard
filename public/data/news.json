@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-10-15T11:14:44.643973+00:00",
+  "last_updated": "2026-10-16T11:09:24.675669+00:00",
   "items": [
+    {
+      "id": "c5a06b7b97f0",
+      "title": "DigiCo signs 71MW lease for Sydney data center with unnamed tech firm - Data Center Dynamics",
+      "summary": "DigiCo signs 71MW lease for Sydney data center with unnamed tech firm&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkgteVVkSlFwSmg5YS1SMm84ZktzQ0R4QnBGb24wQ3lYUm5FWnMwZElfZE5teklfNHZGblpYSjRvMXh0VlVab0hkTlJsdV9XbS1kZjF0MVpDYl9RZzdZRTZVbE9GLThtQjc3TEJObmFPWjZnaTRYSUFEMURROHAwemY5OXU5WE9ZWTF1OS02akx6Ump2VnZnZDRxRWtPRGZkNWsweTNTcFk1UmJIN3U2Nlg1OA?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-10-15T16:23:56+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "fa739e061261",
+      "title": "DigiCo signs 71MW lease for Sydney data center with unnamed tech firm",
+      "summary": "Deal includes reallocation of 20MW of existing contracted capacity",
+      "url": "https://www.datacenterdynamics.com/en/news/digico-signs-71mw-lease-for-sydney-data-center-with-unnamed-tech-firm/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-10-15T16:20:29+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "bb48290bd76b",
+      "title": "DCD Studio: A year of data center development with Matthew Baynes, Schneider Electric",
+      "summary": "Seb Moss speaks with Matthew Baynes of Schneider Electric about adapting to AI-driven GPU growth through modular construction, liquid cooling, future-proof designs, and sustainable grid innovations.",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-a-year-of-data-center-development-with-matthew-baynes-schneider-electric/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-10-15T15:57:26+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
     {
       "id": "42c82572e982",
       "title": "Australia's SubCo to deploy new fiber route linking Sydney and Melbourne - Data Center Dynamics",
@@ -8,18 +44,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHB1MzEwUGhVcmViaWlIaXZoYk9ZNDZLV0xRQ053aDJjaU1NUUdkTUhiNkpmUm96VGkzT1lIcnlpbTA3RkRyUnJqeE5fQnNRLU9CVE5XTW1nelJ3bFU0SnZPWFBjejU3NDA4enplMzB4VlVKV0pxaVFWc2RLV2pPQmFWMFZjRUNqaENIdXdYT0R4ZXlLelcwbjVVZVNRX05JOE1DcGtxSmFNVDkwMnpBRUtvTWRDdw?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-10-15T08:36:09+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "36e68b56f3ae",
-      "title": "Australia's SubCo to deploy new fiber route linking Sydney and Melbourne",
-      "summary": "As founder Slattery suggests company may buy a new cable ship",
-      "url": "https://www.datacenterdynamics.com/en/news/australias-subco-to-deploy-new-fiber-route-linking-sydney-and-melbourne/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-10-15T08:34:57+00:00",
       "tags": [
         "nsw"
       ],
@@ -38,10 +62,10 @@
       "relevance_score": 0.2
     },
     {
-      "id": "49e00619a544",
-      "title": "EdgeConneX Enters Australia in Partnership with Stockland, with Hyperscale Data Center Campuses Planned in Sydney and Melbourne - Business Wire",
-      "summary": "EdgeConneX Enters Australia in Partnership with Stockland, with Hyperscale Data Center Campuses Planned in Sydney and Melbourne&nbsp;&nbsp;Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQOXBYRk9JMlpGM2FBZTZ6MUM3WUpYcXNaMHFCSnZYX0ItZzdDU2NDU3l4QndXcVo2Q1FRdVpwY3hZaHgwcE9OYk9nMF9MZXVqa280TWpfOWRTVjFicFhnaklxbzZ4dHF6dXVjbWZRbVEzT0NlRzFZcThOVG0wTWwxdWw1WTFIMUdWNG85ekJDWmhHTFpFNnNUUGhxVGdJTzl4LWZNcmhNcm8wYXFnb2E0MzV5ZkMtSU5MQ3dvVG9jRlFTYi1ObmN5ZlhqNjZJZXNKYjl4OHZpZXdsT2dENzZfdGVBN0J4eHdpRUJjbkVmbGU3SzdjSGpGMlcwS0dXNmJoZzM4dTZpN05jLTJUZDhYRA?oc=5",
+      "id": "3f6619eafb31",
+      "title": "EdgeConneX Enters Australia in Partnership with Stockland, with Hyperscale Data Center Campuses Planned in Sydney and Melbourne - Yahoo Finance",
+      "summary": "EdgeConneX Enters Australia in Partnership with Stockland, with Hyperscale Data Center Campuses Planned in Sydney and Melbourne&nbsp;&nbsp;Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0JMVDAybTRtVVdVQ1hWZjlvWllPS2pFMHROTjJLV1VWa3FWU2pxbmZ1eVpqTGtfcEF0c0JMNllRaFpoVWR1LTJZZkxQRFBwVUlha3dOWU1zM1p0OG54TEtxSTRrcTRvTlhRZUpReDRVVk9jcXBZYTZHSG9PTDN5cWhrcF81YWVXbzZBSVZkeFk5RVdlQnBkMGhLNWEzcmdRbWU5c0l4dHNjWFpETG13?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-10-14T21:01:00+00:00",
       "tags": [
@@ -175,7 +199,7 @@
       "summary": "Goodman\u2019s Japanese data center under fire following Sydney site setback&nbsp;&nbsp;The Japan Times",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa2pKaTY0eGhRd0FSVmZEMnVBQjl4RnZDWFlxbDJDZmtSYTBsXzJ3enl5aUNuTWRZczdGSE5nZU5OTXRzMzhjZzNIaTVtYWVEd2pqM0dmUDJqamVUVFppcHpPZkRvUGNxTklsYy12ZlU5eDJjUDV4MmZzazgwXy1CZkVTS2dsMndlMFV6YXhFVlYwM0htMHNHNEtPWQ?oc=5",
       "source": "Google News: Sydney DC",
-      "published_at": "2026-10-07T07:31:00+00:00",
+      "published_at": "2026-10-07T07:00:00+00:00",
       "tags": [
         "nsw"
       ],
@@ -276,6 +300,18 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "ca3ef9d7e2b7",
+      "title": "AirTrunk gains access to rival\u2019s files over $1.1b data centre dispute - AFR",
+      "summary": "AirTrunk gains access to rival\u2019s files over $1.1b data centre dispute&nbsp;&nbsp;AFR",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdW5lY2lIZUV5SmZ2Q3BsLWRhdXJzRlhxbUg5cjh5OTdfREJBNi1USTM2bEhvQjJnOWRpcXpRX2JXUldiWTZMRzFwWlAxTFZ1aVB5enA5UjV6eVQyeEN4aVBldkJyOThER3hIdzU4amNFSk9JakE0bWVGdThfOHhLS1oxdTd5WGFsZjc0bXJZenFXWGFsU003blVRSm5ncnpnbnZLY0RTRjVETDlnb2w4Nk5mcXNYZw?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-09-25T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "0da1d36f238a",
@@ -454,18 +490,6 @@
       "relevance_score": 0.6
     },
     {
-      "id": "5b31304a329c",
-      "title": "Australia\u2019s NSW becomes first state to detail national data centre rules with new framework - PV Tech",
-      "summary": "Australia\u2019s NSW becomes first state to detail national data centre rules with new framework&nbsp;&nbsp;PV Tech",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNakVydHNtRDVDUnhJbjFJa2d5MWVVdU1mMVVmQ294ZG5OVWVYb0FETmFmbjdiVmVtQ1ZSZzROMXc1SVRfZHV6YUtiNnZsbHJlUE5QYkNRb2diOUx4MjJIcm5ZWldLbkJmX0VaYkNtM3RmVDZrUURoRXVhRFdSdjdhcHotVnRuaTRZMmJ4SE93TG1YQnAxZFVDclZremQ3R3lYSldITU1HRzd6UnN6ZmpFZjdwVThzdw?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-08-17T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
       "id": "776a4234cb6a",
       "title": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash - Daily Mail",
       "summary": "Grim fears Sydney suburb will be turned into a 'data centre wasteland' as plans for a seventh eyesore spark backlash&nbsp;&nbsp;Daily Mail",
@@ -482,6 +506,18 @@
       "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - SMH.com.au",
       "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRm9RcjFISC1MZHNtQnBOQ2hUUzVVM25DYmpYcF9taFU3MUc2VFFCb09qU2lfVkMxc0ZpVXBleVhCY0xGV3ZHVkF1RkpkWlI0TFQzejhjcGpOYkItekhURFZzUnVnVC1vb2xSVC1SUkx1c3hLTlRiNVU3UzJnRlFPT2hLTEhvUnRkMDROcWxsLTk0Uzc1RG5udUk1Mk5EU3pZb0JYLWlUejlBMjY5RE1hdTRWLVJFUlhDTEpmV2NjcHlWSXFGdHlONjlnaUVlMC1YOXJMbVFpaHhjM1FvSGlr?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "21432f47f004",
+      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - The Age",
+      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;The Age",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmlQZ2tEcVhDaTVqU09WX0gyay1LWUNUMmhnNFZBNlZmRG1qS2hEbXMya0JpWlhucmpMWHZ5Z29pT2NJZ1pKR3JnWTVIU19ic2lNSW8wRzllYVVKLTc4a0EzSU5IdEFkOHN5NWpicUNSUHlOaUR6ODJzdTVtTkl1TGFZSG9OcEpRc2M5NWVCZGU4ZndUaTloQmZWRldqeVZhQjA2NTNCOGNsa19oX0lHZldYTFdqZlg0Nk16aHM4VUJGNzJlNjRPYmZrSk1nR18wUHRUYzVHTUl3b1VFMk1ScUNzcw?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-13T07:00:00+00:00",
       "tags": [
@@ -528,6 +564,18 @@
       "relevance_score": 0.5
     },
     {
+      "id": "028fd355b517",
+      "title": "Australia's new data centers must be majority renewable powered, says minister - The Standard (HK)",
+      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWURQOVZhTlZOMkdZY0dhdU5feE5QX0xSZFd3Y2U3RHhFTHM4TVQ1ZFlnTHpGN3JJU0J5YVV4VVpDaEN3MnNfMTRNc3lFeVJ6dXg0b2VicGhPeGVUZEVwRDVUWHNxV05IdGFIOTRFRllUSDl3TFY0UHFUZEdrR2cwYUZOQjhwOS03c0sxMktfdTdwSFpRSXJ1ZWV2SlY5aUIzaGJsUkpnTW5WZFRQSmdKc3JFc0I4OFpESWw3VW02a1M1Ymdz?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
       "id": "34552f031df1",
       "title": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion - World Construction Network",
       "summary": "Bouygues wins $1.3bn contract for AirTrunk\u2019s Sydney data centre expansion&nbsp;&nbsp;World Construction Network",
@@ -570,6 +618,18 @@
       "title": "Bouygues Construction secures expanded contract for AirTrunk's major hyperscale data centre campus in Australia - Bouygues Construction",
       "summary": "Bouygues Construction secures expanded contract for AirTrunk's major hyperscale data centre campus in Australia&nbsp;&nbsp;Bouygues Construction",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQXlTX3ZTeXYxQUZyX00tVVFNWEc2SmpxMnBhU2VhU2lON2dCM1lpU3ZWSzlCOE9kazFiOWZ6NDY3UnZtWlEtdE9tZjI0eDZLbFRhdzhkTk01N3ZmUnpxLXRvWnV0eV9NRHBEaVc1alM1VVNSd0ZhSWpWMXdnLVZ3REFGRllQT25vZ205NFVLNEpwSy1Eeko2Vk90QS1PR01QemNqNU43bXd3Y3NrM0ZDeFctSkdldVpOQklHNVNqX05DVlpEdVJLYWlSZDBTSTBzdU9Oajh6WFlRQW1FdENQMnRHYTZRa1A1V1Rod3VTRWp1a1JtREtURg?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "cce4d7d49abc",
+      "title": "Key facts: Bouygues SA \u20ac20.35B SFR bid; wins \u20ac1.2B AirTrunk data deal - TradingView",
+      "summary": "Key facts: Bouygues SA \u20ac20.35B SFR bid; wins \u20ac1.2B AirTrunk data deal&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0FHdzhwYjVabjI2UmRBampENzU5SEx1NktSUFl6MWt2ZEx6LXJBZG9pNmNTdGNBZjZBMGJrak1tNU5uT0ZxRVlZY1JDcGF0V2VuU01NWWh4bjZ1bG9kU29EenpPUmRQekltTjI5dnhYNWYxZ3dsQzFGUlJpNS1NM0szQnpUTEhNd0Vkd2tfOTIwSFdYZ3JERkxPdXVqaUEzUkJBNW5oWVpNdFpYMmNlSGxRbFQ1UFJMTlNOYzJlNkNrcDAyRlE?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-07-30T07:00:00+00:00",
       "tags": [
@@ -625,18 +685,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "8fbfba4f80b4",
-      "title": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns - Capital Brief",
-      "summary": "AirTrunk \u2018comfortable\u2019 with KPMG switch as emails reveal whistleblower concerns&nbsp;&nbsp;Capital Brief",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRkZEX0Z3Y2N0Nlp6S0U3ZkpYS240cnNnTTBnX1E5REg0YWpNODYyTFZIQ3ZLbjI0VncyM2pTaGF4cFJnM2VqamxrYS11TEMyV09jUnpOZ0MySVN1OE5ERE55UFRQYVhiVE1jWTR1X0NXT0xQQjlubHgyNThvbVh1aE94ZXowX0szQ0dUVmtZdXNmMF8wYjlodTJqaDNPUndUUndlMGxKQUZPWXVrc1VjWXBlZ2RmZ3JwSTNWVDZhd05ldl9HX1g1QWNEWGRCdlJEdm43dFdGSmJtTHhjWmZKQ3hRc1V2OGM?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "70c59a4a94db",
