@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-10-18T10:47:56.965966+00:00",
+  "last_updated": "2026-10-19T12:49:06.921040+00:00",
   "items": [
+    {
+      "id": "229fde9fbb5a",
+      "title": "GreenSquare launches first phase of data center campus in Sydney, Australia - Data Center Dynamics",
+      "summary": "GreenSquare launches first phase of data center campus in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzFYYTlJb0NkQzdSYWpTbHVfWTBmRWJCcERub0xSMk9tYllodzVmb1gwbmcwbWx0NDNGanpDZTdTR2VUb3NIaGVoUHdvbWFVYzlhbGYySVkwNHcxeEdCUWVtSVduSFNGNWo5OVFVUENmRXBId29UWkY1R1h2YW1rb2xzNmtKRm5xY0tzMlNwTWtCMUxZVWk4eGl5b01nMXRxc2oyeEc0bmJQMTk3UnVhNWxDR0ZGWXlUc0E?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-10-19T10:51:21+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "9525acad78f0",
+      "title": "GreenSquare launches first phase of data center campus in Sydney, Australia",
+      "summary": "Neocloud Sharon AI taking capacity at former IBM site",
+      "url": "https://www.datacenterdynamics.com/en/news/greensquare-launches-first-phase-of-data-center-campus-in-sydney-australia/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-10-19T10:49:02+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "42f8686bb2c4",
+      "title": "NEXTDC Limited [ASX:NXT] announces its Annual General Meeting in Sydney, Australia, 20 November 2026 - TradingView",
+      "summary": "NEXTDC Limited [ASX:NXT] announces its Annual General Meeting in Sydney, Australia, 20 November 2026&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZEpMTjE3VGk4UXd6YWdhb0ttVURuVUM0REpqdWlzQk10UFJKNV9jNHVncU9uSDl0RENLSE5vbUZJSmozUlV6dzV0TTZieWQxU3dpSFZ2OTFOZmt6dFNVWC15UEhkaUtDTm45Mk5oV0ZWXzl2SEw0NUZRRHRsYVhhRnZnd2p3c0pnREh0aldTd21laXNoalk0N2tLZnpEZkxXdHZLenNNMnN4bDBvX1k5ZnNzclpQeXhXaUFnWllUWVZiSU1DY1lMVzJIZ2s0NWhxMUtFTWswUkFMVTUtVnlLWG96Q00?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-10-19T02:21:00+00:00",
+      "tags": [
+        "nextdc",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
     {
       "id": "9d533dd9ede9",
       "title": "SYDNEY (SN FLORIDA DEMS DATA CENTER) 4 LIVE PKG, 6 LIVE VS - WINK News",
@@ -31,7 +68,7 @@
       "summary": "SHAPE Australia Lands A$800 Million Sydney Data Center Job&nbsp;&nbsp;Finimize",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaFNkdXJRUFZwTzl2UURmT185S3VVVjFVNDc3ZGtoTGItMzc0ay03SmFvaE9xRmhrSnpEQmRUNHNuTF9qc2F1bjlqNVBVSUQtUkxLbzVTQXhaLWYyN3dwYVg2cUZVN2dCQWJiSU5iS19NaVJmRktzRFdzSFM0RVJnSm9CTFV0cG8zdEw1b2tYOA?oc=5",
       "source": "Google News: Sydney DC",
-      "published_at": "2026-10-15T08:23:35+00:00",
+      "published_at": "2026-10-14T22:23:35+00:00",
       "tags": [
         "nsw"
       ],
@@ -122,18 +159,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "d5f67ee66625",
-      "title": "AirTrunk secures USD 1 bln loan for AI capacity in Japan - Telecompaper",
-      "summary": "AirTrunk secures USD 1 bln loan for AI capacity in Japan&nbsp;&nbsp;Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ01XcENIaXZDczlYLTFyOW55MlJUU0cyV0VRMVZGei1YdDlSc0JDMGxsSk5Sc3hKUjBJY3dGZS1Xd09lNUJ0WmtZYzhXenFSVllsWGxIZUFOdHlZUUFGU0JoTy1qak1nUnkzaGdMb1RVc2lraDA3Mm9VTHBTN1RxbTVXc2FpQzRsQ1M0R3AxWDA5RWFBMVVpaUdIeUNKSkdt?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-10-09T04:57:40+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "c3f6dae9b88b",
       "title": "Summer Research Highlight: Communications Intern Sydney Peterson - UW-Milwaukee",
       "summary": "Summer Research Highlight: Communications Intern Sydney Peterson&nbsp;&nbsp;UW-Milwaukee",
@@ -146,10 +171,10 @@
       "relevance_score": 0.2
     },
     {
-      "id": "55aa19b71c25",
-      "title": "AirTrunk to treble Japan data-centre investment to $43bn - The Australian",
-      "summary": "AirTrunk to treble Japan data-centre investment to $43bn&nbsp;&nbsp;The Australian",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdDJycDBMOGJXYVhhQXdpSm9pMkVNLVJ3SUFGNFBFN2xFcS04dDVCR3RsOGNfdTFYRWVnU3lka3Q3eVUxdXBtNnlxVE9kMGJVWVo0Z1d0VnR6eG1lMmhnSkYtYUZiTDZtVVJCZ1BBaVUyY01lVlVwc3Rpdk9UdXdYeWpTa2Y1TzcyVm5rLWxza3hEam1jZEZ4d0lEMkN6QW56ajNzVzRKWmZpMC1XM3dWNWNYdXl3U2Y0MmZmb09xdEdUdU1HU3FXUlNsb01KQ20tbzFPeVZyMkFnUVBBeDdEMnotbEIyMEpoMm5ENjFtODZlX0ZsN29PdEtPdUVvRHRvbGxaWGk2SUhyTXo1?oc=5",
+      "id": "03be604e5d74",
+      "title": "Australian-founded AirTrunk unveils A$43 billion Japan data centre expansion - Proactive Investors Australia",
+      "summary": "Australian-founded AirTrunk unveils A$43 billion Japan data centre expansion&nbsp;&nbsp;Proactive Investors Australia",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlFHRzR0U0NCUlRETXBTbC1fNHg3TDRsQ1ZkWU8tdEI0R2s4QWwxYUhjY0FyQkFNZzRiSEZaa2JpT1ZZZnkzeldJeXBxd3lmS25EX3dWZjVzV0x5NGpMaWZHTnpFY3Utc1dZMWhnVk1GUEJla1dJUzhvaEdKUTNLeVlURVBBVG9YR1dVa1pJUFdEZ1V3aFo1eTl4WVFOS1pyakh4WW9WLWVTVDNYcWw1MjJfLUFQTVlDVnFkQ0Rn?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-10-08T07:00:00+00:00",
       "tags": [
@@ -158,12 +183,12 @@
       "relevance_score": 0.3
     },
     {
-      "id": "a37f93bbf63b",
-      "title": "Australian-founded AirTrunk unveils A$43 billion Japan data centre expansion - proactiveinvestors.com.au",
-      "summary": "Australian-founded AirTrunk unveils A$43 billion Japan data centre expansion&nbsp;&nbsp;proactiveinvestors.com.au",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlFHRzR0U0NCUlRETXBTbC1fNHg3TDRsQ1ZkWU8tdEI0R2s4QWwxYUhjY0FyQkFNZzRiSEZaa2JpT1ZZZnkzeldJeXBxd3lmS25EX3dWZjVzV0x5NGpMaWZHTnpFY3Utc1dZMWhnVk1GUEJla1dJUzhvaEdKUTNLeVlURVBBVG9YR1dVa1pJUFdEZ1V3aFo1eTl4WVFOS1pyakh4WW9WLWVTVDNYcWw1MjJfLUFQTVlDVnFkQ0Rn?oc=5",
+      "id": "55aa19b71c25",
+      "title": "AirTrunk to treble Japan data-centre investment to $43bn - The Australian",
+      "summary": "AirTrunk to treble Japan data-centre investment to $43bn&nbsp;&nbsp;The Australian",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdDJycDBMOGJXYVhhQXdpSm9pMkVNLVJ3SUFGNFBFN2xFcS04dDVCR3RsOGNfdTFYRWVnU3lka3Q3eVUxdXBtNnlxVE9kMGJVWVo0Z1d0VnR6eG1lMmhnSkYtYUZiTDZtVVJCZ1BBaVUyY01lVlVwc3Rpdk9UdXdYeWpTa2Y1TzcyVm5rLWxza3hEam1jZEZ4d0lEMkN6QW56ajNzVzRKWmZpMC1XM3dWNWNYdXl3U2Y0MmZmb09xdEdUdU1HU3FXUlNsb01KQ20tbzFPeVZyMkFnUVBBeDdEMnotbEIyMEpoMm5ENjFtODZlX0ZsN29PdEtPdUVvRHRvbGxaWGk2SUhyTXo1?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-10-08T05:12:11+00:00",
+      "published_at": "2026-10-08T07:00:00+00:00",
       "tags": [
         "airtrunk"
       ],
@@ -688,19 +713,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "e48c7badc1ba",
-      "title": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system - Mezha.net",
-      "summary": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system&nbsp;&nbsp;Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jZzNrRkhZejdJcXk0Y3YyY3RQbFpHQXVjZHlnejFkWjM3bHYwNmlzc3MzVUsxVWZVNVE3V2FYZlR2eldRdTVvZnBtNGpGNG5KVkwxX2lpaVNOeTJrRlZjWmV0VkEyMzJicjZQTDJR?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
       "id": "78c67c296c2b",
       "title": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report - Data Center Dynamics",
       "summary": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report&nbsp;&nbsp;Data Center Dynamics",
@@ -711,44 +723,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "6cf5c43bc5cb",
-      "title": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system - Mezha.net",
-      "summary": "NEXTDC abandons recycled water cooling for OpenAI data centre in Sydney and opts for energy intensive system&nbsp;&nbsp;Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jZzNrRkhZejdJcXk0Y3YyY3RQbFpHQXVjZHlnejFkWjM3bHYwNmlzc3MzVUsxVWZVNVE3V2FYZlR2eldRdTVvZnBtNGpGNG5KVkwxX2lpaVNOeTJrRlZjWmV0VkEyMzJicjZQTDJR?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
-      "id": "51a659352f2d",
-      "title": "Inside AirTrunk\u2019s plans to create a $4.4b Singapore-listed giant - AFR",
-      "summary": "Inside AirTrunk\u2019s plans to create a $4.4b Singapore-listed giant&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHFVLURwY2I1SFY4alBsWjVWSDNucUdia0tjWEJYb2pYRnZLQ3JKaTcxZy1vWldrTmpSUXBSdEhyMTBadGRPRHU4VmlUVXJZT05WRjZiekFnWGVNVFp3Mk9YS2w3bXdEWFprMXVXZnVCTTBGSlVvWXl4QlozZ1B6U3hBdjVSY3EzbnZBSlVZT0xkQ2VtY3ozRXJEN3ZzcU03eU92Yy16S25fcGR4TnZXMg?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-07-21T07:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "c7176722fa47",
-      "title": "NextDC account manager sues over commissions on Melbourne, Sydney centre deals - Lawyerly",
-      "summary": "NextDC account manager sues over commissions on Melbourne, Sydney centre deals&nbsp;&nbsp;Lawyerly",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQkNZNVZfMXlORmtNVkZVWDV4Q2F2X1IzY2lpRXZmc0ZQcy1teVRzR2drZFVTRU1HZEowZEdRVDdoa2JianRiZEYtZVRudFpqZG5NRE16N1hTdWd1M19NaXRrS2NOR1JobGkyeHlGNUVaNmdnMWh2aGUzVGtVMVFITmxVMXYyLU1JZWticmhYUlJRS3JwUDJGV2poRXpiNXExUjhZcjVmUVlBQQ?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-07-21T07:00:00+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
     }
   ]
 }
