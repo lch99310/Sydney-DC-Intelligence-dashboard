@@ -1,12 +1,8 @@
 {
-  "last_updated": "2026-10-18T07:00:03.391447+00:00",
+  "last_updated": "2026-10-19T07:23:00.610317+00:00",
   "nsw_spot_price": {
-    "current_rrp": 88.86,
+    "current_rrp": 90.21,
     "daily_avg": [
-      {
-        "date": "2025-10-19",
-        "price": 41.92
-      },
       {
         "date": "2025-10-20",
         "price": 65.82
@@ -1461,7 +1457,11 @@
       },
       {
         "date": "2026-10-18",
-        "price": 88.86
+        "price": 74.85
+      },
+      {
+        "date": "2026-10-19",
+        "price": 90.21
       }
     ],
     "monthly_avg": [
@@ -1515,17 +1515,17 @@
       },
       {
         "month": "2026-10",
-        "price": 151.74
+        "price": 147.47
       }
     ]
   },
   "generation_mix": [],
   "renewable_trend": [],
   "cost_model": {
-    "wholesale_avg_12m": 78.42,
+    "wholesale_avg_12m": 78.49,
     "network_charge_estimate": 50,
     "lgc_price_estimate": 35,
-    "total_all_in_estimate": 163.42,
+    "total_all_in_estimate": 163.49,
     "notes": "NSW 12-month wholesale avg from AEMO PRICE_AND_DEMAND CSV. Network and LGC are static estimates (manually reviewed)."
   }
 }
