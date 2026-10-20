@@ -1,25 +1,49 @@
 {
-  "last_updated": "2026-10-19T12:49:06.921040+00:00",
+  "last_updated": "2026-10-20T11:18:46.063491+00:00",
   "items": [
+    {
+      "id": "88208fa783cb",
+      "title": "Enersense and Betolar Oyj to develop security solutions for substations and data centers across the Baltics",
+      "summary": "Finnish firms will target grid and industrial customers",
+      "url": "https://www.datacenterdynamics.com/en/news/enersense-and-betolar-oyj-to-develop-security-solutions-for-substations-and-data-centers-across-the-baltics/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-10-20T10:51:00+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "fd6252731a10",
+      "title": "Google expands partnership with Entergy Arkansas, will fund renewable energy and grid upgrades for West Memphis data center",
+      "summary": "Inks 440MW PPA and backs two BESS projects",
+      "url": "https://www.datacenterdynamics.com/en/news/google-expands-partnership-with-entergy-arkansas-will-fund-renewable-energy-and-grid-upgrades-for-west-memphis-data-center/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-10-20T09:12:00+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "1a941fffe92d",
+      "title": "IREN, AirTrunk tout track record as market sifts 'winners and losers' post-Firmus shock - Capital Brief",
+      "summary": "IREN, AirTrunk tout track record as market sifts 'winners and losers' post-Firmus shock&nbsp;&nbsp;Capital Brief",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZzRmTS1nM2tWOEUySnJMaW1IdTNhWmFxTU5UMUpTMno4bldNbm9MR1Jzc2VJV3V0VUxZOHhmbXRDdEVicWFHQW51Rm9KQVo5R0xSN0V5OG13X293d1NuVUNMbmZxT01jcWV2elBKaFFFZk1LLXRuZEFlcjhTWG0taUFwcUc4cmpQS21Hdm5tV0ZhWE5jOGQ0SktVS2tQOGpzeW5VV19fbzhsdkdsMm5HUm9WMDJPTXJnenJScmpaTjZZRHowSHRtLWF0TDBZN3ROVjZ4MUdfd3RvOV9mMnBFZ0RURlV6b0ZoT3JPSUZLRXM?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-10-20T05:41:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
     {
       "id": "229fde9fbb5a",
       "title": "GreenSquare launches first phase of data center campus in Sydney, Australia - Data Center Dynamics",
       "summary": "GreenSquare launches first phase of data center campus in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzFYYTlJb0NkQzdSYWpTbHVfWTBmRWJCcERub0xSMk9tYllodzVmb1gwbmcwbWx0NDNGanpDZTdTR2VUb3NIaGVoUHdvbWFVYzlhbGYySVkwNHcxeEdCUWVtSVduSFNGNWo5OVFVUENmRXBId29UWkY1R1h2YW1rb2xzNmtKRm5xY0tzMlNwTWtCMUxZVWk4eGl5b01nMXRxc2oyeEc0bmJQMTk3UnVhNWxDR0ZGWXlUc0E?oc=5",
       "source": "Google News: Sydney DC",
-      "published_at": "2026-10-19T10:51:21+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "9525acad78f0",
-      "title": "GreenSquare launches first phase of data center campus in Sydney, Australia",
-      "summary": "Neocloud Sharon AI taking capacity at former IBM site",
-      "url": "https://www.datacenterdynamics.com/en/news/greensquare-launches-first-phase-of-data-center-campus-in-sydney-australia/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-10-19T10:49:02+00:00",
+      "published_at": "2026-10-19T10:56:48+00:00",
       "tags": [
         "nsw"
       ],
@@ -111,48 +135,24 @@
       "relevance_score": 0.3
     },
     {
+      "id": "339438c4a0fb",
+      "title": "ASX data centre stocks crack as Firmus and AirTrunk listings stall - Market Index",
+      "summary": "ASX data centre stocks crack as Firmus and AirTrunk listings stall&nbsp;&nbsp;Market Index",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1ZsVGVpc1JnQ0U0cnI1UGRhcFA5SUx6TFdiWFZUNXBZUkJFUE12UTFCR1F6b1l1bmFfbHRrNkhkQUpJR2RxcXhDVldRbHRsMFhkU0xCQUlWRjJZQWFURWJ3UXhNTU9ObmctVUZPU0R4US05LTM4c0FnUUZBZkJzdE85UzlRaERWVmpUemZTbUxHQndWRExDWlJmaGNpamlUakJSdg?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-10-14T04:11:52+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "0f96a7b51cbd",
       "title": "AirTrunk halts Singapore float as market chaos hits AI boom - The Australian",
       "summary": "AirTrunk halts Singapore float as market chaos hits AI boom&nbsp;&nbsp;The Australian",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSlNOS0N1b1phZUQzb29MUGJ2bDVHS2kzR3g2WWVnY25raFNZcjk5b3UxNkxGek5DUVgxcWVTV1VkX0xhcjRmVlJmdUhHZmhLbWszZnFvTFpuZlFUX1hraktNZXFYTndlWEN6WE84dnl1eVFrSGxmeEVBaUhRblo0WG9EOW1pZy03MWJEYnVrNjRlNWJxcWlaNFdEaHNrbXdITkFvMGhFQ2l3MldFV3cyaUI2ZUx6RGlMaHVTUTgxUDlfT2hqRF8zYWx0emU3dEFaTnF5WmNSUzRRRDlYcTdoSF9OLXpFTDBUcm45aHlhcm1WZW12RHQzaXlvc1EtTE1BSzZFVzJwNlhjYllHaXc?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-10-13T23:40:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "6c92c03000a3",
-      "title": "Blackstone-Backed Data Center Firm AirTrunk Reportedly Delaying $1.5B IPO - Bisnow",
-      "summary": "Blackstone-Backed Data Center Firm AirTrunk Reportedly Delaying $1.5B IPO&nbsp;&nbsp;Bisnow",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzVTRmpnTl9jRDVDdjUxMDN4VHVQbklTLXFKZkk4VWFFSkZ1cVctcUZvZThzdmFQOVpHT2cybmYxZnNXNHB6VFV5eTVoYnEza0NOR2JscjFWZk5WQzJpMUpOSzNpdTRiY2J0aFc4NGlzMFp2OFVHOTREYjhGTWJaakF5QkJfenZ1WFNNLV91VjFaQURVd1FvbmxiWVRkOHdMeEdFbXl1U0lKeXBGanc?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-10-13T19:33:45+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "1aafa2278f3c",
-      "title": "Blackstone-Backed Data Center Firm AirTrunk Reportedly Delaying $1.5B IPO - Bisnow",
-      "summary": "Blackstone-Backed Data Center Firm AirTrunk Reportedly Delaying $1.5B IPO&nbsp;&nbsp;Bisnow",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzVTRmpnTl9jRDVDdjUxMDN4VHVQbklTLXFKZkk4VWFFSkZ1cVctcUZvZThzdmFQOVpHT2cybmYxZnNXNHB6VFV5eTVoYnEza0NOR2JscjFWZk5WQzJpMUpOSzNpdTRiY2J0aFc4NGlzMFp2OFVHOTREYjhGTWJaakF5QkJfenZ1WFNNLV91VjFaQURVd1FvbmxiWVRkOHdMeEdFbXl1U0lKeXBGanc?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-10-13T19:33:45+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "81c8974f0fdf",
-      "title": "Blackstone-backed AirTrunk delays Singapore Reit IPO amid AI stock sell-off, sources say - The Business Times",
-      "summary": "Blackstone-backed AirTrunk delays Singapore Reit IPO amid AI stock sell-off, sources say&nbsp;&nbsp;The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ0haeldTUTVZXzdLMUwxWGQ3TVdPZE81eEVkM3lTZGhpT0ZHZXM2cWxtVXBDWFF5ejNhVTNHcVVwMmxmcVF0SWJMNGRNcUVIeDkxNGtwMGpyR21JY3Q5WVpCWDBqandXbTJtR0NCNWxIZWdsU1JQam0yX0dGSmZmV3dSQ1J1SzZob1J0UGMtSVBEWExGcmlKQ3d4TmxNWnpoWWs5TkQtTk5pZlFfU2hkNG93OElJZmNNaUNadTJiQzk5aGpseHhLM0F5QUdxSUk?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-10-13T11:31:00+00:00",
       "tags": [
         "airtrunk"
       ],
@@ -217,6 +217,19 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "2d722f92ecc2",
+      "title": "Telstra expands Aura Network with launch of Perth-Sydney route - Data Center Dynamics",
+      "summary": "Telstra expands Aura Network with launch of Perth-Sydney route&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT2ZLS1I2cXFEOEhnd1Rjbkx2UkFFbnk0dVdicEtiZGJVUkpyMGNXNVMzcFh6YUlPdk5RN0tSOHlwVnJRU0RnMFJ6bkRLa1BObENUY2VEU0JrOW1ZVnRIS1ZSS1FXVzFUSXhyd2ZTSnk2RlhZOTlua1k1Y1YwMnlmNzlsT1FoakdFOW1zcjltbkFoWkJ4TjdldUNDcGxXUFRaYTU3T1VfVmZydw?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "tags": [
+        "nsw",
+        "telstra"
+      ],
+      "relevance_score": 0.5
     },
     {
       "id": "4385833ebba5",
@@ -437,6 +450,18 @@
         "nsw"
       ],
       "relevance_score": 0.5
+    },
+    {
+      "id": "b1198b9864cf",
+      "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center - Nasdaq",
+      "summary": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center&nbsp;&nbsp;Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX1lhU25RMXVNeW1pNVhFaERiZVI1WkhDd3BwSHB2SnNCeERBVVVqUnJkM2xHVWZsSU9kVnNQNnY0dmV1a00wSjNBMXdqNWNVTWR0U3loS2RpT2U0TU9xU1Y3MGpmLWtQVUExVjlEWHR2dklDVUZZWGZMNlJISnpxbF9WSGkzNXNnZWFXUVF6emRORlNZbVVRRlkxMUxJbS1hMEtlYUJmRQ?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "tags": [
+        "equinix"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "070676389005",
