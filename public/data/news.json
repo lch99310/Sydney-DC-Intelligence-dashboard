@@ -1,34 +1,106 @@
 {
-  "last_updated": "2026-10-20T11:18:46.063491+00:00",
+  "last_updated": "2026-10-21T11:34:10.738933+00:00",
   "items": [
     {
-      "id": "88208fa783cb",
-      "title": "Enersense and Betolar Oyj to develop security solutions for substations and data centers across the Baltics",
-      "summary": "Finnish firms will target grid and industrial customers",
-      "url": "https://www.datacenterdynamics.com/en/news/enersense-and-betolar-oyj-to-develop-security-solutions-for-substations-and-data-centers-across-the-baltics/",
+      "id": "13a183ca5bec",
+      "title": "Hitachi Energy teams up with Ansaldo to develop integrated power solutions for data center sector and grid",
+      "summary": "Japanese giant inks MoU with Italian energy firm",
+      "url": "https://www.datacenterdynamics.com/en/news/hitachi-energy-teams-up-with-ansaldo-to-develop-integrated-power-solutions-for-data-center-sector-and-grid/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-10-20T10:51:00+00:00",
+      "published_at": "2026-10-21T10:35:52+00:00",
       "tags": [
         "energy_policy"
       ],
       "relevance_score": 0.1
     },
     {
-      "id": "fd6252731a10",
-      "title": "Google expands partnership with Entergy Arkansas, will fund renewable energy and grid upgrades for West Memphis data center",
-      "summary": "Inks 440MW PPA and backs two BESS projects",
-      "url": "https://www.datacenterdynamics.com/en/news/google-expands-partnership-with-entergy-arkansas-will-fund-renewable-energy-and-grid-upgrades-for-west-memphis-data-center/",
+      "id": "2a8193be3eb6",
+      "title": "NTT and Docomo to pilot AI-controlled base stations to boost renewable use and support demand response",
+      "summary": "Plan to complete the demonstration by the end of December",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-and-docomo-to-pilot-ai-controlled-base-stations-to-boost-renewable-use-and-support-demand-response/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-10-20T09:12:00+00:00",
+      "published_at": "2026-10-21T10:33:11+00:00",
       "tags": [
         "energy_policy"
       ],
       "relevance_score": 0.1
     },
     {
-      "id": "1a941fffe92d",
-      "title": "IREN, AirTrunk tout track record as market sifts 'winners and losers' post-Firmus shock - Capital Brief",
-      "summary": "IREN, AirTrunk tout track record as market sifts 'winners and losers' post-Firmus shock&nbsp;&nbsp;Capital Brief",
+      "id": "b6c04894dc01",
+      "title": "NextDC: Neighbourhood power pole dispute wipes billions in value off Australian data centre giant - Nine.com.au",
+      "summary": "NextDC: Neighbourhood power pole dispute wipes billions in value off Australian data centre giant&nbsp;&nbsp;Nine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSVNoVTk3bzQ0Q3Z2NW1FTUwxam9qQ0FwWWVCQ0Z6R3FmblhEMHFtRlNaVjB6YnRUN0dHdWRxZkg0MG9kN3NfWDQ2S2VydnByVXhNQ0N4UGZGXzRwMFZRQ1VRWEdHZnd5dUxBZm1vM01QYzc3cVBVdUQ4UGgzVkRjNlhxQkVtd3ZURElRa3NJaHFLcWlmZ0JMRUxUZDFzbElzS1pBRFFUQzZsY1ZxbFNYOGJEMHdUR3Y3ZG1YTWFUOERFTzh0WXdMS2wxb29Ca2Y0aUhtaFlXa1NiSmg2Q3Y4VkJMV2l2TVM2V2RKNlBTaXRwQQ?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-10-21T09:35:18+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "8258867e0315",
+      "title": "Nextdc Shares Plunge 44% After Public Backlash Hits Data Center - Bloomberg.com",
+      "summary": "Nextdc Shares Plunge 44% After Public Backlash Hits Data Center&nbsp;&nbsp;Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2cycW1CNXNjRGR3blYyX0w5SWpPYURMTUFCQ1l6M1lJRUlPcHB6NHM3MncxQy1wYXBkeW12eC1lTmJHMXhPNWJUeXNTcFR3cEZLMmlCamtNcEZCbHpLbVN2aXJNM0lDWmZKemsyX0p3N05hMXBVdVFiOEhrQl82ZVBMRWFmanZqUHJabnQzUWJFYnI3Sl9QVGprLVNSVDFxNFlkb0dSX1JBMVZrY2NwMVM2ams?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-10-21T05:55:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "bf23a8812fc5",
+      "title": "Nextdc Shares Plunge 44% After Public Backlash Hits Data Center - Bloomberg.com",
+      "summary": "Nextdc Shares Plunge 44% After Public Backlash Hits Data Center&nbsp;&nbsp;Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2cycW1CNXNjRGR3blYyX0w5SWpPYURMTUFCQ1l6M1lJRUlPcHB6NHM3MncxQy1wYXBkeW12eC1lTmJHMXhPNWJUeXNTcFR3cEZLMmlCamtNcEZCbHpLbVN2aXJNM0lDWmZKemsyX0p3N05hMXBVdVFiOEhrQl82ZVBMRWFmanZqUHJabnQzUWJFYnI3Sl9QVGprLVNSVDFxNFlkb0dSX1JBMVZrY2NwMVM2ams?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-10-21T05:55:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "b569fb12ca7f",
+      "title": "Australian AI data centre operator NextDC shares shed 44% on revenue delay - Central Oregon Daily",
+      "summary": "Australian AI data centre operator NextDC shares shed 44% on revenue delay&nbsp;&nbsp;Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSjRhWVhqWXVVZXpEZXZWOERMQkxUTFhzTXRuMmwwbzB2NzN2cTFnT2oxWFpiMVhCTm9aejR1Y25RM3dESUExV0xMUVhRQnIzcngyc2swd0hsSnBWWjVUTDgtejJZQlAwUlFTbllKRHZYZnJ5RVZXRXY1QURhT1luVU5pNTlfWTE0ejNjdU1weldydEJpNnVISUdxV3FBU3M5cmFRS0hyUFo1MUVvYXVSRTg2NXJZa1VwVHZnd2wtSzVhb1VJbFJvV2cwUlAyb3BHbS12cHlGUzM1MDRiMF9fX2RpRUNfMVM1RlpaS1NYOUh3WFQ2andoUHJpVzZGTzF4X3c?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-10-21T01:25:11+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "36bb15331e07",
+      "title": "Australian AI data centre operator NextDC shares shed 42% on revenue delay, future plans on hold - Reuters",
+      "summary": "Australian AI data centre operator NextDC shares shed 42% on revenue delay, future plans on hold&nbsp;&nbsp;Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWJyOF9XbWhodGFsMWVRYUhMYzlCUDRMR2ZqRDdTdTFsOTJZWVdTcS1sRTg1UldzbkMyN1JTMkFmWkpJT0s0NkVnOWgyeXNlRnMwOVlXX3RueEt4SkJ6OTU2em5yZzBpS3o5Q3paWUk1WjJLNXhrUjQ4bGhUb2xjSHYzOTV4N3lreHREMkFBa0F3bVpJdE9VMHg4d0d4ZWJJbVFEX2xZM0xyOU9PMWItaXItTUVSWWlid003RExodnIxUFE?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-10-21T01:25:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "c02f9c4a1c45",
+      "title": "AirTrunk, Iren warn data centre investors now \u2018a lot more selective\u2019 - AFR",
+      "summary": "AirTrunk, Iren warn data centre investors now \u2018a lot more selective\u2019&nbsp;&nbsp;AFR",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUxxODFSS25iZ1RRM1A3NFN3ckM2WlZiNTdWOEFUNTc4Y2pWSFJKYXJYcjdPRkVvaHpxWTB1RzJ0MkotLUQ1OW5PWUZsMTVQaUdaWUJoSGZweExFNVJmRS1hZXY2ODZvdENRZVVZdC1YZTFHVnRkbnlIWi1YX1VmdkFOOGpnUzBkQXNHV1JpLV92NlkyTDE2eTI0bEZIczNpa2lkZUc3YUFKODdVaXdqcTRSV3JFRG44QS1MV3ByUzcyOG9T?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-10-20T18:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "c98f45d87e76",
+      "title": "IREN, AirTrunk tout track records as market sifts 'winners and losers' post-Firmus shock - Capital Brief",
+      "summary": "IREN, AirTrunk tout track records as market sifts 'winners and losers' post-Firmus shock&nbsp;&nbsp;Capital Brief",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZzRmTS1nM2tWOEUySnJMaW1IdTNhWmFxTU5UMUpTMno4bldNbm9MR1Jzc2VJV3V0VUxZOHhmbXRDdEVicWFHQW51Rm9KQVo5R0xSN0V5OG13X293d1NuVUNMbmZxT01jcWV2elBKaFFFZk1LLXRuZEFlcjhTWG0taUFwcUc4cmpQS21Hdm5tV0ZhWE5jOGQ0SktVS2tQOGpzeW5VV19fbzhsdkdsMm5HUm9WMDJPTXJnenJScmpaTjZZRHowSHRtLWF0TDBZN3ROVjZ4MUdfd3RvOV9mMnBFZ0RURlV6b0ZoT3JPSUZLRXM?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-10-20T05:41:00+00:00",
@@ -268,6 +340,18 @@
       "relevance_score": 0.3
     },
     {
+      "id": "0de70084595a",
+      "title": "Sydney data centre plan scrapped by developer after community backlash - The Straits Times",
+      "summary": "Sydney data centre plan scrapped by developer after community backlash&nbsp;&nbsp;The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHpSaFdUQmhzYTBzTHBGQUJVWGxJanVXcUZoOVVnQk40UUQzQVQyT2hFaEdkTTNUb0h0V3hvZnRaLW1WbDVrbU9vbjZpZl9XME5VV19tUkpyTUh0ZzdfcHljN0UyVkRHMDJwT0lpc0NUc29zMmltbktqa25zOW5qTkpkbVNBNV9OZU0ycGRUWkhUMmZoUnBsVWNUeFhtWUVHQUZSVlRDY29uaHkxcHI4ekxOVlp6Rmc?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-09-29T07:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
       "id": "3fb5f26a94a1",
       "title": "Goodman withdraws application for 90MW data center campus in Sydney, Australia - BeBeez International",
       "summary": "Goodman withdraws application for 90MW data center campus in Sydney, Australia&nbsp;&nbsp;BeBeez International",
@@ -378,6 +462,18 @@
       "relevance_score": 0.3
     },
     {
+      "id": "cf5690fd1fef",
+      "title": "NEXTDC wins DCA Innovation Achievement for Liquid Cooling - NEXTDC",
+      "summary": "NEXTDC wins DCA Innovation Achievement for Liquid Cooling&nbsp;&nbsp;NEXTDC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR05PUENya3BESVMzR2VSNEhxX0dIdExiNDFaSGVKOEJUanAwNzRaOTBRRmxNT1dTeFhXcHptZVZnaFhRblFkQXdmeHJiQWdmbkpEaE1IM3B4aS1ZaEJ2TGlyVzFKcUxBOVBsbFJqaFdpXzBZQlBVSVhYQjdxbWxkZGt2VVlUem9SbVZnVUxB0gGeAUFVX3lxTFBmTzlmWG5ucmFPTU1lVU95YW9vM2ZMaVJwUEp0Y2tCX1I4RGtGcl9KSFZnNTdSX2RBb2NBRFFTZG5IMmxKSkFaVnM1ZnYyMlk0b1FNN3gtQkJweHVfU2c1SnNqYTZtODIzOGkwaHlrQV9nUFotX1ZnQVNmelpLTkJYWnM5QmlWSUd6THp4WHgxTmZDZG5WeU5pSGtqU253?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "4f49408bc8b6",
       "title": "$2.8bn Sydney Data Center Project Gains AI Boost as AirTrunk Joins Nvidia\u2019s 2GW Australia Buildout - Construction Review",
       "summary": "$2.8bn Sydney Data Center Project Gains AI Boost as AirTrunk Joins Nvidia\u2019s 2GW Australia Buildout&nbsp;&nbsp;Construction Review",
@@ -450,18 +546,6 @@
         "nsw"
       ],
       "relevance_score": 0.5
-    },
-    {
-      "id": "b1198b9864cf",
-      "title": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center - Nasdaq",
-      "summary": "Diraq to Deploy a Quantum Computer Inside an Equinix Data Center&nbsp;&nbsp;Nasdaq",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX1lhU25RMXVNeW1pNVhFaERiZVI1WkhDd3BwSHB2SnNCeERBVVVqUnJkM2xHVWZsSU9kVnNQNnY0dmV1a00wSjNBMXdqNWNVTWR0U3loS2RpT2U0TU9xU1Y3MGpmLWtQVUExVjlEWHR2dklDVUZZWGZMNlJISnpxbF9WSGkzNXNnZWFXUVF6emRORlNZbVVRRlkxMUxJbS1hMEtlYUJmRQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-08-31T07:00:00+00:00",
-      "tags": [
-        "equinix"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "070676389005",
@@ -724,30 +808,6 @@
         "nsw"
       ],
       "relevance_score": 0.5
-    },
-    {
-      "id": "70c59a4a94db",
-      "title": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report - Data Center Dynamics",
-      "summary": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc3NncURVRlZhMklkY2ZrZ29pRmZaZlVLWmd1OElkMDZfR3N5VUJWb0NZTlc4SF91TFBMOGl2ZmloNUp1OUdoTDU2bEJEX00yU1o3RjdIZ2FicUlZTTJEeGpVTE1OeEtjWm01d2U5eEZEbEo1ckl0NmhrMnh5SXJSZ0JyU3dYSTN3akFfcUNNRnd6NHBFVTdkc2NROXFpNTF3dU5QWXhzaXROMG1BbThIZWhUQldxY1JuTG82SWZ5R1RWN0VEcHZLQ1Rxc0tGd0xMb29iSg?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "78c67c296c2b",
-      "title": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report - Data Center Dynamics",
-      "summary": "OpenAI data center in Sydney, Australia, abandons plans for recycled water cooling system - report&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc3NncURVRlZhMklkY2ZrZ29pRmZaZlVLWmd1OElkMDZfR3N5VUJWb0NZTlc4SF91TFBMOGl2ZmloNUp1OUdoTDU2bEJEX00yU1o3RjdIZ2FicUlZTTJEeGpVTE1OeEtjWm01d2U5eEZEbEo1ckl0NmhrMnh5SXJSZ0JyU3dYSTN3akFfcUNNRnd6NHBFVTdkc2NROXFpNTF3dU5QWXhzaXROMG1BbThIZWhUQldxY1JuTG82SWZ5R1RWN0VEcHZLQ1Rxc0tGd0xMb29iSg?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
     }
   ]
 }
