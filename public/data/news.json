@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-10-30T12:36:31.009427+00:00",
+  "last_updated": "2026-10-31T12:03:13.218925+00:00",
   "items": [
+    {
+      "id": "ffcd9a32bca1",
+      "title": "Europe\u2019s AI ambitions are hitting a power bottleneck",
+      "summary": "Data center demand is surging, but outdated grid infrastructure is preventing Europe from making full use of renewable energy",
+      "url": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-10-31T11:00:39+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "aa9cd5bf8906",
+      "title": "Equinix posts record annualized gross bookings of $533m, up 35 percent",
+      "summary": "Keeps project scale low and customer base broad",
+      "url": "https://www.datacenterdynamics.com/en/news/equinix-posts-record-annualized-gross-bookings-of-533m-up-35-percent/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-10-30T17:39:00+00:00",
+      "tags": [
+        "equinix"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "12e96531b521",
+      "title": "Beyond the grid",
+      "summary": "Building the power system for AI in the Americas",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/beyond-the-grid/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-10-30T16:45:35+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "565247329e75",
+      "title": "CAISO proposes new rules for large loads seeking California grid connection",
+      "summary": "Will now file proposal to FERC",
+      "url": "https://www.datacenterdynamics.com/en/news/caiso-proposes-new-rules-for-large-loads-seeking-california-grid-connection/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-10-30T13:40:28+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
     {
       "id": "6e5be89cf0e3",
       "title": "Melbourne overtakes Sydney in Australia data centre boom - DataCenterNews Asia Pacific",
@@ -12,18 +60,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "d675d1f95b5b",
-      "title": "DCD Studio: Regulating data centers - what can be done? With Allison Clements, ASG",
-      "summary": "Zachary Skidmore speaks with Allison Clements of ASG about evolving FERC regulations, managing large energy loads, grid interconnections, and financial safeguards against speculative data center deman",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-regulating-data-centers-what-can-be-done-with-allison-clements-asg/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-10-29T16:26:51+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
     },
     {
       "id": "c7e1eda84a8a",
@@ -57,19 +93,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOdUttRXVrazNMT1ZCc3pfY0Q4MzJMUndQNXh6VlAxRm5wNHVnbkVCbWtNckdpME5DQnozMFU4STRCV2hNN3dtWHkyMXk2ZkZNalNsVEpkNG9ZNUJaTG55ZHRpY3VTOG9FT1l0Yk9hZjFhbG1UZmFnT0l2Qkl5NmRwb3hrOXJJM3BoclJ5QTRaNEFaUWhaY1pWRHpoZ01TVnhEWlRwYjE2MEd4UFVSNGhwZTF0MXpETFgxWmwxNjEzaTZidkxwUkNpM3pFVmVVaC1Nak5pYnp1UFU2ZjdtNmR0dkxTXzF3QnBIZlY4X1F4SHBRRmV2Y0FsM3VtZWtQWEVPZzFEXy1wQTZ0Nm9fdVFiZmV0RnJyT2ptY0s40gHqAUFVX3lxTE9xTVNPT04wQXpiN1VUaXpPdXBOR1lTdUMzMHo0TDZlZVBtLXZFeC04Mk5hb0JpSG1qR3lDTXBoTS1ON1RxeVpzazdvUlBXWDlnLVNDTkkyZGk2dWRjakxJdVJOSjBNNGpENHNoSUxyYS16bTFkQ1RySWdRNzE2bGFWUmtWM1hVeUhUblEtSGpPMU9qVHZPT2ZualB5SThYak44NE94a2RGZEk2NVNtRzFxaWpqdnFuLTh5b0lDd0hOV1hYVnRTM0dTYmdLU3pQaHl1NENRS1o0eFpTRHpZNTdrRDdHMmtOanFWdw?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-10-29T07:49:34+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
-      "id": "91943b8c8150",
-      "title": "coNEXA to invest AUD 250 mln in Sydney recycled water network to supply NextDC - Telecompaper",
-      "summary": "coNEXA to invest AUD 250 mln in Sydney recycled water network to supply NextDC&nbsp;&nbsp;Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUVVWU0JwU0p0SXNBXzNWc2lfT0hLNERieWFsX0hJTUJxcUI5T3A3Rk9hakMxMTVwNjAxYlJBWWNxMUlxbGpXRWZZSF9xa1dJVlJPSllhcmY1akdqQTZOdHZWcThISDFtbzZMY0dfR25zUVcyTnQ3clBIelVFMU93M2kxM2RLN0dOV1I1aTNNckV5Q0ZoRzRXWDhLQlNDRW9mYnYxZEVzemNlVWtCcllCZW1iT3ZjREVqYVJvcnR3?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-10-29T05:47:48+00:00",
       "tags": [
         "nextdc",
         "nsw"
@@ -232,7 +255,7 @@
       "id": "64d19428f246",
       "title": "Australia's AirTrunk bags $3 billion green loan to expand Sydney data centre - ET CIO",
       "summary": "Australia's AirTrunk bags $3 billion green loan to expand Sydney data centre&nbsp;&nbsp;ET CIO",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUldacmIzZFA4SnVjc0RYUzBJbVpHS2FkdXh6T21aQWVad0tVV0NyX3JSbmc0SC0zV1NORDN1QVdGVGxtUU5EdXp5bWRWa0luUG53V2FiaE85WWVxWkJZMlQxejBnX013WmZxNzMweC1rZlF0RTEzRjVVaTc0NTNHempSU2ZwbXg4bXZXQ29WM3psNmJScHdRcUNpLXVjVU44dUZSbHRqeDJiRjFxbngzdzlseTVweU0zTE1hQnhhdFppRU9paXVMRDBld1huRlMwRTZmWUF6ME93bUtabWZ6ZDliRHlBV1B4MmV1TjZRR0hqSmJWVmtHLTRfckdVdFk0NWdnUWVnaTdBblZHT1U0eE9ESdIB3wFBVV95cUxPWjM4TXBsYzI3azFSYTFQRmNaelhqU3Bsel9xNHB6RzBKNVdlZTUtSERRNjhPR2JidXkteTUzQVZ0b3huWnlrVnAzMEJFYkktMGdtNVQ4MWFYeUhDeEdKcUhuM3l0YlF0ZDQtTEZtRTZGN2p1Mmp2QlE3cXFPN2toV2g3bk5oVmJyNVBjdUlWRlBoakExNE5hcm1TRW9wdW9fYnpQTW1fNXhuRFRvUFpwdHZPeFB2V1BEV01WeUR0b2UzelFqanVIa1dKLXB0dThUR0QyeXRyT0YxNC1fQ1Zn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVEVIZXZwSEdJOEtDeXJHc3lfbDl4blNsYjVrNEh1dV9QTndwQy1uWko5ZHpZYXlPMEtNdGVRNE0zclNXWXRRekU1MktqenZNanB0T0dMWWVqNnNjMmZmbVN6VzdGVzNVUUl6Z0ZyNWZscUxOYnJuNC1nTldMT1BwU2RUMFJFNExHN21iZDdsRk9jMy1hbnRqTW9vWnN2aEhYblREN0NWZTVlTEZ3dlVLSWY3b081eGJjVDlYY2kzblRDeHdGRnE3YnJoWDlXSGtxc3N6YW9FeU9hUdIB3wFBVV95cUxPWjM4TXBsYzI3azFSYTFQRmNaelhqU3Bsel9xNHB6RzBKNVdlZTUtSERRNjhPR2JidXkteTUzQVZ0b3huWnlrVnAzMEJFYkktMGdtNVQ4MWFYeUhDeEdKcUhuM3l0YlF0ZDQtTEZtRTZGN2p1Mmp2QlE3cXFPN2toV2g3bk5oVmJyNVBjdUlWRlBoakExNE5hcm1TRW9wdW9fYnpQTW1fNXhuRFRvUFpwdHZPeFB2V1BEV01WeUR0b2UzelFqanVIa1dKLXB0dThUR0QyeXRyT0YxNC1fQ1Zn?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-10-27T02:51:04+00:00",
       "tags": [
@@ -382,9 +405,9 @@
       "relevance_score": 0.7
     },
     {
-      "id": "32296858e266",
-      "title": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center - Bloomberg.com",
-      "summary": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center&nbsp;&nbsp;Bloomberg.com",
+      "id": "c3afd76c6bcf",
+      "title": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center - Bloomberg",
+      "summary": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center&nbsp;&nbsp;Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEhwd1VUMmpCZ0pXN1ZiZ05BX21lS0xiLTRhRzlTQzFwOU4waE9fMmxpSlBNcXpyODM3bWNjY2tKM3VhWmczeEtrTXpQWlF0RmF0VkpsLVB5bk5NLVJLTm1IXy1Ma19oRTdKNVVNdHlrSEVHYVNRVXV5WEs2RGVucV9IVnliWXk0M05kWVVLQzMyZk42Z051N01fNDhEWFdzQUtMbHdHaVRzUFNfcjFzeA?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-10-26T21:43:25+00:00",
@@ -395,9 +418,9 @@
       "relevance_score": 0.5
     },
     {
-      "id": "b70102425fcb",
-      "title": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center - Bloomberg.com",
-      "summary": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center&nbsp;&nbsp;Bloomberg.com",
+      "id": "0db2e38bb441",
+      "title": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center - Bloomberg",
+      "summary": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center&nbsp;&nbsp;Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEhwd1VUMmpCZ0pXN1ZiZ05BX21lS0xiLTRhRzlTQzFwOU4waE9fMmxpSlBNcXpyODM3bWNjY2tKM3VhWmczeEtrTXpQWlF0RmF0VkpsLVB5bk5NLVJLTm1IXy1Ma19oRTdKNVVNdHlrSEVHYVNRVXV5WEs2RGVucV9IVnliWXk0M05kWVVLQzMyZk42Z051N01fNDhEWFdzQUtMbHdHaVRzUFNfcjFzeA?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-10-26T21:43:25+00:00",
@@ -456,9 +479,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "c9f139180a25",
-      "title": "Nextdc CEO to Forgo Bonus After Australia Data Center Delay - Bloomberg.com",
-      "summary": "Nextdc CEO to Forgo Bonus After Australia Data Center Delay&nbsp;&nbsp;Bloomberg.com",
+      "id": "c3a6a128e3ea",
+      "title": "Nextdc CEO to Forgo Bonus After Australia Data Center Delay - Bloomberg",
+      "summary": "Nextdc CEO to Forgo Bonus After Australia Data Center Delay&nbsp;&nbsp;Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMU9nZGFBem9LVkFmV2J4S3F0aTBvUHJSZ0E1SjVqU2gxeFZ1XzVaUDhmYjZJNDBGeHNsaDZOaTFmWmdTRG9wTFFCMVVWaWhidWFUdWxSVUV0aG5aVUpGb3ZPOXVzczFhZ3NjQjNnMGU2ZmNWMl9UODE5NmRudWU1b1I3am5xeS1wWHBlTzhyeDhrOElGOXV2X1RPQ2dQUkhkcDlMQThJWW5pY2FuQlQ4emZrNjIxQQ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-10-25T22:24:15+00:00",
@@ -484,6 +507,18 @@
       "title": "Nextdc\u2019s Data Center Delays Sound Warning for Industry - Bloomberg.com",
       "summary": "Nextdc\u2019s Data Center Delays Sound Warning for Industry&nbsp;&nbsp;Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhfMHItaHN1eWJTc0JZdUktbFdpb3BMSDB4OHl2eVNZNGd5NG1PQm1SRTBNdWNBZXRVdlk3Q0VGemdzeG9zNHNSX09GdUs0RWVETE5kVFd4LUZqeXVTbzJzVDdudm5GMmMwYWhaYmh0dlpwYU5xbDloa0tkUkxMM3dtQkEzNUlHZGphYU9vNFNqQkxIZXQtVW5jZkFYQkV6Q3c0UmNkcUxtUC02RXY2ckNoRzl5Zw?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "fb1d95690ae9",
+      "title": "ASX finishes higher as banks rise, NextDC tanks; CSL names new CEO - SMH.com.au",
+      "summary": "ASX finishes higher as banks rise, NextDC tanks; CSL names new CEO&nbsp;&nbsp;SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDF5d2ZuWEhxUHdMZkdmdWctU3JhUnREa3gtSWh6QXBHeE91YTF5YWJBR3EzcFlXQXVQSEhYaEh2X05pTUZ5VmhDRmVyMGg4NHpUeVZyLXZNemF0R3NhTURLUFJwci12MkVwb3FhRFRLTXRYeGV3aWxaUW1HQUYteVBRRHg4Q3dybTk5Q1N4VlBIUFk3ZFo5clhXbXRjYnNxekVXQUFRTExEc0IwRGJqNw?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-10-21T07:00:00+00:00",
       "tags": [
@@ -649,6 +684,18 @@
       "relevance_score": 0.2
     },
     {
+      "id": "e9ddef439090",
+      "title": "DeSoto data center plan hits wall over unanswered community concerns | DeSoto County - WINK News",
+      "summary": "DeSoto data center plan hits wall over unanswered community concerns | DeSoto County&nbsp;&nbsp;WINK News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMTlZaXF6THBIcHotN1lhQ29TdWxGdXRDNWN0bm1PTUhDbE0ySkNPZXdFNVhDMGhGaVlMamx1c3hYQ0gyZDQtX2F4SnBiMlFwTTI3VEdsVUNBc0RWclFkQk8yS0tVSTdEdGhUNDJ3NTdLaWdvaU4xZVJMVmVvTWZJUmIyR1VoYWQ1RnNDanpyN2pRcFNObE84V1ZyUXZUX3ZVY0NQRGJrY1N2UkpJR2x6dVFTczNJbXVoQ245eHFxZ19wb210OUpsUVFTdlo1a0xBUnB4SHdRYWF1TkJjLUNVNFJFemU5VjE2YjZZ?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-10-07T13:32:46+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
       "id": "c9cf4923b8aa",
       "title": "Australia's AirTrunk to triple Japan data center investment to up to $30bn - Nikkei Asia",
       "summary": "Australia's AirTrunk to triple Japan data center investment to up to $30bn&nbsp;&nbsp;Nikkei Asia",
@@ -734,18 +781,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "60039381664d",
-      "title": "Axed Sydney Data Center Shows Backlash to Australia\u2019s AI Boom - Bloomberg",
-      "summary": "Axed Sydney Data Center Shows Backlash to Australia\u2019s AI Boom&nbsp;&nbsp;Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNExPRUhGcTRJNlNQbk56eFpnWWE2SlpFRjFBYThMRFFQWDM4TjZSYVlld3hmWXQ2WVUyaV9RM05jSGQwNTFyVTl1Nnh4NzV2SzZtRkRLQnViZkVPaVBoSzNNLU1UbkZjd1dqQ3o4ZXdWb2I4cFMxYkNCUHVjT2dJRVQ1YUtNLVdKRFlKSW5jOVpBYmNpT1NnTGtQVG4wYWE3WjAzaWxOYnZsdTJTaUJlaQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-09-28T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
       "id": "6fe7f7d0d904",
       "title": "Goodman withdraws application for 90MW data center campus in Sydney, Australia - Data Center Dynamics",
       "summary": "Goodman withdraws application for 90MW data center campus in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
@@ -758,10 +793,10 @@
       "relevance_score": 0.2
     },
     {
-      "id": "2c161e513b3c",
-      "title": "Australian developer axes Sydney suburban data centre plan after local opposition - Yahoo Finance",
-      "summary": "Australian developer axes Sydney suburban data centre plan after local opposition&nbsp;&nbsp;Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDhtWkZxZ2hxd05xcW1ISE8yd1pKVkdLLWdwUzItNy1fZ21weUJDOHFvWFE5aUh0VVRpVTJvR1kza2I5U2h2cTNVX0EwMndnLUltdEZ4Mm53Rk5jb0ZLQURUS0RnRzl5QXk0ZjB5LXJ0QXVMV2pCYTU1UkpLUnMxQk12bnE3MnFyWEZFaTJ4S1FqQ0tGTVQ4dURsZ1lybXd1Rk1CSEhB?oc=5",
+      "id": "60039381664d",
+      "title": "Axed Sydney Data Center Shows Backlash to Australia\u2019s AI Boom - Bloomberg",
+      "summary": "Axed Sydney Data Center Shows Backlash to Australia\u2019s AI Boom&nbsp;&nbsp;Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNExPRUhGcTRJNlNQbk56eFpnWWE2SlpFRjFBYThMRFFQWDM4TjZSYVlld3hmWXQ2WVUyaV9RM05jSGQwNTFyVTl1Nnh4NzV2SzZtRkRLQnViZkVPaVBoSzNNLU1UbkZjd1dqQ3o4ZXdWb2I4cFMxYkNCUHVjT2dJRVQ1YUtNLVdKRFlKSW5jOVpBYmNpT1NnTGtQVG4wYWE3WjAzaWxOYnZsdTJTaUJlaQ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-09-28T07:00:00+00:00",
       "tags": [
@@ -967,18 +1002,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "fd362bdac39b",
-      "title": "Australia data centre firm NextDC reports rising water, energy use with profit beat - CNA",
-      "summary": "Australia data centre firm NextDC reports rising water, energy use with profit beat&nbsp;&nbsp;CNA",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPejNQY1hwaGQxQk9DNGFVcktNcVVoNU1COVFqUWtrSDNIN1c0MENackp6NDllTzNBUjBVT3NGWGk2WDY5UVQ3bXpfd3VGbVFoeU1DY2FPb2Z0dU41cmxvUGJHM3JzQWRlYm8wSUpTQ1YtTE1adUtCRlpvcU8yS2ZGVHlTZUZ4YkNmM2VkY1JoVEZFQkZza3ZfLWpXOXpWLW5lbU5wd2NzTU9yV0lXeFBPdk5NbUdfWjJ3ZWhidzBRSnQ3d2RE?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-08-28T07:00:00+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "070676389005",
       "title": "Australia data centre firm NextDC reports rising water, energy use with profit beat - Reuters",
       "summary": "Australia data centre firm NextDC reports rising water, energy use with profit beat&nbsp;&nbsp;Reuters",
@@ -1114,6 +1137,18 @@
         "nsw"
       ],
       "relevance_score": 0.5
+    },
+    {
+      "id": "028fd355b517",
+      "title": "Australia's new data centers must be majority renewable powered, says minister - The Standard (HK)",
+      "summary": "Australia's new data centers must be majority renewable powered, says minister&nbsp;&nbsp;The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWURQOVZhTlZOMkdZY0dhdU5feE5QX0xSZFd3Y2U3RHhFTHM4TVQ1ZFlnTHpGN3JJU0J5YVV4VVpDaEN3MnNfMTRNc3lFeVJ6dXg0b2VicGhPeGVUZEVwRDVUWHNxV05IdGFIOTRFRllUSDl3TFY0UHFUZEdrR2cwYUZOQjhwOS03c0sxMktfdTdwSFpRSXJ1ZWV2SlY5aUIzaGJsUkpnTW5WZFRQSmdKc3JFc0I4OFpESWw3VW02a1M1Ymdz?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
     }
   ]
 }
