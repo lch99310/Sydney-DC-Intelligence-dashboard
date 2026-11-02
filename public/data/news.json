@@ -1,49 +1,13 @@
 {
-  "last_updated": "2026-11-01T13:03:23.151689+00:00",
+  "last_updated": "2026-11-02T15:27:06.378621+00:00",
   "items": [
     {
-      "id": "f6fa685091cd",
-      "title": "Beyond the grid: the maintenance challenges putting the data center boom at risk",
-      "summary": "Building maintenance needs more attention",
-      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/",
+      "id": "d6a1e7d6dc82",
+      "title": "DCD Studio: Building bespoke utility power agreements for data centers with Lon Huber, Xcel Energy",
+      "summary": "Zachary Skidmore speaks with Lon Huber of Xcel Energy discuss the complexities of grid planning, increased demand from AI and data centers and cleaner energy",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-building-bespoke-utility-power-agreements-for-data-centers-with-lon-huber-xcel-energy/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-11-01T11:00:47+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "ffcd9a32bca1",
-      "title": "Europe\u2019s AI ambitions are hitting a power bottleneck",
-      "summary": "Data center demand is surging, but outdated grid infrastructure is preventing Europe from making full use of renewable energy",
-      "url": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-10-31T11:00:39+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "aa9cd5bf8906",
-      "title": "Equinix posts record annualized gross bookings of $533m, up 35 percent",
-      "summary": "Keeps project scale low and customer base broad",
-      "url": "https://www.datacenterdynamics.com/en/news/equinix-posts-record-annualized-gross-bookings-of-533m-up-35-percent/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-10-30T17:39:00+00:00",
-      "tags": [
-        "equinix"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "12e96531b521",
-      "title": "Beyond the grid",
-      "summary": "Building the power system for AI in the Americas",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/beyond-the-grid/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-10-30T16:45:35+00:00",
+      "published_at": "2026-11-02T12:21:13+00:00",
       "tags": [
         "energy_policy"
       ],
@@ -214,6 +178,32 @@
       "relevance_score": 0.4
     },
     {
+      "id": "c3afd76c6bcf",
+      "title": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center - Bloomberg",
+      "summary": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center&nbsp;&nbsp;Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEhwd1VUMmpCZ0pXN1ZiZ05BX21lS0xiLTRhRzlTQzFwOU4waE9fMmxpSlBNcXpyODM3bWNjY2tKM3VhWmczeEtrTXpQWlF0RmF0VkpsLVB5bk5NLVJLTm1IXy1Ma19oRTdKNVVNdHlrSEVHYVNRVXV5WEs2RGVucV9IVnliWXk0M05kWVVLQzMyZk42Z051N01fNDhEWFdzQUtMbHdHaVRzUFNfcjFzeA?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-10-26T21:43:25+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
+    {
+      "id": "0db2e38bb441",
+      "title": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center - Bloomberg",
+      "summary": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center&nbsp;&nbsp;Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEhwd1VUMmpCZ0pXN1ZiZ05BX21lS0xiLTRhRzlTQzFwOU4waE9fMmxpSlBNcXpyODM3bWNjY2tKM3VhWmczeEtrTXpQWlF0RmF0VkpsLVB5bk5NLVJLTm1IXy1Ma19oRTdKNVVNdHlrSEVHYVNRVXV5WEs2RGVucV9IVnliWXk0M05kWVVLQzMyZk42Z051N01fNDhEWFdzQUtMbHdHaVRzUFNfcjFzeA?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-10-26T21:43:25+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
+    {
       "id": "4f04d1938adb",
       "title": "AirTrunk plans largest independent data centre facility in Asia Pacific after $4.25bn loan - The Australian",
       "summary": "AirTrunk plans largest independent data centre facility in Asia Pacific after $4.25bn loan&nbsp;&nbsp;The Australian",
@@ -250,9 +240,9 @@
       "relevance_score": 0.3
     },
     {
-      "id": "7c900c96bef3",
-      "title": "Nextdc CEO to Forgo Bonus After Australia Data Center Delay - Bloomberg",
-      "summary": "Nextdc CEO to Forgo Bonus After Australia Data Center Delay&nbsp;&nbsp;Bloomberg",
+      "id": "2168ca4fd417",
+      "title": "Nextdc CEO to Forgo Bonus After Australia Data Center Delay - Bloomberg.com",
+      "summary": "Nextdc CEO to Forgo Bonus After Australia Data Center Delay&nbsp;&nbsp;Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMU9nZGFBem9LVkFmV2J4S3F0aTBvUHJSZ0E1SjVqU2gxeFZ1XzVaUDhmYjZJNDBGeHNsaDZOaTFmWmdTRG9wTFFCMVVWaWhidWFUdWxSVUV0aG5aVUpGb3ZPOXVzczFhZ3NjQjNnMGU2ZmNWMl9UODE5NmRudWU1b1I3am5xeS1wWHBlTzhyeDhrOElGOXV2X1RPQ2dQUkhkcDlMQThJWW5pY2FuQlQ4emZrNjIxQQ?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-10-25T22:24:15+00:00",
@@ -298,12 +288,12 @@
       "relevance_score": 0.3
     },
     {
-      "id": "8258867e0315",
-      "title": "Nextdc Shares Plunge 44% After Public Backlash Hits Data Center - Bloomberg.com",
-      "summary": "Nextdc Shares Plunge 44% After Public Backlash Hits Data Center&nbsp;&nbsp;Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2cycW1CNXNjRGR3blYyX0w5SWpPYURMTUFCQ1l6M1lJRUlPcHB6NHM3MncxQy1wYXBkeW12eC1lTmJHMXhPNWJUeXNTcFR3cEZLMmlCamtNcEZCbHpLbVN2aXJNM0lDWmZKemsyX0p3N05hMXBVdVFiOEhrQl82ZVBMRWFmanZqUHJabnQzUWJFYnI3Sl9QVGprLVNSVDFxNFlkb0dSX1JBMVZrY2NwMVM2ams?oc=5",
+      "id": "be0c7b1e9521",
+      "title": "Where Does NextDC (ASX:NXT) Stand on AI Capacity and Funding? - Kalkine Media",
+      "summary": "Where Does NextDC (ASX:NXT) Stand on AI Capacity and Funding?&nbsp;&nbsp;Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdEhwY1RaUlF6cTl6VXBYNVdMOFhndkVFdU1EMFZ0cE5FeTRoMXlwUnZTZjJBdExMa1NhQzczMTVGNS0zZTlTbEJkYjYzN0dZWi1KSl81WWpvY1JiSmVYTUprRmR2QjlLR1pKdzZzSXQybGdMU1JfM0VoZVpiUVJSZHBWQWVUYTVPOGFwNF9QTWQtcXo2NVh5alVuN1ZtdjJyZG0wS202MG5lVFpYLXZlVWs4ME5FOWc?oc=5",
       "source": "Google News: NEXTDC",
-      "published_at": "2026-10-20T07:00:00+00:00",
+      "published_at": "2026-10-21T03:56:00+00:00",
       "tags": [
         "nextdc"
       ],
@@ -314,6 +304,18 @@
       "title": "Australian AI data centre operator NextDC shares shed 42% on revenue delay, future plans on hold - Reuters",
       "summary": "Australian AI data centre operator NextDC shares shed 42% on revenue delay, future plans on hold&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWJyOF9XbWhodGFsMWVRYUhMYzlCUDRMR2ZqRDdTdTFsOTJZWVdTcS1sRTg1UldzbkMyN1JTMkFmWkpJT0s0NkVnOWgyeXNlRnMwOVlXX3RueEt4SkJ6OTU2em5yZzBpS3o5Q3paWUk1WjJLNXhrUjQ4bGhUb2xjSHYzOTV4N3lreHREMkFBa0F3bVpJdE9VMHg4d0d4ZWJJbVFEX2xZM0xyOU9PMWItaXItTUVSWWlid003RExodnIxUFE?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "cb65036f053a",
+      "title": "Nextdc Shares Plunge 44% After Public Backlash Hits Data Center - Bloomberg",
+      "summary": "Nextdc Shares Plunge 44% After Public Backlash Hits Data Center&nbsp;&nbsp;Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2cycW1CNXNjRGR3blYyX0w5SWpPYURMTUFCQ1l6M1lJRUlPcHB6NHM3MncxQy1wYXBkeW12eC1lTmJHMXhPNWJUeXNTcFR3cEZLMmlCamtNcEZCbHpLbVN2aXJNM0lDWmZKemsyX0p3N05hMXBVdVFiOEhrQl82ZVBMRWFmanZqUHJabnQzUWJFYnI3Sl9QVGprLVNSVDFxNFlkb0dSX1JBMVZrY2NwMVM2ams?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-10-20T07:00:00+00:00",
       "tags": [
@@ -371,12 +373,12 @@
       "relevance_score": 0.3
     },
     {
-      "id": "55aa19b71c25",
-      "title": "AirTrunk to treble Japan data-centre investment to $43bn - The Australian",
-      "summary": "AirTrunk to treble Japan data-centre investment to $43bn&nbsp;&nbsp;The Australian",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdDJycDBMOGJXYVhhQXdpSm9pMkVNLVJ3SUFGNFBFN2xFcS04dDVCR3RsOGNfdTFYRWVnU3lka3Q3eVUxdXBtNnlxVE9kMGJVWVo0Z1d0VnR6eG1lMmhnSkYtYUZiTDZtVVJCZ1BBaVUyY01lVlVwc3Rpdk9UdXdYeWpTa2Y1TzcyVm5rLWxza3hEam1jZEZ4d0lEMkN6QW56ajNzVzRKWmZpMC1XM3dWNWNYdXl3U2Y0MmZmb09xdEdUdU1HU3FXUlNsb01KQ20tbzFPeVZyMkFnUVBBeDdEMnotbEIyMEpoMm5ENjFtODZlX0ZsN29PdEtPdUVvRHRvbGxaWGk2SUhyTXo1?oc=5",
+      "id": "6e87648720fb",
+      "title": "Data centre operator AirTrunk is said to delay US$1.5 billion IPO - The Edge Singapore",
+      "summary": "Data centre operator AirTrunk is said to delay US$1.5 billion IPO&nbsp;&nbsp;The Edge Singapore",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXRjS3FkT3h0UHhCeHEteGZLa3hKUTVzeENhOG8zY2wxdERkU0ZaSWpDOER4bUI0UkRaYjhRbkFUbEZ1U281NWVxZ2VhcW8yaVBpLU5KLVY3SHZfa3dxZHVUUEVfa2xIN3BzOE5Ua0RlWVRoM2VJVXQ5YTNPNDRGT1BtdGwzQldYWExUUmJsWGFQczVacHhXMERIYlBJX2s2?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-10-08T07:00:00+00:00",
+      "published_at": "2026-10-13T07:00:00+00:00",
       "tags": [
         "airtrunk"
       ],
@@ -387,6 +389,18 @@
       "title": "Australian-founded AirTrunk unveils A$43 billion Japan data centre expansion - Proactive Investors Australia",
       "summary": "Australian-founded AirTrunk unveils A$43 billion Japan data centre expansion&nbsp;&nbsp;Proactive Investors Australia",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlFHRzR0U0NCUlRETXBTbC1fNHg3TDRsQ1ZkWU8tdEI0R2s4QWwxYUhjY0FyQkFNZzRiSEZaa2JpT1ZZZnkzeldJeXBxd3lmS25EX3dWZjVzV0x5NGpMaWZHTnpFY3Utc1dZMWhnVk1GUEJla1dJUzhvaEdKUTNLeVlURVBBVG9YR1dVa1pJUFdEZ1V3aFo1eTl4WVFOS1pyakh4WW9WLWVTVDNYcWw1MjJfLUFQTVlDVnFkQ0Rn?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-10-08T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "55aa19b71c25",
+      "title": "AirTrunk to treble Japan data-centre investment to $43bn - The Australian",
+      "summary": "AirTrunk to treble Japan data-centre investment to $43bn&nbsp;&nbsp;The Australian",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdDJycDBMOGJXYVhhQXdpSm9pMkVNLVJ3SUFGNFBFN2xFcS04dDVCR3RsOGNfdTFYRWVnU3lka3Q3eVUxdXBtNnlxVE9kMGJVWVo0Z1d0VnR6eG1lMmhnSkYtYUZiTDZtVVJCZ1BBaVUyY01lVlVwc3Rpdk9UdXdYeWpTa2Y1TzcyVm5rLWxza3hEam1jZEZ4d0lEMkN6QW56ajNzVzRKWmZpMC1XM3dWNWNYdXl3U2Y0MmZmb09xdEdUdU1HU3FXUlNsb01KQ20tbzFPeVZyMkFnUVBBeDdEMnotbEIyMEpoMm5ENjFtODZlX0ZsN29PdEtPdUVvRHRvbGxaWGk2SUhyTXo1?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-10-08T07:00:00+00:00",
       "tags": [
@@ -479,6 +493,18 @@
         "nsw"
       ],
       "relevance_score": 0.5
+    },
+    {
+      "id": "3054b34108ba",
+      "title": "Blackstone\u2019s AirTrunk seeks S$2 billion loan for Singapore IPO - The Business Times",
+      "summary": "Blackstone\u2019s AirTrunk seeks S$2 billion loan for Singapore IPO&nbsp;&nbsp;The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEJMT2VUOFpmeGFNYUV1YWo3VVB1cUNMTnVKOEpjbmJjeVpwelI5eUJDQW4ySjBVOWNFVkF2Y21yay1SQVBLVzRvZTJ0Mld0cmFBVTJoRkYwOWxVb2gxOWdfbnZDRkZuQm1zWjBVS3NFSkRqLUl1cmdnaHlVQXNVU0wtRF9TUk1RQWlmYlNLZHBwSW43MVpEbEpPMkx0WE5EMzN5TVNCZmRqYmhaZnBRR3NMemE?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-09-11T07:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "32cd83467170",
@@ -633,18 +659,6 @@
       "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - SMH.com.au",
       "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRm9RcjFISC1MZHNtQnBOQ2hUUzVVM25DYmpYcF9taFU3MUc2VFFCb09qU2lfVkMxc0ZpVXBleVhCY0xGV3ZHVkF1RkpkWlI0TFQzejhjcGpOYkItekhURFZzUnVnVC1vb2xSVC1SUkx1c3hLTlRiNVU3UzJnRlFPT2hLTEhvUnRkMDROcWxsLTk0Uzc1RG5udUk1Mk5EU3pZb0JYLWlUejlBMjY5RE1hdTRWLVJFUlhDTEpmV2NjcHlWSXFGdHlONjlnaUVlMC1YOXJMbVFpaHhjM1FvSGlr?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-08-13T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "21432f47f004",
-      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - The Age",
-      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;The Age",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRmlQZ2tEcVhDaTVqU09WX0gyay1LWUNUMmhnNFZBNlZmRG1qS2hEbXMya0JpWlhucmpMWHZ5Z29pT2NJZ1pKR3JnWTVIU19ic2lNSW8wRzllYVVKLTc4a0EzSU5IdEFkOHN5NWpicUNSUHlOaUR6ODJzdTVtTkl1TGFZSG9OcEpRc2M5NWVCZGU4ZndUaTloQmZWRldqeVZhQjA2NTNCOGNsa19oX0lHZldYTFdqZlg0Nk16aHM4VUJGNzJlNjRPYmZrSk1nR18wUHRUYzVHTUl3b1VFMk1ScUNzcw?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-08-13T07:00:00+00:00",
       "tags": [
