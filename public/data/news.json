@@ -1,53 +1,18 @@
 {
-  "last_updated": "2026-11-05T14:27:18.244183+00:00",
+  "last_updated": "2026-11-06T14:03:44.930266+00:00",
   "items": [
     {
-      "id": "0b7f54e134dc",
-      "title": "Renewable Innovations joins US DOE lab project on fuel cell power for AI data centers",
-      "summary": "Will include a field demonstration at the Sky Data Centers site in Santa Rosa, California",
-      "url": "https://www.datacenterdynamics.com/en/news/renewable-innovations-joins-us-doe-lab-project-on-fuel-cell-power-for-ai-data-centers/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-05T12:14:41+00:00",
+      "id": "5dbfed6f2fcc",
+      "title": "NEXTDC Relocates FY26 AGM Venue to Hilton Sydney on 20 November 2026 - Kalkine",
+      "summary": "NEXTDC Relocates FY26 AGM Venue to Hilton Sydney on 20 November 2026&nbsp;&nbsp;Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZWpuTDBubE1naXFZbW9xV25pNXhGdkFVemdibm9PODE2R0RDcW1oN0tIMHVndTBwWjBVZnptTWNJRmFLakhINFFYZ0JHeU1YekF4UndPTm9Lc1dHLWZCR1RBc0JlN0ZHOFpHVm8xQnpiN2ZodXlfWU5DMkhPdkRqU2pjVXk3ZE9rV2xTTkJ5dDJmY0VYYmQzaXk3a3haOVlsLVllX1FqcWhvX0h3NTZF?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-11-06T05:04:33+00:00",
       "tags": [
-        "energy_policy"
+        "nextdc",
+        "nsw"
       ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "0ab8690acd42",
-      "title": "UK renewable firm Downing expands into data center market with 500MW pipeline",
-      "summary": "Projects located in central Sweden and southern Finland",
-      "url": "https://www.datacenterdynamics.com/en/news/uk-renewable-firm-downing-expands-into-data-center-market-with-500mw-pipeline/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-05T12:00:00+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "92d857371b01",
-      "title": "Fortitude's 15MW Nebraska cryptomine joins SPP electricity markets",
-      "summary": "Will help make mining operations more responsive to grid conditions",
-      "url": "https://www.datacenterdynamics.com/en/news/fortitudes-15mw-nebraska-cryptomine-joins-spp-electricity-markets/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-05T11:25:09+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "076fe90ad4fe",
-      "title": "Aerospace access governance at scale",
-      "summary": "How a global aerospace leader governs 200K+ identities across 90 sites",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/aerospace-access-governance-at-scale/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-05T10:50:18+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
+      "relevance_score": 0.5
     },
     {
       "id": "acc433d3afc2",
@@ -67,7 +32,19 @@
       "summary": "Aftermarket raid: Embattled data centre company NextDC\u2019s shares soar&nbsp;&nbsp;SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWdNSVN2RzMtbGxkYmMxR2ExYjZEaFVLak1fOTVzY2p2MVdyNlVPb2JUeFdfWGdkbkdRWkdRUkozVmFwZEh5dTJ4ci1aSkxWUUVaWE5RY0FfZ0NOQ3NtU2xDcEh5M2VJdmg1eEVZQmJpSkJmYk5lOFVTalRRZ1NYcVRYQWF6ajdibWtZeDMwblBwbmxaMkI4VHNtRWVQM3VYWGM1T3Q2Z01SU2lod0V0TFM5VklaUGNGckJ0S2RhcFpjU24wTXZzVE9n?oc=5",
       "source": "Google News: NEXTDC",
-      "published_at": "2026-11-05T02:37:06+00:00",
+      "published_at": "2026-11-05T03:02:24+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "21cf007974c2",
+      "title": "Nextdc Surges on Report of Goodman, Digital Realty Buying Stake - Bloomberg.com",
+      "summary": "Nextdc Surges on Report of Goodman, Digital Realty Buying Stake&nbsp;&nbsp;Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFd1UFlzcVFaaWtQNDJUZjFuek5rWk9QbjdBWDNNN3lWMGNhRUpTVXN2UnhBbExhY0s2UjlQclAyVGw5bGpqUnZ5OVRtdlYyekhWRF85ck1uZ19ySmljMWExRDFGdElPWkJJOHZFQ2dTbzR5QmpYOU5la21pM1JESjVTb192QWphVWFSem1kRlloa2Fsc0VjbmhRMmJYYnlFZ0xKMWp4QzIxZ0F4d1kxNFhJRQ?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-11-05T02:51:00+00:00",
       "tags": [
         "nextdc"
       ],
@@ -91,7 +68,7 @@
       "summary": "Australia's NEXTDC rallies; calls Goodman, Digital Realty share bid 'opportunistic'&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLVh5SG9razFnOGFEb2I5OFBxYXhHQ1R2OE0tMmxITnhHekRJc2FtSjRFOFQtQzNJMFFSZUs2OTRtejFKNzdXV3lQZkRNRFE0Vm5kbUZ5SGowTTdUaHo0YjhjdWlMQWdJT0JNX2FTanNJczBmUktsZnY0QURzRnFDMEJETkFuajItb1hWRmptN1lwdW5yZDdCSUdWR0FNV0NadVE0NnRQSzZNLVpnbHc5MHBFWXZQc01GcW9JS3lHRlRiWFJkMXIzZGJoVWwxUQ?oc=5",
       "source": "Google News: NEXTDC",
-      "published_at": "2026-11-05T00:28:09+00:00",
+      "published_at": "2026-11-05T00:28:00+00:00",
       "tags": [
         "nextdc"
       ],
@@ -133,59 +110,6 @@
         "airtrunk"
       ],
       "relevance_score": 0.3
-    },
-    {
-      "id": "284f90a83e22",
-      "title": "AirTrunk secures $4.25b green loan for Western Sydney data centre - Capital Brief",
-      "summary": "AirTrunk secures $4.25b green loan for Western Sydney data centre&nbsp;&nbsp;Capital Brief",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNjFnR3hoNUxEaFNhZ1o4R3FHaHpTeW83VWQ4Zk4xMG1BcG9jZ0dPdGhJODNScGtrZ3JYVG5fOUtodFlsMERxNHpfazVxYnlNOHExLTZ4b3hzQ291QXRyRzNLYU1fVnpadFQtTzhhWXZ0NVBMLXZmd280aHVGT3BZNXdqelBPWWxlYUEzM3FxRUZzNklfX0VQNVBNMHBZR1RlTlVTc3d2LVA0RmdROTNNbHBtMTMzOVVTQ1R5M1FvcUM4dTZmR1lYVVhudG1Tb0ZkblJ1MDZR?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-10-27T03:10:34+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw",
-        "western_sydney"
-      ],
-      "relevance_score": 0.7
-    },
-    {
-      "id": "8aa3f42dbe6a",
-      "title": "Australia's AirTrunk bags $3 billion green loan to expand Sydney data centre - marketscreener.com",
-      "summary": "Australia's AirTrunk bags $3 billion green loan to expand Sydney data centre&nbsp;&nbsp;marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVVxbXYyVDJLcFE1dDRvRGtrZnFybDRRSmVhOHR5NXI5LXdTZ2FZd3FwNVBNNzNYWmVpLWgxOHBzT2lvREhJRWxSLTNBU2ROVDloSnR5dmdOUHVTSXdNMkNaTGlpVlRfU2pJZ0JDTWxja083WTQtVk8xMXBfTk1yMUNNX3ZyaUw4dlR4blY4T1ZKTGJ2VXdoQy1CVWRtbUpmeFNVdXp4M29Gai0xdkJrbi1LWHRuN2NFSXFwVHZ1TVNZUHhDR1hr?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-10-27T02:24:23+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
-      "id": "32296858e266",
-      "title": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center - Bloomberg.com",
-      "summary": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center&nbsp;&nbsp;Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEhwd1VUMmpCZ0pXN1ZiZ05BX21lS0xiLTRhRzlTQzFwOU4waE9fMmxpSlBNcXpyODM3bWNjY2tKM3VhWmczeEtrTXpQWlF0RmF0VkpsLVB5bk5NLVJLTm1IXy1Ma19oRTdKNVVNdHlrSEVHYVNRVXV5WEs2RGVucV9IVnliWXk0M05kWVVLQzMyZk42Z051N01fNDhEWFdzQUtMbHdHaVRzUFNfcjFzeA?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-10-26T21:43:25+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
-      "id": "c7a6a8e2e180",
-      "title": "Australia's AirTrunk bags $3 billion green loan to expand Sydney data centre - Reuters",
-      "summary": "Australia's AirTrunk bags $3 billion green loan to expand Sydney data centre&nbsp;&nbsp;Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQzAydW9qOEhHNzdEOXRiNzV1NUtYaEtxcy13clB0WEF3WWgzZHV1LUl3eVpHNEhyVUo5dlBqZnB2STJoQ0ZCeEhrMmJJWGlVN2R0d3FlRUZCS0l5WlgxN0c1QlBha1VZaUFseW5DWUFJTk5XbmZQYk9GbHQwTGVqdnhOa3FLQ3lIdF9FaEVOa0ZwV2UxcC1fODNjSXVXaDBhbklwUy1DcmpST1JuMVBaY0ZReV9qN3c?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
     },
     {
       "id": "b6c04894dc01",
