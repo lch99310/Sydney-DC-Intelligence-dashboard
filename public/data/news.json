@@ -1,19 +1,6 @@
 {
-  "last_updated": "2026-11-06T14:03:44.930266+00:00",
+  "last_updated": "2026-11-07T12:47:54.581199+00:00",
   "items": [
-    {
-      "id": "5dbfed6f2fcc",
-      "title": "NEXTDC Relocates FY26 AGM Venue to Hilton Sydney on 20 November 2026 - Kalkine",
-      "summary": "NEXTDC Relocates FY26 AGM Venue to Hilton Sydney on 20 November 2026&nbsp;&nbsp;Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZWpuTDBubE1naXFZbW9xV25pNXhGdkFVemdibm9PODE2R0RDcW1oN0tIMHVndTBwWjBVZnptTWNJRmFLakhINFFYZ0JHeU1YekF4UndPTm9Lc1dHLWZCR1RBc0JlN0ZHOFpHVm8xQnpiN2ZodXlfWU5DMkhPdkRqU2pjVXk3ZE9rV2xTTkJ5dDJmY0VYYmQzaXk3a3haOVlsLVllX1FqcWhvX0h3NTZF?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-11-06T05:04:33+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
     {
       "id": "acc433d3afc2",
       "title": "Data centres could use twice the power of all the houses in Sydney - AFR",
@@ -27,24 +14,24 @@
       "relevance_score": 0.2
     },
     {
-      "id": "365efdcf3ee4",
-      "title": "Aftermarket raid: Embattled data centre company NextDC\u2019s shares soar - SMH.com.au",
-      "summary": "Aftermarket raid: Embattled data centre company NextDC\u2019s shares soar&nbsp;&nbsp;SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWdNSVN2RzMtbGxkYmMxR2ExYjZEaFVLak1fOTVzY2p2MVdyNlVPb2JUeFdfWGdkbkdRWkdRUkozVmFwZEh5dTJ4ci1aSkxWUUVaWE5RY0FfZ0NOQ3NtU2xDcEh5M2VJdmg1eEVZQmJpSkJmYk5lOFVTalRRZ1NYcVRYQWF6ajdibWtZeDMwblBwbmxaMkI4VHNtRWVQM3VYWGM1T3Q2Z01SU2lod0V0TFM5VklaUGNGckJ0S2RhcFpjU24wTXZzVE9n?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-11-05T03:02:24+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "21cf007974c2",
       "title": "Nextdc Surges on Report of Goodman, Digital Realty Buying Stake - Bloomberg.com",
       "summary": "Nextdc Surges on Report of Goodman, Digital Realty Buying Stake&nbsp;&nbsp;Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFd1UFlzcVFaaWtQNDJUZjFuek5rWk9QbjdBWDNNN3lWMGNhRUpTVXN2UnhBbExhY0s2UjlQclAyVGw5bGpqUnZ5OVRtdlYyekhWRF85ck1uZ19ySmljMWExRDFGdElPWkJJOHZFQ2dTbzR5QmpYOU5la21pM1JESjVTb192QWphVWFSem1kRlloa2Fsc0VjbmhRMmJYYnlFZ0xKMWp4QzIxZ0F4d1kxNFhJRQ?oc=5",
       "source": "Google News: Sydney DC",
       "published_at": "2026-11-05T02:51:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "3f6b4bd40ed7",
+      "title": "Aftermarket raid: Embattled data centre company NextDC\u2019s shares soar - WAtoday",
+      "summary": "Aftermarket raid: Embattled data centre company NextDC\u2019s shares soar&nbsp;&nbsp;WAtoday",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbDRvNnEzLWE2aTlibnNVa01IcGNYZWhidm4wYThPeGlEdmRpTW1mWVFqNVBPNDZKZHhzSG1OX3RlMEt4VTdGamhXSExTZ3N0R0dwUVluUFREX0lDMmk2Q3VqTmpLU2swWnowamU3dEllaWpYZTlSczVaM2U3T0xxclVnZTdWT25RMmdQYlBTZWs0elNkbk81UERzbXI2RkwwYngxUjE2ZTBHMmpOcjEyUWJVNXRJMUstM3RrQ2xrU09fb3ZOc04zLTZFX2RoQ1k?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-11-05T02:37:06+00:00",
       "tags": [
         "nextdc"
       ],
@@ -80,32 +67,7 @@
       "summary": "AirTrunk considers first Western Australia data centre at new gas hub&nbsp;&nbsp;AFR",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjEzb0ZIUWdHU1lpcTRsU0lBZzJMWlJoZFRKSWtRQnpyYW9kc2ZTb3FHVEJQTkhwbGFHWExMXzk0ZWg4SWRGNDRucU8yVzRNV1hFbDBOSHpsS3NBUURaVC1aS3B6YUUtakFYX3M2dGE2OE5LMUpmMU9QTzBvMWc0YkdCQWV0dmRzYjRWSEg5U3AyZDQzeTQyUkl2YzdyRVo1bExDRVFnOXFkQlp1TmQ5S3kzY0NOM0xSbzQwa3Rubk5PN3pxdjMxVEVB?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-10-29T09:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "0030b4d979ab",
-      "title": "coNEXA to invest AU$250m in recycled water network to supply NextDC\u2019s S4 Sydney - W.Media",
-      "summary": "coNEXA to invest AU$250m in recycled water network to supply NextDC\u2019s S4 Sydney&nbsp;&nbsp;W.Media",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXZGQURwOUMxWkItWldkZmloV04zdkEwV2NpWXM4VjlFdTF0X3RkRHc5OTk3WTlmQVJnbjlJdm1FV1QyY3pIU3AyZXhaaTJsUW1xd3RiZ3FhUzNzR2xaWkU0ejQ4NUwtcVFrbzJ6N1k2YkpMQXVxQUdKMlRZRHV1ZTJ0c3NMT0NPWS1waXJFX1VYUGFMTjN0NURn?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-10-29T02:37:00+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
-      "id": "4f04d1938adb",
-      "title": "AirTrunk plans largest independent data centre facility in Asia Pacific after $4.25bn loan - The Australian",
-      "summary": "AirTrunk plans largest independent data centre facility in Asia Pacific after $4.25bn loan&nbsp;&nbsp;The Australian",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaVphQmZhY1V5MXgtQjJSZlVOaTJZeG5aRzMyOFZtS0xzV0lRX0cxS0hFVnA0ck1nWU9mWUo0NkVmUjBoNUdvZWJlZ204aGhjUVZDd2RmeXZRSWNSZUJOVnJoVWU4OXdJYUtfR3Z1aHlSd3JQbS0zZWRwbWhFRGgtaFN5NkVMMjFmVXg0aTZuTWlUY2VFRzNvNGRNRHJYU0hzMXZLbTYzLV9wdWJ6YkdCcl84YmFxLWFNMnkwMWlFYVNaenRMMHhKNzNodFJINzkyMFpfUjgza2ZqcU9ZdUJVUU8tNlNrQ0ZvMU1HNTNWdHd5ZkRJY1FDenJtM1VMY0ozV0EzWA?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-10-27T07:00:00+00:00",
+      "published_at": "2026-10-29T07:00:00+00:00",
       "tags": [
         "airtrunk"
       ],
