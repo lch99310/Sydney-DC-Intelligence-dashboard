@@ -1,6 +1,43 @@
 {
-  "last_updated": "2026-11-07T12:47:54.581199+00:00",
+  "last_updated": "2026-11-08T13:08:07.085832+00:00",
   "items": [
+    {
+      "id": "56abfa1c85e6",
+      "title": "Stockland drops Sydney data center plans after community opposition - Investing.com",
+      "summary": "Stockland drops Sydney data center plans after community opposition&nbsp;&nbsp;Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1dGZzZmbm9PaHBfQ1hHbVJBUFl3MWlIOWRwdTNabF9ZUE1UYk01N1ExUy0zNXZReW81T3Q4ME5sSzJPSE9wY2l1a2N2TDJxOUZuVTZJOHlwbUZMS3B5ZWdmOVd4b1FMdHJjRF85UF85MTdNVlB0UUpGYmN4UWZoQ0ZGOFNQcnVyN3dsV3JKN0JrVXFDMzFTZHhRUDJnVVZaR3k1ZnBoNWVZU2xHaEpGVmM1TUJURFpLMFBN?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-11-08T07:47:35+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "e67acb1e09e9",
+      "title": "Stockland dumps Sydney airport data centre, AirTrunk plan nixed - The Australian",
+      "summary": "Stockland dumps Sydney airport data centre, AirTrunk plan nixed&nbsp;&nbsp;The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTnFrSTlMMGlTMkthZ01uLXdjNF93N24waFRCWUFtWlRkcW8wYmJuS2FZbm5oaFhFcUZyTFNVVkd2TE1qcmQxQjhUTEJnUHFtNUFKZ05WclhGNzBpZWZocDBGWWdJVl94bTFCQmY5bjhfYUtUSU9GcFR6SGw2aExJSVIwSXJqNGpLQkRSZEJlWVlLcFl2SlV4ZEdNUlRBWk41VEl1OWNzYVo4LWtoRFR2dUpFd1JPRzg4YTFLR0FWNzJwT0RBNFQ2UTFjWHRtaUtWTGhmOW1OUG1FZ0JpWktzMg?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-08T07:40:52+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
+    {
+      "id": "def385f6c7b9",
+      "title": "Stockland Scraps Sydney Data Center Plans After Local Backlash - Bloomberg",
+      "summary": "Stockland Scraps Sydney Data Center Plans After Local Backlash&nbsp;&nbsp;Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWNYX3BHRkhZVVQ5aTY5SFB5ckhFRGlkSGxJRF94WlpwT1lqLWkzaEx3ZElldWdYQldydjlpREZNM3dsLTJfdVJPSWE5ZWNYTnNVcE1RcnVvTG94NG9LTUVydS00c3VWYUQ4cG9PdFVwZVlhWDBKa0lNWm1wekxldmZneXRuMldaVzFmU1FIZXo4MW5SOTh4ZDVVSEdDT1M3N0RnQ1FjcnIycmM5cVVmN2w1UQ?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-11-08T06:45:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
     {
       "id": "acc433d3afc2",
       "title": "Data centres could use twice the power of all the houses in Sydney - AFR",
@@ -32,18 +69,6 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbDRvNnEzLWE2aTlibnNVa01IcGNYZWhidm4wYThPeGlEdmRpTW1mWVFqNVBPNDZKZHhzSG1OX3RlMEt4VTdGamhXSExTZ3N0R0dwUVluUFREX0lDMmk2Q3VqTmpLU2swWnowamU3dEllaWpYZTlSczVaM2U3T0xxclVnZTdWT25RMmdQYlBTZWs0elNkbk81UERzbXI2RkwwYngxUjE2ZTBHMmpOcjEyUWJVNXRJMUstM3RrQ2xrU09fb3ZOc04zLTZFX2RoQ1k?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-11-05T02:37:06+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "7e42bbdb5541",
-      "title": "Nextdc Shares Surge After Rival Data Center Firms Seek Stake - Livemint",
-      "summary": "Nextdc Shares Surge After Rival Data Center Firms Seek Stake&nbsp;&nbsp;Livemint",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalNKd0puZ1FxLWtYZ3pVVVZRaUJxOWJmOUswbWZmc2RUZDFkbFBobXJiVTAzb0hvaV9UX1ZKbnZJRzVBYjZNSFJXdk5LNEtXUFhTNWY4QUJaYTI4cTZQWU84ck5EV2ZCeVpzTGpiZU1TOXRpbGl2RUdPajVaQk92eXZTeXNqLVJYZTVpNmR3MnRZUzhzTWRpanhWb0tkZzlNUDl2c3hKdmw2dDJiZHhHRGJn0gG3AUFVX3lxTFBiVjViQXYwdlVsNldGbmpCVUZhbHVOalZ2T3gwNGNDclR5MU1acGR6eG5PWWFvaklvQUxhYnFtWTNSQS1jSVdUa1otS3ZGZXBVYjBhYjY2VG4wLUcyUHlZYTdzLUk4bWpvNW1PbzBzOXJRemVUNEk0OEFWZEVNdXZHZ3JqN1FmalpubEplMGQ1dFpaMWhKOFk5Z0pKaHdrdzBFUkFjZXhOTjAwYWpjNVZJVzl1LWZOUQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-11-05T01:02:08+00:00",
       "tags": [
         "nextdc"
       ],
@@ -98,19 +123,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "42f8686bb2c4",
-      "title": "NEXTDC Limited [ASX:NXT] announces its Annual General Meeting in Sydney, Australia, 20 November 2026 - TradingView",
-      "summary": "NEXTDC Limited [ASX:NXT] announces its Annual General Meeting in Sydney, Australia, 20 November 2026&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZEpMTjE3VGk4UXd6YWdhb0ttVURuVUM0REpqdWlzQk10UFJKNV9jNHVncU9uSDl0RENLSE5vbUZJSmozUlV6dzV0TTZieWQxU3dpSFZ2OTFOZmt6dFNVWC15UEhkaUtDTm45Mk5oV0ZWXzl2SEw0NUZRRHRsYVhhRnZnd2p3c0pnREh0aldTd21laXNoalk0N2tLZnpEZkxXdHZLenNNMnN4bDBvX1k5ZnNzclpQeXhXaUFnWllUWVZiSU1DY1lMVzJIZ2s0NWhxMUtFTWswUkFMVTUtVnlLWG96Q00?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-10-19T07:00:00+00:00",
-      "tags": [
-        "nextdc",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
       "id": "229fde9fbb5a",
       "title": "GreenSquare launches first phase of data center campus in Sydney, Australia - Data Center Dynamics",
       "summary": "GreenSquare launches first phase of data center campus in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
@@ -121,6 +133,19 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "42f8686bb2c4",
+      "title": "NEXTDC Limited [ASX:NXT] announces its Annual General Meeting in Sydney, Australia, 20 November 2026 - TradingView",
+      "summary": "NEXTDC Limited [ASX:NXT] announces its Annual General Meeting in Sydney, Australia, 20 November 2026&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZEpMTjE3VGk4UXd6YWdhb0ttVURuVUM0REpqdWlzQk10UFJKNV9jNHVncU9uSDl0RENLSE5vbUZJSmozUlV6dzV0TTZieWQxU3dpSFZ2OTFOZmt6dFNVWC15UEhkaUtDTm45Mk5oV0ZWXzl2SEw0NUZRRHRsYVhhRnZnd2p3c0pnREh0aldTd21laXNoalk0N2tLZnpEZkxXdHZLenNNMnN4bDBvX1k5ZnNzclpQeXhXaUFnWllUWVZiSU1DY1lMVzJIZ2s0NWhxMUtFTWswUkFMVTUtVnlLWG96Q00?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-10-18T07:00:00+00:00",
+      "tags": [
+        "nextdc",
+        "nsw"
+      ],
+      "relevance_score": 0.5
     },
     {
       "id": "c5a06b7b97f0",
@@ -181,6 +206,19 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "0da1d36f238a",
+      "title": "Anthropic negotiates with AirTrunk\u2019s regional NSW data centre - AFR",
+      "summary": "Anthropic negotiates with AirTrunk\u2019s regional NSW data centre&nbsp;&nbsp;AFR",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2F6S0xhNG80Ml8zbW5yUWhSak5LS3hRdnQ1MGNnWC1TRVl5T3hfUk51RlMyazh3MmVtYm8xR21abjh5X09hSWtkS1R6aU1QQVZwb29MeFg4Wm1ELWVtU21UUVlCdG9fUnAxQ09hNHBHWklJOWdvc0k1OU1ZWEowdDdkUHF4NXZqLW9HRk9lejFoVVA3MHRrZ2NiaDF6UEpSMHRGdm11cW1ONmM3WXc?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-09-22T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
     },
     {
       "id": "d2abd203d669",
