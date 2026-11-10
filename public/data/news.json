@@ -1,6 +1,91 @@
 {
-  "last_updated": "2026-11-09T15:53:30.176723+00:00",
+  "last_updated": "2026-11-10T14:41:46.145705+00:00",
   "items": [
+    {
+      "id": "20a86f54b192",
+      "title": "Equinix launches SG6 data center in Singapore",
+      "summary": "Company launches new facility following relaxing of moratorium",
+      "url": "https://www.datacenterdynamics.com/en/news/equinix-launches-sg6-data-center-in-singapore/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-11-10T10:38:59+00:00",
+      "tags": [
+        "equinix"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "a724aafbbd09",
+      "title": "Sponsored: Too big to trip",
+      "summary": "Once viewed through the lens of individual facility protection, grid resilience now depends on data centers remaining connected and supporting system stability during power disturbances",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/too-big-to-trip/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-11-10T08:00:00+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "96b73706126f",
+      "title": "Diraq deploys Australia's first quantum computer in Sydney - DataCenterNews Asia Pacific",
+      "summary": "Diraq deploys Australia's first quantum computer in Sydney&nbsp;&nbsp;DataCenterNews Asia Pacific",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFNzc3l2b0FBeHZlWjMzMUJ5Mm9xTE0tNFdMbVZtb2xjQ3VtNnZZal94THhtS1VkcDJ6NHBOU1VQWGt4aU83VUpsY3gzdjI5WUwwb2l2ZEgybzdtel82blZiVi1YSm56c2EwWGxnV1ppRnFEQlpNZEtaS1VHbWZER2EzaDV4RFNsT3BHR1NPM2dRN2txMEcw?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-11-10T01:21:16+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "079bcaa9c329",
+      "title": "Diraq switches on an 8-qubit silicon spin quantum computer inside an Equinix data center in Sydney - MLQ.ai",
+      "summary": "Diraq switches on an 8-qubit silicon spin quantum computer inside an Equinix data center in Sydney&nbsp;&nbsp;MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdjExcXgzSDlyQ253SGZHZ0NUVmlGOHBmbjVzeVNVa3Y3TWEyQ0IxSUp6OGpncHJKclgzUG9EYVFjRExVT0E3cFRhem1QSW9vWVFNZEcxRU81WTBGZllYamU0YTd3cTNtV052U05Kb1NQOUNqWnBQRms0RmNLc1BHbVhJT2NzMlF5NVBSeWpDYW1pVlBZZF9uUWF6Q2lmNE1uazBQNHRIR0daaXVrMzhZYUtMUmV5emFjSWlF?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-11-09T21:32:04+00:00",
+      "tags": [
+        "equinix",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
+    {
+      "id": "5704c78eaae2",
+      "title": "Norway halts grid connection applications for new data centers",
+      "summary": "Seeks to limit rapid buildout while regulation catches up",
+      "url": "https://www.datacenterdynamics.com/en/news/norway-halts-grid-connection-applications-for-new-data-centers/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-11-09T17:48:46+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "42058c09d19e",
+      "title": "AirTrunk named as operator behind data center project in Melbourne, Australia - Data Center Dynamics",
+      "summary": "AirTrunk named as operator behind data center project in Melbourne, Australia&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMThFWnRReHN6X1FzTVdnSGtxSlJoc2dKbFZ6dkw5UFJhSngxb0M5aDEyZTV6Q0kteE15MGdFQVJta2FrMnVpeXRBVlUtZDlJVEhLSUJEZWljSEtxMDdZOFNZTVNIVThKazdkV0ZBZ1g0MHNlTjlVRGs0UzNkS0FnXzBfMFhQNVZZN2lpdVNRSVpUdy1hVTN3RDdlQ1dHSDR4ZHYyekJrZFQxeTJ4MVRQSE0zTzdseU8tTE9LNw?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-09T16:08:48+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "147de01ca1ce",
+      "title": "AirTrunk named as operator behind data center project in Melbourne, Australia",
+      "summary": "Also behind project to develop Kurri Kurri smelter into data center",
+      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-named-as-operator-behind-data-center-project-in-melbourne-australia/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-11-09T16:01:34+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
     {
       "id": "4ca66f5441b0",
       "title": "European Energy and AirTrunk Open 31 MW Mulwala Solar Project in Australia - Renewable Energy Magazine",
@@ -13,30 +98,6 @@
         "energy_policy"
       ],
       "relevance_score": 0.4
-    },
-    {
-      "id": "9794c02090ab",
-      "title": "Orbital and Orca Aerospace sign deal for onboard satellite GNC and collision-avoidance AI",
-      "summary": "Agreement could be worth $20m",
-      "url": "https://www.datacenterdynamics.com/en/news/orbital-and-orca-aerospace-sign-deal-for-onboard-satellite-gnc-and-collision-avoidance-ai/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-09T13:30:30+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "165f8afd8d55",
-      "title": "NextDC boss \u2018mortified\u2019 as rivals raid shares during $1.5bn Melbourne project upheaval - The Australian",
-      "summary": "NextDC boss \u2018mortified\u2019 as rivals raid shares during $1.5bn Melbourne project upheaval&nbsp;&nbsp;The Australian",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOMDh6YzlwQkFQZUxoOGhkTzB4Qzg4akJiNnFwTGItZEF4ZmJDbG1LcVJva29xSmJ1Mng1cVdweDBKUXJMWlRJT0h4ekdCdGZESFpQQjlvYzNEUWlJTlQ3SFcyZVE1S3lZNHd5TWItTGN1WG5zZjRCSFBPVGV0a3ZnaGU4ZGd1ajMtWVZZamhBQ1hYMWwxTHc3cV9wVWZDU0dkcS16Q1R3Wm54QVZ5MWhjQ1VpaDdBeEROdWs0YW1fM2N6eTJWcUQ3TDVnM0xYXzQ5NVpfTnRlMHFvTExEcnhIRmFDZmNCdGxxNGd3dWVnOWd1LUFveWJFeFpyQjluMFZUYnNvMmlic1NsTnlnRmw1UFpzNVlZSmtSMk1rNA?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-11-09T13:21:17+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "aa1d51f435ee",
@@ -52,18 +113,6 @@
       "relevance_score": 0.5
     },
     {
-      "id": "0292c5bda197",
-      "title": "Cooks River Data Centre Plans Dropped From $2.42bn Sydney Logistics Project after SCRAP Opposition - Construction Review",
-      "summary": "Cooks River Data Centre Plans Dropped From $2.42bn Sydney Logistics Project after SCRAP Opposition&nbsp;&nbsp;Construction Review",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV3JNeEstemUtaTh1VEx5VF80NTU3NjAxNFRIMlJ6ZWVYaUlIRm1rdFNLNWZOUmxmSXFFUFlHQWdSRndtOWtqdkNWM3RPRFBDSzJKUXhjOU80aVVhZGxhZ3JEa3JUUWU2N1lYSTRESE9WY24wWmR3TUE1QWJKQ3BzS1h3VFRPMlU1dFJXWm1xMHVURnJGOVVvNEUtTFY2Zkx3V0NlT3RzR2YzR0d5ak1JWjRYU09UX2FUWkJucFNmZTBBTTZUdDN3VlowZHVMSlJK?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-11-09T11:40:50+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
       "id": "db292cc09717",
       "title": "European Energy and AirTrunk open 31MW Mulwala solar PV plant in New South Wales, Australia - PV Tech",
       "summary": "European Energy and AirTrunk open 31MW Mulwala solar PV plant in New South Wales, Australia&nbsp;&nbsp;PV Tech",
@@ -75,6 +124,18 @@
         "nsw"
       ],
       "relevance_score": 0.5
+    },
+    {
+      "id": "165f8afd8d55",
+      "title": "NextDC boss \u2018mortified\u2019 as rivals raid shares during $1.5bn Melbourne project upheaval - The Australian",
+      "summary": "NextDC boss \u2018mortified\u2019 as rivals raid shares during $1.5bn Melbourne project upheaval&nbsp;&nbsp;The Australian",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOMDh6YzlwQkFQZUxoOGhkTzB4Qzg4akJiNnFwTGItZEF4ZmJDbG1LcVJva29xSmJ1Mng1cVdweDBKUXJMWlRJT0h4ekdCdGZESFpQQjlvYzNEUWlJTlQ3SFcyZVE1S3lZNHd5TWItTGN1WG5zZjRCSFBPVGV0a3ZnaGU4ZGd1ajMtWVZZamhBQ1hYMWwxTHc3cV9wVWZDU0dkcS16Q1R3Wm54QVZ5MWhjQ1VpaDdBeEROdWs0YW1fM2N6eTJWcUQ3TDVnM0xYXzQ5NVpfTnRlMHFvTExEcnhIRmFDZmNCdGxxNGd3dWVnOWd1LUFveWJFeFpyQjluMFZUYnNvMmlic1NsTnlnRmw1UFpzNVlZSmtSMk1rNA?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-11-09T08:03:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "3a6f06dc2b2e",
@@ -174,18 +235,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "3f6b4bd40ed7",
-      "title": "Aftermarket raid: Embattled data centre company NextDC\u2019s shares soar - WAtoday",
-      "summary": "Aftermarket raid: Embattled data centre company NextDC\u2019s shares soar&nbsp;&nbsp;WAtoday",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbDRvNnEzLWE2aTlibnNVa01IcGNYZWhidm4wYThPeGlEdmRpTW1mWVFqNVBPNDZKZHhzSG1OX3RlMEt4VTdGamhXSExTZ3N0R0dwUVluUFREX0lDMmk2Q3VqTmpLU2swWnowamU3dEllaWpYZTlSczVaM2U3T0xxclVnZTdWT25RMmdQYlBTZWs0elNkbk81UERzbXI2RkwwYngxUjE2ZTBHMmpOcjEyUWJVNXRJMUstM3RrQ2xrU09fb3ZOc04zLTZFX2RoQ1k?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-11-05T02:37:06+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "c589ef6ef8ac",
       "title": "Australia's NEXTDC rallies; calls Goodman, Digital Realty share bid 'opportunistic' - Reuters",
       "summary": "Australia's NEXTDC rallies; calls Goodman, Digital Realty share bid 'opportunistic'&nbsp;&nbsp;Reuters",
@@ -208,6 +257,33 @@
         "airtrunk"
       ],
       "relevance_score": 0.3
+    },
+    {
+      "id": "284f90a83e22",
+      "title": "AirTrunk secures $4.25b green loan for Western Sydney data centre - Capital Brief",
+      "summary": "AirTrunk secures $4.25b green loan for Western Sydney data centre&nbsp;&nbsp;Capital Brief",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNjFnR3hoNUxEaFNhZ1o4R3FHaHpTeW83VWQ4Zk4xMG1BcG9jZ0dPdGhJODNScGtrZ3JYVG5fOUtodFlsMERxNHpfazVxYnlNOHExLTZ4b3hzQ291QXRyRzNLYU1fVnpadFQtTzhhWXZ0NVBMLXZmd280aHVGT3BZNXdqelBPWWxlYUEzM3FxRUZzNklfX0VQNVBNMHBZR1RlTlVTc3d2LVA0RmdROTNNbHBtMTMzOVVTQ1R5M1FvcUM4dTZmR1lYVVhudG1Tb0ZkblJ1MDZR?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw",
+        "western_sydney"
+      ],
+      "relevance_score": 0.7
+    },
+    {
+      "id": "8aa3f42dbe6a",
+      "title": "Australia's AirTrunk bags $3 billion green loan to expand Sydney data centre - marketscreener.com",
+      "summary": "Australia's AirTrunk bags $3 billion green loan to expand Sydney data centre&nbsp;&nbsp;marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVVxbXYyVDJLcFE1dDRvRGtrZnFybDRRSmVhOHR5NXI5LXdTZ2FZd3FwNVBNNzNYWmVpLWgxOHBzT2lvREhJRWxSLTNBU2ROVDloSnR5dmdOUHVTSXdNMkNaTGlpVlRfU2pJZ0JDTWxja083WTQtVk8xMXBfTk1yMUNNX3ZyaUw4dlR4blY4T1ZKTGJ2VXdoQy1CVWRtbUpmeFNVdXp4M29Gai0xdkJrbi1LWHRuN2NFSXFwVHZ1TVNZUHhDR1hr?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
     },
     {
       "id": "b6c04894dc01",
