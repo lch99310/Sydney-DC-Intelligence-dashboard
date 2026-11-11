@@ -1,29 +1,17 @@
 {
-  "last_updated": "2026-11-10T14:41:46.145705+00:00",
+  "last_updated": "2026-11-11T13:57:16.468227+00:00",
   "items": [
     {
-      "id": "20a86f54b192",
-      "title": "Equinix launches SG6 data center in Singapore",
-      "summary": "Company launches new facility following relaxing of moratorium",
-      "url": "https://www.datacenterdynamics.com/en/news/equinix-launches-sg6-data-center-in-singapore/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-10T10:38:59+00:00",
+      "id": "36a3dce722bf",
+      "title": "AirTrunk lines up Hunter clean energy projects for Kurri Kurri data centre, but more needed - Newcastle Herald",
+      "summary": "AirTrunk lines up Hunter clean energy projects for Kurri Kurri data centre, but more needed&nbsp;&nbsp;Newcastle Herald",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa25xb1prc004a3VON1F3dXFoYzFnY3lSM2lVQ2Y2YzdpWHA5SThQMVd4R3FBTGhFb1lhZi1aV1VDY2FyVlQzMUViUFZ4d0hOOU5aaV9kd1FhRy1ZV00wUnIwZzNHQ201TjVNaFhzTEFwdzlNUGxpcDNtVFlGSGZjeEk5MDNCSXFHalc2MkstTkJLZVBGNy12SU40SVlRTkNzdDVLZzJsemQ2Zw?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-11T08:00:37+00:00",
       "tags": [
-        "equinix"
+        "airtrunk"
       ],
       "relevance_score": 0.3
-    },
-    {
-      "id": "a724aafbbd09",
-      "title": "Sponsored: Too big to trip",
-      "summary": "Once viewed through the lens of individual facility protection, grid resilience now depends on data centers remaining connected and supporting system stability during power disturbances",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/too-big-to-trip/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-10T08:00:00+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
     },
     {
       "id": "96b73706126f",
@@ -51,36 +39,12 @@
       "relevance_score": 0.5
     },
     {
-      "id": "5704c78eaae2",
-      "title": "Norway halts grid connection applications for new data centers",
-      "summary": "Seeks to limit rapid buildout while regulation catches up",
-      "url": "https://www.datacenterdynamics.com/en/news/norway-halts-grid-connection-applications-for-new-data-centers/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-09T17:48:46+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
       "id": "42058c09d19e",
       "title": "AirTrunk named as operator behind data center project in Melbourne, Australia - Data Center Dynamics",
       "summary": "AirTrunk named as operator behind data center project in Melbourne, Australia&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMThFWnRReHN6X1FzTVdnSGtxSlJoc2dKbFZ6dkw5UFJhSngxb0M5aDEyZTV6Q0kteE15MGdFQVJta2FrMnVpeXRBVlUtZDlJVEhLSUJEZWljSEtxMDdZOFNZTVNIVThKazdkV0ZBZ1g0MHNlTjlVRGs0UzNkS0FnXzBfMFhQNVZZN2lpdVNRSVpUdy1hVTN3RDdlQ1dHSDR4ZHYyekJrZFQxeTJ4MVRQSE0zTzdseU8tTE9LNw?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-11-09T16:08:48+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "147de01ca1ce",
-      "title": "AirTrunk named as operator behind data center project in Melbourne, Australia",
-      "summary": "Also behind project to develop Kurri Kurri smelter into data center",
-      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-named-as-operator-behind-data-center-project-in-melbourne-australia/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-09T16:01:34+00:00",
       "tags": [
         "airtrunk"
       ],
@@ -126,6 +90,18 @@
       "relevance_score": 0.5
     },
     {
+      "id": "e281b1f22a15",
+      "title": "NextDC pauses uncontracted projects after Australian data centre woes - Reuters",
+      "summary": "NextDC pauses uncontracted projects after Australian data centre woes&nbsp;&nbsp;Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXR4amNEbFVfM09oMjdIRmM5YjZWT0hnTVFXQ3cxUndoUTd2SzFzWVJOSzc5MGF6ZUJTYnJyNVp5Qzg3OC1iUlFkMkZnVlNjOEk3M1FMTi1IWldQYXJEakV1VURCSFpSNWlWaktWMG01aXY5dkRtUXZSSnFBZktIVzJPVnczcHpDUE4tSTE0NlJMN0pPRkl1OGl6UTJFREw0Y1NZcDRzMUV6NFd3ODF1SUJBamZmN0h6aW80UkRtdjV6Zw?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-11-09T08:54:29+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "165f8afd8d55",
       "title": "NextDC boss \u2018mortified\u2019 as rivals raid shares during $1.5bn Melbourne project upheaval - The Australian",
       "summary": "NextDC boss \u2018mortified\u2019 as rivals raid shares during $1.5bn Melbourne project upheaval&nbsp;&nbsp;The Australian",
@@ -136,6 +112,19 @@
         "nextdc"
       ],
       "relevance_score": 0.3
+    },
+    {
+      "id": "e67acb1e09e9",
+      "title": "Stockland dumps Sydney airport data centre, AirTrunk plan nixed - The Australian",
+      "summary": "Stockland dumps Sydney airport data centre, AirTrunk plan nixed&nbsp;&nbsp;The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTnFrSTlMMGlTMkthZ01uLXdjNF93N24waFRCWUFtWlRkcW8wYmJuS2FZbm5oaFhFcUZyTFNVVkd2TE1qcmQxQjhUTEJnUHFtNUFKZ05WclhGNzBpZWZocDBGWWdJVl94bTFCQmY5bjhfYUtUSU9GcFR6SGw2aExJSVIwSXJqNGpLQkRSZEJlWVlLcFl2SlV4ZEdNUlRBWk41VEl1OWNzYVo4LWtoRFR2dUpFd1JPRzg4YTFLR0FWNzJwT0RBNFQ2UTFjWHRtaUtWTGhmOW1OUG1FZ0JpWktzMg?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-08T23:42:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
     },
     {
       "id": "3a6f06dc2b2e",
@@ -210,19 +199,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "e67acb1e09e9",
-      "title": "Stockland dumps Sydney airport data centre, AirTrunk plan nixed - The Australian",
-      "summary": "Stockland dumps Sydney airport data centre, AirTrunk plan nixed&nbsp;&nbsp;The Australian",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTnFrSTlMMGlTMkthZ01uLXdjNF93N24waFRCWUFtWlRkcW8wYmJuS2FZbm5oaFhFcUZyTFNVVkd2TE1qcmQxQjhUTEJnUHFtNUFKZ05WclhGNzBpZWZocDBGWWdJVl94bTFCQmY5bjhfYUtUSU9GcFR6SGw2aExJSVIwSXJqNGpLQkRSZEJlWVlLcFl2SlV4ZEdNUlRBWk41VEl1OWNzYVo4LWtoRFR2dUpFd1JPRzg4YTFLR0FWNzJwT0RBNFQ2UTFjWHRtaUtWTGhmOW1OUG1FZ0JpWktzMg?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-08T05:04:00+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
       "id": "acc433d3afc2",
       "title": "Data centres could use twice the power of all the houses in Sydney - AFR",
       "summary": "Data centres could use twice the power of all the houses in Sydney&nbsp;&nbsp;AFR",
@@ -257,33 +233,6 @@
         "airtrunk"
       ],
       "relevance_score": 0.3
-    },
-    {
-      "id": "284f90a83e22",
-      "title": "AirTrunk secures $4.25b green loan for Western Sydney data centre - Capital Brief",
-      "summary": "AirTrunk secures $4.25b green loan for Western Sydney data centre&nbsp;&nbsp;Capital Brief",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNjFnR3hoNUxEaFNhZ1o4R3FHaHpTeW83VWQ4Zk4xMG1BcG9jZ0dPdGhJODNScGtrZ3JYVG5fOUtodFlsMERxNHpfazVxYnlNOHExLTZ4b3hzQ291QXRyRzNLYU1fVnpadFQtTzhhWXZ0NVBMLXZmd280aHVGT3BZNXdqelBPWWxlYUEzM3FxRUZzNklfX0VQNVBNMHBZR1RlTlVTc3d2LVA0RmdROTNNbHBtMTMzOVVTQ1R5M1FvcUM4dTZmR1lYVVhudG1Tb0ZkblJ1MDZR?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-10-27T07:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw",
-        "western_sydney"
-      ],
-      "relevance_score": 0.7
-    },
-    {
-      "id": "8aa3f42dbe6a",
-      "title": "Australia's AirTrunk bags $3 billion green loan to expand Sydney data centre - marketscreener.com",
-      "summary": "Australia's AirTrunk bags $3 billion green loan to expand Sydney data centre&nbsp;&nbsp;marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVVxbXYyVDJLcFE1dDRvRGtrZnFybDRRSmVhOHR5NXI5LXdTZ2FZd3FwNVBNNzNYWmVpLWgxOHBzT2lvREhJRWxSLTNBU2ROVDloSnR5dmdOUHVTSXdNMkNaTGlpVlRfU2pJZ0JDTWxja083WTQtVk8xMXBfTk1yMUNNX3ZyaUw4dlR4blY4T1ZKTGJ2VXdoQy1CVWRtbUpmeFNVdXp4M29Gai0xdkJrbi1LWHRuN2NFSXFwVHZ1TVNZUHhDR1hr?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
     },
     {
       "id": "b6c04894dc01",
@@ -395,19 +344,6 @@
       "relevance_score": 0.2
     },
     {
-      "id": "0da1d36f238a",
-      "title": "Anthropic negotiates with AirTrunk\u2019s regional NSW data centre - AFR",
-      "summary": "Anthropic negotiates with AirTrunk\u2019s regional NSW data centre&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2F6S0xhNG80Ml8zbW5yUWhSak5LS3hRdnQ1MGNnWC1TRVl5T3hfUk51RlMyazh3MmVtYm8xR21abjh5X09hSWtkS1R6aU1QQVZwb29MeFg4Wm1ELWVtU21UUVlCdG9fUnAxQ09hNHBHWklJOWdvc0k1OU1ZWEowdDdkUHF4NXZqLW9HRk9lejFoVVA3MHRrZ2NiaDF6UEpSMHRGdm11cW1ONmM3WXc?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-09-22T07:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
       "id": "d2abd203d669",
       "title": "Australian data centre operator NEXTDC to raise $795 mln for AI infrastructure - Reuters",
       "summary": "Australian data centre operator NEXTDC to raise $795 mln for AI infrastructure&nbsp;&nbsp;Reuters",
@@ -456,18 +392,6 @@
         "nextdc"
       ],
       "relevance_score": 0.9
-    },
-    {
-      "id": "7af7c3ead7c9",
-      "title": "Data centre boss refuses to say whether facility next to metro station is good for Sydney - SMH.com.au",
-      "summary": "Data centre boss refuses to say whether facility next to metro station is good for Sydney&nbsp;&nbsp;SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRm9RcjFISC1MZHNtQnBOQ2hUUzVVM25DYmpYcF9taFU3MUc2VFFCb09qU2lfVkMxc0ZpVXBleVhCY0xGV3ZHVkF1RkpkWlI0TFQzejhjcGpOYkItekhURFZzUnVnVC1vb2xSVC1SUkx1c3hLTlRiNVU3UzJnRlFPT2hLTEhvUnRkMDROcWxsLTk0Uzc1RG5udUk1Mk5EU3pZb0JYLWlUejlBMjY5RE1hdTRWLVJFUlhDTEpmV2NjcHlWSXFGdHlONjlnaUVlMC1YOXJMbVFpaHhjM1FvSGlr?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-08-13T07:00:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
     }
   ]
 }
