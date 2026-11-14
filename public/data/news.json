@@ -1,13 +1,61 @@
 {
-  "last_updated": "2026-11-13T14:23:49.309821+00:00",
+  "last_updated": "2026-11-14T13:19:59.522378+00:00",
   "items": [
+    {
+      "id": "80f384d7df02",
+      "title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+      "summary": "Company targets two projects outside Vizag",
+      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-11-14T11:00:55+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "07bccc978131",
+      "title": "Sponsored: When the pressure heats up, what really cools servers down?",
+      "summary": "Demand is leading to cooling constraints across the data center. Joint ventures and more sustainable chillers could provide the long-term answer",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/when-the-pressure-heats-up-what-really-cools-servers-down/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-11-14T08:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "c79862ce1da2",
+      "title": "Blackstone\u2019s AirTrunk Advances $11 Billion India Data Center Bet - Bloomberg",
+      "summary": "Blackstone\u2019s AirTrunk Advances $11 Billion India Data Center Bet&nbsp;&nbsp;Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRjZGdmhabDdHUW1DbVY4OU85NW5jSW0wY21GTEVvNk1GZUdLZWtYaUw5NkZGVm1xcjk1aTN4Q1hrcUI5S1NoNkUzX09STTZFUEFKRVJveXJ2Y1haVHlGVmxlcUxJUjFWLTJkbmV5QkVOYlN0X01LTElJN09RRkhHMkw1Tk53c2xfZTAzUGtYQ0FCVkI1Uk5BLWtTSmNhOEJaQklXUU5HRmJFbjA2WVE4ZnBUZ3g?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-14T06:08:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "8f8a4e79b02e",
+      "title": "Blackstone\u2019s AirTrunk Advances $11 Billion India Data Center Bet - Bloomberg",
+      "summary": "Blackstone\u2019s AirTrunk Advances $11 Billion India Data Center Bet&nbsp;&nbsp;Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRjZGdmhabDdHUW1DbVY4OU85NW5jSW0wY21GTEVvNk1GZUdLZWtYaUw5NkZGVm1xcjk1aTN4Q1hrcUI5S1NoNkUzX09STTZFUEFKRVJveXJ2Y1haVHlGVmxlcUxJUjFWLTJkbmV5QkVOYlN0X01LTElJN09RRkhHMkw1Tk53c2xfZTAzUGtYQ0FCVkI1Uk5BLWtTSmNhOEJaQklXUU5HRmJFbjA2WVE4ZnBUZ3g?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-11-14T06:08:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
     {
       "id": "1460ec6e7f3b",
       "title": "Quantum DC pauses a 1,200 MW South Australian data center as AirTrunk and Stockland drop Sydney projects after community backlash - MLQ.ai",
       "summary": "Quantum DC pauses a 1,200 MW South Australian data center as AirTrunk and Stockland drop Sydney projects after community backlash&nbsp;&nbsp;MLQ.ai",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLURpVU9oa01hNk9WX1pSRXhlR0p0c1d1WmpwVGZfS29OeEVnLUxQSUdzV24xUFR0M05VRWY3M2Jkd1FQM2U3WVBaTnZmaGZEYUp5Z2lsNm50RjREdmNMemVnWjhKdnkwbm9zRU04Y1JHZkxmWkhuQ3Q5WWIzQ2M4NTVfbWxwVEZpY09BNzFmUVpiYmlVekNTWlExREJ6cDJGaktlVVFGbUxpR20yRWdvM3J3b2ZLVEc1d3poa0ZDOUdIcDBIOW9yNmVtRzVGV2FqcXRkU1Izay1BYTVuQ2I3M2dFUQ?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-11-13T13:22:11+00:00",
+      "published_at": "2026-11-13T13:22:01+00:00",
       "tags": [
         "airtrunk",
         "nsw"
@@ -20,7 +68,7 @@
       "summary": "Quantum DC pauses a 1,200 MW South Australian data center as AirTrunk and Stockland drop Sydney projects after community backlash&nbsp;&nbsp;MLQ.ai",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLURpVU9oa01hNk9WX1pSRXhlR0p0c1d1WmpwVGZfS29OeEVnLUxQSUdzV24xUFR0M05VRWY3M2Jkd1FQM2U3WVBaTnZmaGZEYUp5Z2lsNm50RjREdmNMemVnWjhKdnkwbm9zRU04Y1JHZkxmWkhuQ3Q5WWIzQ2M4NTVfbWxwVEZpY09BNzFmUVpiYmlVekNTWlExREJ6cDJGaktlVVFGbUxpR20yRWdvM3J3b2ZLVEc1d3poa0ZDOUdIcDBIOW9yNmVtRzVGV2FqcXRkU1Izay1BYTVuQ2I3M2dFUQ?oc=5",
       "source": "Google News: Sydney DC",
-      "published_at": "2026-11-13T13:22:11+00:00",
+      "published_at": "2026-11-13T13:22:01+00:00",
       "tags": [
         "airtrunk",
         "nsw"
@@ -40,36 +88,24 @@
       "relevance_score": 0.2
     },
     {
+      "id": "42663b2f3162",
+      "title": "AirTrunk signs 1GW energy deal with European Energy Australia - BeBeez International",
+      "summary": "AirTrunk signs 1GW energy deal with European Energy Australia&nbsp;&nbsp;BeBeez International",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY01LbmVFNjFCM1VjNWtPS1ZTWlBWam5pVlpOb0dqUVBwTGtFZU51eFNWM3kzUjd1bHlBZXgtSDJrQWhhcHR5UGpoNGpIU2psZWVCWm13Ny1vMVRqSmprZ2VpSkZ0TjlkUVl5aHhzRzdaa3R0Mmk4QVlMMEN2VmZfVU5kNVVBYkVIWTN2OVZ0RV85SzRXT0E?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-13T10:20:11+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "64ea2e0fa63f",
       "title": "AirTrunk signs 1GW energy deal with European Energy Australia - Data Center Dynamics",
       "summary": "AirTrunk signs 1GW energy deal with European Energy Australia&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVUdFT19iYXpVdVFQNEtUUnRyWHdRNGhEcl8yY3R6b1dxRlRWMkRubk1qVmQtT2E4LXVXSklIcDNiNWJSdUlXWW93N1E0WjFFaWJENGh6YkhRdGlFM21vVkhYbmVjT1dwRXNGR3NFU1hKaC10VnJmTzZVdWZCSGllZTdPSnRpVGdnM3pWTVlrWmxHeGNjVnAxeVZ6M2pZUThDTUcyUG5zUzE?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-11-13T10:05:59+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "f9d2a2ef625e",
-      "title": "AirTrunk signs 1GW energy deal with European Energy Australia",
-      "summary": "Company to offtake from upcoming solar, wind, and BESS projects",
-      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-1gw-energy-deal-with-european-energy-australia/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-13T09:58:23+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "a318ca4bc708",
-      "title": "260 MW solar project part of AirTrunk, European Energy deal - pv magazine Australia",
-      "summary": "260 MW solar project part of AirTrunk, European Energy deal&nbsp;&nbsp;pv magazine Australia",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHQ2UkRpZEZNekhjXzlLMkRieWdJZ1g3ZTFnaXk2R05OTXB1MHF6S0Z0dnJrWWdnZ1Y1eGFYTldQaHpIVVA2R0hhbHc0ODRrZEt4UXhHbnFNM01laFJpSU41STRuYTJRNXhud2NZdE5UMUlrb1UzVEZ6bi1DNVVtNnJhRTNBY3JKSU45S3F0dDlINGk3cEVDMndmeTJBMEN3UW9fV2ZKNlJHWWFf?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-13T09:56:15+00:00",
       "tags": [
         "airtrunk"
       ],
@@ -94,6 +130,19 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZkVHRWtOY2c0czFnNkYydEVtNjNiRFJ2YVVab3pha0txZGxFbkFCcWtid3lUWk1CVEZoLVhRSnB4TDVmOFBsbzVBMmRJVlJKZXdoTWdxUktURzc5Y1FEOXc3bFpWN2x0ai1vRVU4aWRvQlI4bUZBRVhoX3ZpR21KdUYxZFo5eHBlREJ0UTkyOVUtWnpxbV81cVpYVUtfODA5RTktSlEyclFsX3R0YzlRc3ZBQW9zSVd1ZDZmcEMxUk81U3oycjJ5Y3Z2cUVsX2M2ZzZGMA?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-11-12T21:12:52+00:00",
+      "tags": [
+        "airtrunk",
+        "energy_policy"
+      ],
+      "relevance_score": 0.4
+    },
+    {
+      "id": "92a5e9166d7f",
+      "title": "AirTrunk and European Energy Australia agree on renewable projects in Hunter - Inspenet",
+      "summary": "AirTrunk and European Energy Australia agree on renewable projects in Hunter&nbsp;&nbsp;Inspenet",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MblJ2R3ljSjd1eDZ3bVdQU2FTbHdRMVVwc0RfQ0E3czcyRXBuMjdZRHZaZzIzelgxUllwNG0zd2ZrVG96NTdsU1AxN3Fjd05LdE1GajkybTV6TW9TZ0R3VGpzb0RfV1FRZWZHM1QwYmR6c2tyRC1mM21aaw?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-12T19:19:14+00:00",
       "tags": [
         "airtrunk",
         "energy_policy"
@@ -293,6 +342,18 @@
       "relevance_score": 0.3
     },
     {
+      "id": "42058c09d19e",
+      "title": "AirTrunk named as operator behind data center project in Melbourne, Australia - Data Center Dynamics",
+      "summary": "AirTrunk named as operator behind data center project in Melbourne, Australia&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMThFWnRReHN6X1FzTVdnSGtxSlJoc2dKbFZ6dkw5UFJhSngxb0M5aDEyZTV6Q0kteE15MGdFQVJta2FrMnVpeXRBVlUtZDlJVEhLSUJEZWljSEtxMDdZOFNZTVNIVThKazdkV0ZBZ1g0MHNlTjlVRGs0UzNkS0FnXzBfMFhQNVZZN2lpdVNRSVpUdy1hVTN3RDdlQ1dHSDR4ZHYyekJrZFQxeTJ4MVRQSE0zTzdseU8tTE9LNw?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-09T16:08:48+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
       "id": "4ca66f5441b0",
       "title": "European Energy and AirTrunk Open 31 MW Mulwala Solar Project in Australia - Renewable Energy Magazine",
       "summary": "European Energy and AirTrunk Open 31 MW Mulwala Solar Project in Australia&nbsp;&nbsp;Renewable Energy Magazine",
@@ -429,48 +490,12 @@
       "relevance_score": 0.2
     },
     {
-      "id": "acc433d3afc2",
-      "title": "Data centres could use twice the power of all the houses in Sydney - AFR",
-      "summary": "Data centres could use twice the power of all the houses in Sydney&nbsp;&nbsp;AFR",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYjdHYnhQalJnY1N5Q084blNLLUZCWUdLM21GM1hYd3c3SzdxUndVS2poQWtXbDZSQlowLTJqRTJ3dnZrek1zNFR5TFBmalFJeVdCSFpudElVdnpreGdQU0VIOTgzbWN5VGFUdnpiR3BRb29xcFVxMjUxbkpneWNYUHVfRmluRVF3dV84Q3pIakxkSjNXNE9nemk0dzNwbC0yZXNJVE5LemhMbERaYTZULWdIb2lsYl83OFhKQ3hGbnlNMGdUU3c?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-11-05T07:07:00+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "3f6b4bd40ed7",
-      "title": "Aftermarket raid: Embattled data centre company NextDC\u2019s shares soar - WAtoday",
-      "summary": "Aftermarket raid: Embattled data centre company NextDC\u2019s shares soar&nbsp;&nbsp;WAtoday",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbDRvNnEzLWE2aTlibnNVa01IcGNYZWhidm4wYThPeGlEdmRpTW1mWVFqNVBPNDZKZHhzSG1OX3RlMEt4VTdGamhXSExTZ3N0R0dwUVluUFREX0lDMmk2Q3VqTmpLU2swWnowamU3dEllaWpYZTlSczVaM2U3T0xxclVnZTdWT25RMmdQYlBTZWs0elNkbk81UERzbXI2RkwwYngxUjE2ZTBHMmpOcjEyUWJVNXRJMUstM3RrQ2xrU09fb3ZOc04zLTZFX2RoQ1k?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-11-05T02:37:06+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "b6c04894dc01",
       "title": "NextDC: Neighbourhood power pole dispute wipes billions in value off Australian data centre giant - Nine.com.au",
       "summary": "NextDC: Neighbourhood power pole dispute wipes billions in value off Australian data centre giant&nbsp;&nbsp;Nine.com.au",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSVNoVTk3bzQ0Q3Z2NW1FTUwxam9qQ0FwWWVCQ0Z6R3FmblhEMHFtRlNaVjB6YnRUN0dHdWRxZkg0MG9kN3NfWDQ2S2VydnByVXhNQ0N4UGZGXzRwMFZRQ1VRWEdHZnd5dUxBZm1vM01QYzc3cVBVdUQ4UGgzVkRjNlhxQkVtd3ZURElRa3NJaHFLcWlmZ0JMRUxUZDFzbElzS1pBRFFUQzZsY1ZxbFNYOGJEMHdUR3Y3ZG1YTWFUOERFTzh0WXdMS2wxb29Ca2Y0aUhtaFlXa1NiSmg2Q3Y4VkJMV2l2TVM2V2RKNlBTaXRwQQ?oc=5",
       "source": "Google News: NEXTDC",
       "published_at": "2026-10-21T07:00:00+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "36bb15331e07",
-      "title": "Australian AI data centre operator NextDC shares shed 42% on revenue delay, future plans on hold - Reuters",
-      "summary": "Australian AI data centre operator NextDC shares shed 42% on revenue delay, future plans on hold&nbsp;&nbsp;Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWJyOF9XbWhodGFsMWVRYUhMYzlCUDRMR2ZqRDdTdTFsOTJZWVdTcS1sRTg1UldzbkMyN1JTMkFmWkpJT0s0NkVnOWgyeXNlRnMwOVlXX3RueEt4SkJ6OTU2em5yZzBpS3o5Q3paWUk1WjJLNXhrUjQ4bGhUb2xjSHYzOTV4N3lreHREMkFBa0F3bVpJdE9VMHg4d0d4ZWJJbVFEX2xZM0xyOU9PMWItaXItTUVSWWlid003RExodnIxUFE?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-10-20T07:00:00+00:00",
       "tags": [
         "nextdc"
       ],
