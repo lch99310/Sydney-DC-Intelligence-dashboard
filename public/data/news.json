@@ -1,53 +1,41 @@
 {
-  "last_updated": "2026-11-16T15:28:56.702389+00:00",
+  "last_updated": "2026-11-17T15:49:11.806637+00:00",
   "items": [
     {
-      "id": "3b12b09f5506",
-      "title": "Equinix files to develop new data center in Dallas, Texas",
-      "summary": "Colo firm files for DA13, on land near planned DA12 campus",
-      "url": "https://www.datacenterdynamics.com/en/news/equinix-files-to-develop-new-data-center-in-dallas-texas/",
+      "id": "6cbbfe889cf1",
+      "title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
+      "summary": "PPA to support Google's data centers in The Dalles",
+      "url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-11-16T12:31:00+00:00",
+      "published_at": "2026-11-17T14:31:32+00:00",
       "tags": [
-        "equinix"
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "53508503ad2d",
+      "title": "Power moves: How grid delays and shortages will shape the next wave of data centers",
+      "summary": "Navigating the AI energy squeeze with alternative power strategies, behind-the-meter generation, and power-first site selection",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/power-moves-how-grid-delays-and-shortages-will-shape-the-next-wave-of-data-centers/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-11-17T10:59:00+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "870f63f8b7f5",
+      "title": "AirTrunk signs MoU for 1.8 GW of proposed data centre capacity in India - Telecompaper",
+      "summary": "AirTrunk signs MoU for 1.8 GW of proposed data centre capacity in India&nbsp;&nbsp;Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWx0aF9pRjdHeVg4WVFkb1F6bkNWX1p5WW80eVltLWFJbFl6WjBJdjJwOXJHcjVTV1UxYXR2eC1PT0VfYmlOWnNyZ0tnVEJLVmlpUFluckdhcllKNnlnSDg5T3g1Nnc5MW41VC1YUV9qWHBzdVpfaFhJWUg5NUNSTUdpQ21FQURjRUtmNkVUNFBzbnZqN0t2R0lWOW81U0pvNFBLU1M5aVlTWEhCTk1INExjbw?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-17T06:01:51+00:00",
+      "tags": [
+        "airtrunk"
       ],
       "relevance_score": 0.3
-    },
-    {
-      "id": "0b95ec628a43",
-      "title": "Engie could supply power to planned Google data center in Ch\u00e2teauroux, France",
-      "summary": "Firms agree potential power deal that would include renewable energy investment",
-      "url": "https://www.datacenterdynamics.com/en/news/engie-could-supply-power-to-planned-google-data-center-in-ch%C3%A2teauroux-france/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-16T11:36:01+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "98c3e7407f46",
-      "title": "Box2Bit transfers 150MW grid connection to Blackstone and exits \u00c9pila",
-      "summary": "Grid power in Spain now treated as transferrable asset",
-      "url": "https://www.datacenterdynamics.com/en/news/box2bit-sells-150-mw-to-blackstone-and-lets-epila-take-the-lead-in-aragon/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-16T10:43:44+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "c79195605120",
-      "title": "AST SpaceMobile to build its own 20-ton \u201cBlacklift\u201d rockets with Firefly Aerospace engines",
-      "summary": "Commits $1.3bn to engines for new proprietary rocket, reckons it\u2019ll be good to go in two years",
-      "url": "https://www.datacenterdynamics.com/en/news/ast-spacemobile-to-build-its-own-20-ton-blacklift-rockets-with-firefly-aerospace-engines/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-16T10:40:48+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
     },
     {
       "id": "d518b990b341",
@@ -73,32 +61,6 @@
         "airtrunk"
       ],
       "relevance_score": 0.3
-    },
-    {
-      "id": "1460ec6e7f3b",
-      "title": "Quantum DC pauses a 1,200 MW South Australian data center as AirTrunk and Stockland drop Sydney projects after community backlash - MLQ.ai",
-      "summary": "Quantum DC pauses a 1,200 MW South Australian data center as AirTrunk and Stockland drop Sydney projects after community backlash&nbsp;&nbsp;MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLURpVU9oa01hNk9WX1pSRXhlR0p0c1d1WmpwVGZfS29OeEVnLUxQSUdzV24xUFR0M05VRWY3M2Jkd1FQM2U3WVBaTnZmaGZEYUp5Z2lsNm50RjREdmNMemVnWjhKdnkwbm9zRU04Y1JHZkxmWkhuQ3Q5WWIzQ2M4NTVfbWxwVEZpY09BNzFmUVpiYmlVekNTWlExREJ6cDJGaktlVVFGbUxpR20yRWdvM3J3b2ZLVEc1d3poa0ZDOUdIcDBIOW9yNmVtRzVGV2FqcXRkU1Izay1BYTVuQ2I3M2dFUQ?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-13T13:22:01+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
-      "id": "14d2dbf5d00d",
-      "title": "Quantum DC pauses a 1,200 MW South Australian data center as AirTrunk and Stockland drop Sydney projects after community backlash - MLQ.ai",
-      "summary": "Quantum DC pauses a 1,200 MW South Australian data center as AirTrunk and Stockland drop Sydney projects after community backlash&nbsp;&nbsp;MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLURpVU9oa01hNk9WX1pSRXhlR0p0c1d1WmpwVGZfS29OeEVnLUxQSUdzV24xUFR0M05VRWY3M2Jkd1FQM2U3WVBaTnZmaGZEYUp5Z2lsNm50RjREdmNMemVnWjhKdnkwbm9zRU04Y1JHZkxmWkhuQ3Q5WWIzQ2M4NTVfbWxwVEZpY09BNzFmUVpiYmlVekNTWlExREJ6cDJGaktlVVFGbUxpR20yRWdvM3J3b2ZLVEc1d3poa0ZDOUdIcDBIOW9yNmVtRzVGV2FqcXRkU1Izay1BYTVuQ2I3M2dFUQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-11-13T13:22:01+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
     },
     {
       "id": "42663b2f3162",
@@ -151,6 +113,20 @@
       "relevance_score": 0.4
     },
     {
+      "id": "2576420abe65",
+      "title": "$1.5bn Hunter Renewable Energy Project: AirTrunk Advances 1GW Clean Power Construction in NSW - Construction Review",
+      "summary": "$1.5bn Hunter Renewable Energy Project: AirTrunk Advances 1GW Clean Power Construction in NSW&nbsp;&nbsp;Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0tibjRVRmttbzl3dFpPU0cyZjlJWDdoLW56azdqakJURUVDTzNyd3B1WnNaTVFVZEgzWDZYNHk5WkhicVpaMTl2OU5EeXB2VkRzY3M1dDR1NUJPTm9CNnA5azlseGZBV3BMa21BTFZ6cVdsc1otWjVBVzhFTkhyLWFrekZMRmR2US0tYWRoM1A3RzkzUlYwdzhpUmZfSndiNDRXa0ZrUi15dERQdEo1Q04yNnBJd2ZNMHNiaTF3M0s1RFV4WnhKRA?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-12T11:16:37+00:00",
+      "tags": [
+        "airtrunk",
+        "energy_policy",
+        "nsw"
+      ],
+      "relevance_score": 0.6
+    },
+    {
       "id": "a8015490ee66",
       "title": "AirTrunk taps European Energy for 1 GW of renewables in Australia - Renewables Now",
       "summary": "AirTrunk taps European Energy for 1 GW of renewables in Australia&nbsp;&nbsp;Renewables Now",
@@ -162,18 +138,6 @@
         "energy_policy"
       ],
       "relevance_score": 0.4
-    },
-    {
-      "id": "e7d8836f0697",
-      "title": "1.2GW AI Data Centre Paused in Adelaide: 13x Sydney\u2019s Exit - FourWeekMBA",
-      "summary": "1.2GW AI Data Centre Paused in Adelaide: 13x Sydney\u2019s Exit&nbsp;&nbsp;FourWeekMBA",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVVloempaMUZicWZHQTIzcFB1M1lxenlzU2VOWEdHc2JZRm4yOVo5UVhYUGdxZFBGNFBWNnAzcjdZbW95X3NJZHpGWmVxQXFTaDAyTGRRQVNtdzUtbTd5NXRkQjNmWlE4Vm0yTEN1NmpYOVo4b0QwaUdnYUV5UWdfcGF6N0drSF9faFFJVA?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-11-12T04:31:53+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
     },
     {
       "id": "de27c10123ff",
@@ -214,6 +178,20 @@
         "energy_policy"
       ],
       "relevance_score": 0.4
+    },
+    {
+      "id": "4e5d0b510396",
+      "title": "AirTrunk targets 610MW of new renewable generation in NSW - W.Media",
+      "summary": "AirTrunk targets 610MW of new renewable generation in NSW&nbsp;&nbsp;W.Media",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEdm1mQUdDendkbHNOQ3lpeVZVRWZ1QVVPYl9LM1JGal9VT1FiR2JhZExSUjNlTUtnZmVXX0lvOGdKOUVKWEZmU1E3Z2pGOU9wUWNNVHJrdzNTZGRIdm4wb01nMGtXRkhQaFB6M19jazF0Y3VOT016aERIc19lSHM?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-11T23:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "energy_policy",
+        "nsw"
+      ],
+      "relevance_score": 0.6
     },
     {
       "id": "56563eed0c3c",
@@ -265,31 +243,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "5d9c28b69c59",
-      "title": "European Energy and AirTrunk Open 31 MW Mulwala Solar Project in Australia - https://megaproject.com/",
-      "summary": "European Energy and AirTrunk Open 31 MW Mulwala Solar Project in Australia&nbsp;&nbsp;https://megaproject.com/",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMWlIU2ZQZFpHZnhJekFnUmE3Ul9BVXJQaUN1cFd3LUdYdjlfWVhFME1zbGFMdHIyTHZSMTRUR01wMEt3dURkUndnZHdPMUFMR0VZUHlMMU5ZV0lSdHg0bHY4RVZwQzhON21BZnVtc283X0xGaTVObG5QN3NGekE5M254Mzl4eXZfRVZWRVp3SEY0X0xUU05WbElibl80akQ4WmZoVDdzZDltWl9hZnVRNlFDaUw?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-09T22:17:47+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "aa1d51f435ee",
-      "title": "AirTrunk Scraps $689M Sydney Data Centre as Stockland Drops Cooks River Plan - Mingtiandi",
-      "summary": "AirTrunk Scraps $689M Sydney Data Centre as Stockland Drops Cooks River Plan&nbsp;&nbsp;Mingtiandi",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3NHcXZFQVZWdHBoWFZnZGU2LWRnVjl3el8zQ0doSFNha3VaWXcydU12S1ZvVmFjWXY4ZEV2ZVdENmJzTkc4VzAybk50eF9vc2FPa0lpalQ2RV9ybVJHZTFSRmdwcVFtRzJ5ZDFhVmtRcU9HYlNKVUdsdkExQ0pQUXhoTHc1SnJSWTAxcUlPeDVoWnk1ekVTRU90NU1ocklpcVNuakt4NWFKQUZqQ2dET3ppY3JjeGxURWxVUHB1YlFPZ0FKN1Rn?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-09T13:20:06+00:00",
-      "tags": [
-        "airtrunk",
-        "nsw"
-      ],
-      "relevance_score": 0.5
-    },
-    {
       "id": "e281b1f22a15",
       "title": "NextDC pauses uncontracted projects after Australian data centre woes - Reuters",
       "summary": "NextDC pauses uncontracted projects after Australian data centre woes&nbsp;&nbsp;Reuters",
@@ -302,16 +255,16 @@
       "relevance_score": 0.3
     },
     {
-      "id": "5979f51a20ed",
-      "title": "Stockland Drops Sydney Data Center Plan After Local Backlash - Briefs Finance",
-      "summary": "Stockland Drops Sydney Data Center Plan After Local Backlash&nbsp;&nbsp;Briefs Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWkxtd3FqUXpXZEsyTjdMc2NYNjhLcGN4VkQ3UVBRV0w3andUX2pmaXJMWTRlZ1M4aDc5amlnbGl2bjFXOVpNTHM5NS0tWnBsRGpXMzNBaTNyXzNFUEtrT1J2bFdSdWhvcmNmYXljRnFvSnZBV2htQ1FNczZpamZReGptZkt0cUdmdmpkeWpldDJSUQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-11-08T11:00:00+00:00",
+      "id": "3a6f06dc2b2e",
+      "title": "Digital Realty, Goodman Buy 9.9% of NEXTDC in Stock Market Raid - Bloomberg.com",
+      "summary": "Digital Realty, Goodman Buy 9.9% of NEXTDC in Stock Market Raid&nbsp;&nbsp;Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlQtUDc5SHBHZ2MwYS02b1prNUtZY3JBM09NeTd6TW9LYlJUZjlQXzkyMFpBRmFyalZYTGExRHY2RE5zdFZTNGZIa3hQQXUwLUFyMl9JcXVVQkt0bGVDY2NsOXhRb2g0TnREMDNiLU80amdkNEtBc3kzQmRKQ0c5S1RZRW82T3IxMGhRektVc2M1bXFsb21vLUxCOWcycUEtbktrNEJodWtnUW93RjcxRmNn?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-11-08T23:07:44+00:00",
       "tags": [
-        "nsw"
+        "nextdc"
       ],
-      "relevance_score": 0.2
+      "relevance_score": 0.3
     },
     {
       "id": "c7e1eda84a8a",
@@ -383,6 +336,18 @@
       "published_at": "2026-10-02T07:00:00+00:00",
       "tags": [
         "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "d2abd203d669",
+      "title": "Australian data centre operator NEXTDC to raise $795 mln for AI infrastructure - Reuters",
+      "summary": "Australian data centre operator NEXTDC to raise $795 mln for AI infrastructure&nbsp;&nbsp;Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdll4N0dhM2RGWm1WemdORWtKQjNLQi0zb3Bzc1p4bW9fbXhiZ1Axckt4SkhsUkpNcVlWc2c3ekh6SVVqREFfdWdiQ2wzUjR6VDBIR29VQUdNWUl4MEZFNVRCdFQ4VWxuTmQzWVRxV3NXa3RBaFVNU0RzWFctMVU3N2pVa2VtRGJqMzJCc2pkRlFDYnQ3QXlUWm4ycjNieWdDM3FSckJKUldQWjlIcWZzUmR6dzhOZ2hhM3V0U2d2Y2VoN1k?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-09-09T07:00:00+00:00",
+      "tags": [
+        "nextdc"
       ],
       "relevance_score": 0.3
     },
