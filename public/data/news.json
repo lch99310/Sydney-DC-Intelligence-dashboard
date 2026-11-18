@@ -1,41 +1,68 @@
 {
-  "last_updated": "2026-11-17T15:49:11.806637+00:00",
+  "last_updated": "2026-11-18T15:28:37.104149+00:00",
   "items": [
     {
-      "id": "6cbbfe889cf1",
-      "title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
-      "summary": "PPA to support Google's data centers in The Dalles",
-      "url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+      "id": "beddb3a148c7",
+      "title": "Blue Owl data center REIT completes acquisition of first building on GCDC campus in Virginia",
+      "summary": "Part of a larger transaction consisting of three buildings on the campus",
+      "url": "https://www.datacenterdynamics.com/en/news/blue-owl-data-center-reit-completes-acquisition-of-first-building-on-gcdc-campus-in-virginia/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-11-17T14:31:32+00:00",
+      "published_at": "2026-11-18T13:00:59+00:00",
       "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "53508503ad2d",
-      "title": "Power moves: How grid delays and shortages will shape the next wave of data centers",
-      "summary": "Navigating the AI energy squeeze with alternative power strategies, behind-the-meter generation, and power-first site selection",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/power-moves-how-grid-delays-and-shortages-will-shape-the-next-wave-of-data-centers/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-17T10:59:00+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "870f63f8b7f5",
-      "title": "AirTrunk signs MoU for 1.8 GW of proposed data centre capacity in India - Telecompaper",
-      "summary": "AirTrunk signs MoU for 1.8 GW of proposed data centre capacity in India&nbsp;&nbsp;Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWx0aF9pRjdHeVg4WVFkb1F6bkNWX1p5WW80eVltLWFJbFl6WjBJdjJwOXJHcjVTV1UxYXR2eC1PT0VfYmlOWnNyZ0tnVEJLVmlpUFluckdhcllKNnlnSDg5T3g1Nnc5MW41VC1YUV9qWHBzdVpfaFhJWUg5NUNSTUdpQ21FQURjRUtmNkVUNFBzbnZqN0t2R0lWOW81U0pvNFBLU1M5aVlTWEhCTk1INExjbw?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-17T06:01:51+00:00",
-      "tags": [
-        "airtrunk"
+        "cdc"
       ],
       "relevance_score": 0.3
+    },
+    {
+      "id": "270637eb75b2",
+      "title": "Airtrunk And European Energy Advance 1 GW Renewable Energy And Storage Partnership In Australia - SolarQuarter",
+      "summary": "Airtrunk And European Energy Advance 1 GW Renewable Energy And Storage Partnership In Australia&nbsp;&nbsp;SolarQuarter",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbVBMazRKbFBDS1dWVFBiTVV1R1VwWTN1d0Q1bUR1V0JQZTBwanZFaEdMb05ySlM4dzhuclN3ZE1tN3JFRDVVWHE5bjNhU0QwaHc0NXQzZ01nVU9pejBNcEFaY2ptWGg3V0xWMHdqSGdiSC12cDlkR2pWOXBDZ2FKS3RzbkswMF92LU0wWXhJUUd2SWNTWExJdGxVb0t3SkhsVk1wRENzS0VDWUFkZ3NXX0ZUQmtEVHVBNFpBQi1lSjU2OHdyc1J4V0pmUnY?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-18T10:13:58+00:00",
+      "tags": [
+        "airtrunk",
+        "energy_policy"
+      ],
+      "relevance_score": 0.4
+    },
+    {
+      "id": "77969ee87120",
+      "title": "$1.5bn Hunter Renewable Energy Project: AirTrunk Advances 1GW Clean Power Development in NSW - Construction Review",
+      "summary": "$1.5bn Hunter Renewable Energy Project: AirTrunk Advances 1GW Clean Power Development in NSW&nbsp;&nbsp;Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0tibjRVRmttbzl3dFpPU0cyZjlJWDdoLW56azdqakJURUVDTzNyd3B1WnNaTVFVZEgzWDZYNHk5WkhicVpaMTl2OU5EeXB2VkRzY3M1dDR1NUJPTm9CNnA5azlseGZBV3BMa21BTFZ6cVdsc1otWjVBVzhFTkhyLWFrekZMRmR2US0tYWRoM1A3RzkzUlYwdzhpUmZfSndiNDRXa0ZrUi15dERQdEo1Q04yNnBJd2ZNMHNiaTF3M0s1RFV4WnhKRA?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-18T04:01:53+00:00",
+      "tags": [
+        "airtrunk",
+        "energy_policy",
+        "nsw"
+      ],
+      "relevance_score": 0.6
+    },
+    {
+      "id": "e593c750c5f0",
+      "title": "150MW data center project planned in Haifa, Israel",
+      "summary": "Local renewable and real estate firms partner on project",
+      "url": "https://www.datacenterdynamics.com/en/news/150mw-data-center-project-planned-in-haifa-israel/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-11-17T17:21:56+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "c237cf32edd2",
+      "title": "Macquarie Data Centres eyes 200MW campus in Sydney, Australia - Data Center Dynamics",
+      "summary": "Macquarie Data Centres eyes 200MW campus in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmZjS2NuUGVuX0tvUFJjal95XzE2V0wwWmxsMnVLQ1h6RUNGM0dhd2E0M294Rl95MnV2MzQzQ0VUT3BtUUZaVkk1ZGR3V0VPZzk5ZmhpdWFnakpueHVVSWRTYjRLYVl6RzJNRHNSa3BlVzlVNHkyWU9DeG41Rldja01FVG12OHZuWlBxeHJBNXJMckRBR094S3BPNDVmZnd3T3FGMVlGVQ?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-11-17T16:50:41+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
     },
     {
       "id": "d518b990b341",
@@ -49,6 +76,18 @@
         "energy_policy"
       ],
       "relevance_score": 0.4
+    },
+    {
+      "id": "b4e6c8573a2b",
+      "title": "Blackstone\u2019s AirTrunk Advances $11 Billion India Data Center Bet - Bloomberg.com",
+      "summary": "Blackstone\u2019s AirTrunk Advances $11 Billion India Data Center Bet&nbsp;&nbsp;Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRjZGdmhabDdHUW1DbVY4OU85NW5jSW0wY21GTEVvNk1GZUdLZWtYaUw5NkZGVm1xcjk1aTN4Q1hrcUI5S1NoNkUzX09STTZFUEFKRVJveXJ2Y1haVHlGVmxlcUxJUjFWLTJkbmV5QkVOYlN0X01LTElJN09RRkhHMkw1Tk53c2xfZTAzUGtYQ0FCVkI1Uk5BLWtTSmNhOEJaQklXUU5HRmJFbjA2WVE4ZnBUZ3g?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-14T06:08:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "c85c28d2e308",
@@ -113,18 +152,29 @@
       "relevance_score": 0.4
     },
     {
-      "id": "2576420abe65",
-      "title": "$1.5bn Hunter Renewable Energy Project: AirTrunk Advances 1GW Clean Power Construction in NSW - Construction Review",
-      "summary": "$1.5bn Hunter Renewable Energy Project: AirTrunk Advances 1GW Clean Power Construction in NSW&nbsp;&nbsp;Construction Review",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0tibjRVRmttbzl3dFpPU0cyZjlJWDdoLW56azdqakJURUVDTzNyd3B1WnNaTVFVZEgzWDZYNHk5WkhicVpaMTl2OU5EeXB2VkRzY3M1dDR1NUJPTm9CNnA5azlseGZBV3BMa21BTFZ6cVdsc1otWjVBVzhFTkhyLWFrekZMRmR2US0tYWRoM1A3RzkzUlYwdzhpUmZfSndiNDRXa0ZrUi15dERQdEo1Q04yNnBJd2ZNMHNiaTF3M0s1RFV4WnhKRA?oc=5",
+      "id": "27f505c6c57c",
+      "title": "AirTrunk's $3.7b Kurri Kurri data centre draws record number of objections - Capital Brief",
+      "summary": "AirTrunk's $3.7b Kurri Kurri data centre draws record number of objections&nbsp;&nbsp;Capital Brief",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSFR4MXZxbW1NcDVSQnUyY1g3U21VTUo1SUl2SXpkc0RQN1EwOUpiZ25EMTVSLW9aQjVMa0x1b0k2bkpOTlNrS21RSzV3cDFRQnBxWW5ob3J3blh2VjBydURjcy1jUDkwNUUtS0F6SDY1eElHUnQ0cmRCbk42SzQtY25UQUt5LVdPeVpYamJZS2FHbE1HLTFpaEVFN2tpVjU1d1ZnSkJrOWFBUVhRODFiSXNkOS03dVRFOUlsSXQzejBDbDhYZ3VyNnh1dm5icVRrMUU0TDJrOHYxZ3pRd1VJ?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-11-12T11:16:37+00:00",
+      "published_at": "2026-11-12T08:17:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
+    },
+    {
+      "id": "246bece0cb7a",
+      "title": "Billionaire Robin Khuda\u2019s AirTrunk To Tap Renewables To Power Australian Data Centers - Forbes",
+      "summary": "Billionaire Robin Khuda\u2019s AirTrunk To Tap Renewables To Power Australian Data Centers&nbsp;&nbsp;Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdjVUOEtoUjFCTjRQMVpoSHhlU19ZTDM0cmYyaG9DYWFaR21jQzl0c2x6Rm5Fc2pDVVZpQUFpSVZhU0hlbmNPMWtaQkhPVk9UTEdrZ1F1RlQ3WXVzWFg4OVMtX2VDMkM5UUlQM0JDOF9BX3dPNFkyaU1tOW1HUXNWZW00bVFIa2lSRmp2TUY1Ty1IdWlRcWRqREg2S1U2N0xuUlpBbGdwbkV1WldoTC1nRTI2UlY3cmhraUdLUm1kMGVmaGdORkpCaWx2U1JLV05zS2M4YzlSaTdKRmxwcWFRb3Q4Uy0wQjJXNnc?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-12T08:09:47+00:00",
       "tags": [
         "airtrunk",
-        "energy_policy",
-        "nsw"
+        "energy_policy"
       ],
-      "relevance_score": 0.6
+      "relevance_score": 0.4
     },
     {
       "id": "a8015490ee66",
@@ -219,48 +269,12 @@
       "relevance_score": 0.3
     },
     {
-      "id": "36a3dce722bf",
-      "title": "AirTrunk lines up Hunter clean energy projects for Kurri Kurri data centre, but more needed - Newcastle Herald",
-      "summary": "AirTrunk lines up Hunter clean energy projects for Kurri Kurri data centre, but more needed&nbsp;&nbsp;Newcastle Herald",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa25xb1prc004a3VON1F3dXFoYzFnY3lSM2lVQ2Y2YzdpWHA5SThQMVd4R3FBTGhFb1lhZi1aV1VDY2FyVlQzMUViUFZ4d0hOOU5aaV9kd1FhRy1ZV00wUnIwZzNHQ201TjVNaFhzTEFwdzlNUGxpcDNtVFlGSGZjeEk5MDNCSXFHalc2MkstTkJLZVBGNy12SU40SVlRTkNzdDVLZzJsemQ2Zw?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-11T08:00:37+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "165f8afd8d55",
-      "title": "NextDC boss \u2018mortified\u2019 as rivals raid shares during $1.5bn Melbourne project upheaval - The Australian",
-      "summary": "NextDC boss \u2018mortified\u2019 as rivals raid shares during $1.5bn Melbourne project upheaval&nbsp;&nbsp;The Australian",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOMDh6YzlwQkFQZUxoOGhkTzB4Qzg4akJiNnFwTGItZEF4ZmJDbG1LcVJva29xSmJ1Mng1cVdweDBKUXJMWlRJT0h4ekdCdGZESFpQQjlvYzNEUWlJTlQ3SFcyZVE1S3lZNHd5TWItTGN1WG5zZjRCSFBPVGV0a3ZnaGU4ZGd1ajMtWVZZamhBQ1hYMWwxTHc3cV9wVWZDU0dkcS16Q1R3Wm54QVZ5MWhjQ1VpaDdBeEROdWs0YW1fM2N6eTJWcUQ3TDVnM0xYXzQ5NVpfTnRlMHFvTExEcnhIRmFDZmNCdGxxNGd3dWVnOWd1LUFveWJFeFpyQjluMFZUYnNvMmlic1NsTnlnRmw1UFpzNVlZSmtSMk1rNA?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-11-10T02:29:00+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "e281b1f22a15",
       "title": "NextDC pauses uncontracted projects after Australian data centre woes - Reuters",
       "summary": "NextDC pauses uncontracted projects after Australian data centre woes&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXR4amNEbFVfM09oMjdIRmM5YjZWT0hnTVFXQ3cxUndoUTd2SzFzWVJOSzc5MGF6ZUJTYnJyNVp5Qzg3OC1iUlFkMkZnVlNjOEk3M1FMTi1IWldQYXJEakV1VURCSFpSNWlWaktWMG01aXY5dkRtUXZSSnFBZktIVzJPVnczcHpDUE4tSTE0NlJMN0pPRkl1OGl6UTJFREw0Y1NZcDRzMUV6NFd3ODF1SUJBamZmN0h6aW80UkRtdjV6Zw?oc=5",
       "source": "Google News: NEXTDC",
-      "published_at": "2026-11-09T08:54:29+00:00",
-      "tags": [
-        "nextdc"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "3a6f06dc2b2e",
-      "title": "Digital Realty, Goodman Buy 9.9% of NEXTDC in Stock Market Raid - Bloomberg.com",
-      "summary": "Digital Realty, Goodman Buy 9.9% of NEXTDC in Stock Market Raid&nbsp;&nbsp;Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlQtUDc5SHBHZ2MwYS02b1prNUtZY3JBM09NeTd6TW9LYlJUZjlQXzkyMFpBRmFyalZYTGExRHY2RE5zdFZTNGZIa3hQQXUwLUFyMl9JcXVVQkt0bGVDY2NsOXhRb2g0TnREMDNiLU80amdkNEtBc3kzQmRKQ0c5S1RZRW82T3IxMGhRektVc2M1bXFsb21vLUxCOWcycUEtbktrNEJodWtnUW93RjcxRmNn?oc=5",
-      "source": "Google News: NEXTDC",
-      "published_at": "2026-11-08T23:07:44+00:00",
+      "published_at": "2026-11-09T08:00:00+00:00",
       "tags": [
         "nextdc"
       ],
