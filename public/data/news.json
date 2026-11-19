@@ -1,17 +1,41 @@
 {
-  "last_updated": "2026-11-18T15:28:37.104149+00:00",
+  "last_updated": "2026-11-19T15:35:03.954993+00:00",
   "items": [
     {
-      "id": "beddb3a148c7",
-      "title": "Blue Owl data center REIT completes acquisition of first building on GCDC campus in Virginia",
-      "summary": "Part of a larger transaction consisting of three buildings on the campus",
-      "url": "https://www.datacenterdynamics.com/en/news/blue-owl-data-center-reit-completes-acquisition-of-first-building-on-gcdc-campus-in-virginia/",
+      "id": "f4851def88fd",
+      "title": "Non-profit claims 60% of Anthropic\u2019s mapped US data center power demand is tied to natural gas",
+      "summary": "Anthropic says it is working to broaden its energy mix with renewable energy sources",
+      "url": "https://www.datacenterdynamics.com/en/news/non-profit-claims-60-of-anthropics-mapped-us-data-center-power-demand-is-tied-to-natural-gas/",
       "source": "Data Centre Dynamics",
-      "published_at": "2026-11-18T13:00:59+00:00",
+      "published_at": "2026-11-19T14:30:59+00:00",
       "tags": [
-        "cdc"
+        "energy_policy"
       ],
-      "relevance_score": 0.3
+      "relevance_score": 0.1
+    },
+    {
+      "id": "77fb57ec2f4d",
+      "title": "Merlin pauses development on two data centers near Bilbao, Spain, due to grid issues",
+      "summary": "Additional projects under threat",
+      "url": "https://www.datacenterdynamics.com/en/news/merlin-pauses-development-on-two-data-centers-near-bilbao-spain-due-to-grid-issues/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-11-19T13:59:16+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "55783705297d",
+      "title": "Viridis Data launches, touting offgrid renewable powered data center solution",
+      "summary": "Modular system will also utilize closed-loop cooling",
+      "url": "https://www.datacenterdynamics.com/en/news/viridis-data-launches-touting-offgrid-renewable-powered-data-center-solution/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-11-19T12:51:19+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
     },
     {
       "id": "270637eb75b2",
@@ -25,44 +49,6 @@
         "energy_policy"
       ],
       "relevance_score": 0.4
-    },
-    {
-      "id": "77969ee87120",
-      "title": "$1.5bn Hunter Renewable Energy Project: AirTrunk Advances 1GW Clean Power Development in NSW - Construction Review",
-      "summary": "$1.5bn Hunter Renewable Energy Project: AirTrunk Advances 1GW Clean Power Development in NSW&nbsp;&nbsp;Construction Review",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0tibjRVRmttbzl3dFpPU0cyZjlJWDdoLW56azdqakJURUVDTzNyd3B1WnNaTVFVZEgzWDZYNHk5WkhicVpaMTl2OU5EeXB2VkRzY3M1dDR1NUJPTm9CNnA5azlseGZBV3BMa21BTFZ6cVdsc1otWjVBVzhFTkhyLWFrekZMRmR2US0tYWRoM1A3RzkzUlYwdzhpUmZfSndiNDRXa0ZrUi15dERQdEo1Q04yNnBJd2ZNMHNiaTF3M0s1RFV4WnhKRA?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-18T04:01:53+00:00",
-      "tags": [
-        "airtrunk",
-        "energy_policy",
-        "nsw"
-      ],
-      "relevance_score": 0.6
-    },
-    {
-      "id": "e593c750c5f0",
-      "title": "150MW data center project planned in Haifa, Israel",
-      "summary": "Local renewable and real estate firms partner on project",
-      "url": "https://www.datacenterdynamics.com/en/news/150mw-data-center-project-planned-in-haifa-israel/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-17T17:21:56+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "c237cf32edd2",
-      "title": "Macquarie Data Centres eyes 200MW campus in Sydney, Australia - Data Center Dynamics",
-      "summary": "Macquarie Data Centres eyes 200MW campus in Sydney, Australia&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmZjS2NuUGVuX0tvUFJjal95XzE2V0wwWmxsMnVLQ1h6RUNGM0dhd2E0M294Rl95MnV2MzQzQ0VUT3BtUUZaVkk1ZGR3V0VPZzk5ZmhpdWFnakpueHVVSWRTYjRLYVl6RzJNRHNSa3BlVzlVNHkyWU9DeG41Rldja01FVG12OHZuWlBxeHJBNXJMckRBR094S3BPNDVmZnd3T3FGMVlGVQ?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-11-17T16:50:41+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
     },
     {
       "id": "d518b990b341",
@@ -90,18 +76,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "c85c28d2e308",
-      "title": "Blackstone\u2019s AirTrunk Advances $11 Billion India Data Center Bet - Bloomberg.com",
-      "summary": "Blackstone\u2019s AirTrunk Advances $11 Billion India Data Center Bet&nbsp;&nbsp;Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRjZGdmhabDdHUW1DbVY4OU85NW5jSW0wY21GTEVvNk1GZUdLZWtYaUw5NkZGVm1xcjk1aTN4Q1hrcUI5S1NoNkUzX09STTZFUEFKRVJveXJ2Y1haVHlGVmxlcUxJUjFWLTJkbmV5QkVOYlN0X01LTElJN09RRkhHMkw1Tk53c2xfZTAzUGtYQ0FCVkI1Uk5BLWtTSmNhOEJaQklXUU5HRmJFbjA2WVE4ZnBUZ3g?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-11-14T06:08:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "42663b2f3162",
       "title": "AirTrunk signs 1GW energy deal with European Energy Australia - BeBeez International",
       "summary": "AirTrunk signs 1GW energy deal with European Energy Australia&nbsp;&nbsp;BeBeez International",
@@ -114,37 +88,12 @@
       "relevance_score": 0.3
     },
     {
-      "id": "b657565c4245",
-      "title": "AirTrunk signs exclusivity deal for 260 MW solar farm in Hunter region - Solarbytes",
-      "summary": "AirTrunk signs exclusivity deal for 260 MW solar farm in Hunter region&nbsp;&nbsp;Solarbytes",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzJWeVBBSWhORERqT2tpWWNRSm1FZFhhaDNUeUhwTktmZHVOcFJqUFNpbVZsR1JJUFBBOUJ0cElLczViTno3X085LWJwRjhZcXEyaVRnMVk0ZmN4Tm1TWUpCVk9kT0FXeElPbVFHUi1CTDlSd0loZDZENWZBMmMweUZhWUtLdnEtQ1FqTzVselpMcWxiWU80V0ppdzEtc0NMZ3c4V0FHbGRoNFBMdl9udXE0RWVUakhZSHNMRmp3WGk?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-13T07:14:33+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "fe1ccc5253b0",
       "title": "AirTrunk secures exclusivity on 800MWh+ battery storage as part of 1GW Hunter renewables deal in Australia - Energy-Storage.News",
       "summary": "AirTrunk secures exclusivity on 800MWh+ battery storage as part of 1GW Hunter renewables deal in Australia&nbsp;&nbsp;Energy-Storage.News",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZkVHRWtOY2c0czFnNkYydEVtNjNiRFJ2YVVab3pha0txZGxFbkFCcWtid3lUWk1CVEZoLVhRSnB4TDVmOFBsbzVBMmRJVlJKZXdoTWdxUktURzc5Y1FEOXc3bFpWN2x0ai1vRVU4aWRvQlI4bUZBRVhoX3ZpR21KdUYxZFo5eHBlREJ0UTkyOVUtWnpxbV81cVpYVUtfODA5RTktSlEyclFsX3R0YzlRc3ZBQW9zSVd1ZDZmcEMxUk81U3oycjJ5Y3Z2cUVsX2M2ZzZGMA?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-11-12T21:12:52+00:00",
-      "tags": [
-        "airtrunk",
-        "energy_policy"
-      ],
-      "relevance_score": 0.4
-    },
-    {
-      "id": "92a5e9166d7f",
-      "title": "AirTrunk and European Energy Australia agree on renewable projects in Hunter - Inspenet",
-      "summary": "AirTrunk and European Energy Australia agree on renewable projects in Hunter&nbsp;&nbsp;Inspenet",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MblJ2R3ljSjd1eDZ3bVdQU2FTbHdRMVVwc0RfQ0E3czcyRXBuMjdZRHZaZzIzelgxUllwNG0zd2ZrVG96NTdsU1AxN3Fjd05LdE1GajkybTV6TW9TZ0R3VGpzb0RfV1FRZWZHM1QwYmR6c2tyRC1mM21aaw?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-12T19:19:14+00:00",
       "tags": [
         "airtrunk",
         "energy_policy"
@@ -177,73 +126,6 @@
       "relevance_score": 0.4
     },
     {
-      "id": "a8015490ee66",
-      "title": "AirTrunk taps European Energy for 1 GW of renewables in Australia - Renewables Now",
-      "summary": "AirTrunk taps European Energy for 1 GW of renewables in Australia&nbsp;&nbsp;Renewables Now",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGh6WERUbTRGTHhhd1dfS1M1b0NLSmpJSXptZ3c3bGgzUGZqRnRTcWp3TGZ6MlNLVWdySHdTbDUxRUJScWJZS1I2czNGLWV2UlVJQVhmYll1SkxUT21GQ3JlYlJyRnFaa1N1WDl3UHlTc3RucGxYakRtc2lyYkNaT2VfMFItUGFwcFFmTGp1UENBMU5BWUREZ0swd1FTRWI4d1NXTUZ1eWg?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-12T07:49:51+00:00",
-      "tags": [
-        "airtrunk",
-        "energy_policy"
-      ],
-      "relevance_score": 0.4
-    },
-    {
-      "id": "de27c10123ff",
-      "title": "AirTrunk, European Energy Australia sign exclusivity deal on Hunter renewables projects - marketscreener.com",
-      "summary": "AirTrunk, European Energy Australia sign exclusivity deal on Hunter renewables projects&nbsp;&nbsp;marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbVB3WWo0MHp1ZUZraUlDQVVvSVVaSmZoSk9hLTg4SHU2YXNDVHNwem1vSEQ3ZTJvOG1XQmlBMFhvdXVrV2NKZm9BLUJZeFQzdTk3MHVKU1BKcGtXQWlRX0ExN0oySkpxTWNWcGc4X1dfRk43Q3dlamxXRFh4T3FockJVWVRhZjVwRnBZY1o0M1hGdjQ5YWVROHRxLVlpcFhRcDlLbVltZXRJVy12MUdSQXNVNktLUGlJem5lZHpOTk8zbWxBOERYYVZaS2NXYzRLMm9neUlR?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-12T04:30:13+00:00",
-      "tags": [
-        "airtrunk",
-        "energy_policy"
-      ],
-      "relevance_score": 0.4
-    },
-    {
-      "id": "deb84f27f6fc",
-      "title": "AirTrunk plans 610 MW of renewable generation in NSW - Telecompaper",
-      "summary": "AirTrunk plans 610 MW of renewable generation in NSW&nbsp;&nbsp;Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTEpSOElvS0xfWlBZdnJHcURPYVE3aGZiUVI2dXpTMFFRYzhIX1BEUHIwb2NHX0I2UFctWWVXQnpaTmlvZ0lWZ0VNbGhnUzRyOTlZN3FLbmRCeTZwTGpBRko0MWhuNWlySm00WkphT1RxU3hLWGY4RHdia01ieVJHNTgyd1RxZkpLaWszTUktWThIYnFNdnBQZ21Ucw?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-12T04:17:34+00:00",
-      "tags": [
-        "airtrunk",
-        "energy_policy",
-        "nsw"
-      ],
-      "relevance_score": 0.6
-    },
-    {
-      "id": "8e6d95c917d0",
-      "title": "AirTrunk Signs Renewables Deal to Power Australian Data Center - Bloomberg.com",
-      "summary": "AirTrunk Signs Renewables Deal to Power Australian Data Center&nbsp;&nbsp;Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3hZRlg2WjRXUjlsYlJ1bUtHRjB1VEQxZFNESjQ3ay0zVkhqVW5IR1RHSmdHbC1rbEMzSWRHVUw3R3RnZ0szS05YZTVydVZfVXJMcW1GRHlFZU5CQkxQWV9HU0pMZ0gwOFJIVXh1UmNWX3NhZGpVZ3dLeWFiVm9FdkI4LVB4NW54bnY0X1RaeTRlMTRMNmJwSEdzUUVJWmRUY0cwN2tISXRVaVpWS21Ub2wzWQ?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-11T23:30:08+00:00",
-      "tags": [
-        "airtrunk",
-        "energy_policy"
-      ],
-      "relevance_score": 0.4
-    },
-    {
-      "id": "4e5d0b510396",
-      "title": "AirTrunk targets 610MW of new renewable generation in NSW - W.Media",
-      "summary": "AirTrunk targets 610MW of new renewable generation in NSW&nbsp;&nbsp;W.Media",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEdm1mQUdDendkbHNOQ3lpeVZVRWZ1QVVPYl9LM1JGal9VT1FiR2JhZExSUjNlTUtnZmVXX0lvOGdKOUVKWEZmU1E3Z2pGOU9wUWNNVHJrdzNTZGRIdm4wb01nMGtXRkhQaFB6M19jazF0Y3VOT016aERIc19lSHM?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-11T23:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "energy_policy",
-        "nsw"
-      ],
-      "relevance_score": 0.6
-    },
-    {
       "id": "56563eed0c3c",
       "title": "AirTrunk and European Energy Australia Advance >1 Gigawatt Hunter Renewables and Storage Partnership - AirTrunk",
       "summary": "AirTrunk and European Energy Australia Advance >1 Gigawatt Hunter Renewables and Storage Partnership&nbsp;&nbsp;AirTrunk",
@@ -269,12 +151,25 @@
       "relevance_score": 0.3
     },
     {
-      "id": "e281b1f22a15",
-      "title": "NextDC pauses uncontracted projects after Australian data centre woes - Reuters",
-      "summary": "NextDC pauses uncontracted projects after Australian data centre woes&nbsp;&nbsp;Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXR4amNEbFVfM09oMjdIRmM5YjZWT0hnTVFXQ3cxUndoUTd2SzFzWVJOSzc5MGF6ZUJTYnJyNVp5Qzg3OC1iUlFkMkZnVlNjOEk3M1FMTi1IWldQYXJEakV1VURCSFpSNWlWaktWMG01aXY5dkRtUXZSSnFBZktIVzJPVnczcHpDUE4tSTE0NlJMN0pPRkl1OGl6UTJFREw0Y1NZcDRzMUV6NFd3ODF1SUJBamZmN0h6aW80UkRtdjV6Zw?oc=5",
-      "source": "Google News: NEXTDC",
+      "id": "e67acb1e09e9",
+      "title": "Stockland dumps Sydney airport data centre, AirTrunk plan nixed - The Australian",
+      "summary": "Stockland dumps Sydney airport data centre, AirTrunk plan nixed&nbsp;&nbsp;The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTnFrSTlMMGlTMkthZ01uLXdjNF93N24waFRCWUFtWlRkcW8wYmJuS2FZbm5oaFhFcUZyTFNVVkd2TE1qcmQxQjhUTEJnUHFtNUFKZ05WclhGNzBpZWZocDBGWWdJVl94bTFCQmY5bjhfYUtUSU9GcFR6SGw2aExJSVIwSXJqNGpLQkRSZEJlWVlLcFl2SlV4ZEdNUlRBWk41VEl1OWNzYVo4LWtoRFR2dUpFd1JPRzg4YTFLR0FWNzJwT0RBNFQ2UTFjWHRtaUtWTGhmOW1OUG1FZ0JpWktzMg?oc=5",
+      "source": "Google News: AirTrunk",
       "published_at": "2026-11-09T08:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw"
+      ],
+      "relevance_score": 0.5
+    },
+    {
+      "id": "365efdcf3ee4",
+      "title": "Aftermarket raid: Embattled data centre company NextDC\u2019s shares soar - SMH.com.au",
+      "summary": "Aftermarket raid: Embattled data centre company NextDC\u2019s shares soar&nbsp;&nbsp;SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWdNSVN2RzMtbGxkYmMxR2ExYjZEaFVLak1fOTVzY2p2MVdyNlVPb2JUeFdfWGdkbkdRWkdRUkozVmFwZEh5dTJ4ci1aSkxWUUVaWE5RY0FfZ0NOQ3NtU2xDcEh5M2VJdmg1eEVZQmJpSkJmYk5lOFVTalRRZ1NYcVRYQWF6ajdibWtZeDMwblBwbmxaMkI4VHNtRWVQM3VYWGM1T3Q2Z01SU2lod0V0TFM5VklaUGNGckJ0S2RhcFpjU24wTXZzVE9n?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-11-05T08:00:00+00:00",
       "tags": [
         "nextdc"
       ],
@@ -328,6 +223,18 @@
         "nsw"
       ],
       "relevance_score": 0.5
+    },
+    {
+      "id": "c5a06b7b97f0",
+      "title": "DigiCo signs 71MW lease for Sydney data center with unnamed tech firm - Data Center Dynamics",
+      "summary": "DigiCo signs 71MW lease for Sydney data center with unnamed tech firm&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkgteVVkSlFwSmg5YS1SMm84ZktzQ0R4QnBGb24wQ3lYUm5FWnMwZElfZE5teklfNHZGblpYSjRvMXh0VlVab0hkTlJsdV9XbS1kZjF0MVpDYl9RZzdZRTZVbE9GLThtQjc3TEJObmFPWjZnaTRYSUFEMURROHAwemY5OXU5WE9ZWTF1OS02akx6Ump2VnZnZDRxRWtPRGZkNWsweTNTcFk1UmJIN3U2Nlg1OA?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
     },
     {
       "id": "380749a15461",
