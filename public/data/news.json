@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T14:29:13.260417+00:00",
+  "last_updated": "2026-11-22T14:25:06.573010+00:00",
   "items": [
     {
       "id": "ad34f7f9d1ba",
@@ -20,30 +20,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/us-senate-passes-bill-requiring-data-centers-to-pay-more-for-grid-infrastructure/",
       "source": "Data Centre Dynamics",
       "published_at": "2026-11-20T15:15:07+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "be9bfe495d4f",
-      "title": "L&G-led 90MW data center site in East London sold to unnamed buyer",
-      "summary": "Site has planning permission and 130MVA of reserved grid power",
-      "url": "https://www.datacenterdynamics.com/en/news/lg-led-90mw-data-center-site-in-east-london-sold-to-unnamed-buyer/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-20T12:49:54+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
-    },
-    {
-      "id": "ef6653e6411f",
-      "title": "PJM plan could cut data center and power plant grid connection times to 12 months",
-      "summary": "Submits proposal to FERC, regulator may have to foot the bill",
-      "url": "https://www.datacenterdynamics.com/en/news/pjm-plan-could-cut-data-center-and-power-plant-grid-connection-times-to-12-months/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-20T12:47:18+00:00",
       "tags": [
         "energy_policy"
       ],
@@ -96,43 +72,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "e73ec04d71c0",
-      "title": "AirTrunk signs MoU for proposed data centre campuses in Andhra Pradesh - AirTrunk",
-      "summary": "AirTrunk signs MoU for proposed data centre campuses in Andhra Pradesh&nbsp;&nbsp;AirTrunk",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFhZDc1OFI2b00zZDlvQUh3UnlWU19TdWptZ1o4djR0TEF6QXRiWktVei1EQnZsQTFuODVnS2U4YXgweTVmVk1neHBFYlcxWTNIbXhvMDlFRmoyZjU4aGpWMk5vd3B1akZDN3RhaENZdXppV25VYnktU3J1WXJHUU9DX2tKOUJhQ3VxbldOOXdtNGV5RmMw?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-16T00:22:36+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "b4e6c8573a2b",
-      "title": "Blackstone\u2019s AirTrunk Advances $11 Billion India Data Center Bet - Bloomberg.com",
-      "summary": "Blackstone\u2019s AirTrunk Advances $11 Billion India Data Center Bet&nbsp;&nbsp;Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRjZGdmhabDdHUW1DbVY4OU85NW5jSW0wY21GTEVvNk1GZUdLZWtYaUw5NkZGVm1xcjk1aTN4Q1hrcUI5S1NoNkUzX09STTZFUEFKRVJveXJ2Y1haVHlGVmxlcUxJUjFWLTJkbmV5QkVOYlN0X01LTElJN09RRkhHMkw1Tk53c2xfZTAzUGtYQ0FCVkI1Uk5BLWtTSmNhOEJaQklXUU5HRmJFbjA2WVE4ZnBUZ3g?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-14T06:08:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "246bece0cb7a",
-      "title": "Billionaire Robin Khuda\u2019s AirTrunk To Tap Renewables To Power Australian Data Centers - Forbes",
-      "summary": "Billionaire Robin Khuda\u2019s AirTrunk To Tap Renewables To Power Australian Data Centers&nbsp;&nbsp;Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdjVUOEtoUjFCTjRQMVpoSHhlU19ZTDM0cmYyaG9DYWFaR21jQzl0c2x6Rm5Fc2pDVVZpQUFpSVZhU0hlbmNPMWtaQkhPVk9UTEdrZ1F1RlQ3WXVzWFg4OVMtX2VDMkM5UUlQM0JDOF9BX3dPNFkyaU1tOW1HUXNWZW00bVFIa2lSRmp2TUY1Ty1IdWlRcWRqREg2S1U2N0xuUlpBbGdwbkV1WldoTC1nRTI2UlY3cmhraUdLUm1kMGVmaGdORkpCaWx2U1JLV05zS2M4YzlSaTdKRmxwcWFRb3Q4Uy0wQjJXNnc?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-12T08:00:00+00:00",
-      "tags": [
-        "airtrunk",
-        "energy_policy"
-      ],
-      "relevance_score": 0.4
     },
     {
       "id": "56563eed0c3c",
@@ -255,6 +194,18 @@
         "nsw"
       ],
       "relevance_score": 0.2
+    },
+    {
+      "id": "4d8e9581bb88",
+      "title": "NEXTDC puts 1,200MW on M5 and targets a nine-month build - Certified Strategic",
+      "summary": "NEXTDC puts 1,200MW on M5 and targets a nine-month build&nbsp;&nbsp;Certified Strategic",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOLTZGMU9GWlA3cHNIangzdFBrSjA2Nk9PX2ZNWnB2ekoyeWthNHNsVWdZd3VZWjE2NDhNbk9DY0wwa29oTS04VnZaSDI4NW5OcjVMcjJwOTNUOXNsS2M5MmU1MUVYc1U?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-08-29T07:00:00+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "ad7240a15b9b",
