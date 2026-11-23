@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-11-22T14:25:06.573010+00:00",
+  "last_updated": "2026-11-23T17:51:55.569327+00:00",
   "items": [
+    {
+      "id": "13033bbd34b4",
+      "title": "Northern Europe Energy eyes 200MW data center project outside Riga, Latvia",
+      "summary": "Renewable energy firm secures 16 hectares of land in Salaspils",
+      "url": "https://www.datacenterdynamics.com/en/news/northern-europe-energy-eyes-200mw-data-center-project-outside-riga-latvia/",
+      "source": "Data Centre Dynamics",
+      "published_at": "2026-11-23T13:43:12+00:00",
+      "tags": [
+        "energy_policy"
+      ],
+      "relevance_score": 0.1
+    },
+    {
+      "id": "4392df0dd29c",
+      "title": "NextDC Freezes Projects Near Residential Areas, Could Sell Sites After Melbourne Backlash - Mingtiandi",
+      "summary": "NextDC Freezes Projects Near Residential Areas, Could Sell Sites After Melbourne Backlash&nbsp;&nbsp;Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXBzQ1ZkODFyT1g3YXJBWHFLVHJqdEtCVGN3Y2gyZFlYWjVtSFZtLVJRd1VuWGNhV2Y4eDZhZlAzWVpna25IQWU3LUZNcnVaMGo1T3lKanpKc0Z1bWRrNndRRHNxdnpEbGk4S3FrX1ItYmlLVWd5YTZlcTZyamRUNjhwS08zMWdVdkVlbTFGTG1FQ1puX3ctT3hpM2RzSkZwY0h0bGhSLTFCZVI5Z213elR3?oc=5",
+      "source": "Google News: NEXTDC",
+      "published_at": "2026-11-23T13:05:22+00:00",
+      "tags": [
+        "nextdc"
+      ],
+      "relevance_score": 0.3
+    },
     {
       "id": "ad34f7f9d1ba",
       "title": "Melbourne Overtakes Sydney in Australia\u2019s Data Center Pipeline - Data Center Knowledge",
@@ -12,18 +36,6 @@
         "nsw"
       ],
       "relevance_score": 0.2
-    },
-    {
-      "id": "b267bfe2f3c9",
-      "title": "US Senate passes bill requiring data centers to pay more for grid infrastructure",
-      "summary": "Now heads to the House",
-      "url": "https://www.datacenterdynamics.com/en/news/us-senate-passes-bill-requiring-data-centers-to-pay-more-for-grid-infrastructure/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-20T15:15:07+00:00",
-      "tags": [
-        "energy_policy"
-      ],
-      "relevance_score": 0.1
     },
     {
       "id": "62d219c2f9e1",
@@ -50,30 +62,6 @@
       "relevance_score": 0.3
     },
     {
-      "id": "11c1ae2db681",
-      "title": "Stockland\u2019s 444 MW Sydney Data Center Plan Enters Public Review - Unite.AI",
-      "summary": "Stockland\u2019s 444 MW Sydney Data Center Plan Enters Public Review&nbsp;&nbsp;Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQekJpMzdnLTZGb1lDanpGYkJkSnYyajFYa3psYkJhb1F1TmJ1ZGs5YTlSbUdaMnYyWU1TT0tOVW9wLUhxQ05RYy1yLXZaWnFnQlpiWURWVklMZGVCc3ZkYXRJb3FHQVBaUVJsZXNWbmNTbks1UHVnYWhFOVhQWHRtaVZtbWdIMGlzYXA5eg?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-11-19T17:51:03+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
-      "id": "d88fa6580b69",
-      "title": "PDG and Stockland file to develop Sydney data centers - Data Center Dynamics",
-      "summary": "PDG and Stockland file to develop Sydney data centers&nbsp;&nbsp;Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzJ6SEp1cjVDQzM3WmQ2VGRmTzNCNUdhemgxblhFOWFjQ2tsRkNRRDRUemRZSnNVR3pDcVB4dVBmSUF3UlBDM0FWc3VWNWNrQms3bE5uaU03WTFGNnJpUmcxTUJ3X0F2QTR1WUo2cUJrdVZEeEFxWVdoQkVkUk5tUTFfOFhTZ04yZ2JjV2xSekI3eXFwQWxSQVJHdHhndw?oc=5",
-      "source": "Google News: Sydney DC",
-      "published_at": "2026-11-19T17:06:42+00:00",
-      "tags": [
-        "nsw"
-      ],
-      "relevance_score": 0.2
-    },
-    {
       "id": "56563eed0c3c",
       "title": "AirTrunk and European Energy Australia Advance >1 Gigawatt Hunter Renewables and Storage Partnership - AirTrunk",
       "summary": "AirTrunk and European Energy Australia Advance >1 Gigawatt Hunter Renewables and Storage Partnership&nbsp;&nbsp;AirTrunk",
@@ -85,18 +73,6 @@
         "energy_policy"
       ],
       "relevance_score": 0.4
-    },
-    {
-      "id": "27f505c6c57c",
-      "title": "AirTrunk's $3.7b Kurri Kurri data centre draws record number of objections - Capital Brief",
-      "summary": "AirTrunk's $3.7b Kurri Kurri data centre draws record number of objections&nbsp;&nbsp;Capital Brief",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSFR4MXZxbW1NcDVSQnUyY1g3U21VTUo1SUl2SXpkc0RQN1EwOUpiZ25EMTVSLW9aQjVMa0x1b0k2bkpOTlNrS21RSzV3cDFRQnBxWW5ob3J3blh2VjBydURjcy1jUDkwNUUtS0F6SDY1eElHUnQ0cmRCbk42SzQtY25UQUt5LVdPeVpYamJZS2FHbE1HLTFpaEVFN2tpVjU1d1ZnSkJrOWFBUVhRODFiSXNkOS03dVRFOUlsSXQzejBDbDhYZ3VyNnh1dm5icVRrMUU0TDJrOHYxZ3pRd1VJ?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-12T08:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
     },
     {
       "id": "c8c945821760",
