@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-11-27T16:28:31.709719+00:00",
+  "last_updated": "2026-11-28T15:20:45.770543+00:00",
   "items": [
-    {
-      "id": "e29e3a059003",
-      "title": "Kuwait wealth fund-backed investment firm purchases GIC\u2019s majority stake in xScale",
-      "summary": "Equinix will continue to manage and operate the data centers, while retaining its 20 percent share",
-      "url": "https://www.datacenterdynamics.com/en/news/kuwait-wealth-fund-backed-investment-firm-purchases-gics-majority-stake-in-xscale/",
-      "source": "Data Centre Dynamics",
-      "published_at": "2026-11-27T12:00:29+00:00",
-      "tags": [
-        "equinix"
-      ],
-      "relevance_score": 0.3
-    },
     {
       "id": "a558bfb3c850",
       "title": "NextDC (ASX:NXT) Sydney Growth Plan: Joint Venture Option, Capacity and Outlook Explained - Kalkine Media",
@@ -39,12 +27,24 @@
       "relevance_score": 0.3
     },
     {
-      "id": "ad34f7f9d1ba",
-      "title": "Melbourne Overtakes Sydney in Australia\u2019s Data Center Pipeline - Data Center Knowledge",
-      "summary": "Melbourne Overtakes Sydney in Australia\u2019s Data Center Pipeline&nbsp;&nbsp;Data Center Knowledge",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdzVSV3NNamtqRTR2QVhFX0g3eXZiTEhWNFlUdEhqU1J3TnBhUHVxSlVFd0toV0MwRUFPaGRITWJFbnp1QVQ2cjNXeWtTanZCbUQ5cGV6ZVliRkFrT1FOdTlHMWZ0UWJMRUFQdnhsOGNPekJtcTdJT2FOczVISUJfLW1OVnQ3ZEo5dHV6a1pOVVNqb2JfTkM5UGVON0tGUkNRaTllbnQ1ZU5VYy1MZUticFk5WXVvRkFha0pmT013NG9QVWM?oc=5",
+      "id": "11c1ae2db681",
+      "title": "Stockland\u2019s 444 MW Sydney Data Center Plan Enters Public Review - Unite.AI",
+      "summary": "Stockland\u2019s 444 MW Sydney Data Center Plan Enters Public Review&nbsp;&nbsp;Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQekJpMzdnLTZGb1lDanpGYkJkSnYyajFYa3psYkJhb1F1TmJ1ZGs5YTlSbUdaMnYyWU1TT0tOVW9wLUhxQ05RYy1yLXZaWnFnQlpiWURWVklMZGVCc3ZkYXRJb3FHQVBaUVJsZXNWbmNTbks1UHVnYWhFOVhQWHRtaVZtbWdIMGlzYXA5eg?oc=5",
       "source": "Google News: Sydney DC",
-      "published_at": "2026-11-20T18:33:57+00:00",
+      "published_at": "2026-11-19T17:51:03+00:00",
+      "tags": [
+        "nsw"
+      ],
+      "relevance_score": 0.2
+    },
+    {
+      "id": "d88fa6580b69",
+      "title": "PDG and Stockland file to develop Sydney data centers - Data Center Dynamics",
+      "summary": "PDG and Stockland file to develop Sydney data centers&nbsp;&nbsp;Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzJ6SEp1cjVDQzM3WmQ2VGRmTzNCNUdhemgxblhFOWFjQ2tsRkNRRDRUemRZSnNVR3pDcVB4dVBmSUF3UlBDM0FWc3VWNWNrQms3bE5uaU03WTFGNnJpUmcxTUJ3X0F2QTR1WUo2cUJrdVZEeEFxWVdoQkVkUk5tUTFfOFhTZ04yZ2JjV2xSekI3eXFwQWxSQVJHdHhndw?oc=5",
+      "source": "Google News: Sydney DC",
+      "published_at": "2026-11-19T17:06:42+00:00",
       "tags": [
         "nsw"
       ],
@@ -64,18 +64,6 @@
       "relevance_score": 0.4
     },
     {
-      "id": "e73ec04d71c0",
-      "title": "AirTrunk signs MoU for proposed data centre campuses in Andhra Pradesh - AirTrunk",
-      "summary": "AirTrunk signs MoU for proposed data centre campuses in Andhra Pradesh&nbsp;&nbsp;AirTrunk",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlFhZDc1OFI2b00zZDlvQUh3UnlWU19TdWptZ1o4djR0TEF6QXRiWktVei1EQnZsQTFuODVnS2U4YXgweTVmVk1neHBFYlcxWTNIbXhvMDlFRmoyZjU4aGpWMk5vd3B1akZDN3RhaENZdXppV25VYnktU3J1WXJHUU9DX2tKOUJhQ3VxbldOOXdtNGV5RmMw?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-16T00:22:36+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
       "id": "a318ca4bc708",
       "title": "260 MW solar project part of AirTrunk, European Energy deal - pv magazine Australia",
       "summary": "260 MW solar project part of AirTrunk, European Energy deal&nbsp;&nbsp;pv magazine Australia",
@@ -92,18 +80,6 @@
       "title": "AirTrunk signs 1GW energy deal with European Energy Australia - Data Center Dynamics",
       "summary": "AirTrunk signs 1GW energy deal with European Energy Australia&nbsp;&nbsp;Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVUdFT19iYXpVdVFQNEtUUnRyWHdRNGhEcl8yY3R6b1dxRlRWMkRubk1qVmQtT2E4LXVXSklIcDNiNWJSdUlXWW93N1E0WjFFaWJENGh6YkhRdGlFM21vVkhYbmVjT1dwRXNGR3NFU1hKaC10VnJmTzZVdWZCSGllZTdPSnRpVGdnM3pWTVlrWmxHeGNjVnAxeVZ6M2pZUThDTUcyUG5zUzE?oc=5",
-      "source": "Google News: AirTrunk",
-      "published_at": "2026-11-13T08:00:00+00:00",
-      "tags": [
-        "airtrunk"
-      ],
-      "relevance_score": 0.3
-    },
-    {
-      "id": "b4e6c8573a2b",
-      "title": "Blackstone\u2019s AirTrunk Advances $11 Billion India Data Center Bet - Bloomberg.com",
-      "summary": "Blackstone\u2019s AirTrunk Advances $11 Billion India Data Center Bet&nbsp;&nbsp;Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRjZGdmhabDdHUW1DbVY4OU85NW5jSW0wY21GTEVvNk1GZUdLZWtYaUw5NkZGVm1xcjk1aTN4Q1hrcUI5S1NoNkUzX09STTZFUEFKRVJveXJ2Y1haVHlGVmxlcUxJUjFWLTJkbmV5QkVOYlN0X01LTElJN09RRkhHMkw1Tk53c2xfZTAzUGtYQ0FCVkI1Uk5BLWtTSmNhOEJaQklXUU5HRmJFbjA2WVE4ZnBUZ3g?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-11-13T08:00:00+00:00",
       "tags": [
@@ -149,6 +125,18 @@
         "energy_policy"
       ],
       "relevance_score": 0.4
+    },
+    {
+      "id": "27f505c6c57c",
+      "title": "AirTrunk's $3.7b Kurri Kurri data centre draws record number of objections - Capital Brief",
+      "summary": "AirTrunk's $3.7b Kurri Kurri data centre draws record number of objections&nbsp;&nbsp;Capital Brief",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSFR4MXZxbW1NcDVSQnUyY1g3U21VTUo1SUl2SXpkc0RQN1EwOUpiZ25EMTVSLW9aQjVMa0x1b0k2bkpOTlNrS21RSzV3cDFRQnBxWW5ob3J3blh2VjBydURjcy1jUDkwNUUtS0F6SDY1eElHUnQ0cmRCbk42SzQtY25UQUt5LVdPeVpYamJZS2FHbE1HLTFpaEVFN2tpVjU1d1ZnSkJrOWFBUVhRODFiSXNkOS03dVRFOUlsSXQzejBDbDhYZ3VyNnh1dm5icVRrMUU0TDJrOHYxZ3pRd1VJ?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "tags": [
+        "airtrunk"
+      ],
+      "relevance_score": 0.3
     },
     {
       "id": "e22497bd623b",
@@ -232,7 +220,7 @@
       "summary": "European Energy and AirTrunk Open 31 MW Mulwala Solar Project in Australia&nbsp;&nbsp;https://megaproject.com/",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMWlIU2ZQZFpHZnhJekFnUmE3Ul9BVXJQaUN1cFd3LUdYdjlfWVhFME1zbGFMdHIyTHZSMTRUR01wMEt3dURkUndnZHdPMUFMR0VZUHlMMU5ZV0lSdHg0bHY4RVZwQzhON21BZnVtc283X0xGaTVObG5QN3NGekE5M254Mzl4eXZfRVZWRVp3SEY0X0xUU05WbElibl80akQ4WmZoVDdzZDltWl9hZnVRNlFDaUw?oc=5",
       "source": "Google News: AirTrunk",
-      "published_at": "2026-11-09T22:17:47+00:00",
+      "published_at": "2026-11-10T08:00:00+00:00",
       "tags": [
         "airtrunk"
       ],
@@ -314,10 +302,10 @@
       "relevance_score": 0.3
     },
     {
-      "id": "4f04d1938adb",
-      "title": "AirTrunk plans largest independent data centre facility in Asia Pacific after $4.25bn loan - The Australian",
-      "summary": "AirTrunk plans largest independent data centre facility in Asia Pacific after $4.25bn loan&nbsp;&nbsp;The Australian",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaVphQmZhY1V5MXgtQjJSZlVOaTJZeG5aRzMyOFZtS0xzV0lRX0cxS0hFVnA0ck1nWU9mWUo0NkVmUjBoNUdvZWJlZ204aGhjUVZDd2RmeXZRSWNSZUJOVnJoVWU4OXdJYUtfR3Z1aHlSd3JQbS0zZWRwbWhFRGgtaFN5NkVMMjFmVXg0aTZuTWlUY2VFRzNvNGRNRHJYU0hzMXZLbTYzLV9wdWJ6YkdCcl84YmFxLWFNMnkwMWlFYVNaenRMMHhKNzNodFJINzkyMFpfUjgza2ZqcU9ZdUJVUU8tNlNrQ0ZvMU1HNTNWdHd5ZkRJY1FDenJtM1VMY0ozV0EzWA?oc=5",
+      "id": "6f3bf97a4aee",
+      "title": "AirTrunk secures $4.25 billion loan amid $75 billion Australian data centre splurge - Forbes Australia",
+      "summary": "AirTrunk secures $4.25 billion loan amid $75 billion Australian data centre splurge&nbsp;&nbsp;Forbes Australia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaW9NalMyV3VvVnA1Y296QVVFSVMtcDdkUlFlbm5Ddy11SkpTeTdCcnNNbW9mVmZtajlRY1pxdTNjcmJ1eU5rWTlmZE1lTDI1cnp6aFFuVGR4ZTNKa3lGV2ZTNm01Qi1QX0xlZTVrQlNQYWl2XzJGbk1XYXNiTXhKXzAxR3lvWV9ZR1VwbVlpeUxTUDVNcjlfRUpfeHpDUDFkY1RZ?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-10-27T07:00:00+00:00",
       "tags": [
@@ -326,10 +314,10 @@
       "relevance_score": 0.3
     },
     {
-      "id": "6f3bf97a4aee",
-      "title": "AirTrunk secures $4.25 billion loan amid $75 billion Australian data centre splurge - Forbes Australia",
-      "summary": "AirTrunk secures $4.25 billion loan amid $75 billion Australian data centre splurge&nbsp;&nbsp;Forbes Australia",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaW9NalMyV3VvVnA1Y296QVVFSVMtcDdkUlFlbm5Ddy11SkpTeTdCcnNNbW9mVmZtajlRY1pxdTNjcmJ1eU5rWTlmZE1lTDI1cnp6aFFuVGR4ZTNKa3lGV2ZTNm01Qi1QX0xlZTVrQlNQYWl2XzJGbk1XYXNiTXhKXzAxR3lvWV9ZR1VwbVlpeUxTUDVNcjlfRUpfeHpDUDFkY1RZ?oc=5",
+      "id": "4f04d1938adb",
+      "title": "AirTrunk plans largest independent data centre facility in Asia Pacific after $4.25bn loan - The Australian",
+      "summary": "AirTrunk plans largest independent data centre facility in Asia Pacific after $4.25bn loan&nbsp;&nbsp;The Australian",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaVphQmZhY1V5MXgtQjJSZlVOaTJZeG5aRzMyOFZtS0xzV0lRX0cxS0hFVnA0ck1nWU9mWUo0NkVmUjBoNUdvZWJlZ204aGhjUVZDd2RmeXZRSWNSZUJOVnJoVWU4OXdJYUtfR3Z1aHlSd3JQbS0zZWRwbWhFRGgtaFN5NkVMMjFmVXg0aTZuTWlUY2VFRzNvNGRNRHJYU0hzMXZLbTYzLV9wdWJ6YkdCcl84YmFxLWFNMnkwMWlFYVNaenRMMHhKNzNodFJINzkyMFpfUjgza2ZqcU9ZdUJVUU8tNlNrQ0ZvMU1HNTNWdHd5ZkRJY1FDenJtM1VMY0ozV0EzWA?oc=5",
       "source": "Google News: AirTrunk",
       "published_at": "2026-10-27T07:00:00+00:00",
       "tags": [
@@ -374,6 +362,20 @@
         "nsw"
       ],
       "relevance_score": 0.5
+    },
+    {
+      "id": "bf54b3eae5c2",
+      "title": "AirTrunk Secures $3B Green Loan to Expand SYD3 Data Centre in Western Sydney - Mingtiandi",
+      "summary": "AirTrunk Secures $3B Green Loan to Expand SYD3 Data Centre in Western Sydney&nbsp;&nbsp;Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd1E1Y1ZUS3ZZZk9ZLXBnaU81LUVCbFRXd08xREVDU1FuRW9EMU45N3FjSk9NSVZLN2NQUm15aENyVmoyeWctQmdEd2V6Uk83TFN3NFhaQVNCMTMxWEx0bk80Si1BbHE3a2ViSEhFQXExNUlQQXhzbVBqNTN0aTNHbjBoelc1dDY2bURrZUtLQ08xVmp3OGxiem0tT1FfTFNBWmhrd044NlAyZ1ZqU3Ffb281TGpvM1I0QXAyYnZkWU9GTC1HZ09R?oc=5",
+      "source": "Google News: AirTrunk",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "tags": [
+        "airtrunk",
+        "nsw",
+        "western_sydney"
+      ],
+      "relevance_score": 0.7
     },
     {
       "id": "1c7ce41d3bca",
